@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://inma8743.github.io/stock-board/</loc>
+    <loc>https://stock-board-ten.vercel.app/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://inma8743.github.io/stock-board/privacy.html</loc>
+    <loc>https://stock-board-ten.vercel.app/privacy.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
