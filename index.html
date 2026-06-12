@@ -74,6 +74,26 @@
       box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
     }
     .hero-link span { display: block; margin-top: 5px; color: #64748b; font-size: 12px; font-weight: 700; }
+    .theme-board {
+      margin: 0 0 22px;
+      padding: 20px;
+      border: 1px solid rgba(15, 23, 42, .1);
+      border-radius: 24px;
+      background: rgba(255,255,255,.82);
+      box-shadow: 0 12px 34px rgba(15, 23, 42, .06);
+    }
+    .theme-board h2 { margin: 0 0 10px; font-size: 20px; }
+    .theme-board p { margin: 0 0 14px; color: #64748b; line-height: 1.6; }
+    .theme-links { display: flex; flex-wrap: wrap; gap: 10px; }
+    .theme-links a {
+      padding: 10px 12px;
+      border: 1px solid #dbeafe;
+      border-radius: 999px;
+      color: #1d4ed8;
+      background: #eff6ff;
+      font-weight: 900;
+      text-decoration: none;
+    }
     input {
       width: 100%;
       padding: 14px;
@@ -152,6 +172,19 @@
       <a class="hero-link" href="/kospi-kosdaq.html">코스피·코스닥 흐름<span>오늘 시장 체크포인트</span></a>
     </nav>
 
+    <section class="theme-board" aria-label="오늘 많이 찾는 주식 테마">
+      <h2>오늘 많이 찾는 테마</h2>
+      <p>뉴스가 터질 때마다 검색량이 커지는 국내 주식 테마를 따로 모았습니다. 각 페이지는 추천이 아니라 뉴스·공시·리스크 체크용입니다.</p>
+      <div class="theme-links">
+        <a href="/hbm-stocks.html">HBM 관련주</a>
+        <a href="/defense-stocks.html">방산 관련주</a>
+        <a href="/shipbuilding-stocks.html">조선 관련주</a>
+        <a href="/nuclear-stocks.html">원전 관련주</a>
+        <a href="/robot-stocks.html">로봇 관련주</a>
+        <a href="/spacex-ipo-korea-stocks.html">SpaceX IPO 국내 관련주</a>
+      </div>
+    </section>
+
     <section class="chips" aria-label="분류 필터">
       <button class="button chip active" data-filter="all" type="button">전체</button>
       <button class="button chip" data-filter="index" type="button">지수</button>
@@ -176,7 +209,7 @@
       <h2>체크하면 좋은 것</h2>
       <p>뉴스 제목만 보고 판단하지 말고 실적, 업황, 환율, 금리, 수급, 공시, 리스크 요인을 함께 확인하세요. 단기 급등락 종목은 변동성이 크기 때문에 특히 주의가 필요합니다.</p>
       <h2>오늘의 검색 테마</h2>
-      <p><a href="/spacex-ipo-korea-stocks.html">SpaceX IPO 국내 관련주</a>처럼 해외 대형 이벤트가 국내 우주·위성·방산·반도체 종목 검색량으로 번지는 경우가 있습니다. 테마명만 따라가기보다 실제 매출 관련성, 공시, 수급, 밸류에이션을 같이 확인하세요.</p>
+      <p><a href="/spacex-ipo-korea-stocks.html">SpaceX IPO 국내 관련주</a>, <a href="/hbm-stocks.html">HBM 관련주</a>, <a href="/defense-stocks.html">방산 관련주</a>처럼 대형 이벤트와 업황 변화가 국내 종목 검색량으로 번지는 경우가 있습니다. 테마명만 따라가기보다 실제 매출 관련성, 공시, 수급, 밸류에이션을 같이 확인하세요.</p>
       <h2>무료 도구 모음</h2>
       <p class="tools">
         <a href="https://json-formatter-eight-theta.vercel.app/">JSON 정렬기</a>
