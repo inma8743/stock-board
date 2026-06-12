@@ -143,7 +143,8 @@
     .tools a { display: inline-block; margin: 3px 8px 3px 0; color: #2563eb; }
     .language { display: flex; justify-content: center; gap: 8px; margin-top: 16px; }
     .language a { padding: 8px 11px; border-radius: 999px; color: #2563eb; background: #fff; font-size: 13px; font-weight: 900; text-decoration: none; }
-    .ad { min-height: 100px; margin: 20px auto; padding: 18px; border: 1px dashed #cbd5e1; border-radius: 18px; color: #64748b; background: rgba(255,255,255,.64); display: flex; align-items: center; justify-content: center; text-align: center; }
+    .ad { min-height: 140px; margin: 20px auto; padding: 18px; border: 1px dashed #cbd5e1; border-radius: 18px; color: #64748b; background: rgba(255,255,255,.64); display: flex; flex-direction: column; gap: 8px; align-items: center; justify-content: center; overflow: hidden; text-align: center; }
+    .ad-note { margin: 0; color: #64748b; font-size: 12px; }
     footer { padding: 12px 0 42px; text-align: center; color: #64748b; font-size: 13px; }
     footer a { color: inherit; }
     @media (max-width: 760px) {
@@ -213,7 +214,11 @@
     <section id="stock-grid" class="grid"></section>
 
     <div class="ad">
-      Google AdSense display area
+      <script src="https://ads-partners.coupang.com/g.js"></script>
+      <script>
+        new PartnersCoupang.G({"id":991032,"template":"carousel","trackingCode":"AF5435387","width":"680","height":"140","tsource":""});
+      </script>
+      <p class="ad-note">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받을 수 있습니다.</p>
     </div>
 
     <section class="guide">
