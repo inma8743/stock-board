@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="코스피, 코스닥, 삼성전자, SK하이닉스 등 국내 주식 관심 종목의 뉴스 검색, 토론 링크, 체크 포인트를 모아보는 무료 정보 허브입니다.">
+  <meta name="description" content="코스피, 코스닥, 삼성전자, SK하이닉스, SpaceX IPO 국내 관련주 등 국내 주식 관심 종목의 뉴스 검색, 토론 링크, 체크 포인트를 모아보는 무료 정보 허브입니다.">
   <meta name="google-site-verification" content="iJYo0s5IVucjVPlcUXP11HltZW35jnzpXC0C4rTFapw">
-  <meta name="keywords" content="국내 주식, 코스피, 코스닥, 삼성전자, SK하이닉스, 주식 뉴스, 종목 토론">
+  <meta name="keywords" content="국내 주식, 코스피, 코스닥, 삼성전자, SK하이닉스, SpaceX IPO 관련주, 주식 뉴스, 종목 토론">
   <meta name="robots" content="index, follow">
   <meta name="theme-color" content="#111827">
   <link rel="canonical" href="https://stock-board-ten.vercel.app/">
@@ -62,6 +62,18 @@
       box-shadow: 0 16px 44px rgba(15, 23, 42, .08);
     }
     .search-card { display: grid; grid-template-columns: 1fr auto; gap: 12px; padding: 18px; margin-bottom: 18px; }
+    .hero-links { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 0 0 18px; }
+    .hero-link {
+      padding: 15px;
+      border: 1px solid rgba(37, 99, 235, .16);
+      border-radius: 18px;
+      color: #1e3a8a;
+      background: rgba(255,255,255,.78);
+      font-weight: 900;
+      text-decoration: none;
+      box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
+    }
+    .hero-link span { display: block; margin-top: 5px; color: #64748b; font-size: 12px; font-weight: 700; }
     input {
       width: 100%;
       padding: 14px;
@@ -111,7 +123,7 @@
     footer a { color: inherit; }
     @media (max-width: 760px) {
       header { padding-top: 34px; }
-      .search-card, .grid { grid-template-columns: 1fr; }
+      .search-card, .grid, .hero-links { grid-template-columns: 1fr; }
       .stock-card, .guide { padding: 20px; }
       .search-card button { width: 100%; }
       .ad iframe, .ad ins { max-width: 100% !important; }
@@ -133,12 +145,20 @@
       <button id="search-news" type="button">뉴스 검색</button>
     </section>
 
+    <nav class="hero-links" aria-label="인기 주식 테마 바로가기">
+      <a class="hero-link" href="/spacex-ipo-korea-stocks.html">SpaceX IPO 국내 관련주<span>우주·위성·방산 테마 체크</span></a>
+      <a class="hero-link" href="/samsung-electronics.html">삼성전자 뉴스 레이더<span>반도체·외국인 수급</span></a>
+      <a class="hero-link" href="/sk-hynix.html">SK하이닉스 뉴스 레이더<span>HBM·AI 반도체</span></a>
+      <a class="hero-link" href="/kospi-kosdaq.html">코스피·코스닥 흐름<span>오늘 시장 체크포인트</span></a>
+    </nav>
+
     <section class="chips" aria-label="분류 필터">
       <button class="button chip active" data-filter="all" type="button">전체</button>
       <button class="button chip" data-filter="index" type="button">지수</button>
       <button class="button chip" data-filter="semiconductor" type="button">반도체</button>
       <button class="button chip" data-filter="platform" type="button">플랫폼</button>
       <button class="button chip" data-filter="auto" type="button">자동차</button>
+      <button class="button chip" data-filter="space" type="button">우주·방산</button>
     </section>
 
     <section id="stock-grid" class="grid"></section>
@@ -155,6 +175,8 @@
       <p>종목 카드를 눌러 네이버 뉴스, 다음 금융, 네이버페이 증권, Investing.com 토론 링크로 이동할 수 있습니다. 토론과 뉴스는 외부 서비스의 콘텐츠이며, 이 사이트는 검색과 탐색을 돕는 정보 허브 역할만 합니다.</p>
       <h2>체크하면 좋은 것</h2>
       <p>뉴스 제목만 보고 판단하지 말고 실적, 업황, 환율, 금리, 수급, 공시, 리스크 요인을 함께 확인하세요. 단기 급등락 종목은 변동성이 크기 때문에 특히 주의가 필요합니다.</p>
+      <h2>오늘의 검색 테마</h2>
+      <p><a href="/spacex-ipo-korea-stocks.html">SpaceX IPO 국내 관련주</a>처럼 해외 대형 이벤트가 국내 우주·위성·방산·반도체 종목 검색량으로 번지는 경우가 있습니다. 테마명만 따라가기보다 실제 매출 관련성, 공시, 수급, 밸류에이션을 같이 확인하세요.</p>
       <h2>무료 도구 모음</h2>
       <p class="tools">
         <a href="https://json-formatter-eight-theta.vercel.app/">JSON 정렬기</a>
@@ -214,6 +236,36 @@
         daum: 'https://finance.daum.net/quotes/A000660',
         naver: 'https://finance.naver.com/item/main.naver?code=000660',
         investing: 'https://kr.investing.com/equities/sk-hynix-inc-commentary'
+      },
+      {
+        name: '한화에어로스페이스',
+        code: '012450',
+        category: 'space',
+        tags: ['우주', '방산', '항공엔진'],
+        summary: '우주·방산 테마에서 자주 거론되는 대형 종목입니다. 해외 우주 이벤트와 직접 수혜를 단정하기보다 방산 수주, 항공엔진, 그룹 우주사업 흐름을 함께 확인하세요.',
+        query: '한화에어로스페이스 012450 우주 방산',
+        daum: 'https://finance.daum.net/quotes/A012450',
+        naver: 'https://finance.naver.com/item/main.naver?code=012450'
+      },
+      {
+        name: '쎄트렉아이',
+        code: '099320',
+        category: 'space',
+        tags: ['위성', '우주항공', '중소형주'],
+        summary: '위성 시스템 관련 이슈로 검색되는 종목입니다. 테마성 변동성이 커서 실적, 수주, 공시, 거래량 급증 여부를 같이 확인하는 편이 좋습니다.',
+        query: '쎄트렉아이 099320 위성 우주',
+        daum: 'https://finance.daum.net/quotes/A099320',
+        naver: 'https://finance.naver.com/item/main.naver?code=099320'
+      },
+      {
+        name: '인텔리안테크',
+        code: '189300',
+        category: 'space',
+        tags: ['위성통신', '안테나', '우주인터넷'],
+        summary: '위성통신 장비와 안테나 이슈로 관심을 받는 종목입니다. SpaceX·Starlink 관련 검색과 함께 묶일 수 있지만 실제 계약·실적 확인이 중요합니다.',
+        query: '인텔리안테크 189300 위성통신 Starlink',
+        daum: 'https://finance.daum.net/quotes/A189300',
+        naver: 'https://finance.naver.com/item/main.naver?code=189300'
       },
       {
         name: '현대차',
