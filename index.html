@@ -9,6 +9,9 @@
   <meta name="robots" content="index, follow">
   <meta name="theme-color" content="#111827">
   <link rel="canonical" href="https://stock-board-ten.vercel.app/">
+  <link rel="alternate" hreflang="ko" href="https://stock-board-ten.vercel.app/">
+  <link rel="alternate" hreflang="en" href="https://stock-board-ten.vercel.app/en.html">
+  <link rel="alternate" hreflang="x-default" href="https://stock-board-ten.vercel.app/en.html">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="ko_KR">
   <meta property="og:title" content="국장 레이더">
@@ -138,7 +141,9 @@
     .guide { margin: 22px 0; padding: 24px; line-height: 1.75; }
     .guide h2 { margin-top: 0; }
     .tools a { display: inline-block; margin: 3px 8px 3px 0; color: #2563eb; }
-    .ad { min-height: 100px; margin: 20px auto; overflow: hidden; display: flex; justify-content: center; }
+    .language { display: flex; justify-content: center; gap: 8px; margin-top: 16px; }
+    .language a { padding: 8px 11px; border-radius: 999px; color: #2563eb; background: #fff; font-size: 13px; font-weight: 900; text-decoration: none; }
+    .ad { min-height: 100px; margin: 20px auto; padding: 18px; border: 1px dashed #cbd5e1; border-radius: 18px; color: #64748b; background: rgba(255,255,255,.64); display: flex; align-items: center; justify-content: center; text-align: center; }
     footer { padding: 12px 0 42px; text-align: center; color: #64748b; font-size: 13px; }
     footer a { color: inherit; }
     @media (max-width: 760px) {
@@ -157,6 +162,10 @@
     <div class="notice">
       이 사이트는 투자자문이나 특정 투자 행동 유도를 제공하지 않습니다. 모든 정보는 참고용이며, 매수·매도 등 투자 판단과 책임은 이용자 본인에게 있습니다.
     </div>
+    <nav class="language" aria-label="Language">
+      <a href="/">한국어</a>
+      <a href="/en.html">English</a>
+    </nav>
   </header>
 
   <main>
@@ -204,10 +213,7 @@
     <section id="stock-grid" class="grid"></section>
 
     <div class="ad">
-      <script src="https://ads-partners.coupang.com/g.js"></script>
-      <script>
-        new PartnersCoupang.G({"id":991032,"template":"carousel","trackingCode":"AF5435387","width":"680","height":"140","tsource":""});
-      </script>
+      Google AdSense display area
     </div>
 
     <section class="guide">
