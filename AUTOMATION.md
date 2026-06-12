@@ -18,9 +18,13 @@
 
 3. `node scripts/generate-theme-pages.js`
    - Rebuilds generated theme HTML pages.
+   - Rebuilds `themes.html`.
    - Updates `sitemap.xml`.
 
-4. If files changed, GitHub Actions commits and pushes the update.
+4. `node scripts/validate-generated-site.js`
+   - Blocks missing pages, broken sitemap links, missing disclaimers, and filtered news terms.
+
+5. If files changed, GitHub Actions commits and pushes the update.
    - Vercel deploys the pushed commit automatically.
 
 ## Add A New Theme
@@ -30,6 +34,7 @@ Add one item to `data/themes.json`, then run:
 ```bash
 node scripts/refresh-news-cache.js
 node scripts/generate-theme-pages.js
+node scripts/validate-generated-site.js
 ```
 
 Commit the generated files.

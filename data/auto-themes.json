@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-06-12T13:41:54.601Z",
+  "discoveredAt": "2026-06-12T14:03:39.552Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 4,
@@ -57,7 +57,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 35,
+      "score": 36,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -411,7 +411,7 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 35,
+      "score": 36,
       "evidence": [
         {
           "title": "하나증권 \"증시 급등에 증권주 수혜 기대, 미래에셋증권 키움증권 한국금융지주 주목\" - 비즈니스포스트",

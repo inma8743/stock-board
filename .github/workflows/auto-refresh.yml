@@ -25,6 +25,7 @@ jobs:
           node scripts/discover-auto-themes.js
           node scripts/refresh-news-cache.js
           node scripts/generate-theme-pages.js
+          node scripts/validate-generated-site.js
 
       - name: Commit changes
         run: |

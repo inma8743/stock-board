@@ -26,6 +26,7 @@ const newsCache = fs.existsSync(newsCachePath)
 
 const staticPages = [
   { path: '/', changefreq: 'daily', priority: '1.0' },
+  { path: '/themes.html', changefreq: 'daily', priority: '0.9' },
   { path: '/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/samsung-electronics.html', changefreq: 'daily', priority: '0.8' },
   { path: '/sk-hynix.html', changefreq: 'daily', priority: '0.8' },
@@ -181,6 +182,7 @@ for (const theme of themes) {
   fs.writeFileSync(path.join(root, `${theme.slug}.html`), renderTheme(theme));
 }
 
+fs.writeFileSync(path.join(root, 'themes.html'), renderThemeIndex(themes, autoThemes));
 removeInactiveAutoThemePages(themes, autoThemeRules);
 updateIndexAutoThemeLinks(autoThemes);
 
@@ -203,6 +205,60 @@ ${sitemapPages.map((page) => `  <url>
 
 fs.writeFileSync(path.join(root, 'sitemap.xml'), sitemap);
 console.log(`Generated ${themes.length} theme pages and sitemap.xml`);
+
+function renderThemeIndex(allThemes, promotedThemes) {
+  const promotedSlugs = new Set(promotedThemes.map((theme) => theme.slug));
+  const cards = allThemes.map((theme) => {
+    const isAuto = promotedSlugs.has(theme.slug);
+    return `      <article class="theme-card">
+        <p class="eyebrow">${isAuto ? '자동 감지 테마' : '상시 추적 테마'}</p>
+        <h2><a href="/${escapeHtml(theme.slug)}.html">${escapeHtml(theme.title)}</a></h2>
+        <p>${escapeHtml(theme.description)}</p>
+        <div class="tags">${theme.stocks.slice(0, 4).map((stock) => `<span>${escapeHtml(stock.name)}</span>`).join('')}</div>
+      </article>`;
+  }).join('\n');
+
+  return `<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="국장 레이더가 추적하는 국내 주식 테마 페이지 전체 목록입니다. HBM, 방산, 조선, 원전, 로봇, 금융주, 화장품, 2차전지, 바이오 관련주를 한곳에서 확인하세요.">
+  <meta name="google-site-verification" content="iJYo0s5IVucjVPlcUXP11HltZW35jnzpXC0C4rTFapw">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="${siteUrl}/themes.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:title" content="국장 테마 전체보기 | 국장 레이더">
+  <meta property="og:description" content="국내 주식 테마 페이지 전체 목록과 자동 감지 테마를 확인하세요.">
+  <meta property="og:url" content="${siteUrl}/themes.html">
+  <title>국장 테마 전체보기 | 국내 주식 테마 뉴스 레이더</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EZW95TCSF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3EZW95TCSF');
+  </script>
+  <style>
+    *{box-sizing:border-box}body{margin:0;color:#172033;background:linear-gradient(145deg,#f8fafc,#eef2ff 52%,#ecfeff);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.7}main,header,footer{width:min(1100px,calc(100% - 32px));margin:auto}header{padding:44px 0 22px;text-align:center}a{color:#2563eb;text-decoration:none;font-weight:900}h1{margin:0 0 10px;font-size:clamp(30px,6vw,50px);letter-spacing:-1.5px}.lead{color:#526071}.notice{margin:18px 0;padding:16px;border:1px solid #fde68a;border-radius:18px;color:#713f12;background:#fffbeb;text-align:left}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.theme-card{padding:22px;border:1px solid rgba(15,23,42,.1);border-radius:24px;background:rgba(255,255,255,.94);box-shadow:0 16px 44px rgba(15,23,42,.08)}.theme-card h2{margin:4px 0 10px;font-size:22px}.theme-card p{color:#526071}.eyebrow{margin:0;color:#1d4ed8!important;font-size:12px;font-weight:900}.tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:14px}.tags span{padding:5px 9px;border-radius:999px;color:#1e3a8a;background:#dbeafe;font-size:12px;font-weight:900}footer{padding:16px 0 42px;color:#64748b;text-align:center;font-size:13px}@media(max-width:860px){.grid{grid-template-columns:1fr}.theme-card{padding:20px}}
+  </style>
+</head>
+<body>
+  <header>
+    <p><a href="/">← 국장 레이더 홈</a></p>
+    <h1>국장 테마 전체보기</h1>
+    <p class="lead">상시 추적 테마와 뉴스 신호로 자동 감지된 테마를 한곳에서 봅니다.</p>
+    <div class="notice">이 사이트는 투자자문이나 특정 투자 행동 유도를 제공하지 않습니다. 테마 페이지는 뉴스 탐색과 리스크 체크용입니다.</div>
+  </header>
+  <main class="grid" aria-label="국내 주식 테마 목록">
+${cards}
+  </main>
+  <footer>© 2026 국장 레이더 · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
+</body>
+</html>
+`;
+}
 
 function updateIndexAutoThemeLinks(promotedThemes) {
   const indexPath = path.join(root, 'index.html');
