@@ -9,6 +9,12 @@ const autoThemes = fs.existsSync(autoThemesPath)
   : [];
 const themes = mergeThemes(manualThemes, autoThemes);
 const outputPath = path.join(root, 'data', 'news-cache.json');
+const blockedSources = new Set([
+  'Fathom Journal',
+  'EBC Financial Group',
+  '네이버 프리미엄콘텐츠'
+]);
+const blockedTitleTerms = ['몰빵'];
 
 function mergeThemes(primary, secondary) {
   const seen = new Set();
@@ -47,6 +53,12 @@ function sourceFromTitle(title) {
   return parts.length > 1 ? parts[parts.length - 1].trim() : '';
 }
 
+function shouldKeepNews(title) {
+  const source = sourceFromTitle(title);
+  if (blockedSources.has(source)) return false;
+  return !blockedTitleTerms.some((term) => title.includes(term));
+}
+
 async function fetchThemeNews(theme) {
   const seen = new Set();
   const items = [];
@@ -72,6 +84,7 @@ async function fetchThemeNews(theme) {
       const link = linkFromItem(block);
       const publishedAt = textFromTag(block, 'pubDate');
       if (!rawTitle || !link || seen.has(link)) continue;
+      if (!shouldKeepNews(rawTitle)) continue;
 
       seen.add(link);
       items.push({

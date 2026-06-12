@@ -12,6 +12,12 @@ const seedQueries = [
   '국내 주식 급등 테마',
   '증시 수혜주 관련주'
 ];
+const blockedSources = new Set([
+  'Fathom Journal',
+  'EBC Financial Group',
+  '네이버 프리미엄콘텐츠'
+]);
+const blockedTitleTerms = ['몰빵'];
 
 function decodeXml(value) {
   return String(value || '')
@@ -36,6 +42,17 @@ function linkFromItem(block) {
   return href ? decodeXml(href[1]) : '';
 }
 
+function sourceFromTitle(title) {
+  const parts = title.split(' - ');
+  return parts.length > 1 ? parts[parts.length - 1].trim() : '';
+}
+
+function shouldKeepNews(title) {
+  const source = sourceFromTitle(title);
+  if (blockedSources.has(source)) return false;
+  return !blockedTitleTerms.some((term) => title.includes(term));
+}
+
 async function fetchNews(query) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ko&gl=KR&ceid=KR:ko`;
   const response = await fetch(url, {
@@ -54,7 +71,7 @@ async function fetchNews(query) {
     link: linkFromItem(block),
     publishedAt: textFromTag(block, 'pubDate'),
     query
-  })).filter((item) => item.title && item.link);
+  })).filter((item) => item.title && item.link && shouldKeepNews(item.title));
 }
 
 function uniqueBy(items, key) {
