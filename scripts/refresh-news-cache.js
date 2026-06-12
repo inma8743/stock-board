@@ -2,8 +2,22 @@ const fs = require('fs');
 const path = require('path');
 
 const root = path.resolve(__dirname, '..');
-const themes = JSON.parse(fs.readFileSync(path.join(root, 'data', 'themes.json'), 'utf8'));
+const manualThemes = JSON.parse(fs.readFileSync(path.join(root, 'data', 'themes.json'), 'utf8'));
+const autoThemesPath = path.join(root, 'data', 'auto-themes.json');
+const autoThemes = fs.existsSync(autoThemesPath)
+  ? JSON.parse(fs.readFileSync(autoThemesPath, 'utf8')).promoted || []
+  : [];
+const themes = mergeThemes(manualThemes, autoThemes);
 const outputPath = path.join(root, 'data', 'news-cache.json');
+
+function mergeThemes(primary, secondary) {
+  const seen = new Set();
+  return [...primary, ...secondary].filter((theme) => {
+    if (!theme.slug || seen.has(theme.slug)) return false;
+    seen.add(theme.slug);
+    return true;
+  });
+}
 
 function decodeXml(value) {
   return String(value || '')

@@ -9,7 +9,16 @@ const today = new Intl.DateTimeFormat('en-CA', {
   month: '2-digit',
   day: '2-digit'
 }).format(new Date());
-const themes = JSON.parse(fs.readFileSync(path.join(root, 'data', 'themes.json'), 'utf8'));
+const manualThemes = JSON.parse(fs.readFileSync(path.join(root, 'data', 'themes.json'), 'utf8'));
+const autoThemesPath = path.join(root, 'data', 'auto-themes.json');
+const autoThemes = fs.existsSync(autoThemesPath)
+  ? JSON.parse(fs.readFileSync(autoThemesPath, 'utf8')).promoted || []
+  : [];
+const themes = mergeThemes(manualThemes, autoThemes);
+const autoThemeRulesPath = path.join(root, 'data', 'auto-theme-rules.json');
+const autoThemeRules = fs.existsSync(autoThemeRulesPath)
+  ? JSON.parse(fs.readFileSync(autoThemeRulesPath, 'utf8'))
+  : [];
 const newsCachePath = path.join(root, 'data', 'news-cache.json');
 const newsCache = fs.existsSync(newsCachePath)
   ? JSON.parse(fs.readFileSync(newsCachePath, 'utf8'))
@@ -22,6 +31,15 @@ const staticPages = [
   { path: '/sk-hynix.html', changefreq: 'daily', priority: '0.8' },
   { path: '/kospi-kosdaq.html', changefreq: 'daily', priority: '0.8' }
 ];
+
+function mergeThemes(primary, secondary) {
+  const seen = new Set();
+  return [...primary, ...secondary].filter((theme) => {
+    if (!theme.slug || seen.has(theme.slug)) return false;
+    seen.add(theme.slug);
+    return true;
+  });
+}
 
 function escapeHtml(value) {
   return String(value)
@@ -163,6 +181,9 @@ for (const theme of themes) {
   fs.writeFileSync(path.join(root, `${theme.slug}.html`), renderTheme(theme));
 }
 
+removeInactiveAutoThemePages(themes, autoThemeRules);
+updateIndexAutoThemeLinks(autoThemes);
+
 const sitemapPages = [
   ...staticPages,
   ...themes.map((theme) => ({ path: `/${theme.slug}.html`, changefreq: 'daily', priority: '0.8' })),
@@ -182,3 +203,34 @@ ${sitemapPages.map((page) => `  <url>
 
 fs.writeFileSync(path.join(root, 'sitemap.xml'), sitemap);
 console.log(`Generated ${themes.length} theme pages and sitemap.xml`);
+
+function updateIndexAutoThemeLinks(promotedThemes) {
+  const indexPath = path.join(root, 'index.html');
+  if (!fs.existsSync(indexPath)) return;
+
+  const start = '<!-- AUTO_THEME_LINKS_START -->';
+  const end = '<!-- AUTO_THEME_LINKS_END -->';
+  const index = fs.readFileSync(indexPath, 'utf8');
+  if (!index.includes(start) || !index.includes(end)) return;
+
+  const links = promotedThemes.length
+    ? promotedThemes
+        .map((theme) => `        <a href="/${escapeHtml(theme.slug)}.html">${escapeHtml(theme.title.replace(' 체크', ''))}</a>`)
+        .join('\n')
+    : '        <span>자동 감지된 신규 테마를 기다리는 중입니다.</span>';
+
+  const next = index.replace(
+    new RegExp(`${start}[\\s\\S]*?${end}`),
+    `${start}\n${links}\n        ${end}`
+  );
+  fs.writeFileSync(indexPath, next);
+}
+
+function removeInactiveAutoThemePages(activeThemes, rules) {
+  const activeSlugs = new Set(activeThemes.map((theme) => theme.slug));
+  for (const rule of rules) {
+    if (activeSlugs.has(rule.slug)) continue;
+    const file = path.join(root, `${rule.slug}.html`);
+    if (fs.existsSync(file)) fs.unlinkSync(file);
+  }
+}

@@ -7,15 +7,20 @@
 `.github/workflows/auto-refresh.yml` runs twice a day and can also be run manually.
 
 1. `node scripts/refresh-news-cache.js`
-   - Reads `data/themes.json`.
+   - Reads `data/themes.json` and promoted items from `data/auto-themes.json`.
    - Fetches Google News RSS results for each theme query.
    - Writes `data/news-cache.json`.
 
-2. `node scripts/generate-theme-pages.js`
+2. `node scripts/discover-auto-themes.js`
+   - Reads allowlisted candidates from `data/auto-theme-rules.json`.
+   - Scores candidates against Google News RSS.
+   - Writes promoted candidates to `data/auto-themes.json`.
+
+3. `node scripts/generate-theme-pages.js`
    - Rebuilds generated theme HTML pages.
    - Updates `sitemap.xml`.
 
-3. If files changed, GitHub Actions commits and pushes the update.
+4. If files changed, GitHub Actions commits and pushes the update.
    - Vercel deploys the pushed commit automatically.
 
 ## Add A New Theme
@@ -33,4 +38,5 @@ Commit the generated files.
 
 - The site does not make buy/sell recommendations.
 - Automated news is shown as external search results, not as verified analysis.
+- Newly discovered themes come only from `data/auto-theme-rules.json`, not arbitrary generated text.
 - New themes should still use conservative wording and include the investment disclaimer.
