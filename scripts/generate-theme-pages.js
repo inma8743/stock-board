@@ -3,8 +3,17 @@ const path = require('path');
 
 const root = path.resolve(__dirname, '..');
 const siteUrl = 'https://stock-board-ten.vercel.app';
-const today = '2026-06-12';
+const today = new Intl.DateTimeFormat('en-CA', {
+  timeZone: 'Asia/Seoul',
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit'
+}).format(new Date());
 const themes = JSON.parse(fs.readFileSync(path.join(root, 'data', 'themes.json'), 'utf8'));
+const newsCachePath = path.join(root, 'data', 'news-cache.json');
+const newsCache = fs.existsSync(newsCachePath)
+  ? JSON.parse(fs.readFileSync(newsCachePath, 'utf8'))
+  : { themes: {} };
 
 const staticPages = [
   { path: '/', changefreq: 'daily', priority: '1.0' },
@@ -55,6 +64,21 @@ function relatedLinks(theme) {
       .replace('spacex ipo korea stocks', 'SpaceX IPO 국내 관련주');
     return `<a href="/${href}">${escapeHtml(title)}</a>`;
   }).join('\n        ');
+}
+
+function renderLatestNews(theme) {
+  const items = newsCache.themes?.[theme.slug]?.items || [];
+  if (!items.length) return '';
+
+  return `
+    <section class="card">
+      <h2>자동 수집 최신 뉴스</h2>
+      <p>아래 뉴스는 Google News 검색 결과를 기준으로 자동 갱신됩니다. 기사 내용과 투자 판단은 반드시 원문에서 직접 확인하세요.</p>
+      <ul>
+${items.slice(0, 5).map((item) => `        <li><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>${item.source ? ` <small>(${escapeHtml(item.source)})</small>` : ''}</li>`).join('\n')}
+      </ul>
+    </section>
+`;
 }
 
 function renderTheme(theme) {
@@ -113,6 +137,7 @@ ${theme.stocks.map((stock) => `      <article class="stock">
         </div>
       </article>`).join('\n')}
     </section>
+${renderLatestNews(theme)}
 
     <section class="card">
       <h2>체크리스트</h2>
