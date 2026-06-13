@@ -33,6 +33,8 @@ const staticPages = [
   { path: '/en/methodology.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
+  { path: '/en/is-spacex-publicly-traded.html', changefreq: 'daily', priority: '0.88' },
+  { path: '/en/starlink-stock-korean-satellite-stocks.html', changefreq: 'daily', priority: '0.88' },
   { path: '/en/how-to-follow-korean-stocks.html', changefreq: 'weekly', priority: '0.88' },
   { path: '/en/korean-stock-etfs-gdrs.html', changefreq: 'weekly', priority: '0.87' },
   { path: '/en/ewy-vs-flkr-korea-etf.html', changefreq: 'weekly', priority: '0.86' },
