@@ -29,6 +29,8 @@ const staticPages = [
   { path: '/en.html', changefreq: 'daily', priority: '0.9' },
   { path: '/about.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/about.html', changefreq: 'monthly', priority: '0.5' },
+  { path: '/methodology.html', changefreq: 'monthly', priority: '0.5' },
+  { path: '/en/methodology.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/korean-ai-semiconductor-stocks.html', changefreq: 'daily', priority: '0.85' },
@@ -193,7 +195,7 @@ ${theme.checklist.map((item) => `        <li>${escapeHtml(item)}</li>`).join('\n
       </p>
     </section>
   </main>
-  <footer>© 2026 국장 레이더 · <a href="/about.html">소개·편집 원칙</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
+  <footer>© 2026 국장 레이더 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
 </body>
 </html>
 `;
@@ -275,7 +277,7 @@ function renderThemeIndex(allThemes, promotedThemes) {
   <main class="grid" aria-label="국내 주식 테마 목록">
 ${cards}
   </main>
-  <footer>© 2026 국장 레이더 · <a href="/about.html">소개·편집 원칙</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
+  <footer>© 2026 국장 레이더 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
 </body>
 </html>
 `;
