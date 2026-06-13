@@ -43,6 +43,7 @@ const staticPages = [
   { path: '/en/korean-memory-stocks.html', changefreq: 'daily', priority: '0.86' },
   { path: '/en/korean-chip-equipment-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/korean-hbm-equipment-stocks.html', changefreq: 'daily', priority: '0.85' },
+  { path: '/en/korean-advanced-packaging-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/hanmi-semiconductor-hbm4-tc-bonder.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/korean-ai-semiconductor-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/korean-hbm-stocks.html', changefreq: 'daily', priority: '0.85' },
