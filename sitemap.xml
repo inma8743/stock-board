@@ -103,6 +103,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://stock-board-ten.vercel.app/en/korean-hbm-equipment-stocks.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://stock-board-ten.vercel.app/en/hanmi-semiconductor-hbm4-tc-bonder.html</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>daily</changefreq>
