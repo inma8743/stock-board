@@ -39,6 +39,7 @@ const staticPages = [
   { path: '/en/korean-stock-market-hours.html', changefreq: 'weekly', priority: '0.87' },
   { path: '/en/korean-stock-market-holidays.html', changefreq: 'weekly', priority: '0.87' },
   { path: '/en/korean-stock-market-glossary.html', changefreq: 'weekly', priority: '0.86' },
+  { path: '/en/korean-semiconductor-stocks.html', changefreq: 'daily', priority: '0.86' },
   { path: '/en/korean-ai-semiconductor-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/korean-hbm-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/samsung-vs-sk-hynix-hbm.html', changefreq: 'daily', priority: '0.85' },

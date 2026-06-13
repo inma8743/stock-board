@@ -85,6 +85,12 @@
     <priority>0.86</priority>
   </url>
   <url>
+    <loc>https://stock-board-ten.vercel.app/en/korean-semiconductor-stocks.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
     <loc>https://stock-board-ten.vercel.app/en/korean-ai-semiconductor-stocks.html</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
