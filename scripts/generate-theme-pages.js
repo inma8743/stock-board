@@ -33,6 +33,7 @@ const staticPages = [
   { path: '/en/methodology.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
+  { path: '/en/how-to-follow-korean-stocks.html', changefreq: 'weekly', priority: '0.88' },
   { path: '/en/korean-ai-semiconductor-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/samsung-electronics.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/sk-hynix-hbm.html', changefreq: 'daily', priority: '0.85' },
