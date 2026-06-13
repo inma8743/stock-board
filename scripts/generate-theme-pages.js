@@ -49,6 +49,7 @@ const staticPages = [
   { path: '/en/samsung-stock-us-investors.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/samsung-electronics.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/sk-hynix-stock-us-investors.html', changefreq: 'daily', priority: '0.85' },
+  { path: '/en/sk-hynix-hbm-outlook.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/sk-hynix-hbm.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/kospi-kosdaq.html', changefreq: 'daily', priority: '0.85' },
   { path: '/themes.html', changefreq: 'daily', priority: '0.9' },
