@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="코스피, 코스닥, 삼성전자, SK하이닉스, SpaceX IPO 국내 관련주 등 국내 주식 관심 종목의 뉴스 검색, 토론 링크, 체크 포인트를 모아보는 무료 정보 허브입니다.">
+  <meta name="description" content="코스피, 코스닥, 삼성전자, SK하이닉스, SpaceX IPO 국내 관련주 등 국내 주식 관심 종목의 뉴스 검색, 토론 링크, 체크 포인트를 모아보는 무료 정보 허브입니다. 영어 국장 가이드와 무료 도구도 함께 확인하세요.">
   <meta name="google-site-verification" content="iJYo0s5IVucjVPlcUXP11HltZW35jnzpXC0C4rTFapw">
   <meta name="keywords" content="국내 주식, 코스피, 코스닥, 삼성전자, SK하이닉스, SpaceX IPO 관련주, 주식 뉴스, 종목 토론">
   <meta name="robots" content="index, follow">
@@ -66,6 +66,7 @@
     }
     .search-card { display: grid; grid-template-columns: 1fr auto; gap: 12px; padding: 18px; margin-bottom: 18px; }
     .hero-links { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 0 0 18px; }
+    .entry-links { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 0 0 18px; }
     .hero-link {
       padding: 15px;
       border: 1px solid rgba(37, 99, 235, .16);
@@ -77,6 +78,17 @@
       box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
     }
     .hero-link span { display: block; margin-top: 5px; color: #64748b; font-size: 12px; font-weight: 700; }
+    .entry-link {
+      padding: 15px;
+      border: 1px solid rgba(15, 118, 110, .16);
+      border-radius: 18px;
+      color: #0f766e;
+      background: rgba(255,255,255,.82);
+      font-weight: 900;
+      text-decoration: none;
+      box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
+    }
+    .entry-link span { display: block; margin-top: 5px; color: #64748b; font-size: 12px; font-weight: 700; }
     .theme-board {
       margin: 0 0 22px;
       padding: 20px;
@@ -149,7 +161,7 @@
     footer a { color: inherit; }
     @media (max-width: 760px) {
       header { padding-top: 34px; }
-      .search-card, .grid, .hero-links { grid-template-columns: 1fr; }
+      .search-card, .grid, .hero-links, .entry-links { grid-template-columns: 1fr; }
       .stock-card, .guide { padding: 20px; }
       .search-card button { width: 100%; }
       .ad iframe, .ad ins { max-width: 100% !important; }
@@ -180,6 +192,13 @@
       <a class="hero-link" href="/spacex-ipo-korea-stocks.html">SpaceX IPO 국내 관련주<span>우주·위성·방산 테마 체크</span></a>
       <a class="hero-link" href="/samsung-electronics.html">삼성전자 뉴스 레이더<span>반도체·외국인 수급</span></a>
       <a class="hero-link" href="/sk-hynix.html">SK하이닉스 뉴스 레이더<span>HBM·AI 반도체</span></a>
+    </nav>
+
+    <nav class="entry-links" aria-label="많이 찾는 다음 경로">
+      <a class="entry-link" href="/en.html" data-track="entry_english_hub">English Korea Stock Radar<span>해외 유입용 영어 국장 허브</span></a>
+      <a class="entry-link" href="https://password-generator-self-seven.vercel.app/tools.html" data-track="entry_tools_hub">무료 온라인 도구 모음<span>비밀번호·계산기·개발자 도구</span></a>
+      <a class="entry-link" href="https://area-calculator-dun.vercel.app/" data-track="entry_area_calculator">평수 계산기<span>아파트 평수·제곱미터 변환</span></a>
+      <a class="entry-link" href="https://age-calculator-mu-two.vercel.app/" data-track="entry_age_calculator">만 나이 계산기<span>생년월일 기준 나이 계산</span></a>
     </nav>
 
     <section class="theme-board" aria-label="오늘 많이 찾는 주식 테마">
@@ -359,6 +378,9 @@
     document.getElementById('search-news').addEventListener('click', searchNews);
     document.getElementById('keyword').addEventListener('keydown', (event) => {
       if (event.key === 'Enter') searchNews();
+    });
+    document.querySelectorAll('[data-track]').forEach((link) => {
+      link.addEventListener('click', () => trackOnce(link.dataset.track));
     });
 
     function renderStocks(filter) {
