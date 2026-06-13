@@ -34,6 +34,7 @@ const staticPages = [
   { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/how-to-follow-korean-stocks.html', changefreq: 'weekly', priority: '0.88' },
+  { path: '/en/korean-stock-etfs-gdrs.html', changefreq: 'weekly', priority: '0.87' },
   { path: '/en/korean-stock-market-hours.html', changefreq: 'weekly', priority: '0.87' },
   { path: '/en/korean-stock-market-holidays.html', changefreq: 'weekly', priority: '0.87' },
   { path: '/en/korean-stock-market-glossary.html', changefreq: 'weekly', priority: '0.86' },
