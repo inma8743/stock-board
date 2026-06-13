@@ -44,6 +44,7 @@ const staticPages = [
   { path: '/en/korean-chip-equipment-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/korean-ai-semiconductor-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/korean-hbm-stocks.html', changefreq: 'daily', priority: '0.85' },
+  { path: '/en/korean-hbm4-stocks.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/samsung-vs-sk-hynix-hbm.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/samsung-foundry-stock.html', changefreq: 'daily', priority: '0.85' },
   { path: '/en/samsung-stock-us-investors.html', changefreq: 'daily', priority: '0.85' },
