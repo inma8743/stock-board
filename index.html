@@ -99,6 +99,20 @@
     }
     .theme-board h2 { margin: 0 0 10px; font-size: 20px; }
     .theme-board p { margin: 0 0 14px; color: #64748b; line-height: 1.6; }
+    .trend-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 16px 0; }
+    .trend-card {
+      display: block;
+      padding: 14px;
+      border: 1px solid #dbeafe;
+      border-radius: 18px;
+      color: #172033;
+      background: #fff;
+      text-decoration: none;
+      box-shadow: 0 10px 26px rgba(15, 23, 42, .05);
+    }
+    .trend-card strong { display: block; color: #1d4ed8; font-size: 16px; }
+    .trend-card span { display: block; margin-top: 6px; color: #64748b; font-size: 12px; line-height: 1.45; }
+    .trend-card small { display: inline-block; margin-top: 10px; color: #0f766e; font-weight: 900; }
     .theme-links { display: flex; flex-wrap: wrap; gap: 10px; }
     .theme-links a {
       padding: 10px 12px;
@@ -161,7 +175,7 @@
     footer a { color: inherit; }
     @media (max-width: 760px) {
       header { padding-top: 34px; }
-      .search-card, .grid, .hero-links, .entry-links { grid-template-columns: 1fr; }
+      .search-card, .grid, .hero-links, .entry-links, .trend-grid { grid-template-columns: 1fr; }
       .stock-card, .guide { padding: 20px; }
       .search-card button { width: 100%; }
       .ad iframe, .ad ins { max-width: 100% !important; }
@@ -203,7 +217,17 @@
 
     <section class="theme-board" aria-label="오늘 많이 찾는 주식 테마">
       <h2>오늘 많이 찾는 테마</h2>
-      <p>뉴스가 터질 때마다 검색량이 커지는 국내 주식 테마를 따로 모았습니다. 각 페이지는 추천이 아니라 뉴스·공시·리스크 체크용입니다.</p>
+      <p>뉴스가 터질 때마다 검색량이 커지는 국내 주식 테마를 따로 모았습니다. 자동 감지 테마는 Google News RSS 신호와 허용된 테마 규칙을 기준으로 갱신됩니다.</p>
+      <div class="trend-grid" aria-label="자동 감지 인기 테마">
+        <!-- AUTO_TREND_CARDS_START -->
+        <a class="trend-card" href="/finance-stocks.html"><strong>금융주 체크</strong><span>관련 뉴스 신호 37점 · 배당, 금융주, 은행주 키워드 감지</span><small>자동 감지 테마</small></a>
+        <a class="trend-card" href="/cosmetics-stocks.html"><strong>화장품 관련주 체크</strong><span>관련 뉴스 신호 30점 · 화장품, 뷰티, K뷰티 키워드 감지</span><small>자동 감지 테마</small></a>
+        <a class="trend-card" href="/battery-stocks.html"><strong>2차전지 관련주 체크</strong><span>관련 뉴스 신호 21점 · 배터리, 2차전지 키워드 감지</span><small>자동 감지 테마</small></a>
+        <a class="trend-card" href="/ai-software-stocks.html"><strong>AI 소프트웨어 관련주 체크</strong><span>관련 뉴스 신호 20점 · AI, 소프트웨어 키워드 감지</span><small>자동 감지 테마</small></a>
+        <a class="trend-card" href="/bio-stocks.html"><strong>바이오 관련주 체크</strong><span>관련 뉴스 신호 20점 · 바이오, 제약 키워드 감지</span><small>자동 감지 테마</small></a>
+        <a class="trend-card" href="/power-equipment-stocks.html"><strong>전력기기 관련주 체크</strong><span>관련 뉴스 신호 14점 · 전력기기, 전선 키워드 감지</span><small>자동 감지 테마</small></a>
+        <!-- AUTO_TREND_CARDS_END -->
+      </div>
       <div class="theme-links">
         <a href="/themes.html">테마 전체보기</a>
         <a href="/spacex-stock-spcx.html">SpaceX 주식 SPCX</a>
@@ -217,7 +241,9 @@
         <a href="/finance-stocks.html">금융주</a>
         <a href="/cosmetics-stocks.html">화장품 관련주</a>
         <a href="/battery-stocks.html">2차전지 관련주</a>
+        <a href="/ai-software-stocks.html">AI 소프트웨어 관련주</a>
         <a href="/bio-stocks.html">바이오 관련주</a>
+        <a href="/power-equipment-stocks.html">전력기기 관련주</a>
         <!-- AUTO_THEME_LINKS_END -->
       </div>
     </section>

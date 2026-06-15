@@ -12,6 +12,7 @@ const seedQueries = [
   '국내 주식 급등 테마',
   '증시 수혜주 관련주'
 ];
+const maxPromotedThemes = 6;
 const blockedSources = new Set([
   'Fathom Journal',
   'EBC Financial Group',
@@ -127,13 +128,13 @@ async function main() {
 
   const selected = promoted
     .sort((a, b) => b.score - a.score || a.slug.localeCompare(b.slug))
-    .slice(0, 4);
+    .slice(0, maxPromotedThemes);
 
   const output = {
     discoveredAt: new Date().toISOString(),
     source: 'Google News RSS + allowlisted theme rules',
     minimumScore: 2,
-    maxPromotedThemes: 4,
+    maxPromotedThemes,
     promoted: selected.map(({ signals, ...theme }) => theme),
     candidates: candidates
       .sort((a, b) => b.score - a.score || a.slug.localeCompare(b.slug))

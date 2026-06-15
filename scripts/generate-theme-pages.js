@@ -33,6 +33,8 @@ const staticPages = [
   { path: '/en/methodology.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
+  { path: '/en/spacex-stock-price-today.html', changefreq: 'daily', priority: '0.9' },
+  { path: '/en/spacex-vs-korean-space-stocks.html', changefreq: 'daily', priority: '0.88' },
   { path: '/en/is-spacex-publicly-traded.html', changefreq: 'daily', priority: '0.88' },
   { path: '/en/starlink-stock-korean-satellite-stocks.html', changefreq: 'daily', priority: '0.88' },
   { path: '/en/how-to-follow-korean-stocks.html', changefreq: 'weekly', priority: '0.88' },
@@ -232,6 +234,7 @@ for (const theme of themes) {
 fs.writeFileSync(path.join(root, 'themes.html'), renderThemeIndex(themes, autoThemes));
 removeInactiveAutoThemePages(themes, autoThemeRules);
 updateIndexAutoThemeLinks(autoThemes);
+updateIndexAutoTrendCards(autoThemes);
 
 const sitemapPages = [
   ...staticPages,
@@ -329,11 +332,38 @@ function updateIndexAutoThemeLinks(promotedThemes) {
   fs.writeFileSync(indexPath, next);
 }
 
+function updateIndexAutoTrendCards(promotedThemes) {
+  const indexPath = path.join(root, 'index.html');
+  if (!fs.existsSync(indexPath)) return;
+
+  const start = '<!-- AUTO_TREND_CARDS_START -->';
+  const end = '<!-- AUTO_TREND_CARDS_END -->';
+  const index = fs.readFileSync(indexPath, 'utf8');
+  if (!index.includes(start) || !index.includes(end)) return;
+
+  const cards = promotedThemes.length
+    ? promotedThemes.map((theme) => {
+        const signals = Array.from(new Set((theme.evidence || [])
+          .flatMap((item) => item.matchedSignals || [])))
+          .slice(0, 3)
+          .join(', ');
+        const signalText = signals
+          ? `관련 뉴스 신호 ${theme.score || 0}점 · ${escapeHtml(signals)} 키워드 감지`
+          : `관련 뉴스 신호 ${theme.score || 0}점 · 자동 감지됨`;
+        return `        <a class="trend-card" href="/${escapeHtml(theme.slug)}.html"><strong>${escapeHtml(theme.title)}</strong><span>${signalText}</span><small>자동 감지 테마</small></a>`;
+      }).join('\n')
+    : '        <span class="trend-card"><strong>자동 감지 대기 중</strong><span>뉴스 신호가 충분한 테마를 찾으면 이 영역에 자동으로 표시됩니다.</span><small>자동 감지 테마</small></span>';
+
+  const next = index.replace(
+    new RegExp(`${start}[\\s\\S]*?${end}`),
+    `${start}\n${cards}\n        ${end}`
+  );
+  fs.writeFileSync(indexPath, next);
+}
+
 function removeInactiveAutoThemePages(activeThemes, rules) {
-  const activeSlugs = new Set(activeThemes.map((theme) => theme.slug));
-  for (const rule of rules) {
-    if (activeSlugs.has(rule.slug)) continue;
-    const file = path.join(root, `${rule.slug}.html`);
-    if (fs.existsSync(file)) fs.unlinkSync(file);
-  }
+  // Keep previously generated theme pages alive for SEO and returning visitors.
+  // Pages can fall out of the "today" promoted list without becoming invalid.
+  void activeThemes;
+  void rules;
 }
