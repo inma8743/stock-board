@@ -27,6 +27,7 @@ const newsCache = fs.existsSync(newsCachePath)
 const staticPages = [
   { path: '/', changefreq: 'daily', priority: '1.0' },
   { path: '/en.html', changefreq: 'daily', priority: '0.9' },
+  { path: '/us.html', changefreq: 'daily', priority: '0.9' },
   { path: '/about.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/about.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/methodology.html', changefreq: 'monthly', priority: '0.5' },
