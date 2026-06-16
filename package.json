@@ -1,10 +1,11 @@
-{
-  "name": "stock-board",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "npx serve .",
-    "preview": "npx serve .",
-    "check:sitemap": "powershell -ExecutionPolicy Bypass -File scripts/check-sitemap.ps1"
-  }
+﻿{
+    "name":  "stock-board",
+    "version":  "1.0.0",
+    "private":  true,
+    "scripts":  {
+                    "dev":  "npx serve .",
+                    "preview":  "npx serve .",
+                    "check:sitemap":  "powershell -ExecutionPolicy Bypass -File scripts/check-sitemap.ps1",
+                    "analyze:gsc":  "powershell -ExecutionPolicy Bypass -File scripts/analyze-search-console.ps1"
+                }
 }
