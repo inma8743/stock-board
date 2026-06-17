@@ -1,6 +1,6 @@
 # Stock Theme Automation
 
-국장 레이더는 GitHub Actions로 테마 페이지의 최신 뉴스 섹션을 자동 갱신합니다.
+돈길 레이더는 GitHub Actions로 테마 페이지의 최신 뉴스 섹션을 자동 갱신합니다.
 
 ## What Runs
 

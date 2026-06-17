@@ -32,6 +32,8 @@ const staticPages = [
   { path: '/en/about.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/methodology.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/methodology.html', changefreq: 'monthly', priority: '0.5' },
+  { path: '/us-ai-bigtech-stocks.html', changefreq: 'daily', priority: '0.9' },
+  { path: '/korea-us-semiconductor-flow.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-stock-price-today.html', changefreq: 'daily', priority: '0.9' },
@@ -163,7 +165,7 @@ function renderTheme(theme) {
   <link rel="canonical" href="${siteUrl}/${slug}.html">
   <meta property="og:type" content="article">
   <meta property="og:locale" content="ko_KR">
-  <meta property="og:title" content="${escapeHtml(theme.title)} | 국장 레이더">
+  <meta property="og:title" content="${escapeHtml(theme.title)} | 돈길 레이더">
   <meta property="og:description" content="${escapeHtml(theme.description)}">
   <meta property="og:url" content="${siteUrl}/${slug}.html">
   <title>${escapeHtml(theme.pageTitle)}</title>
@@ -181,7 +183,7 @@ function renderTheme(theme) {
 </head>
 <body>
   <header>
-    <p><a href="/">← 국장 레이더 홈</a></p>
+    <p><a href="/">← 돈길 레이더 홈</a></p>
     <h1>${escapeHtml(theme.title)}</h1>
     <p class="lead">${escapeHtml(theme.intro)}</p>
   </header>
@@ -222,7 +224,7 @@ ${theme.checklist.map((item) => `        <li>${escapeHtml(item)}</li>`).join('\n
       </p>
     </section>
   </main>
-  <footer>© 2026 국장 레이더 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
+  <footer>© 2026 돈길 레이더 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
 </body>
 </html>
 `;
@@ -274,13 +276,13 @@ function renderThemeIndex(allThemes, promotedThemes) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="국장 레이더가 추적하는 국내 주식 테마 페이지 전체 목록입니다. HBM, 방산, 조선, 원전, 로봇, 금융주, 화장품, 2차전지, 바이오 관련주를 한곳에서 확인하세요.">
+  <meta name="description" content="돈길 레이더가 추적하는 국내 주식 테마 페이지 전체 목록입니다. HBM, 방산, 조선, 원전, 로봇, 금융주, 화장품, 2차전지, 바이오 관련주를 한곳에서 확인하세요.">
   <meta name="google-site-verification" content="iJYo0s5IVucjVPlcUXP11HltZW35jnzpXC0C4rTFapw">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${siteUrl}/themes.html">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="ko_KR">
-  <meta property="og:title" content="국장 테마 전체보기 | 국장 레이더">
+  <meta property="og:title" content="국장 테마 전체보기 | 돈길 레이더">
   <meta property="og:description" content="국내 주식 테마 페이지 전체 목록과 자동 감지 테마를 확인하세요.">
   <meta property="og:url" content="${siteUrl}/themes.html">
   <title>국장 테마 전체보기 | 국내 주식 테마 뉴스 레이더</title>
@@ -297,7 +299,7 @@ function renderThemeIndex(allThemes, promotedThemes) {
 </head>
 <body>
   <header>
-    <p><a href="/">← 국장 레이더 홈</a></p>
+    <p><a href="/">← 돈길 레이더 홈</a></p>
     <h1>국장 테마 전체보기</h1>
     <p class="lead">상시 추적 테마와 뉴스 신호로 자동 감지된 테마를 한곳에서 봅니다.</p>
     <div class="notice">이 사이트는 투자자문이나 특정 투자 행동 유도를 제공하지 않습니다. 테마 페이지는 뉴스 탐색과 리스크 체크용입니다.</div>
@@ -305,7 +307,7 @@ function renderThemeIndex(allThemes, promotedThemes) {
   <main class="grid" aria-label="국내 주식 테마 목록">
 ${cards}
   </main>
-  <footer>© 2026 국장 레이더 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
+  <footer>© 2026 돈길 레이더 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
 </body>
 </html>
 `;

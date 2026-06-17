@@ -89,6 +89,36 @@ function validateUsRadarPage(sitemap) {
   }
 }
 
+function validateBrandAndSearchPages(sitemap) {
+  const index = read('index.html');
+  assert(index.includes('돈길 레이더'), 'Missing new brand name on home');
+  assert(index.includes('/us-ai-bigtech-stocks.html'), 'Missing US AI big tech page link on home');
+  assert(index.includes('/korea-us-semiconductor-flow.html'), 'Missing Korea-US semiconductor page link on home');
+
+  const pages = [
+    {
+      file: 'us-ai-bigtech-stocks.html',
+      requiredTexts: ['미장 AI 빅테크 체크', 'NVIDIA', 'Tesla', 'Apple', 'Microsoft', 'AMD', 'SpaceX', '금리', '달러'],
+    },
+    {
+      file: 'korea-us-semiconductor-flow.html',
+      requiredTexts: ['국장·미장 반도체 연결 체크', 'NVIDIA', 'AMD', '삼성전자', 'SK하이닉스', 'HBM', '원달러 환율'],
+    },
+  ];
+
+  for (const page of pages) {
+    const html = read(page.file);
+    const canonical = `${siteUrl}/${page.file}`;
+    assert(html.includes(`<link rel="canonical" href="${canonical}">`), `Missing canonical: ${page.file}`);
+    assert(html.includes('G-3EZW95TCSF'), `Missing GA: ${page.file}`);
+    assert(html.includes('ca-pub-4587553505034907'), `Missing AdSense: ${page.file}`);
+    assert(sitemap.includes(`<loc>${canonical}</loc>`), `Missing sitemap loc: ${page.file}`);
+    for (const text of page.requiredTexts) {
+      assert(html.includes(text), `Missing search page content in ${page.file}: ${text}`);
+    }
+  }
+}
+
 function main() {
   const sitemap = read('sitemap.xml');
   const index = read('index.html');
@@ -100,6 +130,7 @@ function main() {
   assert(index.includes('/themes.html'), 'Missing themes.html link on home');
   assert(themeIndex.includes('국장 테마 전체보기'), 'Invalid themes.html');
   validateUsRadarPage(sitemap);
+  validateBrandAndSearchPages(sitemap);
 
   for (const term of blockedTerms) {
     assert(!serializedCache.includes(term), `Blocked term/source in news cache: ${term}`);
