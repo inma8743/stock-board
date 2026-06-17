@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-06-17T05:14:12.842Z",
+  "discoveredAt": "2026-06-17T12:57:28.230Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,7 +57,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 36,
+      "score": 35,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -65,6 +65,16 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TQ3FuLThFUnEzMDVuTFlaWkVLbDFHd1A4YUYtM19sMmJkZXd6MEZHWFZlcXdGaG16ZXNDYVFIeDFUVHA2bWFHRFlKTWNkZ3pDczFPSmVQSlBtbzlkTjdBT3ZqTS1hVFpqVXFhUktjRE52Rlk?oc=5",
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
+            "증권주"
+          ]
+        },
+        {
+          "title": "금융주 희비 가른 금리 인상…보험주 웃고 증권주 울었다 - 시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BMXY2UkctWXIyVE5odUJWQUNYZS1UaEZGbEF5SlNCWnQ3MU00R1NSZjhEQm96RTU4WGZPWFg1Y2V1d3I0VGRSRXhHaFBkNU5NLURIOU1yeEhVeGZtZnpvcGszR3hhdGNKZ2s2LXdtZ9IBc0FVX3lxTFBGeFhWMlpRWHF0Q0JqczlZQllfYWRSYVhVN09sRlBJWS03RXQwMF91NDR2YzhQaTZxaU9TN2FpNVR4eUJNWG1nUDNjdXQ1eE9fQk5FY2Jib0RPTjZlTkhRakwyem95RE5hcUFMUkVmWHdyWEE?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "보험주",
             "증권주"
           ]
         },
@@ -85,21 +95,11 @@
           ]
         },
         {
-          "title": "미국증시 다우지수 '홀로 최고치'...금융주 '활짝' vs 엔비디아 '뚝' - 초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42NjM1cHktNHVibmJhaGNtWkZ2M2lkNmM2TkMtY0NmejlkZkJFZXFRZjRabXA4VzVyRTY3TnV3aWdXNms3WUpZalppazdtb2tyUU9QR2pZUWlEU0RyWU9tQzV3MVdpM3hCS05JVHNESmnSAXNBVV95cUxPRi1jSnctekZxX0s2aTBCOVdVQUZITGhBd1lCVTVTZUtxMWxNcXE2LW03ZVBHbFBxNFZYcjFTeDlRaFNHRFFKdFVRTnN4Zm01U2hfWWhzbmZRSHppLXh5N2lQbEZfcmk2TjJNeGJlVGJYTUhv?oc=5",
+          "title": "[올댓차이나] 대만 증시, 금융주 막판 매수세로 나흘째 상승 마감…0.15%↑ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4X2tQYlhsZWM0V0FTNU0zc2JvS1VZUkdBbXF1Zi1PZFhrVldqQTR4cTJfWnp1U1FiSUUydVEtWDdBZDdGN0I2b0d3RjhBUENNTVVIZG9yWVduWU1EZEFCNNIBeEFVX3lxTE1xUmhUSTE2Y0ZJd2xUWGNhM0g2UEV4TmcwM3pDUzNaV1V1eTkxUzQ2aGxTcEk3MVUxenE0UFZiUGdnWWxRbTQ5QVg2NmdZTTJEZmRfTVJtZWxaZHJtR0U2YjBCdi1qZUNBZ3lDOHkta0RXTGZ2dmJseg?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
-          ]
-        },
-        {
-          "title": "\"불안할 땐 은행주\" 금리 인상 우려에 금융주 희비...은행주 강세, 증권주는 뒷걸음 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1RPTU1PelVKZnNpMElBYU9fVEw5TmF0M0tlX2FYdG1GMjZKTzZ6bEhzZXJTQ1UwWTh3REFIWG9PUFQybnJUYlhnWVhDeHdTeV9LdkFyY0dxeE1TQlZLZkdLM1F2SXpPeWJwaXFXNlVsd1FrWHlEQmhkcDZud3JVUw?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "은행주",
-            "증권주"
           ]
         }
       ]
@@ -157,7 +157,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 28,
+      "score": 26,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -358,20 +358,20 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 19,
+      "score": 20,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
+          "title": "[박정식의 국내 주식시황] 엔비디아 AI칩 훈풍에 반도체·로봇주 강세 이어지나 - 뉴스퀘스트",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBycEg0YUNxZUI2cUp2OVhSbjN5VHpyT0VKdkc0cTB6YkUxaGhrRGpqVDFMUE1KWnllSDRjM00yNVktd3Byd2JIb0V3Y09aeWJyNzZ6UElLcTV0U1ROM216SERtcjNJOTJ4V0R5SlJ2d9IBc0FVX3lxTE5QUnNRZkhHYTk4T19LMmV4REsxWGV2LU8yT01KUFU0SGp6NHdTRllGVWhNcy03VW8zNnAtaU56R1Q1VmhBSnROS1c1b3BmTmZaNnpPdFVIYXZiTml3OFNJcmV6VGZEb3JWcl9EZGN6OUJrcVE?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
           ]
         },
         {
-          "title": "[박정식의 국내 주식시황] 엔비디아 AI칩 훈풍에 반도체·로봇주 강세 이어지나 - 뉴스퀘스트",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBycEg0YUNxZUI2cUp2OVhSbjN5VHpyT0VKdkc0cTB6YkUxaGhrRGpqVDFMUE1KWnllSDRjM00yNVktd3Byd2JIb0V3Y09aeWJyNzZ6UElLcTV0U1ROM216SERtcjNJOTJ4V0R5SlJ2d9IBc0FVX3lxTE5QUnNRZkhHYTk4T19LMmV4REsxWGV2LU8yT01KUFU0SGp6NHdTRllGVWhNcy03VW8zNnAtaU56R1Q1VmhBSnROS1c1b3BmTmZaNnpPdFVIYXZiTml3OFNJcmV6VGZEb3JWcl9EZGN6OUJrcVE?oc=5",
+          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
@@ -595,7 +595,7 @@
         },
         {
           "title": "[오늘장 탑픽] AI 광풍에 국내 전력기기 수출 '쑥'…관련주 주목 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ucXFYWm1udzhHbDhkdDFzU01sVWNYREE1SUk5ZE5ac01RNElJNWhUZktiVUdKYkJ2NkxhX0RISXdPUTk1Y3FmTVVtUldDWm8?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CdjdBLU5PSVB4RE9qY3JHUWVzeWJNM1J3bmx4cXBGbS11YjRmOXhnSTMzQVRHRTJVR0FubTFUY1J0Q1VFM2c?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -608,13 +608,23 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 36,
+      "score": 35,
       "evidence": [
         {
           "title": "하나증권 \"증시 급등에 증권주 수혜 기대, 미래에셋증권 키움증권 한국금융지주 주목\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TQ3FuLThFUnEzMDVuTFlaWkVLbDFHd1A4YUYtM19sMmJkZXd6MEZHWFZlcXdGaG16ZXNDYVFIeDFUVHA2bWFHRFlKTWNkZ3pDczFPSmVQSlBtbzlkTjdBT3ZqTS1hVFpqVXFhUktjRE52Rlk?oc=5",
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
+            "증권주"
+          ]
+        },
+        {
+          "title": "금융주 희비 가른 금리 인상…보험주 웃고 증권주 울었다 - 시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BMXY2UkctWXIyVE5odUJWQUNYZS1UaEZGbEF5SlNCWnQ3MU00R1NSZjhEQm96RTU4WGZPWFg1Y2V1d3I0VGRSRXhHaFBkNU5NLURIOU1yeEhVeGZtZnpvcGszR3hhdGNKZ2s2LXdtZ9IBc0FVX3lxTFBGeFhWMlpRWHF0Q0JqczlZQllfYWRSYVhVN09sRlBJWS03RXQwMF91NDR2YzhQaTZxaU9TN2FpNVR4eUJNWG1nUDNjdXQ1eE9fQk5FY2Jib0RPTjZlTkhRakwyem95RE5hcUFMUkVmWHdyWEE?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "보험주",
             "증권주"
           ]
         },
@@ -635,21 +645,11 @@
           ]
         },
         {
-          "title": "미국증시 다우지수 '홀로 최고치'...금융주 '활짝' vs 엔비디아 '뚝' - 초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42NjM1cHktNHVibmJhaGNtWkZ2M2lkNmM2TkMtY0NmejlkZkJFZXFRZjRabXA4VzVyRTY3TnV3aWdXNms3WUpZalppazdtb2tyUU9QR2pZUWlEU0RyWU9tQzV3MVdpM3hCS05JVHNESmnSAXNBVV95cUxPRi1jSnctekZxX0s2aTBCOVdVQUZITGhBd1lCVTVTZUtxMWxNcXE2LW03ZVBHbFBxNFZYcjFTeDlRaFNHRFFKdFVRTnN4Zm01U2hfWWhzbmZRSHppLXh5N2lQbEZfcmk2TjJNeGJlVGJYTUhv?oc=5",
+          "title": "[올댓차이나] 대만 증시, 금융주 막판 매수세로 나흘째 상승 마감…0.15%↑ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4X2tQYlhsZWM0V0FTNU0zc2JvS1VZUkdBbXF1Zi1PZFhrVldqQTR4cTJfWnp1U1FiSUUydVEtWDdBZDdGN0I2b0d3RjhBUENNTVVIZG9yWVduWU1EZEFCNNIBeEFVX3lxTE1xUmhUSTE2Y0ZJd2xUWGNhM0g2UEV4TmcwM3pDUzNaV1V1eTkxUzQ2aGxTcEk3MVUxenE0UFZiUGdnWWxRbTQ5QVg2NmdZTTJEZmRfTVJtZWxaZHJtR0U2YjBCdi1qZUNBZ3lDOHkta0RXTGZ2dmJseg?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
-          ]
-        },
-        {
-          "title": "\"불안할 땐 은행주\" 금리 인상 우려에 금융주 희비...은행주 강세, 증권주는 뒷걸음 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1RPTU1PelVKZnNpMElBYU9fVEw5TmF0M0tlX2FYdG1GMjZKTzZ6bEhzZXJTQ1UwWTh3REFIWG9PUFQybnJUYlhnWVhDeHdTeV9LdkFyY0dxeE1TQlZLZkdLM1F2SXpPeWJwaXFXNlVsd1FrWHlEQmhkcDZud3JVUw?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "은행주",
-            "증권주"
           ]
         }
       ]
@@ -657,7 +657,7 @@
     {
       "slug": "cosmetics-stocks",
       "title": "화장품 관련주 체크",
-      "score": 28,
+      "score": 26,
       "evidence": [
         {
           "title": "K-뷰티 열풍 다시 불붙나… 화장품 관련주 디와이디 마녀공장 아우딘퓨쳐스 '화색도네' - 핀포인트뉴스",
@@ -754,19 +754,19 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 19,
+      "score": 20,
       "evidence": [
         {
-          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
+          "title": "[박정식의 국내 주식시황] 엔비디아 AI칩 훈풍에 반도체·로봇주 강세 이어지나 - 뉴스퀘스트",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBycEg0YUNxZUI2cUp2OVhSbjN5VHpyT0VKdkc0cTB6YkUxaGhrRGpqVDFMUE1KWnllSDRjM00yNVktd3Byd2JIb0V3Y09aeWJyNzZ6UElLcTV0U1ROM216SERtcjNJOTJ4V0R5SlJ2d9IBc0FVX3lxTE5QUnNRZkhHYTk4T19LMmV4REsxWGV2LU8yT01KUFU0SGp6NHdTRllGVWhNcy03VW8zNnAtaU56R1Q1VmhBSnROS1c1b3BmTmZaNnpPdFVIYXZiTml3OFNJcmV6VGZEb3JWcl9EZGN6OUJrcVE?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
           ]
         },
         {
-          "title": "[박정식의 국내 주식시황] 엔비디아 AI칩 훈풍에 반도체·로봇주 강세 이어지나 - 뉴스퀘스트",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBycEg0YUNxZUI2cUp2OVhSbjN5VHpyT0VKdkc0cTB6YkUxaGhrRGpqVDFMUE1KWnllSDRjM00yNVktd3Byd2JIb0V3Y09aeWJyNzZ6UElLcTV0U1ROM216SERtcjNJOTJ4V0R5SlJ2d9IBc0FVX3lxTE5QUnNRZkhHYTk4T19LMmV4REsxWGV2LU8yT01KUFU0SGp6NHdTRllGVWhNcy03VW8zNnAtaU56R1Q1VmhBSnROS1c1b3BmTmZaNnpPdFVIYXZiTml3OFNJcmV6VGZEb3JWcl9EZGN6OUJrcVE?oc=5",
+          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
@@ -886,7 +886,7 @@
         },
         {
           "title": "[오늘장 탑픽] AI 광풍에 국내 전력기기 수출 '쑥'…관련주 주목 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ucXFYWm1udzhHbDhkdDFzU01sVWNYREE1SUk5ZE5ac01RNElJNWhUZktiVUdKYkJ2NkxhX0RISXdPUTk1Y3FmTVVtUldDWm8?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CdjdBLU5PSVB4RE9qY3JHUWVzeWJNM1J3bmx4cXBGbS11YjRmOXhnSTMzQVRHRTJVR0FubTFUY1J0Q1VFM2c?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
