@@ -65,7 +65,7 @@ function validateUsRadarPage(sitemap) {
   const html = read(file);
   const canonical = `${siteUrl}/${file}`;
   const requiredTexts = [
-    '미장 레이더',
+    '미장 흐름',
     'NVIDIA',
     'Tesla',
     'Apple',
@@ -91,7 +91,7 @@ function validateUsRadarPage(sitemap) {
 
 function validateBrandAndSearchPages(sitemap) {
   const index = read('index.html');
-  assert(index.includes('돈길 레이더'), 'Missing new brand name on home');
+  assert(index.includes('마켓콕'), 'Missing new brand name on home');
   assert(index.includes('/us-ai-bigtech-stocks.html'), 'Missing US AI big tech page link on home');
   assert(index.includes('/korea-us-semiconductor-flow.html'), 'Missing Korea-US semiconductor page link on home');
 
