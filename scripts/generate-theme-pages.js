@@ -74,7 +74,10 @@ const staticPages = [
   { path: '/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
   { path: '/samsung-electronics.html', changefreq: 'daily', priority: '0.8' },
+  { path: '/samsung-stock-outlook.html', changefreq: 'daily', priority: '0.84' },
   { path: '/sk-hynix.html', changefreq: 'daily', priority: '0.8' },
+  { path: '/sk-hynix-stock-outlook.html', changefreq: 'daily', priority: '0.84' },
+  { path: '/hbm-leader-stocks.html', changefreq: 'daily', priority: '0.84' },
   { path: '/kospi-kosdaq.html', changefreq: 'daily', priority: '0.8' }
 ];
 
