@@ -1,0 +1,36 @@
+name: 마켓콕 피드백
+description: 오류 제보, 페이지 개선 제안, 추가 테마 요청을 남겨주세요.
+title: "[피드백] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        마켓콕을 더 쓸모 있게 만들기 위한 피드백을 남겨주세요.
+        계좌번호, 전화번호, 투자금액 등 민감한 개인정보는 적지 말아 주세요.
+  - type: input
+    id: page
+    attributes:
+      label: 관련 페이지
+      description: 의견이 있는 페이지 주소나 페이지 이름을 적어주세요.
+      placeholder: 예) https://stock-board-ten.vercel.app/us.html
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 피드백 종류
+      options:
+        - 오류 제보
+        - 콘텐츠 개선
+        - 추가 종목/테마 요청
+        - 사용성/디자인
+        - 기타
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 내용
+      description: 무엇을 고치거나 추가하면 좋을지 적어주세요.
+      placeholder: 예) NVIDIA와 HBM 연결 설명을 더 자세히 보고 싶습니다.
+    validations:
+      required: true

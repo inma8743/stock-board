@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="마켓콕 오류 제보, 페이지 개선 제안, 추가로 보고 싶은 국장·미장 테마를 남기는 피드백 페이지입니다.">
+  <meta name="google-site-verification" content="iJYo0s5IVucjVPlcUXP11HltZW35jnzpXC0C4rTFapw">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://stock-board-ten.vercel.app/feedback.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:title" content="피드백 보내기 | 마켓콕">
+  <meta property="og:description" content="오류 제보, 페이지 개선 제안, 보고 싶은 종목·테마를 남겨주세요.">
+  <meta property="og:url" content="https://stock-board-ten.vercel.app/feedback.html">
+  <title>피드백 보내기 | 마켓콕</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EZW95TCSF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3EZW95TCSF');
+  </script>
+  <style>
+    *{box-sizing:border-box}body{margin:0;color:#172033;background:linear-gradient(145deg,#f8fafc,#eef2ff 52%,#ecfeff);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.75}main,header,footer{width:min(900px,calc(100% - 32px));margin:auto}header{padding:44px 0 18px}a{color:#2563eb;font-weight:900;text-decoration:none}h1{margin:0 0 10px;font-size:clamp(30px,6vw,48px);letter-spacing:-1.5px}.lead{color:#526071}.card{margin:18px 0;padding:24px;border:1px solid rgba(15,23,42,.1);border-radius:24px;background:rgba(255,255,255,.94);box-shadow:0 16px 44px rgba(15,23,42,.08)}.notice{border-color:#fde68a;color:#713f12;background:#fffbeb}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.box{padding:18px;border:1px solid #dbe3ef;border-radius:18px;background:#fff}.box h2{margin:0 0 8px;font-size:20px}.button{display:inline-flex;align-items:center;justify-content:center;margin:6px 8px 6px 0;padding:12px 14px;border-radius:14px;color:#fff;background:#111827;font-weight:900}.sub{color:#64748b;font-size:14px}.tools a{display:inline-block;margin:4px 10px 4px 0;padding:8px 10px;border-radius:999px;background:#eff6ff}footer{padding:12px 0 42px;text-align:center;color:#64748b;font-size:13px}@media(max-width:760px){.grid{grid-template-columns:1fr}.card{padding:20px}}
+  </style>
+</head>
+<body>
+  <header>
+    <p><a href="/">← 마켓콕 홈</a></p>
+    <h1>피드백 보내기</h1>
+    <p class="lead">오류 제보, 추가로 보고 싶은 종목·테마, 불편한 점을 남겨주세요. 마켓콕은 방문자의 실제 피드백을 기준으로 다음 페이지를 키웁니다.</p>
+  </header>
+  <main>
+    <section class="card notice">
+      <strong>주의:</strong> 계좌번호, 주민등록번호, 전화번호, 투자금액 같은 민감한 개인정보는 남기지 마세요. 이 사이트는 투자 상담이나 종목 추천을 제공하지 않습니다.
+    </section>
+
+    <section class="grid" aria-label="피드백 종류">
+      <article class="box">
+        <h2>오류 제보</h2>
+        <p>잘못된 링크, 오래된 설명, 오해를 부를 수 있는 문구를 알려주세요.</p>
+      </article>
+      <article class="box">
+        <h2>보고 싶은 테마</h2>
+        <p>NVIDIA, Tesla, HBM, 환율, 코인처럼 더 자세히 보고 싶은 흐름을 제안할 수 있습니다.</p>
+      </article>
+      <article class="box">
+        <h2>사용 불편</h2>
+        <p>모바일에서 불편한 부분, 검색하기 어려운 항목, 광고 위치에 대한 의견도 좋습니다.</p>
+      </article>
+    </section>
+
+    <section class="card">
+      <h2>GitHub 이슈로 남기기</h2>
+      <p>아래 버튼을 누르면 GitHub에 새 피드백을 작성할 수 있습니다. GitHub 로그인이 필요할 수 있습니다.</p>
+      <p>
+        <a class="button" href="https://github.com/inma8743/stock-board/issues/new?template=feedback.yml" target="_blank" rel="noopener">피드백 작성하기</a>
+        <a class="button" href="https://github.com/inma8743/stock-board/issues" target="_blank" rel="noopener">기존 제보 보기</a>
+      </p>
+      <p class="sub">메일 문의는 별도 운영 메일을 만든 뒤 공개하는 편이 안전해서, 현재는 GitHub 이슈를 공식 피드백 창구로 사용합니다.</p>
+    </section>
+
+    <section class="card">
+      <h2>빠른 이동</h2>
+      <p class="tools">
+        <a href="/us.html">미장 흐름</a>
+        <a href="/us-ai-bigtech-stocks.html">미장 AI 빅테크</a>
+        <a href="/korea-us-semiconductor-flow.html">국장·미장 반도체 연결</a>
+        <a href="/themes.html">국장 테마 전체보기</a>
+        <a href="/about.html">소개·편집 원칙</a>
+      </p>
+    </section>
+  </main>
+  <footer>© 2026 마켓콕 · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a> · <a href="/methodology.html">데이터 기준</a></footer>
+</body>
+</html>

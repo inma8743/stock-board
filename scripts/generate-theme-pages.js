@@ -32,6 +32,7 @@ const staticPages = [
   { path: '/en/about.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/methodology.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/methodology.html', changefreq: 'monthly', priority: '0.5' },
+  { path: '/feedback.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/us-ai-bigtech-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/korea-us-semiconductor-flow.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
@@ -224,7 +225,7 @@ ${theme.checklist.map((item) => `        <li>${escapeHtml(item)}</li>`).join('\n
       </p>
     </section>
   </main>
-  <footer>© 2026 마켓콕 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
+  <footer>© 2026 마켓콕 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/feedback.html">피드백</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
 </body>
 </html>
 `;
@@ -307,7 +308,7 @@ function renderThemeIndex(allThemes, promotedThemes) {
   <main class="grid" aria-label="국내 주식 테마 목록">
 ${cards}
   </main>
-  <footer>© 2026 마켓콕 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
+  <footer>© 2026 마켓콕 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/feedback.html">피드백</a> · <a href="/privacy.html">개인정보처리방침 · 투자정보 고지</a></footer>
 </body>
 </html>
 `;

@@ -127,7 +127,9 @@ function main() {
 
   assert(sitemap.includes(`<loc>${siteUrl}/</loc>`), 'Missing home in sitemap');
   assert(sitemap.includes(`<loc>${siteUrl}/themes.html</loc>`), 'Missing themes.html in sitemap');
+  assert(sitemap.includes(`<loc>${siteUrl}/feedback.html</loc>`), 'Missing feedback.html in sitemap');
   assert(index.includes('/themes.html'), 'Missing themes.html link on home');
+  assert(index.includes('/feedback.html'), 'Missing feedback.html link on home');
   assert(themeIndex.includes('국장 테마 전체보기'), 'Invalid themes.html');
   validateUsRadarPage(sitemap);
   validateBrandAndSearchPages(sitemap);
