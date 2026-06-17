@@ -60,6 +60,35 @@ function validateThemePage(theme, sitemap) {
   }
 }
 
+function validateUsRadarPage(sitemap) {
+  const file = 'us.html';
+  const html = read(file);
+  const canonical = `${siteUrl}/${file}`;
+  const requiredTexts = [
+    '미장 레이더',
+    'NVIDIA',
+    'Tesla',
+    'Apple',
+    'Microsoft',
+    'AMD',
+    'SpaceX',
+    'SPCX',
+    '금리·달러와 미장 연결',
+    'NVIDIA·Tesla·Apple·Microsoft·AMD를 같이 보는 법',
+    'global-money-map.vercel.app/rates.html',
+    'global-money-map.vercel.app/dollar-index.html',
+    'global-money-map.vercel.app/usd-krw.html',
+  ];
+
+  assert(html.includes(`<link rel="canonical" href="${canonical}">`), `Missing canonical: ${file}`);
+  assert(html.includes('G-3EZW95TCSF'), `Missing GA: ${file}`);
+  assert(sitemap.includes(`<loc>${canonical}</loc>`), `Missing sitemap loc: ${file}`);
+
+  for (const text of requiredTexts) {
+    assert(html.includes(text), `Missing US radar content: ${text}`);
+  }
+}
+
 function main() {
   const sitemap = read('sitemap.xml');
   const index = read('index.html');
@@ -70,6 +99,7 @@ function main() {
   assert(sitemap.includes(`<loc>${siteUrl}/themes.html</loc>`), 'Missing themes.html in sitemap');
   assert(index.includes('/themes.html'), 'Missing themes.html link on home');
   assert(themeIndex.includes('국장 테마 전체보기'), 'Invalid themes.html');
+  validateUsRadarPage(sitemap);
 
   for (const term of blockedTerms) {
     assert(!serializedCache.includes(term), `Blocked term/source in news cache: ${term}`);

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="미장 레이더는 나스닥, S&P500, 엔비디아, 테슬라, 애플, 마이크로소프트, AMD, SpaceX SPCX 등 미국 주식 뉴스와 체크포인트를 모아보는 무료 정보 허브입니다.">
+  <meta name="description" content="미장 레이더는 나스닥, S&P500, NVIDIA, Tesla, Apple, Microsoft, AMD, SpaceX SPCX와 금리·달러·환율 연결 흐름을 모아보는 무료 미국 주식 정보 허브입니다.">
   <meta name="google-site-verification" content="iJYo0s5IVucjVPlcUXP11HltZW35jnzpXC0C4rTFapw">
   <meta name="keywords" content="미장, 미국 주식, 나스닥, S&P500, 엔비디아, 테슬라, 애플, 마이크로소프트, AMD, SpaceX SPCX">
   <meta name="robots" content="index, follow">
@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:locale" content="ko_KR">
   <meta property="og:title" content="미장 레이더">
-  <meta property="og:description" content="미국 주식 뉴스, 종목 링크, AI 반도체와 빅테크 체크포인트를 한곳에서 봅니다.">
+  <meta property="og:description" content="미국 주식 뉴스, NVIDIA·Tesla·Apple·Microsoft·AMD·SpaceX/SPCX와 금리·달러 체크포인트를 한곳에서 봅니다.">
   <meta property="og:url" content="https://stock-board-ten.vercel.app/us.html">
   <title>미장 레이더 | 미국 주식 뉴스·토론 허브</title>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EZW95TCSF"></script>
@@ -42,7 +42,7 @@
 <body>
   <header>
     <h1>미장 레이더</h1>
-    <p class="lead">나스닥·S&P500·AI 반도체·빅테크·SpaceX/SPCX 뉴스와 리서치 링크를 한곳에서 봅니다.</p>
+    <p class="lead">나스닥·S&P500·AI 반도체·빅테크·SpaceX/SPCX 뉴스와 금리·달러·환율 체크포인트를 한곳에서 봅니다.</p>
     <nav class="language" aria-label="다른 레이더">
       <a href="/">국장 레이더</a>
       <a href="/us.html">미장 레이더</a>
@@ -50,8 +50,10 @@
     </nav>
     <nav class="quick-nav" aria-label="미장 주요 구역">
       <a href="#indices">지수</a>
+      <a href="#macro">금리·달러</a>
       <a href="#ai">AI·반도체</a>
       <a href="#bigtech">빅테크</a>
+      <a href="#stock-guide">종목 해석</a>
       <a href="#guides">체크리스트</a>
     </nav>
     <div class="notice">이 사이트는 투자자문, 매수·매도 추천, 수익률 보장을 제공하지 않습니다. 미국 주식은 환율, 세금, 장전·장후 거래, 공시 기준 차이를 함께 확인해야 합니다.</div>
@@ -68,6 +70,17 @@
       <article class="card"><h2><span>S&P 500</span><span class="symbol">SPX</span></h2><span class="tag">대형주</span><span class="tag">지수</span><p>미국 대형주 전반의 기준점입니다. 금리, 실적 시즌, 빅테크 비중, 경기 둔화 우려를 함께 확인하세요.</p><div class="links"><a href="https://news.google.com/search?q=S%26P%20500%20today" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/%5EGSPC/" target="_blank" rel="noopener">Yahoo Finance</a></div></article>
       <article class="card"><h2><span>Nasdaq 100</span><span class="symbol">NDX</span></h2><span class="tag">기술주</span><span class="tag">AI</span><p>AI 반도체와 빅테크 심리가 강하게 반영됩니다. 엔비디아, 마이크로소프트, 애플, 메타 흐름을 같이 보세요.</p><div class="links"><a href="https://news.google.com/search?q=Nasdaq%20100%20today" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/%5ENDX/" target="_blank" rel="noopener">Yahoo Finance</a></div></article>
       <article class="card"><h2><span>VIX</span><span class="symbol">VIX</span></h2><span class="tag">변동성</span><span class="tag">리스크</span><p>변동성 지표입니다. 시장이 과열인지, 헤지 수요가 커지는지, 이벤트 전후 긴장감이 있는지 확인할 때 씁니다.</p><div class="links"><a href="https://news.google.com/search?q=VIX%20market%20volatility" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/%5EVIX/" target="_blank" rel="noopener">Yahoo Finance</a></div></article>
+    </section>
+
+    <h2 id="macro" class="section-title">금리·달러와 미장 연결</h2>
+    <p class="section-note">NVIDIA, Tesla, Apple, Microsoft, AMD 같은 성장주는 종목 뉴스만으로 움직이지 않습니다. 10년물 금리, 달러인덱스, 원달러 환율, 장기채 가격을 같이 봐야 시장의 방향을 덜 놓칩니다.</p>
+    <section class="grid" aria-label="US rates dollar macro cards">
+      <article class="card"><h2><span>미국 10년물 금리</span><span class="symbol">TNX</span></h2><span class="tag">할인율</span><span class="tag">성장주</span><p>금리가 빠르게 오르면 미래 이익 기대가 큰 AI·전기차·소프트웨어 주식의 밸류에이션 부담이 커질 수 있습니다. 금리 하락은 반대로 기술주 멀티플 회복의 배경이 되기도 합니다.</p><div class="links"><a href="https://global-money-map.vercel.app/rates.html">Global Money Map 금리</a><a href="https://finance.yahoo.com/quote/%5ETNX/" target="_blank" rel="noopener">Yahoo TNX</a><a href="https://news.google.com/search?q=US%2010%20year%20yield%20Nasdaq" target="_blank" rel="noopener">금리 뉴스</a></div></article>
+      <article class="card"><h2><span>달러인덱스</span><span class="symbol">DXY</span></h2><span class="tag">환율</span><span class="tag">리스크</span><p>달러가 강하면 글로벌 유동성이 미국으로 몰리는 신호일 수 있지만, 해외 매출 비중이 큰 기업에는 환산 부담이 생길 수 있습니다. 달러 강세와 나스닥 강세가 같이 오는지, 반대로 갈라지는지 봅니다.</p><div class="links"><a href="https://global-money-map.vercel.app/dollar-index.html">달러 흐름</a><a href="https://finance.yahoo.com/quote/DX-Y.NYB/" target="_blank" rel="noopener">Yahoo DXY</a><a href="https://news.google.com/search?q=DXY%20Nasdaq%20stocks" target="_blank" rel="noopener">달러 뉴스</a></div></article>
+      <article class="card"><h2><span>원달러 환율</span><span class="symbol">USD/KRW</span></h2><span class="tag">한국 투자자</span><span class="tag">환전</span><p>미국 주식을 원화로 투자한다면 주가 수익률과 환율 수익률이 함께 결과를 만듭니다. 환율이 높은 구간에서는 분할 환전, 환전 수수료, 배당세까지 같이 계산해야 합니다.</p><div class="links"><a href="https://global-money-map.vercel.app/usd-krw.html">원달러 흐름</a><a href="https://finance.yahoo.com/quote/KRW=X/" target="_blank" rel="noopener">Yahoo USD/KRW</a><a href="https://news.google.com/search?q=USD%20KRW%20US%20stocks" target="_blank" rel="noopener">환율 뉴스</a></div></article>
+      <article class="card"><h2><span>장기채 ETF</span><span class="symbol">TLT</span></h2><span class="tag">금리 반대편</span><span class="tag">헤지</span><p>TLT는 장기 금리 기대를 읽을 때 자주 봅니다. TLT가 강하고 나스닥도 강하면 금리 안정 기대가 커진 장세일 수 있고, 둘이 같이 약하면 긴축·인플레이션 부담을 의심합니다.</p><div class="links"><a href="https://finance.yahoo.com/quote/TLT/" target="_blank" rel="noopener">Yahoo TLT</a><a href="https://news.google.com/search?q=TLT%20Nasdaq%20growth%20stocks" target="_blank" rel="noopener">TLT 뉴스</a></div></article>
+      <article class="card"><h2><span>리스크 온·오프</span><span class="symbol">VIX</span></h2><span class="tag">심리</span><span class="tag">변동성</span><p>VIX가 안정되고 달러가 과도하게 강하지 않으면 성장주와 고베타 종목에 자금이 들어오기 쉽습니다. 반대로 VIX 급등, 달러 강세, 금리 급등이 겹치면 방어적으로 봅니다.</p><div class="links"><a href="https://global-money-map.vercel.app/markets.html">글로벌 가격판</a><a href="https://finance.yahoo.com/quote/%5EVIX/" target="_blank" rel="noopener">Yahoo VIX</a></div></article>
+      <article class="card"><h2><span>한국증시 연결</span><span class="symbol">HBM</span></h2><span class="tag">국장 파급</span><span class="tag">반도체</span><p>NVDA와 AMD의 AI 서버 수요는 국장 HBM, 반도체 장비, 전력기기 테마로 이어질 수 있습니다. 미장 강세가 바로 국장 수급으로 연결되는지 확인하세요.</p><div class="links"><a href="/hbm-stocks.html">HBM 관련주</a><a href="/power-equipment-stocks.html">전력기기 관련주</a><a href="https://global-money-map.vercel.app/themes/korea-stocks.html">한국증시 흐름</a></div></article>
     </section>
 
     <h2 id="ai" class="section-title">AI·반도체 관심 종목</h2>
@@ -88,12 +101,29 @@
 
     <h2 id="bigtech" class="section-title">빅테크·테마 관심 종목</h2>
     <section class="grid" aria-label="US big tech stocks">
-      <article class="card"><h2><span>Microsoft</span><span class="symbol">MSFT</span></h2><span class="tag">클라우드</span><span class="tag">AI</span><p>Azure 성장률, Copilot 매출화, AI 인프라 비용, 엔터프라이즈 수요를 함께 체크합니다.</p><div class="links"><a href="https://news.google.com/search?q=MSFT%20stock%20AI%20cloud" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/MSFT/" target="_blank" rel="noopener">Yahoo Finance</a></div></article>
-      <article class="card"><h2><span>Apple</span><span class="symbol">AAPL</span></h2><span class="tag">아이폰</span><span class="tag">AI 디바이스</span><p>아이폰 교체 수요, 서비스 매출, 중국 수요, 온디바이스 AI 기대감을 나눠 봅니다.</p><div class="links"><a href="https://news.google.com/search?q=AAPL%20stock%20iPhone%20AI" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/AAPL/" target="_blank" rel="noopener">Yahoo Finance</a></div></article>
-      <article class="card"><h2><span>Tesla</span><span class="symbol">TSLA</span></h2><span class="tag">전기차</span><span class="tag">로보택시</span><p>전기차 판매, 가격 정책, 마진, FSD·로보택시 기대감, 에너지 저장 사업을 구분해서 봅니다.</p><div class="links"><a href="https://news.google.com/search?q=TSLA%20stock%20Tesla%20robotaxi" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/TSLA/" target="_blank" rel="noopener">Yahoo Finance</a></div></article>
+      <article class="card"><h2><span>Microsoft</span><span class="symbol">MSFT</span></h2><span class="tag">클라우드</span><span class="tag">AI</span><p>Azure 성장률, Copilot 매출화, AI 인프라 비용, 엔터프라이즈 수요를 함께 체크합니다. 금리 하락기에는 클라우드 성장주 프리미엄이 다시 커지는지도 봅니다.</p><div class="links"><a href="https://news.google.com/search?q=MSFT%20stock%20AI%20cloud" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/MSFT/" target="_blank" rel="noopener">Yahoo Finance</a><a href="https://www.sec.gov/edgar/browse/?CIK=789019" target="_blank" rel="noopener">SEC filings</a></div></article>
+      <article class="card"><h2><span>Apple</span><span class="symbol">AAPL</span></h2><span class="tag">아이폰</span><span class="tag">AI 디바이스</span><p>아이폰 교체 수요, 서비스 매출, 중국 수요, 온디바이스 AI 기대감을 나눠 봅니다. 달러 강세가 해외 매출 환산에 미치는 영향도 같이 확인합니다.</p><div class="links"><a href="https://news.google.com/search?q=AAPL%20stock%20iPhone%20AI" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/AAPL/" target="_blank" rel="noopener">Yahoo Finance</a><a href="https://www.sec.gov/edgar/browse/?CIK=320193" target="_blank" rel="noopener">SEC filings</a></div></article>
+      <article class="card"><h2><span>Tesla</span><span class="symbol">TSLA</span></h2><span class="tag">전기차</span><span class="tag">로보택시</span><p>전기차 판매, 가격 정책, 마진, FSD·로보택시 기대감, 에너지 저장 사업을 구분해서 봅니다. 고금리 구간에서는 자동차 금융과 소비 수요 부담도 중요합니다.</p><div class="links"><a href="https://news.google.com/search?q=TSLA%20stock%20Tesla%20robotaxi" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/TSLA/" target="_blank" rel="noopener">Yahoo Finance</a><a href="https://www.sec.gov/edgar/browse/?CIK=1318605" target="_blank" rel="noopener">SEC filings</a></div></article>
       <article class="card"><h2><span>Meta Platforms</span><span class="symbol">META</span></h2><span class="tag">광고</span><span class="tag">AI</span><p>광고 경기, AI 추천 알고리즘, 메타버스 비용, 사용자 성장과 마진을 함께 확인합니다.</p><div class="links"><a href="https://news.google.com/search?q=META%20stock%20AI%20ads" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/META/" target="_blank" rel="noopener">Yahoo Finance</a></div></article>
       <article class="card"><h2><span>Amazon</span><span class="symbol">AMZN</span></h2><span class="tag">AWS</span><span class="tag">커머스</span><p>AWS 성장률, 광고 사업, 물류 비용, 소비 경기와 AI 인프라 투자를 같이 봅니다.</p><div class="links"><a href="https://news.google.com/search?q=AMZN%20stock%20AWS%20AI" target="_blank" rel="noopener">Google News</a><a href="https://finance.yahoo.com/quote/AMZN/" target="_blank" rel="noopener">Yahoo Finance</a></div></article>
-      <article class="card"><h2><span>SpaceX</span><span class="symbol">SPCX</span></h2><span class="tag">우주</span><span class="tag">Starlink</span><p>상장 초기에는 실시간 가격보다 공시, 유동성, 락업, Starlink 매출 기여도, 테마 과열을 먼저 확인하세요.</p><div class="links"><a href="/en/spacex-stock-price-today.html">SPCX 체크리스트</a><a href="/en/spacex-vs-korean-space-stocks.html">한국 우주주 비교</a><a href="https://news.google.com/search?q=SPCX%20stock%20SpaceX" target="_blank" rel="noopener">Google News</a></div></article>
+      <article class="card"><h2><span>SpaceX</span><span class="symbol">SPCX</span></h2><span class="tag">우주</span><span class="tag">Starlink</span><p>SPCX는 가격 변동보다 공시, 유동성, 옵션 거래, Starlink 매출 기여도, 우주·위성 테마 과열을 먼저 확인하세요. 관련 ETF와 국내 우주항공 테마도 함께 비교합니다.</p><div class="links"><a href="/en/spacex-stock-price-today.html">SPCX 체크리스트</a><a href="/en/spacex-vs-korean-space-stocks.html">한국 우주주 비교</a><a href="https://finance.yahoo.com/quote/SPCX/" target="_blank" rel="noopener">Yahoo SPCX</a><a href="https://news.google.com/search?q=SPCX%20stock%20SpaceX" target="_blank" rel="noopener">Google News</a></div></article>
+    </section>
+
+    <section id="stock-guide" class="guide">
+      <h2>NVIDIA·Tesla·Apple·Microsoft·AMD를 같이 보는 법</h2>
+      <p>NVIDIA와 AMD는 AI 인프라 지출의 속도를 읽는 창입니다. 데이터센터 매출, HBM 공급, 전력 수요, 고객사 CAPEX가 같이 강하면 반도체·전력기기·냉각 인프라까지 관심이 번질 수 있습니다. 반대로 금리가 급등하거나 대형 고객의 투자 속도 조절 뉴스가 나오면 성장주 전체의 기대치가 낮아질 수 있습니다.</p>
+      <p>Microsoft와 Apple은 AI가 실제 매출로 바뀌는지 확인하는 대표 축입니다. Microsoft는 Azure와 Copilot, Apple은 아이폰 교체 주기와 온디바이스 AI가 핵심입니다. 달러 강세가 이어지는 구간에서는 해외 매출 비중이 높은 기업의 환산 효과도 같이 봐야 합니다.</p>
+      <p>Tesla는 전기차 판매량만 보면 해석이 흔들립니다. 차량 마진, 가격 인하, FSD·로보택시 기대, 에너지 저장 사업, 고금리 자동차 금융 부담을 함께 놓고 봐야 합니다. SpaceX/SPCX는 우주·위성·AI 인프라 기대가 섞여 있어 가격보다 유통 물량, 옵션 과열, Starlink 성장성, 관련 ETF 수급을 먼저 확인하는 편이 낫습니다.</p>
+      <h2>검색 키워드</h2>
+      <p class="tools">
+        <a href="https://news.google.com/search?q=NVIDIA%20AI%20capex%20earnings" target="_blank" rel="noopener">NVIDIA AI CAPEX</a>
+        <a href="https://news.google.com/search?q=AMD%20MI300%20AI%20accelerator" target="_blank" rel="noopener">AMD AI accelerator</a>
+        <a href="https://news.google.com/search?q=Tesla%20robotaxi%20margin%20stock" target="_blank" rel="noopener">Tesla robotaxi margin</a>
+        <a href="https://news.google.com/search?q=Apple%20on-device%20AI%20iPhone%20stock" target="_blank" rel="noopener">Apple on-device AI</a>
+        <a href="https://news.google.com/search?q=Microsoft%20Azure%20Copilot%20revenue" target="_blank" rel="noopener">Microsoft Azure Copilot</a>
+        <a href="https://news.google.com/search?q=SPCX%20SpaceX%20Starlink%20options" target="_blank" rel="noopener">SPCX Starlink options</a>
+        <a href="https://news.google.com/search?q=DXY%20US%20yields%20Nasdaq%20growth%20stocks" target="_blank" rel="noopener">DXY yields Nasdaq</a>
+      </p>
     </section>
 
     <section id="guides" class="guide">
@@ -113,6 +143,8 @@
         <a href="/en.html">English Korea Stock Radar</a>
         <a href="https://global-money-map.vercel.app/us-market.html">미국증시 흐름</a>
         <a href="https://global-money-map.vercel.app/rates.html">미국 금리·채권 흐름</a>
+        <a href="https://global-money-map.vercel.app/dollar-index.html">달러인덱스 흐름</a>
+        <a href="https://global-money-map.vercel.app/usd-krw.html">원달러 환율 흐름</a>
       </p>
     </section>
   </main>
