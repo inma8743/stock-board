@@ -33,6 +33,9 @@ const staticPages = [
   { path: '/methodology.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/en/methodology.html', changefreq: 'monthly', priority: '0.5' },
   { path: '/feedback.html', changefreq: 'monthly', priority: '0.5' },
+  { path: '/stock-theme-checklist.html', changefreq: 'weekly', priority: '0.78' },
+  { path: '/stock-market-glossary.html', changefreq: 'weekly', priority: '0.76' },
+  { path: '/korea-etf-gdr-guide.html', changefreq: 'monthly', priority: '0.72' },
   { path: '/us-ai-bigtech-stocks.html', changefreq: 'daily', priority: '0.9' },
   { path: '/korea-us-semiconductor-flow.html', changefreq: 'daily', priority: '0.9' },
   { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
@@ -91,6 +94,47 @@ function escapeHtml(value) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+function safeJsonLd(value) {
+  return JSON.stringify(value, null, 2).replace(/</g, '\\u003c');
+}
+
+function renderThemeJsonLd(theme) {
+  const canonical = `${siteUrl}/${theme.slug}.html`;
+  const schema = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'Article',
+        headline: theme.title,
+        description: theme.description,
+        inLanguage: 'ko-KR',
+        mainEntityOfPage: canonical,
+        dateModified: today,
+        publisher: {
+          '@type': 'Organization',
+          name: '마켓콕',
+          url: siteUrl
+        }
+      },
+      {
+        '@type': 'ItemList',
+        name: `${theme.title} 종목 목록`,
+        description: theme.description,
+        itemListElement: theme.stocks.map((stock, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          name: `${stock.name} ${stock.code}`,
+          description: stock.summary
+        }))
+      }
+    ]
+  };
+
+  return `  <script type="application/ld+json">
+${safeJsonLd(schema)}
+  </script>`;
 }
 
 function financeLinks(stock) {
@@ -177,6 +221,7 @@ function renderTheme(theme) {
     gtag('js', new Date());
     gtag('config', 'G-3EZW95TCSF');
   </script>
+${renderThemeJsonLd(theme)}
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4587553505034907" crossorigin="anonymous"></script>
   <style>
     *{box-sizing:border-box}body{margin:0;color:#172033;background:linear-gradient(145deg,#f8fafc,#eef2ff 52%,#ecfeff);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.75}main,header,footer{width:min(980px,calc(100% - 32px));margin:auto}header{padding:44px 0 20px}a{color:#2563eb;font-weight:800;text-decoration:none}h1{margin:0 0 10px;font-size:clamp(30px,6vw,48px);letter-spacing:-1.5px}.lead{color:#526071}.card{margin:18px 0;padding:24px;border:1px solid rgba(15,23,42,.1);border-radius:24px;background:rgba(255,255,255,.94);box-shadow:0 16px 44px rgba(15,23,42,.08)}.notice{border-color:#fde68a;color:#713f12;background:#fffbeb}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.stock{padding:18px;border:1px solid #dbe3ef;border-radius:18px;background:#fff}.stock h2{margin:0 0 8px;font-size:20px}.tag{display:inline-block;margin:0 5px 7px 0;padding:4px 8px;border-radius:999px;color:#1e3a8a;background:#dbeafe;font-size:12px;font-weight:900}.links{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}.ad{min-height:140px;margin:20px auto;padding:18px;border:1px dashed #cbd5e1;border-radius:18px;color:#64748b;background:rgba(255,255,255,.64);display:flex;flex-direction:column;gap:8px;align-items:center;justify-content:center;overflow:hidden;text-align:center}.ad-note{margin:0;color:#64748b;font-size:12px}.tools a{display:inline-block;margin:3px 10px 3px 0}footer{padding:10px 0 42px;color:#64748b;text-align:center;font-size:13px}@media(max-width:760px){.grid{grid-template-columns:1fr}.card{padding:20px}.ad iframe,.ad ins{max-width:100%!important}}

@@ -49,6 +49,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://stock-board-ten.vercel.app/stock-theme-checklist.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.78</priority>
+  </url>
+  <url>
+    <loc>https://stock-board-ten.vercel.app/stock-market-glossary.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.76</priority>
+  </url>
+  <url>
+    <loc>https://stock-board-ten.vercel.app/korea-etf-gdr-guide.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+  </url>
+  <url>
     <loc>https://stock-board-ten.vercel.app/us-ai-bigtech-stocks.html</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
