@@ -1,11 +1,21 @@
-﻿{
-    "name":  "stock-board",
-    "version":  "1.0.0",
-    "private":  true,
-    "scripts":  {
-                    "dev":  "npx serve .",
-                    "preview":  "npx serve .",
-                    "check:sitemap":  "powershell -ExecutionPolicy Bypass -File scripts/check-sitemap.ps1",
-                    "analyze:gsc":  "powershell -ExecutionPolicy Bypass -File scripts/analyze-search-console.ps1"
-                }
+{
+  "name": "stock-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Korean stock market radar with theme pages, news links, and finance research shortcuts.",
+  "scripts": {
+    "dev": "npx serve .",
+    "preview": "npx serve .",
+    "generate": "node scripts/generate-theme-pages.js",
+    "check": "node scripts/validate-generated-site.js",
+    "build": "npm run generate && npm run check",
+    "check:sitemap": "powershell -ExecutionPolicy Bypass -File scripts/check-sitemap.ps1",
+    "analyze:gsc": "powershell -ExecutionPolicy Bypass -File scripts/analyze-search-console.ps1"
+  },
+  "keywords": [
+    "korean-stocks",
+    "kospi",
+    "kosdaq",
+    "stock-themes"
+  ]
 }
