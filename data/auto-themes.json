@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-06-21T05:16:55.836Z",
+  "discoveredAt": "2026-06-21T11:52:55.437Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -284,17 +284,16 @@
           ]
         },
         {
-          "title": "삼천당제약·셀트리온·알테오젠 엇갈린 흐름…바이오시밀러 관련주 변동성 확대 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OSjRmNm8xOV9EYS1kcHRpbGNHLVc2SDdPQzgzNkFZeVVGZnhNUnM5VkhlSXJMazJZYkdEemdWT29xVUx5ZTZXWHZneF9Mc3BEeFlqVVRHOWhTWjZDWl9pbEx2b2hhdE9u?oc=5",
+          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
-            "바이오",
-            "제약"
+            "바이오"
           ]
         },
         {
-          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
+          "title": "의료 AI 훈풍 관련주 급등…루닛·파로스아이바이오·신테카바이오 ‘정책 수혜 3인방’ 부상 [한양경제] - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xUWtsNS01aWFqcVljTnlEUFJVRzJmNkdwRFE1S09FSGJPNXAyblFZeU93VEdfYkdCV3BMa1pDel9xM1JmOWZHQzljY1g4d1NSSms4dDB4MXphRkU?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -576,8 +575,16 @@
           ]
         },
         {
-          "title": "[오늘장 탑픽] AI 광풍에 국내 전력기기 수출 '쑥'…관련주 주목 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CdjdBLU5PSVB4RE9qY3JHUWVzeWJNM1J3bmx4cXBGbS11YjRmOXhnSTMzQVRHRTJVR0FubTFUY1J0Q1VFM2c?oc=5",
+          "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전선"
+          ]
+        },
+        {
+          "title": "[오늘장 탑픽] AI 광풍에 국내 전력기기 수출 '쑥'…관련주 주목 - biz.sbs.co.kr.",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U3o1eXhwUGRyZ09tUHFNMWczM1hXbnlaU3o3d3RwU0ZYZE5wbHNweWV2aE1aOEFZVVBvQ21kUW5WVUtXMUYwUFZUREZETkVVSV9N?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -589,15 +596,6 @@
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
-          ]
-        },
-        {
-          "title": "데이터센터 관련주 TOP 5, AI 전력 수요 급증에 수혜 확대 - economicsignal.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyaTYtNWFucV92dm1IZURGa29aaTFKdENHNjNiU3VYRWZrODFYNVF6bVg0SEhVN0NFSTJBNm5QQkEwQUlBQm1kRWJwWjVBVG42OUF0MlRESERnUUdUcWNFQjcxQUxTVEpoWFNOUjlKRUEtZw?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "데이터센터",
-            "전력 수요"
           ]
         }
       ]
@@ -730,17 +728,16 @@
           ]
         },
         {
-          "title": "삼천당제약·셀트리온·알테오젠 엇갈린 흐름…바이오시밀러 관련주 변동성 확대 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OSjRmNm8xOV9EYS1kcHRpbGNHLVc2SDdPQzgzNkFZeVVGZnhNUnM5VkhlSXJMazJZYkdEemdWT29xVUx5ZTZXWHZneF9Mc3BEeFlqVVRHOWhTWjZDWl9pbEx2b2hhdE9u?oc=5",
+          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
-            "바이오",
-            "제약"
+            "바이오"
           ]
         },
         {
-          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
+          "title": "의료 AI 훈풍 관련주 급등…루닛·파로스아이바이오·신테카바이오 ‘정책 수혜 3인방’ 부상 [한양경제] - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xUWtsNS01aWFqcVljTnlEUFJVRzJmNkdwRFE1S09FSGJPNXAyblFZeU93VEdfYkdCV3BMa1pDel9xM1JmOWZHQzljY1g4d1NSSms4dDB4MXphRkU?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -866,8 +863,16 @@
           ]
         },
         {
-          "title": "[오늘장 탑픽] AI 광풍에 국내 전력기기 수출 '쑥'…관련주 주목 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CdjdBLU5PSVB4RE9qY3JHUWVzeWJNM1J3bmx4cXBGbS11YjRmOXhnSTMzQVRHRTJVR0FubTFUY1J0Q1VFM2c?oc=5",
+          "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전선"
+          ]
+        },
+        {
+          "title": "[오늘장 탑픽] AI 광풍에 국내 전력기기 수출 '쑥'…관련주 주목 - biz.sbs.co.kr.",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U3o1eXhwUGRyZ09tUHFNMWczM1hXbnlaU3o3d3RwU0ZYZE5wbHNweWV2aE1aOEFZVVBvQ21kUW5WVUtXMUYwUFZUREZETkVVSV9N?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -879,15 +884,6 @@
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
-          ]
-        },
-        {
-          "title": "데이터센터 관련주 TOP 5, AI 전력 수요 급증에 수혜 확대 - economicsignal.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyaTYtNWFucV92dm1IZURGa29aaTFKdENHNjNiU3VYRWZrODFYNVF6bVg0SEhVN0NFSTJBNm5QQkEwQUlBQm1kRWJwWjVBVG42OUF0MlRESERnUUdUcWNFQjcxQUxTVEpoWFNOUjlKRUEtZw?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "데이터센터",
-            "전력 수요"
           ]
         }
       ]
