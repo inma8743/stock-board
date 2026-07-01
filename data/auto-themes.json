@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-01T04:52:12.636Z",
+  "discoveredAt": "2026-07-01T12:16:37.839Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,15 +57,15 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 33,
+      "score": 36,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "미국 대형 금융주 중 금리 불확실성에 강한 3곳 주목 - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0xpLTUwNW9vUnVzMW1PM0Y3bENtTWd2TnN1cDdNMENMa3hBVmU4N2x3RU1tUnExZEJwQkJkOHdnWF9QZFVHdTFnTXhRSXZTYjBtazFYVjRPaGlVeGJIUjhhWUdBS0ZOQ0lScVp0a1dzLTM5Tm1DbV91MmZUYVVLMGFGbWs4cHVhcVlWSVNRM2p0bzdoT3hjbEVxMnNfTkVyaWNfQmk1dlVxZlNxaHJIelN2MNIBswFBVV95cUxQa0xpLTUwNW9vUnVzMW1PM0Y3bENtTWd2TnN1cDdNMENMa3hBVmU4N2x3RU1tUnExZEJwQkJkOHdnWF9QZFVHdTFnTXhRSXZTYjBtazFYVjRPaGlVeGJIUjhhWUdBS0ZOQ0lScVp0a1dzLTM5Tm1DbV91MmZUYVVLMGFGbWs4cHVhcVlWSVNRM2p0bzdoT3hjbEVxMnNfTkVyaWNfQmk1dlVxZlNxaHJIelN2MA?oc=5",
-          "query": "금융주",
+          "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 200커버드콜OTM +5.03%, TIGER 배당커버드콜액티브 +3.05% - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEVCYkZBTEoyS0dVSUczZmFUYWJyWFNub2w3UTdCSTdYV1VWc2E2NFhfTEdMa1hJdzh2WDZYRjJ2TDlyWXNxcERNeHJ1YXRiakV4bHk4Vi1rckVsaWxaUDFNdnRkUzJ3UTlzMm9LME5RYUlkWkdPanBTd0FGcXNyWkstMNIBlwFBVV95cUxOc082UWNQai1HUWlLWmUzZzJoTU9FM01nM3hNUkFqOEN5MkxuRlFzV1dJZkR6QlNvdzhtZ0RucDRfRGoxRWNibE5IaGVvOHg5enN4OFVyZkF5VzZ3cGpXUUFiTWswQ2lsWEwyb3lka2w1ckdIU0VjUmdYbzV1d1FDZGFsbmJuR0daOTBjZWgtU29Ld2Zpd3o0?oc=5",
+          "query": "국내 주식 급등 테마",
           "matchedSignals": [
-            "금융주"
+            "배당"
           ]
         },
         {
@@ -85,20 +85,20 @@
           ]
         },
         {
+          "title": "7월 1일 증시: 금융주와 기술주가 상승세를 주도하며 VN-Index는 상승폭을 확대했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWtleW0xOWwyeWc3amxKRkJoLWtISmV1MVg4OHBUZEhLWVM5X1ZrMDJqMHhaSnIxclV3VVJtUFJNLWxaaUwyNWJheFBlRDlwdk5HNDRBcHVueXlPa2ZHUU9OcTNBY0lLaWVaa1FHUThzODhjemNTcTJvNlItMS1nVFpXeDRNeEkzMjJuVDRoSDVMeG5qSnRSd2l6ZXF4dlZnOUh2X3JUbUhRVmc0ckE?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "금리 인상 가능성에 비과세 배당…커지는 금융주 기대감 - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQXc5OEkwbXhLZlBfd2pwWEpZVml5TWd1UDQtUm0xWHJYT1U5YzNxR3JMa2o3V3BRdlBGV2tnTld2QUN4SkdWdHlkbDlxRFd2V05hQ1Nja1F3Z9IBVEFVX3lxTE81SU50eTR5YWVrYnVITlgwLWN5SnBXR0lydHpPNWl2RkZYMks0VVIybkpVRW5CWjRHVVFuRlFHVGZ0U3lWZmJwR3ZHd1pkYnJKUEhKbg?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
             "배당"
-          ]
-        },
-        {
-          "title": "[브라질증시] 원자재·금융주 부진에 하락…상반기 수익률은 6%대 유지 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zTnZhTzZpSXdlSXJYaHo3MkE2VFdrQ3R1eFRlaHJHVWl0SGUxTFZEQnMxek81QnhFNXZzOTF2RDBtRnRzQzhURnRDdE44REozVUVR?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
           ]
         }
       ]
@@ -156,7 +156,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 28,
+      "score": 27,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -270,6 +270,14 @@
           ]
         },
         {
+          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sVFNmSDgxSk5wdU96ak5aVHI1Mi1teUhudDVydV9vaFdHZ1JsaGJ3a0dtWDExWEZTNE56a0RYUGxLWm9kZ2c?oc=5",
+          "query": "오늘 국내증시 관련주",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
           "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
           "query": "오늘 국내증시 관련주",
@@ -291,113 +299,6 @@
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
             "AI"
-          ]
-        },
-        {
-          "title": "지방선거 특수 사라진 ‘정치테마주'…AI 등 정책수혜주만 일부 상승 - 동양뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNkU4am9EU2hwMXI4TjdBaDZ0SnRReFRDSVFxWlpudFBGY3JlRnotbEh5akloVTk4WlFSc0tHaHdBWllSRUJtUDJYRG9FanVWVkZSazFGS0w2VlpWLXg0RQ?oc=5",
-          "query": "증시 수혜주 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "battery-stocks",
-      "title": "2차전지 관련주 체크",
-      "pageTitle": "2차전지 관련주 뉴스 체크 | 배터리 테마 체크",
-      "description": "LG에너지솔루션, 삼성SDI, 에코프로비엠 등 2차전지 관련주의 뉴스, 수급, 실적 체크포인트를 모아보는 정보 페이지입니다.",
-      "keywords": "2차전지 관련주, 배터리 관련주, LG에너지솔루션, 삼성SDI, 에코프로비엠",
-      "intro": "2차전지 테마는 전기차 수요, 소재 가격, 미국 정책, 고객사 투자 뉴스에 민감합니다. 기대감과 실적 반영 속도를 나눠 보는 것이 중요합니다.",
-      "searchQueries": [
-        "2차전지 관련주",
-        "배터리 관련주",
-        "전기차 배터리 수혜주"
-      ],
-      "stocks": [
-        {
-          "name": "LG에너지솔루션",
-          "code": "373220",
-          "tags": [
-            "배터리",
-            "전기차",
-            "대형주"
-          ],
-          "summary": "전기차 배터리 대표 종목입니다. 고객사 수요, 증설 계획, 수익성 개선 여부를 확인하세요."
-        },
-        {
-          "name": "삼성SDI",
-          "code": "006400",
-          "tags": [
-            "배터리",
-            "전고체",
-            "전기차"
-          ],
-          "summary": "배터리와 전자재료 이슈가 함께 반영됩니다. 전고체 배터리 기대감과 실적 흐름을 구분해서 보세요."
-        },
-        {
-          "name": "에코프로비엠",
-          "code": "247540",
-          "tags": [
-            "양극재",
-            "소재",
-            "성장주"
-          ],
-          "summary": "양극재 대표 종목으로 자주 검색됩니다. 소재 가격, 고객사 발주, 재고 부담을 함께 확인하세요."
-        }
-      ],
-      "checklist": [
-        "전기차 수요 둔화 또는 회복 신호가 있는가?",
-        "소재 가격과 재고 부담이 완화되고 있는가?",
-        "증설 투자가 실제 수주와 연결되는가?",
-        "정책 뉴스에 따른 단기 테마 과열은 아닌가?"
-      ],
-      "related": [
-        "kospi-kosdaq.html",
-        "hbm-stocks.html"
-      ],
-      "score": 19,
-      "autoDiscovered": true,
-      "evidence": [
-        {
-          "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKOS1xS2o5V3NOUkRjdm5sd3V6Y3plTm94dmNDY3pVTFc3VWsyQzlkODhpbTk0QzhDcWZtaXYtWVhpRUVQWmM2TTNsVlRHVzliQjRkTmFTN1BqQlY3Q2xSel9tcGI2N1dKbVdWaWd2VEzSAXRBVV95cUxPVmY4SWZoYVpSZ3BwdUxPRjFkU1FzdnI1bUVMWk1TbUdVSlFTNVpvTHN6cEFiZDRXMFRQdG9LTklXMk45bmVvZGktZDJZWk85N1JzV0JPdExXb3JIdGxTZVRrcHQ0N3ExRy1BYktHWXlWZE5QYw?oc=5",
-          "query": "코스피 코스닥 테마 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "2차전지 관련주 혼조세…삼성SDI 선방, 소재·장비주는 차익실현 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40U1hfZHZtZUxwRG5hQjFEOXphOGVBR2dRaVp5cGVRcUNxYkFjNGtic0plN2dobVRpaUhpVlJpWE5INl9xSUEyWXVsem01WnE4bmVRMEpMTG5LamFtMXByRS1EenM4alZu?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "[ETF 시황] 코스닥 반등에 ETF도 들썩…2차전지 레버리지 질주 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OaGJIeHRiUDdTV1R4UFFiS19kYzNzUllyR0lSVWZBYmZwcmFPVTgyWG14UnhQeExuNE9tR2tXNWpDRUhraXNOTGNrSG1aMW12dWZmSExNdW9qcXJF?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "[더페어 돋보기] 코스닥, 8% 폭등 주역은 ‘바이오·2차전지’…반도체도 동반 질주 - thefairnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11MXpYX2JDZTJIZ2xHOWdSNFZDc2Z3NktPS0hmRjFKWUczNEFCMWtBcTgwYnNRUDlNWTNjZk5ZSDN5NUJnYVgzN216MERhZnlwd3FCZkE4MXZFNE1pTW9ST013T0Qtci0xSVV5QUEzd2ZYRkhm0gF0QVVfeXFMTXUxelhfYkNlMkhnbEc5Z1I0VkNzZnc2S09LSGZGMUpZRzM0QUIxa0FxODBic1FQOU1ZM2NmTllIM3k1QmdhWDM3bXowRGFmeXB3cUJmQTgxdkU0TWlNb1JPTXdPRC1yLTFJVXlBQTN3ZlhGSGY?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "'2차전지 관련주' 충전 끝, 불기둥 폭발…한빛레이저 10% 급등 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeWJjYlAyTmRvY0dxZzczRkZ5MHI4UkhnSEV3OGxIeDdvbVpFWWdvQ2dndjk4SUFjNXJxUkF0Si1FYkMzRVZ4X3h3a18zQWhEM3A5UlNNckxZWTVXYU94RFgxSmlHQ3FT0gFuQVVfeXFMTWJRS2hZdExxLVI0ajRmTVplZ0dDZ1RpWlJCQzhmeWlES0R1R04xaktMcHF5VG5yWmJfenFfS2dfdTIzeld4QVVBZ01OdW00UVBvVmtocGVyWERRbmRCN2hZSVItcmJhdlhoenZvX2c?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
           ]
         }
       ]
@@ -456,7 +357,7 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 18,
+      "score": 20,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -497,6 +398,105 @@
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "battery-stocks",
+      "title": "2차전지 관련주 체크",
+      "pageTitle": "2차전지 관련주 뉴스 체크 | 배터리 테마 체크",
+      "description": "LG에너지솔루션, 삼성SDI, 에코프로비엠 등 2차전지 관련주의 뉴스, 수급, 실적 체크포인트를 모아보는 정보 페이지입니다.",
+      "keywords": "2차전지 관련주, 배터리 관련주, LG에너지솔루션, 삼성SDI, 에코프로비엠",
+      "intro": "2차전지 테마는 전기차 수요, 소재 가격, 미국 정책, 고객사 투자 뉴스에 민감합니다. 기대감과 실적 반영 속도를 나눠 보는 것이 중요합니다.",
+      "searchQueries": [
+        "2차전지 관련주",
+        "배터리 관련주",
+        "전기차 배터리 수혜주"
+      ],
+      "stocks": [
+        {
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "tags": [
+            "배터리",
+            "전기차",
+            "대형주"
+          ],
+          "summary": "전기차 배터리 대표 종목입니다. 고객사 수요, 증설 계획, 수익성 개선 여부를 확인하세요."
+        },
+        {
+          "name": "삼성SDI",
+          "code": "006400",
+          "tags": [
+            "배터리",
+            "전고체",
+            "전기차"
+          ],
+          "summary": "배터리와 전자재료 이슈가 함께 반영됩니다. 전고체 배터리 기대감과 실적 흐름을 구분해서 보세요."
+        },
+        {
+          "name": "에코프로비엠",
+          "code": "247540",
+          "tags": [
+            "양극재",
+            "소재",
+            "성장주"
+          ],
+          "summary": "양극재 대표 종목으로 자주 검색됩니다. 소재 가격, 고객사 발주, 재고 부담을 함께 확인하세요."
+        }
+      ],
+      "checklist": [
+        "전기차 수요 둔화 또는 회복 신호가 있는가?",
+        "소재 가격과 재고 부담이 완화되고 있는가?",
+        "증설 투자가 실제 수주와 연결되는가?",
+        "정책 뉴스에 따른 단기 테마 과열은 아닌가?"
+      ],
+      "related": [
+        "kospi-kosdaq.html",
+        "hbm-stocks.html"
+      ],
+      "score": 17,
+      "autoDiscovered": true,
+      "evidence": [
+        {
+          "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKOS1xS2o5V3NOUkRjdm5sd3V6Y3plTm94dmNDY3pVTFc3VWsyQzlkODhpbTk0QzhDcWZtaXYtWVhpRUVQWmM2TTNsVlRHVzliQjRkTmFTN1BqQlY3Q2xSel9tcGI2N1dKbVdWaWd2VEzSAXRBVV95cUxPVmY4SWZoYVpSZ3BwdUxPRjFkU1FzdnI1bUVMWk1TbUdVSlFTNVpvTHN6cEFiZDRXMFRQdG9LTklXMk45bmVvZGktZDJZWk85N1JzV0JPdExXb3JIdGxTZVRrcHQ0N3ExRy1BYktHWXlWZE5QYw?oc=5",
+          "query": "코스피 코스닥 테마 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "2차전지 관련주 혼조세…삼성SDI 선방, 소재·장비주는 차익실현 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40U1hfZHZtZUxwRG5hQjFEOXphOGVBR2dRaVp5cGVRcUNxYkFjNGtic0plN2dobVRpaUhpVlJpWE5INl9xSUEyWXVsem01WnE4bmVRMEpMTG5LamFtMXByRS1EenM4alZu?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "[ETF 시황] 코스닥 반등에 ETF도 들썩…2차전지 레버리지 질주 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OaGJIeHRiUDdTV1R4UFFiS19kYzNzUllyR0lSVWZBYmZwcmFPVTgyWG14UnhQeExuNE9tR2tXNWpDRUhraXNOTGNrSG1aMW12dWZmSExNdW9qcXJF?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "[특징주] 2차전지 관련주, 가파른 회복세 속 일제히 '상승세' - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2tXVC1PTXRfbkpoTVlUVjBVZXFUZDdLalpvTXUwNm5MVVNLWjJuN2liUnBhNmw2UDlkeWNsVUNRdHFlR0sxR29SWlZmeFVwX3gwU1RWb0tDUDYyQjNMWml0Q3d0YkREelRTTDViQkVfSmU4VlkwaDhSVndHT3dYVThhcGVOZXhY?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "'2차전지 관련주' 충전 끝, 불기둥 폭발…한빛레이저 10% 급등 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeWJjYlAyTmRvY0dxZzczRkZ5MHI4UkhnSEV3OGxIeDdvbVpFWWdvQ2dndjk4SUFjNXJxUkF0Si1FYkMzRVZ4X3h3a18zQWhEM3A5UlNNckxZWTVXYU94RFgxSmlHQ3FT0gFuQVVfeXFMTWJRS2hZdExxLVI0ajRmTVplZ0dDZ1RpWlJCQzhmeWlES0R1R04xaktMcHF5VG5yWmJfenFfS2dfdTIzeld4QVVBZ01OdW00UVBvVmtocGVyWERRbmRCN2hZSVItcmJhdlhoenZvX2c?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
           ]
         }
       ]
@@ -555,20 +555,28 @@
         "hbm-stocks.html",
         "nuclear-stocks.html"
       ],
-      "score": 16,
+      "score": 17,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
+          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sVFNmSDgxSk5wdU96ak5aVHI1Mi1teUhudDVydV9vaFdHZ1JsaGJ3a0dtWDExWEZTNE56a0RYUGxLWm9kZ2c?oc=5",
+          "query": "오늘 국내증시 관련주",
+          "matchedSignals": [
+            "전력 수요"
+          ]
+        },
+        {
+          "title": "[속보] 상한가 속출…2% 조정 와중에 ＇번쩍번쩍＇ 빛난 전력기기 - 한국경제TV",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMFFqSjBBQ2drZUZIZGszTmNORjNIVlJKZl94RFM4RG5iYXpCNnVuSVFiRktJeUR6cmk5dXlfWFBGMWFVZ2NnS1ByR0pIRTdZLU1XZEl1clhSV2lpZ3ZwbF9GTURzX0pscjgyNV9yYTJ4eGtFNW13?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
+          "title": "[투데이's 특징주] 메가프로젝트 수주 기대감에···전력기기株 장 초반 ‘강세’ - 투데이코리아",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoUkEzMGdNVHRrdmw1bHNoMXduZ3NIdlFCdVNSUGROWm92YTQwcGNfRzNsaEhVSWdNWU5rODJKZm5XZTVfTFBqQ0ZQOHFiUXUwTWZoZm5IQlJPZ01vVDM3ci1KUUtvMkc1T1hHODBJUlU?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -583,16 +591,8 @@
           ]
         },
         {
-          "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전선"
-          ]
-        },
-        {
-          "title": "[오늘장 탑픽] AI 광풍에 국내 전력기기 수출 '쑥'…관련주 주목 - SBSBiz",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U3o1eXhwUGRyZ09tUHFNMWczM1hXbnlaU3o3d3RwU0ZYZE5wbHNweWV2aE1aOEFZVVBvQ21kUW5WVUtXMUYwUFZUREZETkVVSV9N0gFYQVVfeXFMTm9fRDVMMTBSUW5NWUM2QXNMUVpJSkFfU2hwdDNmbFV3ei0yYzFuQUpxQ1NGM3RQVldTTTNEa3JiWXFyU2JvTjR4V3RDOHNyeXBJbmRONzNEaA?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -605,14 +605,14 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 33,
+      "score": 36,
       "evidence": [
         {
-          "title": "미국 대형 금융주 중 금리 불확실성에 강한 3곳 주목 - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0xpLTUwNW9vUnVzMW1PM0Y3bENtTWd2TnN1cDdNMENMa3hBVmU4N2x3RU1tUnExZEJwQkJkOHdnWF9QZFVHdTFnTXhRSXZTYjBtazFYVjRPaGlVeGJIUjhhWUdBS0ZOQ0lScVp0a1dzLTM5Tm1DbV91MmZUYVVLMGFGbWs4cHVhcVlWSVNRM2p0bzdoT3hjbEVxMnNfTkVyaWNfQmk1dlVxZlNxaHJIelN2MNIBswFBVV95cUxQa0xpLTUwNW9vUnVzMW1PM0Y3bENtTWd2TnN1cDdNMENMa3hBVmU4N2x3RU1tUnExZEJwQkJkOHdnWF9QZFVHdTFnTXhRSXZTYjBtazFYVjRPaGlVeGJIUjhhWUdBS0ZOQ0lScVp0a1dzLTM5Tm1DbV91MmZUYVVLMGFGbWs4cHVhcVlWSVNRM2p0bzdoT3hjbEVxMnNfTkVyaWNfQmk1dlVxZlNxaHJIelN2MA?oc=5",
-          "query": "금융주",
+          "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 200커버드콜OTM +5.03%, TIGER 배당커버드콜액티브 +3.05% - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEVCYkZBTEoyS0dVSUczZmFUYWJyWFNub2w3UTdCSTdYV1VWc2E2NFhfTEdMa1hJdzh2WDZYRjJ2TDlyWXNxcERNeHJ1YXRiakV4bHk4Vi1rckVsaWxaUDFNdnRkUzJ3UTlzMm9LME5RYUlkWkdPanBTd0FGcXNyWkstMNIBlwFBVV95cUxOc082UWNQai1HUWlLWmUzZzJoTU9FM01nM3hNUkFqOEN5MkxuRlFzV1dJZkR6QlNvdzhtZ0RucDRfRGoxRWNibE5IaGVvOHg5enN4OFVyZkF5VzZ3cGpXUUFiTWswQ2lsWEwyb3lka2w1ckdIU0VjUmdYbzV1d1FDZGFsbmJuR0daOTBjZWgtU29Ld2Zpd3o0?oc=5",
+          "query": "국내 주식 급등 테마",
           "matchedSignals": [
-            "금융주"
+            "배당"
           ]
         },
         {
@@ -632,6 +632,14 @@
           ]
         },
         {
+          "title": "7월 1일 증시: 금융주와 기술주가 상승세를 주도하며 VN-Index는 상승폭을 확대했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWtleW0xOWwyeWc3amxKRkJoLWtISmV1MVg4OHBUZEhLWVM5X1ZrMDJqMHhaSnIxclV3VVJtUFJNLWxaaUwyNWJheFBlRDlwdk5HNDRBcHVueXlPa2ZHUU9OcTNBY0lLaWVaa1FHUThzODhjemNTcTJvNlItMS1nVFpXeDRNeEkzMjJuVDRoSDVMeG5qSnRSd2l6ZXF4dlZnOUh2X3JUbUhRVmc0ckE?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "금리 인상 가능성에 비과세 배당…커지는 금융주 기대감 - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQXc5OEkwbXhLZlBfd2pwWEpZVml5TWd1UDQtUm0xWHJYT1U5YzNxR3JMa2o3V3BRdlBGV2tnTld2QUN4SkdWdHlkbDlxRFd2V05hQ1Nja1F3Z9IBVEFVX3lxTE81SU50eTR5YWVrYnVITlgwLWN5SnBXR0lydHpPNWl2RkZYMks0VVIybkpVRW5CWjRHVVFuRlFHVGZ0U3lWZmJwR3ZHd1pkYnJKUEhKbg?oc=5",
           "query": "금융주",
@@ -639,21 +647,13 @@
             "금융주",
             "배당"
           ]
-        },
-        {
-          "title": "[브라질증시] 원자재·금융주 부진에 하락…상반기 수익률은 6%대 유지 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zTnZhTzZpSXdlSXJYaHo3MkE2VFdrQ3R1eFRlaHJHVWl0SGUxTFZEQnMxek81QnhFNXZzOTF2RDBtRnRzQzhURnRDdE44REozVUVR?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
         }
       ]
     },
     {
       "slug": "cosmetics-stocks",
       "title": "화장품 관련주 체크",
-      "score": 28,
+      "score": 27,
       "evidence": [
         {
           "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
@@ -714,6 +714,14 @@
           ]
         },
         {
+          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sVFNmSDgxSk5wdU96ak5aVHI1Mi1teUhudDVydV9vaFdHZ1JsaGJ3a0dtWDExWEZTNE56a0RYUGxLWm9kZ2c?oc=5",
+          "query": "오늘 국내증시 관련주",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
           "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
           "query": "오늘 국내증시 관련주",
@@ -736,68 +744,13 @@
           "matchedSignals": [
             "AI"
           ]
-        },
-        {
-          "title": "지방선거 특수 사라진 ‘정치테마주'…AI 등 정책수혜주만 일부 상승 - 동양뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNkU4am9EU2hwMXI4TjdBaDZ0SnRReFRDSVFxWlpudFBGY3JlRnotbEh5akloVTk4WlFSc0tHaHdBWllSRUJtUDJYRG9FanVWVkZSazFGS0w2VlpWLXg0RQ?oc=5",
-          "query": "증시 수혜주 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "battery-stocks",
-      "title": "2차전지 관련주 체크",
-      "score": 19,
-      "evidence": [
-        {
-          "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKOS1xS2o5V3NOUkRjdm5sd3V6Y3plTm94dmNDY3pVTFc3VWsyQzlkODhpbTk0QzhDcWZtaXYtWVhpRUVQWmM2TTNsVlRHVzliQjRkTmFTN1BqQlY3Q2xSel9tcGI2N1dKbVdWaWd2VEzSAXRBVV95cUxPVmY4SWZoYVpSZ3BwdUxPRjFkU1FzdnI1bUVMWk1TbUdVSlFTNVpvTHN6cEFiZDRXMFRQdG9LTklXMk45bmVvZGktZDJZWk85N1JzV0JPdExXb3JIdGxTZVRrcHQ0N3ExRy1BYktHWXlWZE5QYw?oc=5",
-          "query": "코스피 코스닥 테마 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "2차전지 관련주 혼조세…삼성SDI 선방, 소재·장비주는 차익실현 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40U1hfZHZtZUxwRG5hQjFEOXphOGVBR2dRaVp5cGVRcUNxYkFjNGtic0plN2dobVRpaUhpVlJpWE5INl9xSUEyWXVsem01WnE4bmVRMEpMTG5LamFtMXByRS1EenM4alZu?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "[ETF 시황] 코스닥 반등에 ETF도 들썩…2차전지 레버리지 질주 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OaGJIeHRiUDdTV1R4UFFiS19kYzNzUllyR0lSVWZBYmZwcmFPVTgyWG14UnhQeExuNE9tR2tXNWpDRUhraXNOTGNrSG1aMW12dWZmSExNdW9qcXJF?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "[더페어 돋보기] 코스닥, 8% 폭등 주역은 ‘바이오·2차전지’…반도체도 동반 질주 - thefairnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11MXpYX2JDZTJIZ2xHOWdSNFZDc2Z3NktPS0hmRjFKWUczNEFCMWtBcTgwYnNRUDlNWTNjZk5ZSDN5NUJnYVgzN216MERhZnlwd3FCZkE4MXZFNE1pTW9ST013T0Qtci0xSVV5QUEzd2ZYRkhm0gF0QVVfeXFMTXUxelhfYkNlMkhnbEc5Z1I0VkNzZnc2S09LSGZGMUpZRzM0QUIxa0FxODBic1FQOU1ZM2NmTllIM3k1QmdhWDM3bXowRGFmeXB3cUJmQTgxdkU0TWlNb1JPTXdPRC1yLTFJVXlBQTN3ZlhGSGY?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "'2차전지 관련주' 충전 끝, 불기둥 폭발…한빛레이저 10% 급등 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeWJjYlAyTmRvY0dxZzczRkZ5MHI4UkhnSEV3OGxIeDdvbVpFWWdvQ2dndjk4SUFjNXJxUkF0Si1FYkMzRVZ4X3h3a18zQWhEM3A5UlNNckxZWTVXYU94RFgxSmlHQ3FT0gFuQVVfeXFMTWJRS2hZdExxLVI0ajRmTVplZ0dDZ1RpWlJCQzhmeWlES0R1R04xaktMcHF5VG5yWmJfenFfS2dfdTIzeld4QVVBZ01OdW00UVBvVmtocGVyWERRbmRCN2hZSVItcmJhdlhoenZvX2c?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
         }
       ]
     },
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 18,
+      "score": 20,
       "evidence": [
         {
           "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - v.daum.net",
@@ -842,21 +795,76 @@
       ]
     },
     {
-      "slug": "power-equipment-stocks",
-      "title": "전력기기 관련주 체크",
-      "score": 16,
+      "slug": "battery-stocks",
+      "title": "2차전지 관련주 체크",
+      "score": 17,
       "evidence": [
         {
-          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
+          "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKOS1xS2o5V3NOUkRjdm5sd3V6Y3plTm94dmNDY3pVTFc3VWsyQzlkODhpbTk0QzhDcWZtaXYtWVhpRUVQWmM2TTNsVlRHVzliQjRkTmFTN1BqQlY3Q2xSel9tcGI2N1dKbVdWaWd2VEzSAXRBVV95cUxPVmY4SWZoYVpSZ3BwdUxPRjFkU1FzdnI1bUVMWk1TbUdVSlFTNVpvTHN6cEFiZDRXMFRQdG9LTklXMk45bmVvZGktZDJZWk85N1JzV0JPdExXb3JIdGxTZVRrcHQ0N3ExRy1BYktHWXlWZE5QYw?oc=5",
+          "query": "코스피 코스닥 테마 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "2차전지 관련주 혼조세…삼성SDI 선방, 소재·장비주는 차익실현 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40U1hfZHZtZUxwRG5hQjFEOXphOGVBR2dRaVp5cGVRcUNxYkFjNGtic0plN2dobVRpaUhpVlJpWE5INl9xSUEyWXVsem01WnE4bmVRMEpMTG5LamFtMXByRS1EenM4alZu?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "[ETF 시황] 코스닥 반등에 ETF도 들썩…2차전지 레버리지 질주 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OaGJIeHRiUDdTV1R4UFFiS19kYzNzUllyR0lSVWZBYmZwcmFPVTgyWG14UnhQeExuNE9tR2tXNWpDRUhraXNOTGNrSG1aMW12dWZmSExNdW9qcXJF?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "[특징주] 2차전지 관련주, 가파른 회복세 속 일제히 '상승세' - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2tXVC1PTXRfbkpoTVlUVjBVZXFUZDdLalpvTXUwNm5MVVNLWjJuN2liUnBhNmw2UDlkeWNsVUNRdHFlR0sxR29SWlZmeFVwX3gwU1RWb0tDUDYyQjNMWml0Q3d0YkREelRTTDViQkVfSmU4VlkwaDhSVndHT3dYVThhcGVOZXhY?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "'2차전지 관련주' 충전 끝, 불기둥 폭발…한빛레이저 10% 급등 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeWJjYlAyTmRvY0dxZzczRkZ5MHI4UkhnSEV3OGxIeDdvbVpFWWdvQ2dndjk4SUFjNXJxUkF0Si1FYkMzRVZ4X3h3a18zQWhEM3A5UlNNckxZWTVXYU94RFgxSmlHQ3FT0gFuQVVfeXFMTWJRS2hZdExxLVI0ajRmTVplZ0dDZ1RpWlJCQzhmeWlES0R1R04xaktMcHF5VG5yWmJfenFfS2dfdTIzeld4QVVBZ01OdW00UVBvVmtocGVyWERRbmRCN2hZSVItcmJhdlhoenZvX2c?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "power-equipment-stocks",
+      "title": "전력기기 관련주 체크",
+      "score": 17,
+      "evidence": [
+        {
+          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sVFNmSDgxSk5wdU96ak5aVHI1Mi1teUhudDVydV9vaFdHZ1JsaGJ3a0dtWDExWEZTNE56a0RYUGxLWm9kZ2c?oc=5",
+          "query": "오늘 국내증시 관련주",
+          "matchedSignals": [
+            "전력 수요"
+          ]
+        },
+        {
+          "title": "[속보] 상한가 속출…2% 조정 와중에 ＇번쩍번쩍＇ 빛난 전력기기 - 한국경제TV",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMFFqSjBBQ2drZUZIZGszTmNORjNIVlJKZl94RFM4RG5iYXpCNnVuSVFiRktJeUR6cmk5dXlfWFBGMWFVZ2NnS1ByR0pIRTdZLU1XZEl1clhSV2lpZ3ZwbF9GTURzX0pscjgyNV9yYTJ4eGtFNW13?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
+          "title": "[투데이's 특징주] 메가프로젝트 수주 기대감에···전력기기株 장 초반 ‘강세’ - 투데이코리아",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoUkEzMGdNVHRrdmw1bHNoMXduZ3NIdlFCdVNSUGROWm92YTQwcGNfRzNsaEhVSWdNWU5rODJKZm5XZTVfTFBqQ0ZQOHFiUXUwTWZoZm5IQlJPZ01vVDM3ci1KUUtvMkc1T1hHODBJUlU?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -871,16 +879,8 @@
           ]
         },
         {
-          "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전선"
-          ]
-        },
-        {
-          "title": "[오늘장 탑픽] AI 광풍에 국내 전력기기 수출 '쑥'…관련주 주목 - SBSBiz",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U3o1eXhwUGRyZ09tUHFNMWczM1hXbnlaU3o3d3RwU0ZYZE5wbHNweWV2aE1aOEFZVVBvQ21kUW5WVUtXMUYwUFZUREZETkVVSV9N0gFYQVVfeXFMTm9fRDVMMTBSUW5NWUM2QXNMUVpJSkFfU2hwdDNmbFV3ei0yYzFuQUpxQ1NGM3RQVldTTTNEa3JiWXFyU2JvTjR4V3RDOHNyeXBJbmRONzNEaA?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
