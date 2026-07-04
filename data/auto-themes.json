@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-04T03:58:59.984Z",
+  "discoveredAt": "2026-07-04T10:59:34.925Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,7 +57,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 32,
+      "score": 34,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -69,16 +69,16 @@
           ]
         },
         {
-          "title": "[더페어 돋보기] 금융주, 시장 반등의 ‘숨은 주역’…상승 배경과 향후 전망은? - thefairnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MHBJNWtKSG9sX0tjLS1zXy1kVUc2VlRnejFRRXhHOWNXWENIcEp1cEhPQ0FWLVpIVGxaMW9uM3FlMV9lMmhpeTRXVjlyUk5mNGN1cjBfVFhvNmdZWURqRU5yQ3QzbEZiMDd4YkQ5c3XSAXRBVV95cUxQaDkta1JZSVhIa1VjNTdWaGpkVG10eFpPOXc4OHltczZ4QThUX1JjSUVlRl9YVlUxcUhvU0VKQzBqVmlhU05VVlRqSy1IdkJPdGVtekFXa3RBREJIQ0dhbzA1bkFPWkxBamRZbkF0d3hGYkFMUw?oc=5",
+          "title": "[생생한 주식쇼 생쇼] 반도체 주도 장세 지속, 저평가 금융주 반등 주목 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pc3l6ZlB3eXFIY3ZLTkptWjNKT2lFVWJXMjA3NXRfcUlMSXllSDVQLVlBZHJBTkJWN0lGaEdUN005R1RrUTQxN1MyeFJHbHd6Y3BaOWNWS0wyVWNoSUNXQw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
         },
         {
-          "title": "[생생한 주식쇼 생쇼] 반도체 주도 장세 지속, 저평가 금융주 반등 주목 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pc3l6ZlB3eXFIY3ZLTkptWjNKT2lFVWJXMjA3NXRfcUlMSXllSDVQLVlBZHJBTkJWN0lGaEdUN005R1RrUTQxN1MyeFJHbHd6Y3BaOWNWS0wyVWNoSUNXQw?oc=5",
+          "title": "[더페어 돋보기] 금융주, 시장 반등의 ‘숨은 주역’…상승 배경과 향후 전망은? - thefairnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MHBJNWtKSG9sX0tjLS1zXy1kVUc2VlRnejFRRXhHOWNXWENIcEp1cEhPQ0FWLVpIVGxaMW9uM3FlMV9lMmhpeTRXVjlyUk5mNGN1cjBfVFhvNmdZWURqRU5yQ3QzbEZiMDd4YkQ5c3XSAXRBVV95cUxQaDkta1JZSVhIa1VjNTdWaGpkVG10eFpPOXc4OHltczZ4QThUX1JjSUVlRl9YVlUxcUhvU0VKQzBqVmlhU05VVlRqSy1IdkJPdGVtekFXa3RBREJIQ0dhbzA1bkFPWkxBamRZbkF0d3hGYkFMUw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -176,6 +176,14 @@
           ]
         },
         {
+          "title": "\"아미들 몰려온다\"… 화장품株 봄날 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNTZtaTZOVmRseDR3YTlXZmlFbVNTdmVuak9XdFhGMUMzcnVla29kOVdELURLd1Q4MGltZTVaY0hqY29XdmJseVhnUmM0dExCUkE?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
           "title": "화장품 관련주, 미국서 'K뷰티' 흥행에 수혜주 다시 움직이나?! : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YdkRHUVE2SmsxdlJ1ZVFKWGNPUy1ZaHBMUnZqVVNnMW5jZTRoQVlZaW11VjRUNjhvVnBabkt4Y0hMZ01fQ21zSlc4M3IyVUtXLXA0ZW9EVm1DSkVaM1hrMzlnY2k1TjQ?oc=5",
           "query": "화장품 관련주",
@@ -183,14 +191,6 @@
             "화장품",
             "K뷰티",
             "뷰티"
-          ]
-        },
-        {
-          "title": "\"아미들 몰려온다\"… 화장품株 봄날 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNTZtaTZOVmRseDR3YTlXZmlFbVNTdmVuak9XdFhGMUMzcnVla29kOVdELURLd1Q4MGltZTVaY0hqY29XdmJseVhnUmM0dExCUkE?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
           ]
         },
         {
@@ -361,7 +361,7 @@
       "evidence": [
         {
           "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByN05FZnJ5aXp2Yk5iVDN5MGpOM2lEaUNnVkNSV0hqWVVVYzVuODl2RERhU293SXpFTUluSG9xVWR6ampGeFE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vV1FNbXMySVByT1k0TVRmSlJoTHNIX2FvRTNfb0pzMUk3YnJEZDFaYS1IVDVEZTBtbnlBcDloa2RyY0pwUFd3RzF6Zw?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -386,16 +386,16 @@
           ]
         },
         {
-          "title": "스페이스X 상장 관련주 들썩…'우주 바이오' 시대 열릴까 - 라포르시안",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XamVBU08yQjluaXpVcVZVc0oxOHJYamhraG5VWjNHMldYTEZuMFJueUdQWG1TdTlTVzlYNnlEakExN0M2VVd6VGgxaVVCX3ZzU0ZLTzBNUG5feERwNk9ObE9LNlZiMVh4d0l0c0ln?oc=5",
+          "title": "바이오시밀러 관련주, 흔들리는 바이오 섹터 속 특허 만료 수혜 주목 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVGdOU3JuVGVESzgySUpjbXlaeHBrUzRyaEJ4MnJjVUI0UG45aldoNmNfTnY0TlI2bWRDQUl3R3FSbGNtd093WHJEenl1TDZhQmxra0NVaEZWc2VjQW45eU5NUlRLUEtxM3pOenJUZVNaQnhuMndfOTVMSXZZUGM?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
           ]
         },
         {
-          "title": "바이오시밀러 관련주, 흔들리는 바이오 섹터 속 특허 만료 수혜 주목 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVGdOU3JuVGVESzgySUpjbXlaeHBrUzRyaEJ4MnJjVUI0UG45aldoNmNfTnY0TlI2bWRDQUl3R3FSbGNtd093WHJEenl1TDZhQmxra0NVaEZWc2VjQW45eU5NUlRLUEtxM3pOenJUZVNaQnhuMndfOTVMSXZZUGM?oc=5",
+          "title": "스페이스X 상장 관련주 들썩…'우주 바이오' 시대 열릴까 - 라포르시안",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XamVBU08yQjluaXpVcVZVc0oxOHJYamhraG5VWjNHMldYTEZuMFJueUdQWG1TdTlTVzlYNnlEakExN0M2VVd6VGgxaVVCX3ZzU0ZLTzBNUG5feERwNk9ObE9LNlZiMVh4d0l0c0ln?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -577,16 +577,16 @@
           ]
         },
         {
-          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
+          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -607,7 +607,7 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 32,
+      "score": 34,
       "evidence": [
         {
           "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 배당커버드콜액티브 +4.10%, RISE 200위클리커버드콜 +2.91% - 조선비즈 - Chosunbiz",
@@ -618,16 +618,16 @@
           ]
         },
         {
-          "title": "[더페어 돋보기] 금융주, 시장 반등의 ‘숨은 주역’…상승 배경과 향후 전망은? - thefairnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MHBJNWtKSG9sX0tjLS1zXy1kVUc2VlRnejFRRXhHOWNXWENIcEp1cEhPQ0FWLVpIVGxaMW9uM3FlMV9lMmhpeTRXVjlyUk5mNGN1cjBfVFhvNmdZWURqRU5yQ3QzbEZiMDd4YkQ5c3XSAXRBVV95cUxQaDkta1JZSVhIa1VjNTdWaGpkVG10eFpPOXc4OHltczZ4QThUX1JjSUVlRl9YVlUxcUhvU0VKQzBqVmlhU05VVlRqSy1IdkJPdGVtekFXa3RBREJIQ0dhbzA1bkFPWkxBamRZbkF0d3hGYkFMUw?oc=5",
+          "title": "[생생한 주식쇼 생쇼] 반도체 주도 장세 지속, 저평가 금융주 반등 주목 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pc3l6ZlB3eXFIY3ZLTkptWjNKT2lFVWJXMjA3NXRfcUlMSXllSDVQLVlBZHJBTkJWN0lGaEdUN005R1RrUTQxN1MyeFJHbHd6Y3BaOWNWS0wyVWNoSUNXQw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
         },
         {
-          "title": "[생생한 주식쇼 생쇼] 반도체 주도 장세 지속, 저평가 금융주 반등 주목 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pc3l6ZlB3eXFIY3ZLTkptWjNKT2lFVWJXMjA3NXRfcUlMSXllSDVQLVlBZHJBTkJWN0lGaEdUN005R1RrUTQxN1MyeFJHbHd6Y3BaOWNWS0wyVWNoSUNXQw?oc=5",
+          "title": "[더페어 돋보기] 금융주, 시장 반등의 ‘숨은 주역’…상승 배경과 향후 전망은? - thefairnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MHBJNWtKSG9sX0tjLS1zXy1kVUc2VlRnejFRRXhHOWNXWENIcEp1cEhPQ0FWLVpIVGxaMW9uM3FlMV9lMmhpeTRXVjlyUk5mNGN1cjBfVFhvNmdZWURqRU5yQ3QzbEZiMDd4YkQ5c3XSAXRBVV95cUxQaDkta1JZSVhIa1VjNTdWaGpkVG10eFpPOXc4OHltczZ4QThUX1JjSUVlRl9YVlUxcUhvU0VKQzBqVmlhU05VVlRqSy1IdkJPdGVtekFXa3RBREJIQ0dhbzA1bkFPWkxBamRZbkF0d3hGYkFMUw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -674,6 +674,14 @@
           ]
         },
         {
+          "title": "\"아미들 몰려온다\"… 화장품株 봄날 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNTZtaTZOVmRseDR3YTlXZmlFbVNTdmVuak9XdFhGMUMzcnVla29kOVdELURLd1Q4MGltZTVaY0hqY29XdmJseVhnUmM0dExCUkE?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
           "title": "화장품 관련주, 미국서 'K뷰티' 흥행에 수혜주 다시 움직이나?! : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YdkRHUVE2SmsxdlJ1ZVFKWGNPUy1ZaHBMUnZqVVNnMW5jZTRoQVlZaW11VjRUNjhvVnBabkt4Y0hMZ01fQ21zSlc4M3IyVUtXLXA0ZW9EVm1DSkVaM1hrMzlnY2k1TjQ?oc=5",
           "query": "화장품 관련주",
@@ -681,14 +689,6 @@
             "화장품",
             "K뷰티",
             "뷰티"
-          ]
-        },
-        {
-          "title": "\"아미들 몰려온다\"… 화장품株 봄날 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNTZtaTZOVmRseDR3YTlXZmlFbVNTdmVuak9XdFhGMUMzcnVla29kOVdELURLd1Q4MGltZTVaY0hqY29XdmJseVhnUmM0dExCUkE?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
           ]
         },
         {
@@ -755,7 +755,7 @@
       "evidence": [
         {
           "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByN05FZnJ5aXp2Yk5iVDN5MGpOM2lEaUNnVkNSV0hqWVVVYzVuODl2RERhU293SXpFTUluSG9xVWR6ampGeFE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vV1FNbXMySVByT1k0TVRmSlJoTHNIX2FvRTNfb0pzMUk3YnJEZDFaYS1IVDVEZTBtbnlBcDloa2RyY0pwUFd3RzF6Zw?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -780,16 +780,16 @@
           ]
         },
         {
-          "title": "스페이스X 상장 관련주 들썩…'우주 바이오' 시대 열릴까 - 라포르시안",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XamVBU08yQjluaXpVcVZVc0oxOHJYamhraG5VWjNHMldYTEZuMFJueUdQWG1TdTlTVzlYNnlEakExN0M2VVd6VGgxaVVCX3ZzU0ZLTzBNUG5feERwNk9ObE9LNlZiMVh4d0l0c0ln?oc=5",
+          "title": "바이오시밀러 관련주, 흔들리는 바이오 섹터 속 특허 만료 수혜 주목 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVGdOU3JuVGVESzgySUpjbXlaeHBrUzRyaEJ4MnJjVUI0UG45aldoNmNfTnY0TlI2bWRDQUl3R3FSbGNtd093WHJEenl1TDZhQmxra0NVaEZWc2VjQW45eU5NUlRLUEtxM3pOenJUZVNaQnhuMndfOTVMSXZZUGM?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
           ]
         },
         {
-          "title": "바이오시밀러 관련주, 흔들리는 바이오 섹터 속 특허 만료 수혜 주목 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVGdOU3JuVGVESzgySUpjbXlaeHBrUzRyaEJ4MnJjVUI0UG45aldoNmNfTnY0TlI2bWRDQUl3R3FSbGNtd093WHJEenl1TDZhQmxra0NVaEZWc2VjQW45eU5NUlRLUEtxM3pOenJUZVNaQnhuMndfOTVMSXZZUGM?oc=5",
+          "title": "스페이스X 상장 관련주 들썩…'우주 바이오' 시대 열릴까 - 라포르시안",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XamVBU08yQjluaXpVcVZVc0oxOHJYamhraG5VWjNHMldYTEZuMFJueUdQWG1TdTlTVzlYNnlEakExN0M2VVd6VGgxaVVCX3ZzU0ZLTzBNUG5feERwNk9ObE9LNlZiMVh4d0l0c0ln?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -867,16 +867,16 @@
           ]
         },
         {
-          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
+          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
