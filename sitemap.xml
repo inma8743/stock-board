@@ -355,42 +355,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stock-board-ten.vercel.app/finance-stocks.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://stock-board-ten.vercel.app/cosmetics-stocks.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://stock-board-ten.vercel.app/ai-software-stocks.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://stock-board-ten.vercel.app/battery-stocks.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://stock-board-ten.vercel.app/bio-stocks.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://stock-board-ten.vercel.app/power-equipment-stocks.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://stock-board-ten.vercel.app/privacy.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>yearly</changefreq>
