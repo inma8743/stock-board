@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T04:11:37.677Z",
+  "fetchedAt": "2026-07-10T12:07:43.316Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -194,10 +194,10 @@
           "query": "로봇 관련주"
         },
         {
-          "title": "[특징주] 현대차 사상 첫 70만원 돌파…로봇 관련주 급등(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XLXI0V1pHbFYwUy1YdlFuQXAzRDViNFVjMDYxQXJJQnpQTHl0bTVJSDNvWGpLQWtxMjh3eGEwVkZUaEtPZTg3VEFUY2JOVHZMYTdyTF9kVEtydGvSAWBBVV95cUxQOW8wVWZBNmdjd0k1cnpkUDBRMWtJRWx1bzVEUHJMd19sOEM4M0xOcDUzRWdOM011U3NNV2lkQVdhSXV4NDNTZHRzZVk2UFdWcGduUnhZSnFyai1BYjVpODU?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+          "title": "‘3대 메가프로젝트’에 AI·전력·로봇주 들썩…증권가 “투자 사이클 2단계 진입” - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MNW5SZHN0UTBhOHZiZENfcE94R29XdEc4NWdQZHV3YmpObW12NFpEalFNYlhlc0FTak9VY2Y1TVcyYW5xekcxQkxjZjZjVTJyV2haaVBqN2ljY1U?oc=5",
+          "source": "에너지경제신문",
+          "publishedAt": "Tue, 30 Jun 2026 07:25:56 GMT",
           "query": "로봇 관련주"
         }
       ]
@@ -220,10 +220,10 @@
           "query": "금융주"
         },
         {
-          "title": "반도체주 멀미에… 금융주로 눈 돌리는 증시 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85dTFtMmxUdDJwWnNXU3hvR1Z4amFhRVROTWtKTUM3enktRkhwMFBkZlo0RWN6ZkcyQXlMTnlIUTAyeDRRR1htODZ1dzAyS0xmTXpSTFRTTHI4MUdyeHFtekhWdlNmRll3VzhBNFB0SFg0bUdDZVhmaHpWdHRiUQ?oc=5",
+          "title": "[서울데이터랩]코스피, 7,500선 웃돌며 급등 출발…반도체·금융주 동반 강세 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjNnZDZXbElTQU14VzZXTG5ucVFaanZXOWlpQnV4UmwyTU5aWVVFWjNDcnhVZmxwUmpOUHVQTkR1TmlSRE1wSXVmbGdMejlsM21ZZ2lfTk1UOE01RW1fdmx6dk5OSkZSUnRNTmhkcEg1S3FFUGlycEhGWmpiMWF5ckRCaGdkS1l4U1hUMHh2cnlaZW9WaVZ1akx1MXRMU2FTOUxEbXhzTTBSSms?oc=5",
           "source": "서울신문",
-          "publishedAt": "Thu, 09 Jul 2026 14:45:00 GMT",
+          "publishedAt": "Fri, 10 Jul 2026 00:47:00 GMT",
           "query": "금융주"
         },
         {
@@ -293,13 +293,6 @@
           "query": "2차전지 관련주"
         },
         {
-          "title": "LFP 배터리 기대감 확산…2차전지 관련주 매수 몰리며 신바람 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jZWFydXp1M1l4US1BUHpGUG9GejdGb2VZdFZrWERsYUFSRjVuVkRVandTemQzRUpldVk3ZGpPelg3STI5M3hBLW9rLUFNakd4SWsxaGdNTm1MX21HRHFfcG9vdFNzX0dyR3Fpa2JZZUktMFHSAXdBVV95cUxNSXBPZFI5a0ZWMlg5SFU2V0t5R0NpNUlud25mYU5FcmVyTzFnMmVneW5qQzhKVHpqQzRPT3VMWjYzVGk5M3V1eDg4cXpZcnIzc2xnZ2thZGo2bkhGdGoxN2tnWDFOSElEMERhTmJDd1daYkkxdFk2VQ?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Fri, 10 Jul 2026 01:56:46 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
           "title": "[전기차 관련주 동향] 7월 1주, 테슬라 급락과 배터리주 약세 - 센머니",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02YUp0b2lDb3l4Rmx6MDJlQUgxMkFiWExsNlFZSEEzaWNsdVdzRjhsemNSYnRtNkdJa2t2OUxhTk0zZEhqTEN1YlloclhLTHZVc20zcEVkTE05bkdXVVdnSTlsN1JIWXozQk44TQ?oc=5",
           "source": "센머니",
@@ -317,6 +310,13 @@
           "title": "'2차전지 관련주' 충전 끝, 불기둥 폭발…한빛레이저 10% 급등 - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeWJjYlAyTmRvY0dxZzczRkZ5MHI4UkhnSEV3OGxIeDdvbVpFWWdvQ2dndjk4SUFjNXJxUkF0Si1FYkMzRVZ4X3h3a18zQWhEM3A5UlNNckxZWTVXYU94RFgxSmlHQ3FT0gFuQVVfeXFMTWJRS2hZdExxLVI0ajRmTVplZ0dDZ1RpWlJCQzhmeWlES0R1R04xaktMcHF5VG5yWmJfenFfS2dfdTIzeld4QVVBZ01OdW00UVBvVmtocGVyWERRbmRCN2hZSVItcmJhdlhoenZvX2c?oc=5",
           "source": "머니투데이",
+          "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+          "query": "2차전지 관련주"
+        },
+        {
+          "title": "[오늘장 탑픽] 2차전지 섹터, 현재 위치와 투자 기회는? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HSjZkb09wdHhoMTBVZkl3eTI2MlluUkRMSWswYkVUdHlhcTVjMGMyak15X3huc0poVmZKdXpMUjdzeUdQdjlfXzZCMmhENmc?oc=5",
+          "source": "v.daum.net",
           "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
           "query": "2차전지 관련주"
         }
@@ -340,13 +340,6 @@
           "query": "AI 소프트웨어 관련주"
         },
         {
-          "title": "SKAI·폴라리스오피스·이수페타시스 등 AI 관련주 엇갈린 흐름…변동성 장세 속 종목별 차별화 진행 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GZFdmYVNnTHU3bks3R1JYT0RVNlBtNWM4TEE0UFVZX3U4WGtNOTgwX0xtNGxhX1JPUFp3SlBESVBfa2R2LS1hSkFIc3ZnX19IU2U2cmlFa0p6RG9LbzVQQVk1N1poQ18t?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-          "query": "AI 소프트웨어 관련주"
-        },
-        {
           "title": "AI 관련주 ‘스트라드비젼’ 상장, 7호 따따블 터질까 - 뉴스웰",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SSzZCTnhhdGJfNUloSWNRNU1nT2hfdVBiN1M4YjZ3NWdkV1ZheDUtMDI4VHdqZDBhYU9xa0F6aUwySG1RMHFvSE5IM3I0YWRCNXlVbEVwZVZCSG9keENrMU9pRUI4T0lXSUpNRQ?oc=5",
           "source": "뉴스웰",
@@ -358,6 +351,13 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxMURDbUNadzNIdktfYmpmMXNFQ0JMUVctU0llblFySnNhWUhOWi1KTjdpa3BrVUJZNVdFMkZZbjcxc1YyWU9OUHpDRTE5eVBpcndyYV9sNldmU3o2NnRwRWR2Vk1RbGVxVGpIRFUycnNhZw?oc=5",
           "source": "글로벌이코노믹",
           "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
+          "query": "AI 소프트웨어 관련주"
+        },
+        {
+          "title": "Nvidia CEO, AI가 소프트웨어 산업 위협한다는 우려 일축…관련주 급등 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RaEFxMkpDdDZmVkJKYnM3T3dXODNQX2ZEdEdwS0hKTVZqN1I4eFAyLXZiM0t5YTdwc3Q0eDY0eVczRDdqV1dJUG1zSWhYa0syU19JSmI0c0p1TWlpWlJvbm9lZS1IbVBXOENhbDZwX1M?oc=5",
+          "source": "Investing.com 한국어",
+          "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
           "query": "AI 소프트웨어 관련주"
         }
       ]
