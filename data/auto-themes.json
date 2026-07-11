@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-10T12:07:43.288Z",
+  "discoveredAt": "2026-07-11T03:38:48.159Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,7 +57,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 31,
+      "score": 32,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -66,6 +66,14 @@
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
             "배당"
+          ]
+        },
+        {
+          "title": "반도체주 멀미에… 금융주로 눈 돌리는 증시 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85dTFtMmxUdDJwWnNXU3hvR1Z4amFhRVROTWtKTUM3enktRkhwMFBkZlo0RWN6ZkcyQXlMTnlIUTAyeDRRR1htODZ1dzAyS0xmTXpSTFRTTHI4MUdyeHFtekhWdlNmRll3VzhBNFB0SFg0bUdDZVhmaHpWdHRiUQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
           ]
         },
         {
@@ -78,24 +86,16 @@
           ]
         },
         {
+          "title": "금리 변동기에도 흔들림 적은 저변동 금융주 3선 - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGFXZXhNS1Jkc0U3SW0yM29yc25TX2JJX25FckhFb2VrdDY2MXZVcGktZDh6QmFsQ0pZT19Bam5RNWNsOHQ5WHBnRU84NC1aeHNxR1MyZjFmWk42SXhWbldQRFB5S21SWGQzTVhCZDZDaUR2RGNMVWJZMjU4bHJJYkhhOHhUWXkwT19VYXczbDhOM29oTDNqc2RHbVJTakpkZEcyMVRBTjFvRDN5aWdvUlNYaDdVUdIBtgFBVV95cUxQSGFXZXhNS1Jkc0U3SW0yM29yc25TX2JJX25FckhFb2VrdDY2MXZVcGktZDh6QmFsQ0pZT19Bam5RNWNsOHQ5WHBnRU84NC1aeHNxR1MyZjFmWk42SXhWbldQRFB5S21SWGQzTVhCZDZDaUR2RGNMVWJZMjU4bHJJYkhhOHhUWXkwT19VYXczbDhOM29oTDNqc2RHbVJTakpkZEcyMVRBTjFvRDN5aWdvUlNYaDdVUQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "[서울데이터랩]코스피, 7,500선 웃돌며 급등 출발…반도체·금융주 동반 강세 - twig24.com",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55UVZUVFFYclpvVmdwaUMtZzM3VGZaa1pyV1ZsTGlQTWh4S0ViQlZSNkViTE96U2xOUjB1Sy1tR2ZzTFJKbFZPNVh0MTVMQldSOHJGSzNNTTQ0N3NQcTlXYWtWdw?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[서울데이터랩]코스피, 7,500선 웃돌며 급등 출발…반도체·금융주 동반 강세 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjNnZDZXbElTQU14VzZXTG5ucVFaanZXOWlpQnV4UmwyTU5aWVVFWjNDcnhVZmxwUmpOUHVQTkR1TmlSRE1wSXVmbGdMejlsM21ZZ2lfTk1UOE01RW1fdmx6dk5OSkZSUnRNTmhkcEg1S3FFUGlycEhGWmpiMWF5ckRCaGdkS1l4U1hUMHh2cnlaZW9WaVZ1akx1MXRMU2FTOUxEbXhzTTBSSms?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "미국증시 다우지수 '반등'...금융주 '웃고', SW·제약·소비주는 '뚝' - 초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wYkcyWVZUakFReTlCZU42OW54OUs0OEh5bGZkVEpuNG5Na1cxaEJabTdwd2tnUjlPRHJOSVAyQmZCeGoxcDVZTHI0RDhqMmo4eUxOS0x6WEpkenpXNl9SVm1FUU51dmhYRkpHazZJS2zSAXNBVV95cUxPOG83bF9JNW5hWG5HTXNSajRKQ3FoZmEyb1hpeURwTjdzYUZQVjFJdzRFRklKbnFRaURKeWlJWDluSFEwM21tczhJUkpFWW82YXQzQjRiNmhmY3lfaEY3OHNXR1oxWkxfVXNCYXkwUkJUdlhZ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LWG1MM292VlJBY1hxVU9oTjY5Z1hSazN2c0NfQjFMWkQ4aFhCYTNzMFE0MEVzdXFEYUo1bVZ0LWdKZng5RzFWbmtlNUFTR0Z0QWRqZ3JTX2dBMUZ0UGJPelBWV3AxWi1vOG5zZ0JNRXg0b1hWRVNZ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -156,7 +156,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 28,
+      "score": 27,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -257,7 +257,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 23,
+      "score": 24,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -295,8 +295,8 @@
           ]
         },
         {
-          "title": "'2차전지 관련주' 충전 끝, 불기둥 폭발…한빛레이저 10% 급등 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeWJjYlAyTmRvY0dxZzczRkZ5MHI4UkhnSEV3OGxIeDdvbVpFWWdvQ2dndjk4SUFjNXJxUkF0Si1FYkMzRVZ4X3h3a18zQWhEM3A5UlNNckxZWTVXYU94RFgxSmlHQ3FT0gFuQVVfeXFMTWJRS2hZdExxLVI0ajRmTVplZ0dDZ1RpWlJCQzhmeWlES0R1R04xaktMcHF5VG5yWmJfenFfS2dfdTIzeld4QVVBZ01OdW00UVBvVmtocGVyWERRbmRCN2hZSVItcmJhdlhoenZvX2c?oc=5",
+          "title": "[오늘장 탑픽] 2차전지 섹터, 현재 위치와 투자 기회는? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HSjZkb09wdHhoMTBVZkl3eTI2MlluUkRMSWswYkVUdHlhcTVjMGMyak15X3huc0poVmZKdXpMUjdzeUdQdjlfXzZCMmhENmc?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -358,7 +358,7 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 21,
+      "score": 23,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -608,7 +608,7 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 31,
+      "score": 32,
       "evidence": [
         {
           "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 200커버드콜OTM +5.03%, TIGER 배당커버드콜액티브 +3.05% - 조선비즈 - Chosunbiz",
@@ -616,6 +616,14 @@
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
             "배당"
+          ]
+        },
+        {
+          "title": "반도체주 멀미에… 금융주로 눈 돌리는 증시 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85dTFtMmxUdDJwWnNXU3hvR1Z4amFhRVROTWtKTUM3enktRkhwMFBkZlo0RWN6ZkcyQXlMTnlIUTAyeDRRR1htODZ1dzAyS0xmTXpSTFRTTHI4MUdyeHFtekhWdlNmRll3VzhBNFB0SFg0bUdDZVhmaHpWdHRiUQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
           ]
         },
         {
@@ -628,24 +636,16 @@
           ]
         },
         {
+          "title": "금리 변동기에도 흔들림 적은 저변동 금융주 3선 - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGFXZXhNS1Jkc0U3SW0yM29yc25TX2JJX25FckhFb2VrdDY2MXZVcGktZDh6QmFsQ0pZT19Bam5RNWNsOHQ5WHBnRU84NC1aeHNxR1MyZjFmWk42SXhWbldQRFB5S21SWGQzTVhCZDZDaUR2RGNMVWJZMjU4bHJJYkhhOHhUWXkwT19VYXczbDhOM29oTDNqc2RHbVJTakpkZEcyMVRBTjFvRDN5aWdvUlNYaDdVUdIBtgFBVV95cUxQSGFXZXhNS1Jkc0U3SW0yM29yc25TX2JJX25FckhFb2VrdDY2MXZVcGktZDh6QmFsQ0pZT19Bam5RNWNsOHQ5WHBnRU84NC1aeHNxR1MyZjFmWk42SXhWbldQRFB5S21SWGQzTVhCZDZDaUR2RGNMVWJZMjU4bHJJYkhhOHhUWXkwT19VYXczbDhOM29oTDNqc2RHbVJTakpkZEcyMVRBTjFvRDN5aWdvUlNYaDdVUQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "[서울데이터랩]코스피, 7,500선 웃돌며 급등 출발…반도체·금융주 동반 강세 - twig24.com",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55UVZUVFFYclpvVmdwaUMtZzM3VGZaa1pyV1ZsTGlQTWh4S0ViQlZSNkViTE96U2xOUjB1Sy1tR2ZzTFJKbFZPNVh0MTVMQldSOHJGSzNNTTQ0N3NQcTlXYWtWdw?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[서울데이터랩]코스피, 7,500선 웃돌며 급등 출발…반도체·금융주 동반 강세 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjNnZDZXbElTQU14VzZXTG5ucVFaanZXOWlpQnV4UmwyTU5aWVVFWjNDcnhVZmxwUmpOUHVQTkR1TmlSRE1wSXVmbGdMejlsM21ZZ2lfTk1UOE01RW1fdmx6dk5OSkZSUnRNTmhkcEg1S3FFUGlycEhGWmpiMWF5ckRCaGdkS1l4U1hUMHh2cnlaZW9WaVZ1akx1MXRMU2FTOUxEbXhzTTBSSms?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "미국증시 다우지수 '반등'...금융주 '웃고', SW·제약·소비주는 '뚝' - 초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wYkcyWVZUakFReTlCZU42OW54OUs0OEh5bGZkVEpuNG5Na1cxaEJabTdwd2tnUjlPRHJOSVAyQmZCeGoxcDVZTHI0RDhqMmo4eUxOS0x6WEpkenpXNl9SVm1FUU51dmhYRkpHazZJS2zSAXNBVV95cUxPOG83bF9JNW5hWG5HTXNSajRKQ3FoZmEyb1hpeURwTjdzYUZQVjFJdzRFRklKbnFRaURKeWlJWDluSFEwM21tczhJUkpFWW82YXQzQjRiNmhmY3lfaEY3OHNXR1oxWkxfVXNCYXkwUkJUdlhZ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LWG1MM292VlJBY1hxVU9oTjY5Z1hSazN2c0NfQjFMWkQ4aFhCYTNzMFE0MEVzdXFEYUo1bVZ0LWdKZng5RzFWbmtlNUFTR0Z0QWRqZ3JTX2dBMUZ0UGJPelBWV3AxWi1vOG5zZ0JNRXg0b1hWRVNZ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -656,7 +656,7 @@
     {
       "slug": "cosmetics-stocks",
       "title": "화장품 관련주 체크",
-      "score": 28,
+      "score": 27,
       "evidence": [
         {
           "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
@@ -705,7 +705,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 23,
+      "score": 24,
       "evidence": [
         {
           "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
@@ -742,8 +742,8 @@
           ]
         },
         {
-          "title": "'2차전지 관련주' 충전 끝, 불기둥 폭발…한빛레이저 10% 급등 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeWJjYlAyTmRvY0dxZzczRkZ5MHI4UkhnSEV3OGxIeDdvbVpFWWdvQ2dndjk4SUFjNXJxUkF0Si1FYkMzRVZ4X3h3a18zQWhEM3A5UlNNckxZWTVXYU94RFgxSmlHQ3FT0gFuQVVfeXFMTWJRS2hZdExxLVI0ajRmTVplZ0dDZ1RpWlJCQzhmeWlES0R1R04xaktMcHF5VG5yWmJfenFfS2dfdTIzeld4QVVBZ01OdW00UVBvVmtocGVyWERRbmRCN2hZSVItcmJhdlhoenZvX2c?oc=5",
+          "title": "[오늘장 탑픽] 2차전지 섹터, 현재 위치와 투자 기회는? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HSjZkb09wdHhoMTBVZkl3eTI2MlluUkRMSWswYkVUdHlhcTVjMGMyak15X3huc0poVmZKdXpMUjdzeUdQdjlfXzZCMmhENmc?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -754,7 +754,7 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 21,
+      "score": 23,
       "evidence": [
         {
           "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
