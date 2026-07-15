@@ -367,13 +367,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stock-board-ten.vercel.app/battery-stocks.html</loc>
+    <loc>https://stock-board-ten.vercel.app/ai-software-stocks.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stock-board-ten.vercel.app/ai-software-stocks.html</loc>
+    <loc>https://stock-board-ten.vercel.app/battery-stocks.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
