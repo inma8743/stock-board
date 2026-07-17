@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-17T03:33:49.021Z",
+  "discoveredAt": "2026-07-17T10:57:24.111Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,7 +57,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 32,
+      "score": 31,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -77,6 +77,14 @@
           ]
         },
         {
+          "title": "시장의 양면성: 금융주는 사상 최고치를 경신, 반도체주는 약세장 진입 직전 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBidmxDNEZ2YldwWWFZOFZYUlZHdHR3N01zZ3BNb1ltMDhpX2ZiQTVUZVE0eUJneTZtVUp6Ykw0clVybEVEdnRHZWJDRDJzRUE2TXZIYVExQVNrdGZvMzJfeG82T3dJZ0dZYWRjcXZBb3lfOVhEckFhRg?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "하나증권 \"금융주 기준금리 인상 수혜 전망, 관련주 KB금융지주 신한금융지주\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZ25qNVpoTGZqLXpIdjdjdFNiRURWSm0wZWh6b1hTR1JJeXNFX2hUWmZCVVhYT2I2NXg4NFhvbzU2TERpQWs2Nllxak9hSFYtN3NKZGRqTVU4ZGh1OEdfRzFuSzhNaDh2dHUxVXdPVW12Mjg?oc=5",
           "query": "금융주",
@@ -90,15 +98,6 @@
           "query": "금융주",
           "matchedSignals": [
             "금융주"
-          ]
-        },
-        {
-          "title": "변동장 피난처 된 금융주… KB, 실적·주주환원 앞세워 ‘시총 8위’ - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02cTdXYVp1elJMQ0Z3QlpCU0VEWW5XQ3lLaUthdXBvMTRvX2czNFdmZHo5amdNWjNvUE5pWWwyVnVFN29zTXlfdUV1MzdoZFRQa1B2bGRyd0ZIM0NmNjVUbWMwSUF5aUZuMV9LQmZR?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "주주환원"
           ]
         }
       ]
@@ -258,20 +257,20 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 24,
+      "score": 23,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
+          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRVVtRjdseVJ3YlFTVnFDLTVJZ2ZkLXdOVGI4TTh2bmQtSTZPNE9lZUk5NjhrSjd6SktrYmNZZlFCdlZPTXRVbl85eDh6b0U?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
           ]
         },
         {
-          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRVVtRjdseVJ3YlFTVnFDLTVJZ2ZkLXdOVGI4TTh2bmQtSTZPNE9lZUk5NjhrSjd6SktrYmNZZlFCdlZPTXRVbl85eDh6b0U?oc=5",
+          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
@@ -458,9 +457,17 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 20,
+      "score": 21,
       "autoDiscovered": true,
       "evidence": [
+        {
+          "title": "[박정식의 국내 주식시황] 반도체 훈풍 탄 코스피…코스닥 반등은 소부장·바이오에 달렸다 - 뉴스퀘스트",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KT2xGekhhUzFyMEdzNTlkc0ZFQzU2SXhCNUw3U01YQ2V0aVdZekJFYVNvcFJMSjFpQnRFYUZLSGxCWnpOTjQ2SzUtZzVxd2tWWnJWaWVybmI2N1ZGQkg1eHEzajlWWmFKMjNWaWxjMNIBc0FVX3lxTE9Fa1BRVDJzTU1lamdBQ2V6YUN3QkxwSGF2UmU1YWhnN2tLeXpIMndCNTlBbjhVdXJCXzMtd3N0VlVHMU50RlhNcHV1Rms5dlJEU2xaMlNod3VLVjNxRzAwRDN5aHRBZ2dscDNZTHJnU2thSWs?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
         {
           "title": "바이오 관련주, 단백질 분해 신약(TPD)이 부상한다 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRGVmbUZNT1lmR3piVUg1NloyT1R0R3dia3NwdUYtdTNNSWJvTVdTWnluTk9ZWXlzaERYQ3psdTRoYjQxSjNGaENZanhsNnZZekJMOUpjZEZsUQ?oc=5",
@@ -489,14 +496,6 @@
         {
           "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -608,7 +607,7 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 32,
+      "score": 31,
       "evidence": [
         {
           "title": "\"연내 기준금리 3% 전망\"...금융주 미리 '찜' - v.daum.net",
@@ -621,6 +620,14 @@
         {
           "title": "실적 시즌 앞두고 금융주, 10년 만에 최대 자금 유입 기록 - Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBb1B4d0lvVmYybDFTSWh1dFdocUZzRzFVbFpyQnEwMEV3TjVJZnJTczNZVlh1OF9WVmJaWjNpaUVsckRvSHp4cEZma1gtUnBsUTlDNV94Zmo2UlFmX0szQW81ZkFwZTVtOTRmbTc1a2c?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "시장의 양면성: 금융주는 사상 최고치를 경신, 반도체주는 약세장 진입 직전 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBidmxDNEZ2YldwWWFZOFZYUlZHdHR3N01zZ3BNb1ltMDhpX2ZiQTVUZVE0eUJneTZtVUp6Ykw0clVybEVEdnRHZWJDRDJzRUE2TXZIYVExQVNrdGZvMzJfeG82T3dJZ0dZYWRjcXZBb3lfOVhEckFhRg?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -640,15 +647,6 @@
           "query": "금융주",
           "matchedSignals": [
             "금융주"
-          ]
-        },
-        {
-          "title": "변동장 피난처 된 금융주… KB, 실적·주주환원 앞세워 ‘시총 8위’ - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02cTdXYVp1elJMQ0Z3QlpCU0VEWW5XQ3lLaUthdXBvMTRvX2czNFdmZHo5amdNWjNvUE5pWWwyVnVFN29zTXlfdUV1MzdoZFRQa1B2bGRyd0ZIM0NmNjVUbWMwSUF5aUZuMV9LQmZR?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "주주환원"
           ]
         }
       ]
@@ -706,19 +704,19 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 24,
+      "score": 23,
       "evidence": [
         {
-          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
+          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRVVtRjdseVJ3YlFTVnFDLTVJZ2ZkLXdOVGI4TTh2bmQtSTZPNE9lZUk5NjhrSjd6SktrYmNZZlFCdlZPTXRVbl85eDh6b0U?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
           ]
         },
         {
-          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRVVtRjdseVJ3YlFTVnFDLTVJZ2ZkLXdOVGI4TTh2bmQtSTZPNE9lZUk5NjhrSjd6SktrYmNZZlFCdlZPTXRVbl85eDh6b0U?oc=5",
+          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
@@ -802,8 +800,16 @@
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 20,
+      "score": 21,
       "evidence": [
+        {
+          "title": "[박정식의 국내 주식시황] 반도체 훈풍 탄 코스피…코스닥 반등은 소부장·바이오에 달렸다 - 뉴스퀘스트",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KT2xGekhhUzFyMEdzNTlkc0ZFQzU2SXhCNUw3U01YQ2V0aVdZekJFYVNvcFJMSjFpQnRFYUZLSGxCWnpOTjQ2SzUtZzVxd2tWWnJWaWVybmI2N1ZGQkg1eHEzajlWWmFKMjNWaWxjMNIBc0FVX3lxTE9Fa1BRVDJzTU1lamdBQ2V6YUN3QkxwSGF2UmU1YWhnN2tLeXpIMndCNTlBbjhVdXJCXzMtd3N0VlVHMU50RlhNcHV1Rms5dlJEU2xaMlNod3VLVjNxRzAwRDN5aHRBZ2dscDNZTHJnU2thSWs?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
         {
           "title": "바이오 관련주, 단백질 분해 신약(TPD)이 부상한다 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRGVmbUZNT1lmR3piVUg1NloyT1R0R3dia3NwdUYtdTNNSWJvTVdTWnluTk9ZWXlzaERYQ3psdTRoYjQxSjNGaENZanhsNnZZekJMOUpjZEZsUQ?oc=5",
@@ -832,14 +838,6 @@
         {
           "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
