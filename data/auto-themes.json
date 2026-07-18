@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-17T10:57:24.111Z",
+  "discoveredAt": "2026-07-18T03:28:25.779Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,9 +57,17 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 31,
+      "score": 32,
       "autoDiscovered": true,
       "evidence": [
+        {
+          "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 200커버드콜OTM +5.03%, TIGER 배당커버드콜액티브 +3.05% - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEVCYkZBTEoyS0dVSUczZmFUYWJyWFNub2w3UTdCSTdYV1VWc2E2NFhfTEdMa1hJdzh2WDZYRjJ2TDlyWXNxcERNeHJ1YXRiakV4bHk4Vi1rckVsaWxaUDFNdnRkUzJ3UTlzMm9LME5RYUlkWkdPanBTd0FGcXNyWkstMNIBlwFBVV95cUxOc082UWNQai1HUWlLWmUzZzJoTU9FM01nM3hNUkFqOEN5MkxuRlFzV1dJZkR6QlNvdzhtZ0RucDRfRGoxRWNibE5IaGVvOHg5enN4OFVyZkF5VzZ3cGpXUUFiTWswQ2lsWEwyb3lka2w1ckdIU0VjUmdYbzV1d1FDZGFsbmJuR0daOTBjZWgtU29Ld2Zpd3o0?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "배당"
+          ]
+        },
         {
           "title": "\"연내 기준금리 3% 전망\"...금융주 미리 '찜' - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SM0RVbTlTcFpXMUlBZ1lOOE1pQ2JCVFY3UjlPTTc5OTJFLUEwRGp5eE95WkY4NHhsYzdNckVxbHJBZjBpc1E?oc=5",
@@ -69,24 +77,16 @@
           ]
         },
         {
-          "title": "실적 시즌 앞두고 금융주, 10년 만에 최대 자금 유입 기록 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBb1B4d0lvVmYybDFTSWh1dFdocUZzRzFVbFpyQnEwMEV3TjVJZnJTczNZVlh1OF9WVmJaWjNpaUVsckRvSHp4cEZma1gtUnBsUTlDNV94Zmo2UlFmX0szQW81ZkFwZTVtOTRmbTc1a2c?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "시장의 양면성: 금융주는 사상 최고치를 경신, 반도체주는 약세장 진입 직전 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBidmxDNEZ2YldwWWFZOFZYUlZHdHR3N01zZ3BNb1ltMDhpX2ZiQTVUZVE0eUJneTZtVUp6Ykw0clVybEVEdnRHZWJDRDJzRUE2TXZIYVExQVNrdGZvMzJfeG82T3dJZ0dZYWRjcXZBb3lfOVhEckFhRg?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
           "title": "하나증권 \"금융주 기준금리 인상 수혜 전망, 관련주 KB금융지주 신한금융지주\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZ25qNVpoTGZqLXpIdjdjdFNiRURWSm0wZWh6b1hTR1JJeXNFX2hUWmZCVVhYT2I2NXg4NFhvbzU2TERpQWs2Nllxak9hSFYtN3NKZGRqTVU4ZGh1OEdfRzFuSzhNaDh2dHUxVXdPVW12Mjg?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "국내 금융주, 적정가치 시그널 후 49% 상승 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00b1dxUTZ2NmxEc3d0R19ka21WTksweThBMGpJakNVSUl3dW1yMUhEV2JOdWhUNGFQSlAwSzBtWjNTeGwxSXdndFQzd2ZiTE5XVV9jRWFMbFBCc0xWZGhQcHpBUWp0cUl3YzNoSkc4MW5PQzJGX0E?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -167,14 +167,6 @@
           ]
         },
         {
-          "title": "\"아미들 몰려온다\"… 화장품株 봄날 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNTZtaTZOVmRseDR3YTlXZmlFbVNTdmVuak9XdFhGMUMzcnVla29kOVdELURLd1Q4MGltZTVaY0hqY29XdmJseVhnUmM0dExCUkE?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
-          ]
-        },
-        {
           "title": "화장품 관련주, 미국서 'K뷰티' 흥행에 수혜주 다시 움직이나?! : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YdkRHUVE2SmsxdlJ1ZVFKWGNPUy1ZaHBMUnZqVVNnMW5jZTRoQVlZaW11VjRUNjhvVnBabkt4Y0hMZ01fQ21zSlc4M3IyVUtXLXA0ZW9EVm1DSkVaM1hrMzlnY2k1TjQ?oc=5",
           "query": "화장품 관련주",
@@ -187,6 +179,14 @@
         {
           "title": "'화장품 대장주' 에이피알 주가 상승 돋보여...관련주 동반 상승 [주가동향] - 조세일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qbTVOOG02TVVtSlpQbnpkbUhfUzY2ak9aVmdJWm03ckxwSE9vWmJhbnhYOFQ2UGQ2QWpRYTdfVW0za0V5N3hxTXkyTGlGcEctSjN2SDBzNG9uUHVibGNB?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
+          "title": "\"아미들 몰려온다\"… 화장품株 봄날 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNTZtaTZOVmRseDR3YTlXZmlFbVNTdmVuak9XdFhGMUMzcnVla29kOVdELURLd1Q4MGltZTVaY0hqY29XdmJseVhnUmM0dExCUkE?oc=5",
           "query": "화장품 관련주",
           "matchedSignals": [
             "화장품"
@@ -357,7 +357,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 21,
+      "score": 20,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -378,8 +378,8 @@
           ]
         },
         {
-          "title": "특징주, 포스코퓨처엠-2차전지 테마 상승세에 7.21% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kb3A1LVBUTGJuWGdsZjlKWGRfQTEyelg2U1RDck5qSXNpTldZTEVxMVNpWFlwV0JSRHp0SU9SQm5HdXIycm9IT0trdUlKX1ZRb3c?oc=5",
+          "title": "특징주, TCC스틸-2차전지 테마 상승세에 6.63% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjV3JSeXZoZEhsZElkSzVESXZWRHVzS2otSVlKRDRKYTFnZVZPVjd1bEhSTElCZlpRQXFhMEk3eTRpbnRSNS1hR1k1d3FaWVFYOVE?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -457,17 +457,9 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 21,
+      "score": 20,
       "autoDiscovered": true,
       "evidence": [
-        {
-          "title": "[박정식의 국내 주식시황] 반도체 훈풍 탄 코스피…코스닥 반등은 소부장·바이오에 달렸다 - 뉴스퀘스트",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KT2xGekhhUzFyMEdzNTlkc0ZFQzU2SXhCNUw3U01YQ2V0aVdZekJFYVNvcFJMSjFpQnRFYUZLSGxCWnpOTjQ2SzUtZzVxd2tWWnJWaWVybmI2N1ZGQkg1eHEzajlWWmFKMjNWaWxjMNIBc0FVX3lxTE9Fa1BRVDJzTU1lamdBQ2V6YUN3QkxwSGF2UmU1YWhnN2tLeXpIMndCNTlBbjhVdXJCXzMtd3N0VlVHMU50RlhNcHV1Rms5dlJEU2xaMlNod3VLVjNxRzAwRDN5aHRBZ2dscDNZTHJnU2thSWs?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
         {
           "title": "바이오 관련주, 단백질 분해 신약(TPD)이 부상한다 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRGVmbUZNT1lmR3piVUg1NloyT1R0R3dia3NwdUYtdTNNSWJvTVdTWnluTk9ZWXlzaERYQ3psdTRoYjQxSjNGaENZanhsNnZZekJMOUpjZEZsUQ?oc=5",
@@ -496,6 +488,14 @@
         {
           "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -585,19 +585,19 @@
           ]
         },
         {
+          "title": "[특징주] 전력기기株, 업황 호조·수주 확대 전망에 장 초반 강세 - MSN",
+          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNWFlGMVlaMDZuSjVVZEhxbzhxSk1MOWIyaGdkT3AweHg4eEthRGtsOU9nWXRvZjlIYTZTcENtanVydTQtSVI5ZHg3eWRRWmNPRlJEaHBBNzBhWHRFcTdRUlhDZWRkOGMyYVE1Y2I4ZF83Skt6R0thMnNfRTFQelh6RjRRR0FjMkoteXRhRzhjdmh4MFVUX28zM0xuM0tNamd6WEhjLTJoUi16c0lVUzNvNmtBTnJ4NUYtbTBQb2p2MlNtRDYwM3BFY0ZmU2YyOVZiMHlCSndyMDlCYUtuTjQzVzRraG1taUpQd05hSXZkSkp2VEpCcG9ZNGF4S2gxM3FLSWQyWXk5SUxBYkxSUUtkWEd1SG9DdUFXR0Q1VkQ0YTF3ZVNvaFREVVJWQTdobnlxaU5XTUgwQkRPcDBXZ1dJQjBqc3JJM1ItdzFhLTVYWTVKcElQYmdzemhQZ3BOeWEtczRVX2w1RzZWX1hIamp5TXdqM1hoY0hQYzJvZFVQcUFnRFRHVWRPVWZhSGtpVVF1V1A5LWtmNHJuWXA5cW9XaXdtLUhjMVlQa1A4cDlvN2hBeWpNNmxYeldrVU01SjJKYV9CQTNTajlZclFrVElFR3ZtZHBPWVZhQjFjZjE5cDBFTUFfNHJKVXpWaFhzekxJd3huNG91c2d4Y2M5MVhXYVFLcDdoOW5FaVJEMVVWVUR1MEVMQ0hNbEpXa0ZVQmRJd1hWT21sbkxuVFp4Zl9JZ3F3?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기"
+          ]
+        },
+        {
           "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전선"
-          ]
-        },
-        {
-          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기"
           ]
         }
       ]
@@ -607,8 +607,16 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 31,
+      "score": 32,
       "evidence": [
+        {
+          "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 200커버드콜OTM +5.03%, TIGER 배당커버드콜액티브 +3.05% - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEVCYkZBTEoyS0dVSUczZmFUYWJyWFNub2w3UTdCSTdYV1VWc2E2NFhfTEdMa1hJdzh2WDZYRjJ2TDlyWXNxcERNeHJ1YXRiakV4bHk4Vi1rckVsaWxaUDFNdnRkUzJ3UTlzMm9LME5RYUlkWkdPanBTd0FGcXNyWkstMNIBlwFBVV95cUxOc082UWNQai1HUWlLWmUzZzJoTU9FM01nM3hNUkFqOEN5MkxuRlFzV1dJZkR6QlNvdzhtZ0RucDRfRGoxRWNibE5IaGVvOHg5enN4OFVyZkF5VzZ3cGpXUUFiTWswQ2lsWEwyb3lka2w1ckdIU0VjUmdYbzV1d1FDZGFsbmJuR0daOTBjZWgtU29Ld2Zpd3o0?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "배당"
+          ]
+        },
         {
           "title": "\"연내 기준금리 3% 전망\"...금융주 미리 '찜' - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SM0RVbTlTcFpXMUlBZ1lOOE1pQ2JCVFY3UjlPTTc5OTJFLUEwRGp5eE95WkY4NHhsYzdNckVxbHJBZjBpc1E?oc=5",
@@ -618,24 +626,16 @@
           ]
         },
         {
-          "title": "실적 시즌 앞두고 금융주, 10년 만에 최대 자금 유입 기록 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBb1B4d0lvVmYybDFTSWh1dFdocUZzRzFVbFpyQnEwMEV3TjVJZnJTczNZVlh1OF9WVmJaWjNpaUVsckRvSHp4cEZma1gtUnBsUTlDNV94Zmo2UlFmX0szQW81ZkFwZTVtOTRmbTc1a2c?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "시장의 양면성: 금융주는 사상 최고치를 경신, 반도체주는 약세장 진입 직전 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBidmxDNEZ2YldwWWFZOFZYUlZHdHR3N01zZ3BNb1ltMDhpX2ZiQTVUZVE0eUJneTZtVUp6Ykw0clVybEVEdnRHZWJDRDJzRUE2TXZIYVExQVNrdGZvMzJfeG82T3dJZ0dZYWRjcXZBb3lfOVhEckFhRg?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
           "title": "하나증권 \"금융주 기준금리 인상 수혜 전망, 관련주 KB금융지주 신한금융지주\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZ25qNVpoTGZqLXpIdjdjdFNiRURWSm0wZWh6b1hTR1JJeXNFX2hUWmZCVVhYT2I2NXg4NFhvbzU2TERpQWs2Nllxak9hSFYtN3NKZGRqTVU4ZGh1OEdfRzFuSzhNaDh2dHUxVXdPVW12Mjg?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "국내 금융주, 적정가치 시그널 후 49% 상승 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00b1dxUTZ2NmxEc3d0R19ka21WTksweThBMGpJakNVSUl3dW1yMUhEV2JOdWhUNGFQSlAwSzBtWjNTeGwxSXdndFQzd2ZiTE5XVV9jRWFMbFBCc0xWZGhQcHpBUWp0cUl3YzNoSkc4MW5PQzJGX0E?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -665,14 +665,6 @@
           ]
         },
         {
-          "title": "\"아미들 몰려온다\"… 화장품株 봄날 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNTZtaTZOVmRseDR3YTlXZmlFbVNTdmVuak9XdFhGMUMzcnVla29kOVdELURLd1Q4MGltZTVaY0hqY29XdmJseVhnUmM0dExCUkE?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
-          ]
-        },
-        {
           "title": "화장품 관련주, 미국서 'K뷰티' 흥행에 수혜주 다시 움직이나?! : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YdkRHUVE2SmsxdlJ1ZVFKWGNPUy1ZaHBMUnZqVVNnMW5jZTRoQVlZaW11VjRUNjhvVnBabkt4Y0hMZ01fQ21zSlc4M3IyVUtXLXA0ZW9EVm1DSkVaM1hrMzlnY2k1TjQ?oc=5",
           "query": "화장품 관련주",
@@ -685,6 +677,14 @@
         {
           "title": "'화장품 대장주' 에이피알 주가 상승 돋보여...관련주 동반 상승 [주가동향] - 조세일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qbTVOOG02TVVtSlpQbnpkbUhfUzY2ak9aVmdJWm03ckxwSE9vWmJhbnhYOFQ2UGQ2QWpRYTdfVW0za0V5N3hxTXkyTGlGcEctSjN2SDBzNG9uUHVibGNB?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
+          "title": "\"아미들 몰려온다\"… 화장품株 봄날 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsNTZtaTZOVmRseDR3YTlXZmlFbVNTdmVuak9XdFhGMUMzcnVla29kOVdELURLd1Q4MGltZTVaY0hqY29XdmJseVhnUmM0dExCUkE?oc=5",
           "query": "화장품 관련주",
           "matchedSignals": [
             "화장품"
@@ -752,7 +752,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 21,
+      "score": 20,
       "evidence": [
         {
           "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
@@ -772,8 +772,8 @@
           ]
         },
         {
-          "title": "특징주, 포스코퓨처엠-2차전지 테마 상승세에 7.21% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kb3A1LVBUTGJuWGdsZjlKWGRfQTEyelg2U1RDck5qSXNpTldZTEVxMVNpWFlwV0JSRHp0SU9SQm5HdXIycm9IT0trdUlKX1ZRb3c?oc=5",
+          "title": "특징주, TCC스틸-2차전지 테마 상승세에 6.63% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjV3JSeXZoZEhsZElkSzVESXZWRHVzS2otSVlKRDRKYTFnZVZPVjd1bEhSTElCZlpRQXFhMEk3eTRpbnRSNS1hR1k1d3FaWVFYOVE?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -800,16 +800,8 @@
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 21,
+      "score": 20,
       "evidence": [
-        {
-          "title": "[박정식의 국내 주식시황] 반도체 훈풍 탄 코스피…코스닥 반등은 소부장·바이오에 달렸다 - 뉴스퀘스트",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KT2xGekhhUzFyMEdzNTlkc0ZFQzU2SXhCNUw3U01YQ2V0aVdZekJFYVNvcFJMSjFpQnRFYUZLSGxCWnpOTjQ2SzUtZzVxd2tWWnJWaWVybmI2N1ZGQkg1eHEzajlWWmFKMjNWaWxjMNIBc0FVX3lxTE9Fa1BRVDJzTU1lamdBQ2V6YUN3QkxwSGF2UmU1YWhnN2tLeXpIMndCNTlBbjhVdXJCXzMtd3N0VlVHMU50RlhNcHV1Rms5dlJEU2xaMlNod3VLVjNxRzAwRDN5aHRBZ2dscDNZTHJnU2thSWs?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
         {
           "title": "바이오 관련주, 단백질 분해 신약(TPD)이 부상한다 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRGVmbUZNT1lmR3piVUg1NloyT1R0R3dia3NwdUYtdTNNSWJvTVdTWnluTk9ZWXlzaERYQ3psdTRoYjQxSjNGaENZanhsNnZZekJMOUpjZEZsUQ?oc=5",
@@ -838,6 +830,14 @@
         {
           "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -875,19 +875,19 @@
           ]
         },
         {
+          "title": "[특징주] 전력기기株, 업황 호조·수주 확대 전망에 장 초반 강세 - MSN",
+          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNWFlGMVlaMDZuSjVVZEhxbzhxSk1MOWIyaGdkT3AweHg4eEthRGtsOU9nWXRvZjlIYTZTcENtanVydTQtSVI5ZHg3eWRRWmNPRlJEaHBBNzBhWHRFcTdRUlhDZWRkOGMyYVE1Y2I4ZF83Skt6R0thMnNfRTFQelh6RjRRR0FjMkoteXRhRzhjdmh4MFVUX28zM0xuM0tNamd6WEhjLTJoUi16c0lVUzNvNmtBTnJ4NUYtbTBQb2p2MlNtRDYwM3BFY0ZmU2YyOVZiMHlCSndyMDlCYUtuTjQzVzRraG1taUpQd05hSXZkSkp2VEpCcG9ZNGF4S2gxM3FLSWQyWXk5SUxBYkxSUUtkWEd1SG9DdUFXR0Q1VkQ0YTF3ZVNvaFREVVJWQTdobnlxaU5XTUgwQkRPcDBXZ1dJQjBqc3JJM1ItdzFhLTVYWTVKcElQYmdzemhQZ3BOeWEtczRVX2w1RzZWX1hIamp5TXdqM1hoY0hQYzJvZFVQcUFnRFRHVWRPVWZhSGtpVVF1V1A5LWtmNHJuWXA5cW9XaXdtLUhjMVlQa1A4cDlvN2hBeWpNNmxYeldrVU01SjJKYV9CQTNTajlZclFrVElFR3ZtZHBPWVZhQjFjZjE5cDBFTUFfNHJKVXpWaFhzekxJd3huNG91c2d4Y2M5MVhXYVFLcDdoOW5FaVJEMVVWVUR1MEVMQ0hNbEpXa0ZVQmRJd1hWT21sbkxuVFp4Zl9JZ3F3?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기"
+          ]
+        },
+        {
           "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전선"
-          ]
-        },
-        {
-          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기"
           ]
         }
       ]
