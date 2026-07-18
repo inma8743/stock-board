@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-18T03:28:25.779Z",
+  "discoveredAt": "2026-07-18T10:38:54.494Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,7 +57,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 32,
+      "score": 31,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -357,7 +357,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 20,
+      "score": 21,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -378,8 +378,8 @@
           ]
         },
         {
-          "title": "특징주, TCC스틸-2차전지 테마 상승세에 6.63% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjV3JSeXZoZEhsZElkSzVESXZWRHVzS2otSVlKRDRKYTFnZVZPVjd1bEhSTElCZlpRQXFhMEk3eTRpbnRSNS1hR1k1d3FaWVFYOVE?oc=5",
+          "title": "특징주, 포스코퓨처엠-2차전지 테마 상승세에 7.21% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kb3A1LVBUTGJuWGdsZjlKWGRfQTEyelg2U1RDck5qSXNpTldZTEVxMVNpWFlwV0JSRHp0SU9SQm5HdXIycm9IT0trdUlKX1ZRb3c?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -478,14 +478,6 @@
           ]
         },
         {
-          "title": "‘탈모치료제 급여화’ 공론화 제동에…관련주 제약주 동반 약세 - 메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRWhCYnNNQnB5WHJNV1MwZk02UzZheTVmLXVaeDJwaHZNWFdTaWI3RVlsQ0pXUjFUZVFzLU1RLXRUeGxTbEExUG1JeVJ4N1NUeWhSdUc4Z2N5VEdzRGpBZU5HUU1TS1dFQnNLcg?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "제약"
-          ]
-        },
-        {
           "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
           "query": "바이오 관련주",
@@ -496,6 +488,14 @@
         {
           "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "의료 AI 훈풍 관련주 급등…루닛·파로스아이바이오·신테카바이오 ‘정책 수혜 3인방’ 부상 [한양경제] - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xUWtsNS01aWFqcVljTnlEUFJVRzJmNkdwRFE1S09FSGJPNXAyblFZeU93VEdfYkdCV3BMa1pDel9xM1JmOWZHQzljY1g4d1NSSms4dDB4MXphRkU?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -585,19 +585,19 @@
           ]
         },
         {
-          "title": "[특징주] 전력기기株, 업황 호조·수주 확대 전망에 장 초반 강세 - MSN",
-          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNWFlGMVlaMDZuSjVVZEhxbzhxSk1MOWIyaGdkT3AweHg4eEthRGtsOU9nWXRvZjlIYTZTcENtanVydTQtSVI5ZHg3eWRRWmNPRlJEaHBBNzBhWHRFcTdRUlhDZWRkOGMyYVE1Y2I4ZF83Skt6R0thMnNfRTFQelh6RjRRR0FjMkoteXRhRzhjdmh4MFVUX28zM0xuM0tNamd6WEhjLTJoUi16c0lVUzNvNmtBTnJ4NUYtbTBQb2p2MlNtRDYwM3BFY0ZmU2YyOVZiMHlCSndyMDlCYUtuTjQzVzRraG1taUpQd05hSXZkSkp2VEpCcG9ZNGF4S2gxM3FLSWQyWXk5SUxBYkxSUUtkWEd1SG9DdUFXR0Q1VkQ0YTF3ZVNvaFREVVJWQTdobnlxaU5XTUgwQkRPcDBXZ1dJQjBqc3JJM1ItdzFhLTVYWTVKcElQYmdzemhQZ3BOeWEtczRVX2w1RzZWX1hIamp5TXdqM1hoY0hQYzJvZFVQcUFnRFRHVWRPVWZhSGtpVVF1V1A5LWtmNHJuWXA5cW9XaXdtLUhjMVlQa1A4cDlvN2hBeWpNNmxYeldrVU01SjJKYV9CQTNTajlZclFrVElFR3ZtZHBPWVZhQjFjZjE5cDBFTUFfNHJKVXpWaFhzekxJd3huNG91c2d4Y2M5MVhXYVFLcDdoOW5FaVJEMVVWVUR1MEVMQ0hNbEpXa0ZVQmRJd1hWT21sbkxuVFp4Zl9JZ3F3?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기"
-          ]
-        },
-        {
           "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전선"
+          ]
+        },
+        {
+          "title": "[특징주] 전력기기株, 업황 호조·수주 확대 전망에 장 초반 강세 - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPWlFKUW9kM0lPSHAwZzBvWE00SEhFVTFQblEwUDlpNTlaTnA4RDk1YkI4TmZfQ05WeDlTdWdja1F0VmRlT21xV0djOGtDUDJTMGRwZ3dDQmtkWHpVREpKcFJuNVRLb3NXYncwb1JSYWdWLXh3bk12dEVyNVAtWkw3N00wMFpjaWFtUW1BMGxGQVRiNXJkTEcwNmtkWGU2UExkdTR3Vi1MbzNVM1pUSU1NWkFpRUhSZVFVdUlxdWdwMlZ4MjV2QkZRb1ZvZ3NSTE1PNl9IekZrbldVXzFwUUg1V0RrTklIckVRSFNxYmNFN1FXOC1hZ3lPVTd2MFQyUjFkcm5BZm1BRjh5VGlmWWZUQUVVR3pkNmsyREg2SnR5VEQ3bnk5c1JwbmdyVXJfY3Rqa094eHNSZDRIRXNTRlV6UWN0NXk5MXpvUXU5R1dqaDVJTVV5dGpqWUU3cFpSWFBqMk5VSmU1UDhzMmdlT1ZzcmY0emJSVzZIQjdSUVUtM3I4SDNuV1JaUWt3Nk53dUZvYkhCMmlOb1lrUlpBQjFrYURrSTA2LUhOSkNDekJYUGN4VlJnZFNNMlBPVHlndTYwSE9BaHJ0WW1hZDNsbUx3aGR0M0tYRXlQRFZMSlZXUU14MXZ3NFdiS0V0X0FsUmxQMUJ6eklvR3NuVDB6TE1VZlhacG1EUDZmU2xGRDM1aUtkZWYtSnRHZXBsaEtKaC1EZ3ZuYnREYnBFZVp1amZnaDVVWQ?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기"
           ]
         }
       ]
@@ -607,7 +607,7 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 32,
+      "score": 31,
       "evidence": [
         {
           "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 200커버드콜OTM +5.03%, TIGER 배당커버드콜액티브 +3.05% - 조선비즈 - Chosunbiz",
@@ -752,7 +752,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 20,
+      "score": 21,
       "evidence": [
         {
           "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
@@ -772,8 +772,8 @@
           ]
         },
         {
-          "title": "특징주, TCC스틸-2차전지 테마 상승세에 6.63% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjV3JSeXZoZEhsZElkSzVESXZWRHVzS2otSVlKRDRKYTFnZVZPVjd1bEhSTElCZlpRQXFhMEk3eTRpbnRSNS1hR1k1d3FaWVFYOVE?oc=5",
+          "title": "특징주, 포스코퓨처엠-2차전지 테마 상승세에 7.21% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kb3A1LVBUTGJuWGdsZjlKWGRfQTEyelg2U1RDck5qSXNpTldZTEVxMVNpWFlwV0JSRHp0SU9SQm5HdXIycm9IT0trdUlKX1ZRb3c?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -820,14 +820,6 @@
           ]
         },
         {
-          "title": "‘탈모치료제 급여화’ 공론화 제동에…관련주 제약주 동반 약세 - 메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRWhCYnNNQnB5WHJNV1MwZk02UzZheTVmLXVaeDJwaHZNWFdTaWI3RVlsQ0pXUjFUZVFzLU1RLXRUeGxTbEExUG1JeVJ4N1NUeWhSdUc4Z2N5VEdzRGpBZU5HUU1TS1dFQnNLcg?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "제약"
-          ]
-        },
-        {
           "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
           "query": "바이오 관련주",
@@ -838,6 +830,14 @@
         {
           "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "의료 AI 훈풍 관련주 급등…루닛·파로스아이바이오·신테카바이오 ‘정책 수혜 3인방’ 부상 [한양경제] - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xUWtsNS01aWFqcVljTnlEUFJVRzJmNkdwRFE1S09FSGJPNXAyblFZeU93VEdfYkdCV3BMa1pDel9xM1JmOWZHQzljY1g4d1NSSms4dDB4MXphRkU?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -875,19 +875,19 @@
           ]
         },
         {
-          "title": "[특징주] 전력기기株, 업황 호조·수주 확대 전망에 장 초반 강세 - MSN",
-          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNWFlGMVlaMDZuSjVVZEhxbzhxSk1MOWIyaGdkT3AweHg4eEthRGtsOU9nWXRvZjlIYTZTcENtanVydTQtSVI5ZHg3eWRRWmNPRlJEaHBBNzBhWHRFcTdRUlhDZWRkOGMyYVE1Y2I4ZF83Skt6R0thMnNfRTFQelh6RjRRR0FjMkoteXRhRzhjdmh4MFVUX28zM0xuM0tNamd6WEhjLTJoUi16c0lVUzNvNmtBTnJ4NUYtbTBQb2p2MlNtRDYwM3BFY0ZmU2YyOVZiMHlCSndyMDlCYUtuTjQzVzRraG1taUpQd05hSXZkSkp2VEpCcG9ZNGF4S2gxM3FLSWQyWXk5SUxBYkxSUUtkWEd1SG9DdUFXR0Q1VkQ0YTF3ZVNvaFREVVJWQTdobnlxaU5XTUgwQkRPcDBXZ1dJQjBqc3JJM1ItdzFhLTVYWTVKcElQYmdzemhQZ3BOeWEtczRVX2w1RzZWX1hIamp5TXdqM1hoY0hQYzJvZFVQcUFnRFRHVWRPVWZhSGtpVVF1V1A5LWtmNHJuWXA5cW9XaXdtLUhjMVlQa1A4cDlvN2hBeWpNNmxYeldrVU01SjJKYV9CQTNTajlZclFrVElFR3ZtZHBPWVZhQjFjZjE5cDBFTUFfNHJKVXpWaFhzekxJd3huNG91c2d4Y2M5MVhXYVFLcDdoOW5FaVJEMVVWVUR1MEVMQ0hNbEpXa0ZVQmRJd1hWT21sbkxuVFp4Zl9JZ3F3?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기"
-          ]
-        },
-        {
           "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전선"
+          ]
+        },
+        {
+          "title": "[특징주] 전력기기株, 업황 호조·수주 확대 전망에 장 초반 강세 - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPWlFKUW9kM0lPSHAwZzBvWE00SEhFVTFQblEwUDlpNTlaTnA4RDk1YkI4TmZfQ05WeDlTdWdja1F0VmRlT21xV0djOGtDUDJTMGRwZ3dDQmtkWHpVREpKcFJuNVRLb3NXYncwb1JSYWdWLXh3bk12dEVyNVAtWkw3N00wMFpjaWFtUW1BMGxGQVRiNXJkTEcwNmtkWGU2UExkdTR3Vi1MbzNVM1pUSU1NWkFpRUhSZVFVdUlxdWdwMlZ4MjV2QkZRb1ZvZ3NSTE1PNl9IekZrbldVXzFwUUg1V0RrTklIckVRSFNxYmNFN1FXOC1hZ3lPVTd2MFQyUjFkcm5BZm1BRjh5VGlmWWZUQUVVR3pkNmsyREg2SnR5VEQ3bnk5c1JwbmdyVXJfY3Rqa094eHNSZDRIRXNTRlV6UWN0NXk5MXpvUXU5R1dqaDVJTVV5dGpqWUU3cFpSWFBqMk5VSmU1UDhzMmdlT1ZzcmY0emJSVzZIQjdSUVUtM3I4SDNuV1JaUWt3Nk53dUZvYkhCMmlOb1lrUlpBQjFrYURrSTA2LUhOSkNDekJYUGN4VlJnZFNNMlBPVHlndTYwSE9BaHJ0WW1hZDNsbUx3aGR0M0tYRXlQRFZMSlZXUU14MXZ3NFdiS0V0X0FsUmxQMUJ6eklvR3NuVDB6TE1VZlhacG1EUDZmU2xGRDM1aUtkZWYtSnRHZXBsaEtKaC1EZ3ZuYnREYnBFZVp1amZnaDVVWQ?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기"
           ]
         }
       ]
