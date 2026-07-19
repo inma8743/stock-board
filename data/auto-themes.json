@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-18T10:38:54.494Z",
+  "discoveredAt": "2026-07-19T03:49:41.069Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -69,6 +69,14 @@
           ]
         },
         {
+          "title": "금융주 사상 최고치… 기술주 폭락에도 S&P 500은 버텼다 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemtCWWljcHkxcUc0TGZ1S0xrRGpzQnk4WGZVS1NFbklwOWg4ZlctMFRzOTZWdFhvNllZNWF3aFQwVHdPbG1TVnBoUnotTmZ2WTRjdzNVQlltYzN3bk1VeDRyZGJiN1U1LTVZOG9sd29ld2diXzMyRkxNOEVPWDhtaGZjdmE4Tkhn?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "\"연내 기준금리 3% 전망\"...금융주 미리 '찜' - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SM0RVbTlTcFpXMUlBZ1lOOE1pQ2JCVFY3UjlPTTc5OTJFLUEwRGp5eE95WkY4NHhsYzdNckVxbHJBZjBpc1E?oc=5",
           "query": "금융주",
@@ -79,14 +87,6 @@
         {
           "title": "하나증권 \"금융주 기준금리 인상 수혜 전망, 관련주 KB금융지주 신한금융지주\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZ25qNVpoTGZqLXpIdjdjdFNiRURWSm0wZWh6b1hTR1JJeXNFX2hUWmZCVVhYT2I2NXg4NFhvbzU2TERpQWs2Nllxak9hSFYtN3NKZGRqTVU4ZGh1OEdfRzFuSzhNaDh2dHUxVXdPVW12Mjg?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "국내 금융주, 적정가치 시그널 후 49% 상승 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00b1dxUTZ2NmxEc3d0R19ka21WTksweThBMGpJakNVSUl3dW1yMUhEV2JOdWhUNGFQSlAwSzBtWjNTeGwxSXdndFQzd2ZiTE5XVV9jRWFMbFBCc0xWZGhQcHpBUWp0cUl3YzNoSkc4MW5PQzJGX0E?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -155,7 +155,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 28,
+      "score": 26,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -257,20 +257,20 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 23,
+      "score": 21,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRVVtRjdseVJ3YlFTVnFDLTVJZ2ZkLXdOVGI4TTh2bmQtSTZPNE9lZUk5NjhrSjd6SktrYmNZZlFCdlZPTXRVbl85eDh6b0U?oc=5",
+          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZw?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
           ]
         },
         {
-          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
+          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRVVtRjdseVJ3YlFTVnFDLTVJZ2ZkLXdOVGI4TTh2bmQtSTZPNE9lZUk5NjhrSjd6SktrYmNZZlFCdlZPTXRVbl85eDh6b0U?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
@@ -285,20 +285,20 @@
           ]
         },
         {
-          "title": "지방선거 특수 사라진 ‘정치테마주'…AI 등 정책수혜주만 일부 상승 - 증권일보",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNkU4am9EU2hwMXI4TjdBaDZ0SnRReFRDSVFxWlpudFBGY3JlRnotbEh5akloVTk4WlFSc0tHaHdBWllSRUJtUDJYRG9FanVWVkZSazFGS0w2VlpWLXg0RQ?oc=5",
-          "query": "증시 수혜주 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
           "title": "국내 소프트웨어 관련주 AI 수혜주 살펴보기 - 브런치",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sTko5SS1FWjc1a3ZXaW9qLXpGY3lDY1ZrdXdTUWl4Z0JqREhRZEl3bHRGWW5uV1RWZEkyanV1ODhVaXhKeFluT3hR?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI",
             "소프트웨어"
+          ]
+        },
+        {
+          "title": "젠슨 황 방한설에 AI 관련주 급등…LG·네이버 시장 기대감 확산 - 중부매일",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzRWRSRVN5cEl4bjB6SzZIcm1CTGptbDlEcVBWWFNRMDhrSjhONkNINDlhTGQtbzZETVltY3Y5ZS1objBWbE80c0FQb3FoNVZxU205SjZzeGRSS1E2Z3dQQkIwVU5JbzFiUFHSAW5BVV95cUxNdW9wLUpjQXJVSWxQVTZlaWFMYWhYVVBnVVdWUGRZQnN1UTI3ZlNCMEQwdWtVLWVHMzh3Z2NTQ2Q2UVJscDcxTmxfRkZoSEZRVUZ3Y0FJQXg4OEpOYjlaalB4YVVpaG5HRl9vWDZ5QQ?oc=5",
+          "query": "AI 소프트웨어 관련주",
+          "matchedSignals": [
+            "AI"
           ]
         }
       ]
@@ -569,16 +569,16 @@
           ]
         },
         {
-          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
+          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
+          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -593,8 +593,8 @@
           ]
         },
         {
-          "title": "[특징주] 전력기기株, 업황 호조·수주 확대 전망에 장 초반 강세 - MSN",
-          "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPWlFKUW9kM0lPSHAwZzBvWE00SEhFVTFQblEwUDlpNTlaTnA4RDk1YkI4TmZfQ05WeDlTdWdja1F0VmRlT21xV0djOGtDUDJTMGRwZ3dDQmtkWHpVREpKcFJuNVRLb3NXYncwb1JSYWdWLXh3bk12dEVyNVAtWkw3N00wMFpjaWFtUW1BMGxGQVRiNXJkTEcwNmtkWGU2UExkdTR3Vi1MbzNVM1pUSU1NWkFpRUhSZVFVdUlxdWdwMlZ4MjV2QkZRb1ZvZ3NSTE1PNl9IekZrbldVXzFwUUg1V0RrTklIckVRSFNxYmNFN1FXOC1hZ3lPVTd2MFQyUjFkcm5BZm1BRjh5VGlmWWZUQUVVR3pkNmsyREg2SnR5VEQ3bnk5c1JwbmdyVXJfY3Rqa094eHNSZDRIRXNTRlV6UWN0NXk5MXpvUXU5R1dqaDVJTVV5dGpqWUU3cFpSWFBqMk5VSmU1UDhzMmdlT1ZzcmY0emJSVzZIQjdSUVUtM3I4SDNuV1JaUWt3Nk53dUZvYkhCMmlOb1lrUlpBQjFrYURrSTA2LUhOSkNDekJYUGN4VlJnZFNNMlBPVHlndTYwSE9BaHJ0WW1hZDNsbUx3aGR0M0tYRXlQRFZMSlZXUU14MXZ3NFdiS0V0X0FsUmxQMUJ6eklvR3NuVDB6TE1VZlhacG1EUDZmU2xGRDM1aUtkZWYtSnRHZXBsaEtKaC1EZ3ZuYnREYnBFZVp1amZnaDVVWQ?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -618,6 +618,14 @@
           ]
         },
         {
+          "title": "금융주 사상 최고치… 기술주 폭락에도 S&P 500은 버텼다 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemtCWWljcHkxcUc0TGZ1S0xrRGpzQnk4WGZVS1NFbklwOWg4ZlctMFRzOTZWdFhvNllZNWF3aFQwVHdPbG1TVnBoUnotTmZ2WTRjdzNVQlltYzN3bk1VeDRyZGJiN1U1LTVZOG9sd29ld2diXzMyRkxNOEVPWDhtaGZjdmE4Tkhn?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "\"연내 기준금리 3% 전망\"...금융주 미리 '찜' - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SM0RVbTlTcFpXMUlBZ1lOOE1pQ2JCVFY3UjlPTTc5OTJFLUEwRGp5eE95WkY4NHhsYzdNckVxbHJBZjBpc1E?oc=5",
           "query": "금융주",
@@ -628,14 +636,6 @@
         {
           "title": "하나증권 \"금융주 기준금리 인상 수혜 전망, 관련주 KB금융지주 신한금융지주\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZ25qNVpoTGZqLXpIdjdjdFNiRURWSm0wZWh6b1hTR1JJeXNFX2hUWmZCVVhYT2I2NXg4NFhvbzU2TERpQWs2Nllxak9hSFYtN3NKZGRqTVU4ZGh1OEdfRzFuSzhNaDh2dHUxVXdPVW12Mjg?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "국내 금융주, 적정가치 시그널 후 49% 상승 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00b1dxUTZ2NmxEc3d0R19ka21WTksweThBMGpJakNVSUl3dW1yMUhEV2JOdWhUNGFQSlAwSzBtWjNTeGwxSXdndFQzd2ZiTE5XVV9jRWFMbFBCc0xWZGhQcHpBUWp0cUl3YzNoSkc4MW5PQzJGX0E?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -654,7 +654,7 @@
     {
       "slug": "cosmetics-stocks",
       "title": "화장품 관련주 체크",
-      "score": 28,
+      "score": 26,
       "evidence": [
         {
           "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
@@ -704,19 +704,19 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 23,
+      "score": 21,
       "evidence": [
         {
-          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRVVtRjdseVJ3YlFTVnFDLTVJZ2ZkLXdOVGI4TTh2bmQtSTZPNE9lZUk5NjhrSjd6SktrYmNZZlFCdlZPTXRVbl85eDh6b0U?oc=5",
+          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZw?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
           ]
         },
         {
-          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZ9IBVEFVX3lxTE9OS3lvS0UycW9KWXdiSzVsUTJaWDdPRzY2MU0wbHdFWFVOZkk3bVZ6RnA1ZDEzTVNPLUd3WnRQYTlNd0xRUFZzWl9lVzNXWUp1RXR2Wg?oc=5",
+          "title": "[이 시각 시황] AI 전력 수요 기대에 전력설비주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRVVtRjdseVJ3YlFTVnFDLTVJZ2ZkLXdOVGI4TTh2bmQtSTZPNE9lZUk5NjhrSjd6SktrYmNZZlFCdlZPTXRVbl85eDh6b0U?oc=5",
           "query": "오늘 국내증시 관련주",
           "matchedSignals": [
             "AI"
@@ -731,20 +731,20 @@
           ]
         },
         {
-          "title": "지방선거 특수 사라진 ‘정치테마주'…AI 등 정책수혜주만 일부 상승 - 증권일보",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNkU4am9EU2hwMXI4TjdBaDZ0SnRReFRDSVFxWlpudFBGY3JlRnotbEh5akloVTk4WlFSc0tHaHdBWllSRUJtUDJYRG9FanVWVkZSazFGS0w2VlpWLXg0RQ?oc=5",
-          "query": "증시 수혜주 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
           "title": "국내 소프트웨어 관련주 AI 수혜주 살펴보기 - 브런치",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sTko5SS1FWjc1a3ZXaW9qLXpGY3lDY1ZrdXdTUWl4Z0JqREhRZEl3bHRGWW5uV1RWZEkyanV1ODhVaXhKeFluT3hR?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI",
             "소프트웨어"
+          ]
+        },
+        {
+          "title": "젠슨 황 방한설에 AI 관련주 급등…LG·네이버 시장 기대감 확산 - 중부매일",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzRWRSRVN5cEl4bjB6SzZIcm1CTGptbDlEcVBWWFNRMDhrSjhONkNINDlhTGQtbzZETVltY3Y5ZS1objBWbE80c0FQb3FoNVZxU205SjZzeGRSS1E2Z3dQQkIwVU5JbzFiUFHSAW5BVV95cUxNdW9wLUpjQXJVSWxQVTZlaWFMYWhYVVBnVVdWUGRZQnN1UTI3ZlNCMEQwdWtVLWVHMzh3Z2NTQ2Q2UVJscDcxTmxfRkZoSEZRVUZ3Y0FJQXg4OEpOYjlaalB4YVVpaG5HRl9vWDZ5QQ?oc=5",
+          "query": "AI 소프트웨어 관련주",
+          "matchedSignals": [
+            "AI"
           ]
         }
       ]
@@ -859,16 +859,16 @@
           ]
         },
         {
-          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
+          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
+          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -883,8 +883,8 @@
           ]
         },
         {
-          "title": "[특징주] 전력기기株, 업황 호조·수주 확대 전망에 장 초반 강세 - MSN",
-          "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPWlFKUW9kM0lPSHAwZzBvWE00SEhFVTFQblEwUDlpNTlaTnA4RDk1YkI4TmZfQ05WeDlTdWdja1F0VmRlT21xV0djOGtDUDJTMGRwZ3dDQmtkWHpVREpKcFJuNVRLb3NXYncwb1JSYWdWLXh3bk12dEVyNVAtWkw3N00wMFpjaWFtUW1BMGxGQVRiNXJkTEcwNmtkWGU2UExkdTR3Vi1MbzNVM1pUSU1NWkFpRUhSZVFVdUlxdWdwMlZ4MjV2QkZRb1ZvZ3NSTE1PNl9IekZrbldVXzFwUUg1V0RrTklIckVRSFNxYmNFN1FXOC1hZ3lPVTd2MFQyUjFkcm5BZm1BRjh5VGlmWWZUQUVVR3pkNmsyREg2SnR5VEQ3bnk5c1JwbmdyVXJfY3Rqa094eHNSZDRIRXNTRlV6UWN0NXk5MXpvUXU5R1dqaDVJTVV5dGpqWUU3cFpSWFBqMk5VSmU1UDhzMmdlT1ZzcmY0emJSVzZIQjdSUVUtM3I4SDNuV1JaUWt3Nk53dUZvYkhCMmlOb1lrUlpBQjFrYURrSTA2LUhOSkNDekJYUGN4VlJnZFNNMlBPVHlndTYwSE9BaHJ0WW1hZDNsbUx3aGR0M0tYRXlQRFZMSlZXUU14MXZ3NFdiS0V0X0FsUmxQMUJ6eklvR3NuVDB6TE1VZlhacG1EUDZmU2xGRDM1aUtkZWYtSnRHZXBsaEtKaC1EZ3ZuYnREYnBFZVp1amZnaDVVWQ?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
