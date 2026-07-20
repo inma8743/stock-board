@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-20T04:00:43.844Z",
+  "discoveredAt": "2026-07-20T11:56:13.894Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -69,6 +69,14 @@
           ]
         },
         {
+          "title": "증시 7000선 무너지자 금융주 피난처 급부상 - 포인트데일리",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIZUNFalZ5N3o3bFBSMHQ3eVZVVy1aMDFyTW5RRjFrWHVLY1Yyb1M5NkhBV1VJbWtWVERleWZqa19rd2liVmdiZ2k4MFdCcW9kaGFEc08xUGVIUXRsRVFOaGNuRkRVWHhNSXdsSlliVFjSAXRBVV95cUxPaEFFYlI0UVdVYW40bWZPMzNEY2VQcVVCWFZiSmtCRzRsVFFPT3pXZDNaSDRDWTVKa2VFOW5WYndhSUgwYXhYX3pQd3ZsVk1Zd2lLTHZSazYtUGQ1aHVPU1c3TVdXb0psY0dpWm9JM3J1N1NNVw?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "금융주 사상 최고치… 기술주 폭락에도 S&P 500은 버텼다 - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemtCWWljcHkxcUc0TGZ1S0xrRGpzQnk4WGZVS1NFbklwOWg4ZlctMFRzOTZWdFhvNllZNWF3aFQwVHdPbG1TVnBoUnotTmZ2WTRjdzNVQlltYzN3bk1VeDRyZGJiN1U1LTVZOG9sd29ld2diXzMyRkxNOEVPWDhtaGZjdmE4Tkhn?oc=5",
           "query": "금융주",
@@ -87,14 +95,6 @@
         {
           "title": "하나증권 \"금융주 기준금리 인상 수혜 전망, 관련주 KB금융지주 신한금융지주\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZ25qNVpoTGZqLXpIdjdjdFNiRURWSm0wZWh6b1hTR1JJeXNFX2hUWmZCVVhYT2I2NXg4NFhvbzU2TERpQWs2Nllxak9hSFYtN3NKZGRqTVU4ZGh1OEdfRzFuSzhNaDh2dHUxVXdPVW12Mjg?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "마라톤 페트롤리엄 주가가 돋보이는 이유와 부담 커진 소비 금융주 2선 - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3MtendzZEpYMjVsM2t5NnBEUExidmRWVkZvdlUxZDVUZ0RnZWVpU1F3M09MQ0dwOWVoaUFsNDFfN0ZibmFPT0E5N0thOXlJdVVRRkdlWXVBeUNmRHhZVC0tdE5WcWprSGczcmVRYTJPOFhCczFTWkg0MzdaUU1ZWTcwdTdtUjdPQ2xzRWZwcU43SVUtbWfSAZsBQVVfeXFMTnJIZlR6R2hhQ29XQXFYZTlTMlVhajFxLXFGdFFnMnRLLUxmYWpkSTl4QjlfVTRyNGN4M1pvRF9yQzVGek5qMlBXcVdZems0aTlsZ3hYWVNCOGl3Q1J5SmFEdTlRQ1hPRTdRSlRHMEVTdVZQM3VSSXlLMXI3bmJISHVhMGFRTzhZS1M0MG93TlJocmFjUDJ3cW5WSFU?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -618,6 +618,14 @@
           ]
         },
         {
+          "title": "증시 7000선 무너지자 금융주 피난처 급부상 - 포인트데일리",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIZUNFalZ5N3o3bFBSMHQ3eVZVVy1aMDFyTW5RRjFrWHVLY1Yyb1M5NkhBV1VJbWtWVERleWZqa19rd2liVmdiZ2k4MFdCcW9kaGFEc08xUGVIUXRsRVFOaGNuRkRVWHhNSXdsSlliVFjSAXRBVV95cUxPaEFFYlI0UVdVYW40bWZPMzNEY2VQcVVCWFZiSmtCRzRsVFFPT3pXZDNaSDRDWTVKa2VFOW5WYndhSUgwYXhYX3pQd3ZsVk1Zd2lLTHZSazYtUGQ1aHVPU1c3TVdXb0psY0dpWm9JM3J1N1NNVw?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "금융주 사상 최고치… 기술주 폭락에도 S&P 500은 버텼다 - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemtCWWljcHkxcUc0TGZ1S0xrRGpzQnk4WGZVS1NFbklwOWg4ZlctMFRzOTZWdFhvNllZNWF3aFQwVHdPbG1TVnBoUnotTmZ2WTRjdzNVQlltYzN3bk1VeDRyZGJiN1U1LTVZOG9sd29ld2diXzMyRkxNOEVPWDhtaGZjdmE4Tkhn?oc=5",
           "query": "금융주",
@@ -636,14 +644,6 @@
         {
           "title": "하나증권 \"금융주 기준금리 인상 수혜 전망, 관련주 KB금융지주 신한금융지주\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZ25qNVpoTGZqLXpIdjdjdFNiRURWSm0wZWh6b1hTR1JJeXNFX2hUWmZCVVhYT2I2NXg4NFhvbzU2TERpQWs2Nllxak9hSFYtN3NKZGRqTVU4ZGh1OEdfRzFuSzhNaDh2dHUxVXdPVW12Mjg?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "마라톤 페트롤리엄 주가가 돋보이는 이유와 부담 커진 소비 금융주 2선 - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3MtendzZEpYMjVsM2t5NnBEUExidmRWVkZvdlUxZDVUZ0RnZWVpU1F3M09MQ0dwOWVoaUFsNDFfN0ZibmFPT0E5N0thOXlJdVVRRkdlWXVBeUNmRHhZVC0tdE5WcWprSGczcmVRYTJPOFhCczFTWkg0MzdaUU1ZWTcwdTdtUjdPQ2xzRWZwcU43SVUtbWfSAZsBQVVfeXFMTnJIZlR6R2hhQ29XQXFYZTlTMlVhajFxLXFGdFFnMnRLLUxmYWpkSTl4QjlfVTRyNGN4M1pvRF9yQzVGek5qMlBXcVdZems0aTlsZ3hYWVNCOGl3Q1J5SmFEdTlRQ1hPRTdRSlRHMEVTdVZQM3VSSXlLMXI3bmJISHVhMGFRTzhZS1M0MG93TlJocmFjUDJ3cW5WSFU?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
