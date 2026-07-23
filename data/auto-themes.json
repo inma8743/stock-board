@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-22T11:18:10.583Z",
+  "discoveredAt": "2026-07-23T03:40:43.071Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,17 +57,9 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 31,
+      "score": 29,
       "autoDiscovered": true,
       "evidence": [
-        {
-          "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 200커버드콜OTM +5.03%, TIGER 배당커버드콜액티브 +3.05% - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEVCYkZBTEoyS0dVSUczZmFUYWJyWFNub2w3UTdCSTdYV1VWc2E2NFhfTEdMa1hJdzh2WDZYRjJ2TDlyWXNxcERNeHJ1YXRiakV4bHk4Vi1rckVsaWxaUDFNdnRkUzJ3UTlzMm9LME5RYUlkWkdPanBTd0FGcXNyWkstMNIBlwFBVV95cUxOc082UWNQai1HUWlLWmUzZzJoTU9FM01nM3hNUkFqOEN5MkxuRlFzV1dJZkR6QlNvdzhtZ0RucDRfRGoxRWNibE5IaGVvOHg5enN4OFVyZkF5VzZ3cGpXUUFiTWswQ2lsWEwyb3lka2w1ckdIU0VjUmdYbzV1d1FDZGFsbmJuR0daOTBjZWgtU29Ld2Zpd3o0?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "배당"
-          ]
-        },
         {
           "title": "롤러코스터 증시에 ‘방어’ 금융주 재부각…금리인상기 수혜주 주목 - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmFROHFqTG5lZXAweERDbl9SRXR6V3dYYmxIaV92R3lIQmh2YWMxSDRnR3hpeTMyRURHVWZLR3pTNTNuWkdCY01nNm9pNS1NVHdKQ3BaNkhlcHRPMWRqSnBlUGc1N3FQRWl0Vy1rSDNnbWplTHFpeFFuQWhIQ0x6WnhDaGc?oc=5",
@@ -93,11 +85,20 @@
           ]
         },
         {
-          "title": "\"연내 기준금리 3% 전망\"...금융주 미리 '찜' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qUHBOWllaZFYzcFFITENQWkpCd3k1cjV1ZVFBc1RBZGJRUTh6WE5UeVFLYjdiTXVIS3lNNk5CeVFLNm5ISGdZOVE3TkRKbzQ?oc=5",
+          "title": "팔천피에도 힘 못 쓰는 금융주…금리 인상돼도 '이것' 있어야 오른다 - MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTbmZ0cDY2NGJLQ1NlWVkxTUZxeVBzTW1lZl80cFRTWDNBRnpnMVFoa09kczVla1lsNFZLdnRCczA4UzFNSlhLZzA0QXNWNGs0Y21yc0w5NlJlOFVMbklKS2k0Z24?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
+          ]
+        },
+        {
+          "title": "“배당은 확실한데”…전쟁 리스크 속 금융주, 투자 매력 전망은? - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aYzQ0ZnVmb0dyQWZQcVBiX3NGQy1nY01pczJQQms5WGMtUTNhblVNWkVKLUlaNHkyeEVFd3YzaGNtY2FpNEtOdkdBU2JTZ2pJU09ieg?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "배당"
           ]
         }
       ]
@@ -457,7 +458,7 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 21,
+      "score": 20,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -557,9 +558,18 @@
         "hbm-stocks.html",
         "nuclear-stocks.html"
       ],
-      "score": 15,
+      "score": 16,
       "autoDiscovered": true,
       "evidence": [
+        {
+          "title": "하나증권 \"AI 데이터센터 투자 확대에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BbkxMQUkzYmhhWGtMQjB5dGpFSHdiUC0wbl95VkdNOU15MExLeWdqV2FnNVVHSzU4MERsVXJzb0lBOFd3dzI5WldEVW5uZnpFcmZwQTBoM1ZQR2xkMXhVMXoyd3RMNkkwQjNBR1RTMlVfQmc?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기",
+            "데이터센터"
+          ]
+        },
         {
           "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
@@ -591,15 +601,6 @@
           "matchedSignals": [
             "전력기기"
           ]
-        },
-        {
-          "title": "하나증권 \"AI 데이터센터 급증에 전력기기 수요 확대, 관심주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZaTlUTGp0dkRJLTVQMlJMOVQ2Y2s5a1JDQTEtUG9EejZWTDR6bk1GeDdRamVOb2U2R2h1YmFSV0dsRndaUTlyVkJVcVdvRlVPV2toTjNoYkFXM3k5M2lESUhYbGxPVHV1TDFUUEd0Tmo5bFU?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기",
-            "데이터센터"
-          ]
         }
       ]
     }
@@ -608,16 +609,8 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 31,
+      "score": 29,
       "evidence": [
-        {
-          "title": "[강세 토픽] 커버드콜 ETF (국내증시) 테마, TIGER 200커버드콜OTM +5.03%, TIGER 배당커버드콜액티브 +3.05% - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEVCYkZBTEoyS0dVSUczZmFUYWJyWFNub2w3UTdCSTdYV1VWc2E2NFhfTEdMa1hJdzh2WDZYRjJ2TDlyWXNxcERNeHJ1YXRiakV4bHk4Vi1rckVsaWxaUDFNdnRkUzJ3UTlzMm9LME5RYUlkWkdPanBTd0FGcXNyWkstMNIBlwFBVV95cUxOc082UWNQai1HUWlLWmUzZzJoTU9FM01nM3hNUkFqOEN5MkxuRlFzV1dJZkR6QlNvdzhtZ0RucDRfRGoxRWNibE5IaGVvOHg5enN4OFVyZkF5VzZ3cGpXUUFiTWswQ2lsWEwyb3lka2w1ckdIU0VjUmdYbzV1d1FDZGFsbmJuR0daOTBjZWgtU29Ld2Zpd3o0?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "배당"
-          ]
-        },
         {
           "title": "롤러코스터 증시에 ‘방어’ 금융주 재부각…금리인상기 수혜주 주목 - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmFROHFqTG5lZXAweERDbl9SRXR6V3dYYmxIaV92R3lIQmh2YWMxSDRnR3hpeTMyRURHVWZLR3pTNTNuWkdCY01nNm9pNS1NVHdKQ3BaNkhlcHRPMWRqSnBlUGc1N3FQRWl0Vy1rSDNnbWplTHFpeFFuQWhIQ0x6WnhDaGc?oc=5",
@@ -643,11 +636,20 @@
           ]
         },
         {
-          "title": "\"연내 기준금리 3% 전망\"...금융주 미리 '찜' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qUHBOWllaZFYzcFFITENQWkpCd3k1cjV1ZVFBc1RBZGJRUTh6WE5UeVFLYjdiTXVIS3lNNk5CeVFLNm5ISGdZOVE3TkRKbzQ?oc=5",
+          "title": "팔천피에도 힘 못 쓰는 금융주…금리 인상돼도 '이것' 있어야 오른다 - MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTbmZ0cDY2NGJLQ1NlWVkxTUZxeVBzTW1lZl80cFRTWDNBRnpnMVFoa09kczVla1lsNFZLdnRCczA4UzFNSlhLZzA0QXNWNGs0Y21yc0w5NlJlOFVMbklKS2k0Z24?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
+          ]
+        },
+        {
+          "title": "“배당은 확실한데”…전쟁 리스크 속 금융주, 투자 매력 전망은? - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aYzQ0ZnVmb0dyQWZQcVBiX3NGQy1nY01pczJQQms5WGMtUTNhblVNWkVKLUlaNHkyeEVFd3YzaGNtY2FpNEtOdkdBU2JTZ2pJU09ieg?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "배당"
           ]
         }
       ]
@@ -801,7 +803,7 @@
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 21,
+      "score": 20,
       "evidence": [
         {
           "title": "바이오 관련주, 단백질 분해 신약(TPD)이 부상한다 - Naver Blog",
@@ -849,8 +851,17 @@
     {
       "slug": "power-equipment-stocks",
       "title": "전력기기 관련주 체크",
-      "score": 15,
+      "score": 16,
       "evidence": [
+        {
+          "title": "하나증권 \"AI 데이터센터 투자 확대에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BbkxMQUkzYmhhWGtMQjB5dGpFSHdiUC0wbl95VkdNOU15MExLeWdqV2FnNVVHSzU4MERsVXJzb0lBOFd3dzI5WldEVW5uZnpFcmZwQTBoM1ZQR2xkMXhVMXoyd3RMNkkwQjNBR1RTMlVfQmc?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기",
+            "데이터센터"
+          ]
+        },
         {
           "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
@@ -881,15 +892,6 @@
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
-          ]
-        },
-        {
-          "title": "하나증권 \"AI 데이터센터 급증에 전력기기 수요 확대, 관심주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZaTlUTGp0dkRJLTVQMlJMOVQ2Y2s5a1JDQTEtUG9EejZWTDR6bk1GeDdRamVOb2U2R2h1YmFSV0dsRndaUTlyVkJVcVdvRlVPV2toTjNoYkFXM3k5M2lESUhYbGxPVHV1TDFUUEd0Tmo5bFU?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기",
-            "데이터센터"
           ]
         }
       ]
