@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T03:39:42.617Z",
+  "fetchedAt": "2026-07-24T11:09:45.868Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -27,17 +27,17 @@
           "query": "HBM 관련주"
         },
         {
-          "title": "[생생한 주식쇼 생쇼] 시장 변동성 심화, HBM 반도체 증설 수혜주 집중 - 매일경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQQmVCM1FpbFg3Y3ZFNEVGU0UzUFRmV3ZFQlYyTWtWd0h3MFJiRHpnRkYxbkFhOV9Qal9ZaGtBbl9tZXJUNXFueEpLYlk4UzNocWFIV0dFNDYxTXNpTG5tWjdVdnE1Rmdt?oc=5",
-          "source": "매일경제TV",
-          "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
-          "query": "HBM 관련주"
-        },
-        {
           "title": "SK하이닉스 美 상장 초읽기…HBM 밸류체인 수혜주 찾기 분주 - 글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHJUODk0dXYxZ2pyRVowa3dvWTlaM19XS1hwcWhmM0lOeW52ZUZDVllVRjhOT3MwV0hSWF8yWEFqb1hyWER0dEE1amN0RVN5S29HbE9YSkpxaWJWbjJxR1ZWdDBTWVYwS2hXQWl4MW01Z0ozTU5JdmtOcEcxdGstSW9DRUFsb0wz?oc=5",
           "source": "글로벌이코노믹",
           "publishedAt": "Mon, 22 Jun 2026 07:00:00 GMT",
+          "query": "HBM 관련주"
+        },
+        {
+          "title": "[생생한 주식쇼 생쇼] 시장 변동성 심화, HBM 반도체 증설 수혜주 집중 - 매일경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQQmVCM1FpbFg3Y3ZFNEVGU0UzUFRmV3ZFQlYyTWtWd0h3MFJiRHpnRkYxbkFhOV9Qal9ZaGtBbl9tZXJUNXFueEpLYlk4UzNocWFIV0dFNDYxTXNpTG5tWjdVdnE1Rmdt?oc=5",
+          "source": "매일경제TV",
+          "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
           "query": "HBM 관련주"
         }
       ]
@@ -147,17 +147,17 @@
           "query": "원전 관련주"
         },
         {
-          "title": "'원전 관련주' 장 초반 강세… 두산에너빌리티·오르비텍 등 강세 - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkdmxhUmlMekhVdVdVZzdLS01mY3ljVl8zWU9DS21tajFZaDlpUEpxOUNWRk5HSURxbll0WjJ4WElHWThqaGZ1WFg3ZkdvWkNZZkQyTmFfV2l6MnJfOG93?oc=5",
-          "source": "조세일보",
-          "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
-          "query": "원전 관련주"
-        },
-        {
           "title": "NH아문디 \"원전업종 '숨고르기'…매력적인 진입 기회\" - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yekpEajFYZFcwQlp4RHljOFdFQV94VlNUdHRJX2lncVhTazlPUF9EbjVjRzhjR3pKclk5RS1jQkZfMzlDVjJnRUJLQmhhcVYtbW5Pb3d2MVdvU0XSAWBBVV95cUxQQXBzUGNyWEZIaF9zY0VrZlhlRkpQTWZ4VHFIcDJpRnhvVGpKSlNrU1hreHhHQ0lLWU5LNkFlMDFEcDNjcTJfcE5MNXQ2VnZlRFhkbUVoN2dJU2g3Q3gwUGI?oc=5",
           "source": "연합뉴스",
           "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+          "query": "원전 관련주"
+        },
+        {
+          "title": "대규모 원전 호재 터졌다…원전 관련주 상한가 행진 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81OEIyRE9NTWRjZkRweTc4LVFvVWpua01WS28wTmNPWnRTVW51VzlQYlY5TWFXQ0hvbkxBNEE3SUM3ejBLMVJCYTAtRFdhV1k?oc=5",
+          "source": "v.daum.net",
+          "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
           "query": "원전 관련주"
         }
       ]
@@ -167,7 +167,7 @@
       "items": [
         {
           "title": "[기업이슈] 삼성, 로봇 미래사업 키운다…관련주 일제히 급등↑ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IQWNmLXIxZmJ1eHdKU2RFYk85Y2wzYXhpcHE0aUQtcVlUS1BBa3Y2R2lfbHFVLTVScmRqeXUyd2gza1lpUHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pa3RfR2tYc1VIN2JQdDVzdS1VejJwZlFsXzBEMVNCYjF0eTNzR0xBeURESFEwal9nWm85aTgydkN2d21PNlA3Y3RyOTFjbkE?oc=5",
           "source": "v.daum.net",
           "publishedAt": "Wed, 22 Jul 2026 23:40:15 GMT",
           "query": "로봇 관련주"
@@ -187,17 +187,17 @@
           "query": "로봇 관련주"
         },
         {
+          "title": "레인보우로보틱스 휴림로봇 등 로봇주, 주가 털썩…지정학 리스크에 동반 약세 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QS2lsRW5ReFNHRDhNM3B4MlVua1ZNWWIxMjBHX1lYdW96RHAtNVlrZXZnbnJ0MHpHVE1WTGI2MXg0VHFfM0lrNFp3M05vakxUWm92RHpmT2dOdnBlZy1xek5Iek5fMGI4?oc=5",
+          "source": "CBC뉴스",
+          "publishedAt": "Fri, 24 Jul 2026 02:27:36 GMT",
+          "query": "로봇 관련주"
+        },
+        {
           "title": "[특징주] 삼성, 로봇 전담조직 신설에 로봇株 일제히 급등 - 이투데이",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oZU1zamNzNklHSG9KcEhCdi1uQnkyb0hvdVgzTzZOZjFfd1ZMZDczdVI1N1R5eVdYcjF2Q294YWxwbEUtSlYyVk9RMTdTdENSVGVBYQ?oc=5",
           "source": "이투데이",
           "publishedAt": "Wed, 22 Jul 2026 04:30:00 GMT",
-          "query": "로봇 관련주"
-        },
-        {
-          "title": "삼성·현대차·엔비디아 총출동… 로봇주 지금부터가 시작 -> \"테마주가 아니다\" 실적·기술 무장한 로봇주 대세 상승 랠리 시동 => 피지컬 AI 시대 개막 -> 대기업 뭉친 로봇 생태계, 증시 주도주로 뜬다 - 데일리머니",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HaVB5LWQ1d0FXcVJtYktCMl85MTB6eHVwY0hfTUhOaFo4TzFEVUxldmZLVjFRcmdIRmtTdUMyMUlVSTVGYW9IekVVVmRPMDR1NUNCd2pvTGpqWTVVUHluZjVDQjF2enh6M0xYeTNyWWxZZw?oc=5",
-          "source": "데일리머니",
-          "publishedAt": "Wed, 22 Jul 2026 13:48:11 GMT",
           "query": "로봇 관련주"
         }
       ]
@@ -206,13 +206,6 @@
       "title": "금융주 체크",
       "items": [
         {
-          "title": "\"변동성에 강한 금융주\"...신한운용 'SOL 금융지주플러스고배당', 코스피 수익률 상회 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZWUdxYy1oLWdDaTh5ZGdzOF9DUjAwenVPVGlfVEtFTkpOSnJybGVNWTBpTFRrZGRuQVlfckNDMnhUQzI0SmpWUllhNE0xMEpoaHpFRE5Sa05SNTZ4TGVKbQ?oc=5",
-          "source": "메트로신문",
-          "publishedAt": "Fri, 24 Jul 2026 00:06:28 GMT",
-          "query": "금융주"
-        },
-        {
           "title": "신한자산운용 \"변동성 장세엔 금융주\"…SOL 금융지주플러스고배당 ETF 부각 - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRjhxWUVJUnplRno0ejF0QkJQa1NDRWZfbWYtOHhfdDdIUHVrdktGY0V4SG91UWJ3VXUxa1lpRTZ0bENXcm5rRVRZMEJ1MWZzYVNlTU5sMXJpTngy?oc=5",
           "source": "뉴스핌",
@@ -220,17 +213,24 @@
           "query": "금융주"
         },
         {
+          "title": "\"변동성에 강한 금융주\"...신한운용 'SOL 금융지주플러스고배당', 코스피 수익률 상회 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZWUdxYy1oLWdDaTh5ZGdzOF9DUjAwenVPVGlfVEtFTkpOSnJybGVNWTBpTFRrZGRuQVlfckNDMnhUQzI0SmpWUllhNE0xMEpoaHpFRE5Sa05SNTZ4TGVKbQ?oc=5",
+          "source": "메트로신문",
+          "publishedAt": "Fri, 24 Jul 2026 00:06:28 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "[숏폼] 빅테크 몸집 키우기 금융주에게도 기회 - SBS Biz",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WYkdjQWQwYkM5OUxrbzZmTV9JbmFZcU84a1QwaE9TYnFOMzFOZE9ncnpXbEZYSTlCdVUzSy13SHlJcElMYXVhVjlvdjk4QmJpakFoRmh2djPSAVhBVV95cUxOVmJHY0FkMGJDOTlMa282Zk1fSW5hWXFPOGtUMGhPU2JxTjMxTmRPZ3J6V2xGWEk5QnVVM0std0h5SXBJTGF1YVY5b3Y5OEJiaWpBaEZodnYz?oc=5",
+          "source": "SBS Biz",
+          "publishedAt": "Fri, 24 Jul 2026 05:13:00 GMT",
+          "query": "금융주"
+        },
+        {
           "title": "증시 조정에도 금융주는 선방...SOL 금융지주플러스고배당 ETF 한달 8.87%↑ - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxdnNzbnpRVXo3YlE4cHladmVPWTN6QjF4bWt0UFFpaTE1STFRVHBiaEZYaWJLU1hMQmFNbTk3bnctUHlDeXBnVFpyV0drWFlrOFJFcE9GWC1iU2FqTlpLOTN4Szk4dGtxcTRoVDhNUnFmUW_SAXdBVV95cUxNalEyTm44c0hSLWVSN3BfMG9UUi1aWmtnSC1LR3MwbFhyclJzMGJWZWxBZkJ0NTNPdmc4ZF9VWHg5b1o1Zm5xS1U4YnVCVEdDR0NOTjd6ZWU0ajBjLWdDcUlQdXFwc3RPUDZmeHNtZGVtSUhTT2NHWQ?oc=5",
           "source": "핀포인트뉴스",
           "publishedAt": "Fri, 24 Jul 2026 00:05:35 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "금융주 강세에 방어력 부각…신한운용 'SOL 금융지주플러스고배당 ETF' 최근 한달 수익률 8%대 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xRWJqaE80eDdZVlRHUXQtcGJMQjdTMGFTdnhlUV94djhEYXVkRVMwY3ZlVU5MdFM3aTFuWWdxQmFrcU1HM0hHMENPLU1mdFliX2g0?oc=5",
-          "source": "네이트",
-          "publishedAt": "Fri, 24 Jul 2026 01:33:00 GMT",
           "query": "금융주"
         },
         {
@@ -420,6 +420,13 @@
           "query": "전력기기 관련주"
         },
         {
+          "title": "[오늘장 탑픽] 전력설비, 역대급 호황…관련주 중 주목할 종목은? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WE40QVBCWERXWDlVTUozZm1LX2s0OHVNODhvY3hqczBBZmF0Tks3bWN0Ujhmb09PTGxaRGVnX3Jrdm56Yl81R202V3VXN1k?oc=5",
+          "source": "v.daum.net",
+          "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+          "query": "전력기기 관련주"
+        },
+        {
           "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
           "source": "매일경제 마켓",
@@ -431,13 +438,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "source": "Naver Blog",
           "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
-          "query": "전력기기 관련주"
-        },
-        {
-          "title": "[오늘장 탑픽] 전력설비, 역대급 호황…관련주 중 주목할 종목은? - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WE40QVBCWERXWDlVTUozZm1LX2s0OHVNODhvY3hqczBBZmF0Tks3bWN0Ujhmb09PTGxaRGVnX3Jrdm56Yl81R202V3VXN1k?oc=5",
-          "source": "v.daum.net",
-          "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
           "query": "전력기기 관련주"
         }
       ]
