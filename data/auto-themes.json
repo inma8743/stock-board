@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-07-26T03:52:17.336Z",
+  "discoveredAt": "2026-07-26T10:52:17.422Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,12 +57,29 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 33,
+      "score": 31,
       "autoDiscovered": true,
       "evidence": [
         {
+          "title": "호실적에 배당 짭짤…피난처된 증권·금융株 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QUzNsVDRFaVVWd3N1LWpuN0hEY3BuT0JwZXlGLVdGa1pMZ0ZFdmRlSE96Xzgwa1J4bTNYa0VHZllBMTBZVG8wTFNlSzZtdTJxeUE?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "배당"
+          ]
+        },
+        {
           "title": "신한자산운용 \"변동성 장세엔 금융주\"…SOL 금융지주플러스고배당 ETF 부각 - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRjhxWUVJUnplRno0ejF0QkJQa1NDRWZfbWYtOHhfdDdIUHVrdktGY0V4SG91UWJ3VXUxa1lpRTZ0bENXcm5rRVRZMEJ1MWZzYVNlTU5sMXJpTngy?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "배당"
+          ]
+        },
+        {
+          "title": "\"변동성에 강한 금융주\"...신한운용 'SOL 금융지주플러스고배당', 코스피 수익률 상회 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZWUdxYy1oLWdDaTh5ZGdzOF9DUjAwenVPVGlfVEtFTkpOSnJybGVNWTBpTFRrZGRuQVlfckNDMnhUQzI0SmpWUllhNE0xMEpoaHpFRE5Sa05SNTZ4TGVKbQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
@@ -78,29 +95,12 @@
           ]
         },
         {
-          "title": "\"변동성에 강한 금융주\"...신한운용 'SOL 금융지주플러스고배당', 코스피 수익률 상회 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZWUdxYy1oLWdDaTh5ZGdzOF9DUjAwenVPVGlfVEtFTkpOSnJybGVNWTBpTFRrZGRuQVlfckNDMnhUQzI0SmpWUllhNE0xMEpoaHpFRE5Sa05SNTZ4TGVKbQ?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "배당"
-          ]
-        },
-        {
           "title": "변동장서 빛난 금융주…SOL 금융지주플러스고배당 ETF ‘주목’ - 팝콘뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2MVJsX1VMSVpiUHB6X09NbTNJUHRVMHBGNUw0UkttdndJaXp6MWgwQThKVkVMRHcwaWlGeXlnVFpNaVlxMS1iVmZyTUFjZnVFQ0dhdk1jbWxlVlRrdnNKVTFKemdXRDNqMmRZaWpwMDJ1UdIBckFVX3lxTFB2MVJsX1VMSVpiUHB6X09NbTNJUHRVMHBGNUw0UkttdndJaXp6MWgwQThKVkVMRHcwaWlGeXlnVFpNaVlxMS1iVmZyTUFjZnVFQ0dhdk1jbWxlVlRrdnNKVTFKemdXRDNqMmRZaWpwMDJ1UQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
             "배당"
-          ]
-        },
-        {
-          "title": "‘상반기 순익 11조’ 역대급 실적 금융주, 개인은 팔고 기관·외인은 담았다 - 직썰",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Nb1pzMmJObVhDRklCVjBjUHZxa3lFcUtsRjl5cXlSQng2aVBvUENSR1A1cl9tNjVZVHNXYmhtcFhUb3daeVhqRk4wNGxYc1JNYTdNTEZjLVZVdlF6MlVZNHBDa21PWVJj0gFsQVVfeXFMTjY3VzM0RXRlN3ZNeVN3c1VPVnBuT3ZaMWtoSGwtRVNWeVRGa2xUODlrOUg0M3pSLU1SVHNnTjNkUlhqd0dzai0tQ0kwdGplWHIwcHk4eV9kOVlzbl9PUHBlODlGQTBkemtsaHlM?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
           ]
         }
       ]
@@ -307,106 +307,6 @@
       ]
     },
     {
-      "slug": "bio-stocks",
-      "title": "바이오 관련주 체크",
-      "pageTitle": "바이오 관련주 뉴스 체크 | 임상·기술수출 테마 체크",
-      "description": "삼성바이오로직스, 셀트리온, 알테오젠 등 바이오 관련주의 임상, 기술수출, CMO 테마 체크포인트를 모아보는 정보 페이지입니다.",
-      "keywords": "바이오 관련주, 제약바이오 관련주, 삼성바이오로직스, 셀트리온, 알테오젠, 기술수출",
-      "intro": "바이오 테마는 임상 결과, 기술수출, FDA 승인, CMO 수주 뉴스에 민감합니다. 기대감과 실제 매출·마일스톤 반영을 구분하세요.",
-      "searchQueries": [
-        "바이오 관련주",
-        "제약바이오 관련주",
-        "기술수출 관련주"
-      ],
-      "stocks": [
-        {
-          "name": "삼성바이오로직스",
-          "code": "207940",
-          "tags": [
-            "CMO",
-            "바이오",
-            "대형주"
-          ],
-          "summary": "바이오 CMO 대표 종목입니다. 수주 잔고, 증설, 환율 영향을 같이 확인하세요."
-        },
-        {
-          "name": "셀트리온",
-          "code": "068270",
-          "tags": [
-            "바이오시밀러",
-            "제약",
-            "대형주"
-          ],
-          "summary": "바이오시밀러와 합병 시너지 이슈로 주목됩니다. 제품 허가와 판매 성장을 확인하세요."
-        },
-        {
-          "name": "알테오젠",
-          "code": "196170",
-          "tags": [
-            "플랫폼",
-            "기술수출",
-            "바이오"
-          ],
-          "summary": "플랫폼 기술과 기술수출 이슈로 자주 검색됩니다. 계약 조건과 마일스톤 인식 가능성을 확인하세요."
-        }
-      ],
-      "checklist": [
-        "임상 결과나 허가 뉴스가 공식 자료로 확인되는가?",
-        "기술수출 계약의 규모와 조건이 명확한가?",
-        "적자 기업이라면 현금흐름과 증자 가능성을 확인했는가?",
-        "단일 뉴스에 따른 급등락 리스크는 없는가?"
-      ],
-      "related": [
-        "kospi-kosdaq.html",
-        "robot-stocks.html"
-      ],
-      "score": 19,
-      "autoDiscovered": true,
-      "evidence": [
-        {
-          "title": "바이오 관련주, 단백질 분해 신약(TPD)이 부상한다 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRGVmbUZNT1lmR3piVUg1NloyT1R0R3dia3NwdUYtdTNNSWJvTVdTWnluTk9ZWXlzaERYQ3psdTRoYjQxSjNGaENZanhsNnZZekJMOUpjZEZsUQ?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오",
-            "신약"
-          ]
-        },
-        {
-          "title": "‘탈모치료제 급여화’ 공론화 제동에…관련주 제약주 동반 약세 - 메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRWhCYnNNQnB5WHJNV1MwZk02UzZheTVmLXVaeDJwaHZNWFdTaWI3RVlsQ0pXUjFUZVFzLU1RLXRUeGxTbEExUG1JeVJ4N1NUeWhSdUc4Z2N5VEdzRGpBZU5HUU1TS1dFQnNLcg?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "제약"
-          ]
-        },
-        {
-          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQ01lcFNQendHQ21FRnJSdERLZnhrT3NGUHdVRXd3VFhENnp0endJOTR3Y0Y2ZHJQWWV0cXdnckJWYjJjMk9LZ01Idkl4NVk?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
       "pageTitle": "2차전지 관련주 뉴스 체크 | 배터리 테마 체크",
@@ -507,6 +407,105 @@
       ]
     },
     {
+      "slug": "bio-stocks",
+      "title": "바이오 관련주 체크",
+      "pageTitle": "바이오 관련주 뉴스 체크 | 임상·기술수출 테마 체크",
+      "description": "삼성바이오로직스, 셀트리온, 알테오젠 등 바이오 관련주의 임상, 기술수출, CMO 테마 체크포인트를 모아보는 정보 페이지입니다.",
+      "keywords": "바이오 관련주, 제약바이오 관련주, 삼성바이오로직스, 셀트리온, 알테오젠, 기술수출",
+      "intro": "바이오 테마는 임상 결과, 기술수출, FDA 승인, CMO 수주 뉴스에 민감합니다. 기대감과 실제 매출·마일스톤 반영을 구분하세요.",
+      "searchQueries": [
+        "바이오 관련주",
+        "제약바이오 관련주",
+        "기술수출 관련주"
+      ],
+      "stocks": [
+        {
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "tags": [
+            "CMO",
+            "바이오",
+            "대형주"
+          ],
+          "summary": "바이오 CMO 대표 종목입니다. 수주 잔고, 증설, 환율 영향을 같이 확인하세요."
+        },
+        {
+          "name": "셀트리온",
+          "code": "068270",
+          "tags": [
+            "바이오시밀러",
+            "제약",
+            "대형주"
+          ],
+          "summary": "바이오시밀러와 합병 시너지 이슈로 주목됩니다. 제품 허가와 판매 성장을 확인하세요."
+        },
+        {
+          "name": "알테오젠",
+          "code": "196170",
+          "tags": [
+            "플랫폼",
+            "기술수출",
+            "바이오"
+          ],
+          "summary": "플랫폼 기술과 기술수출 이슈로 자주 검색됩니다. 계약 조건과 마일스톤 인식 가능성을 확인하세요."
+        }
+      ],
+      "checklist": [
+        "임상 결과나 허가 뉴스가 공식 자료로 확인되는가?",
+        "기술수출 계약의 규모와 조건이 명확한가?",
+        "적자 기업이라면 현금흐름과 증자 가능성을 확인했는가?",
+        "단일 뉴스에 따른 급등락 리스크는 없는가?"
+      ],
+      "related": [
+        "kospi-kosdaq.html",
+        "robot-stocks.html"
+      ],
+      "score": 17,
+      "autoDiscovered": true,
+      "evidence": [
+        {
+          "title": "바이오시밀러 관련주, 흔들리는 바이오 섹터 속 특허 만료 수혜 주목 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVGdOU3JuVGVESzgySUpjbXlaeHBrUzRyaEJ4MnJjVUI0UG45aldoNmNfTnY0TlI2bWRDQUl3R3FSbGNtd093WHJEenl1TDZhQmxra0NVaEZWc2VjQW45eU5NUlRLUEtxM3pOenJUZVNaQnhuMndfOTVMSXZZUGM?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "‘탈모치료제 급여화’ 공론화 제동에…관련주 제약주 동반 약세 - 메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRWhCYnNNQnB5WHJNV1MwZk02UzZheTVmLXVaeDJwaHZNWFdTaWI3RVlsQ0pXUjFUZVFzLU1RLXRUeGxTbEExUG1JeVJ4N1NUeWhSdUc4Z2N5VEdzRGpBZU5HUU1TS1dFQnNLcg?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "제약"
+          ]
+        },
+        {
+          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQ01lcFNQendHQ21FRnJSdERLZnhrT3NGUHdVRXd3VFhENnp0endJOTR3Y0Y2ZHJQWWV0cXdnckJWYjJjMk9LZ01Idkl4NVk?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "power-equipment-stocks",
       "title": "전력기기 관련주 체크",
       "pageTitle": "전력기기 관련주 뉴스 체크 | 변압기·전력망 테마 체크",
@@ -560,9 +559,17 @@
         "hbm-stocks.html",
         "nuclear-stocks.html"
       ],
-      "score": 17,
+      "score": 16,
       "autoDiscovered": true,
       "evidence": [
+        {
+          "title": "SK이터닉스 질주에 태양광·전력기기 훈풍 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSUo5SzlRNExUbVl1MHBTc3V3X0I3bHdaUnRyTlVSSThiOUROX29iaXM1RXA3am8zd083aEZUaE90a09CQU9ybUNhdDdteU0xcHc?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기"
+          ]
+        },
         {
           "title": "하나증권 \"AI 데이터센터 투자 확대에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BbkxMQUkzYmhhWGtMQjB5dGpFSHdiUC0wbl95VkdNOU15MExLeWdqV2FnNVVHSzU4MERsVXJzb0lBOFd3dzI5WldEVW5uZnpFcmZwQTBoM1ZQR2xkMXhVMXoyd3RMNkkwQjNBR1RTMlVfQmc?oc=5",
@@ -570,14 +577,6 @@
           "matchedSignals": [
             "전력기기",
             "데이터센터"
-          ]
-        },
-        {
-          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기"
           ]
         },
         {
@@ -611,11 +610,28 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 33,
+      "score": 31,
       "evidence": [
+        {
+          "title": "호실적에 배당 짭짤…피난처된 증권·금융株 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QUzNsVDRFaVVWd3N1LWpuN0hEY3BuT0JwZXlGLVdGa1pMZ0ZFdmRlSE96Xzgwa1J4bTNYa0VHZllBMTBZVG8wTFNlSzZtdTJxeUE?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "배당"
+          ]
+        },
         {
           "title": "신한자산운용 \"변동성 장세엔 금융주\"…SOL 금융지주플러스고배당 ETF 부각 - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRjhxWUVJUnplRno0ejF0QkJQa1NDRWZfbWYtOHhfdDdIUHVrdktGY0V4SG91UWJ3VXUxa1lpRTZ0bENXcm5rRVRZMEJ1MWZzYVNlTU5sMXJpTngy?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "배당"
+          ]
+        },
+        {
+          "title": "\"변동성에 강한 금융주\"...신한운용 'SOL 금융지주플러스고배당', 코스피 수익률 상회 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZWUdxYy1oLWdDaTh5ZGdzOF9DUjAwenVPVGlfVEtFTkpOSnJybGVNWTBpTFRrZGRuQVlfckNDMnhUQzI0SmpWUllhNE0xMEpoaHpFRE5Sa05SNTZ4TGVKbQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
@@ -631,29 +647,12 @@
           ]
         },
         {
-          "title": "\"변동성에 강한 금융주\"...신한운용 'SOL 금융지주플러스고배당', 코스피 수익률 상회 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZWUdxYy1oLWdDaTh5ZGdzOF9DUjAwenVPVGlfVEtFTkpOSnJybGVNWTBpTFRrZGRuQVlfckNDMnhUQzI0SmpWUllhNE0xMEpoaHpFRE5Sa05SNTZ4TGVKbQ?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "배당"
-          ]
-        },
-        {
           "title": "변동장서 빛난 금융주…SOL 금융지주플러스고배당 ETF ‘주목’ - 팝콘뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2MVJsX1VMSVpiUHB6X09NbTNJUHRVMHBGNUw0UkttdndJaXp6MWgwQThKVkVMRHcwaWlGeXlnVFpNaVlxMS1iVmZyTUFjZnVFQ0dhdk1jbWxlVlRrdnNKVTFKemdXRDNqMmRZaWpwMDJ1UdIBckFVX3lxTFB2MVJsX1VMSVpiUHB6X09NbTNJUHRVMHBGNUw0UkttdndJaXp6MWgwQThKVkVMRHcwaWlGeXlnVFpNaVlxMS1iVmZyTUFjZnVFQ0dhdk1jbWxlVlRrdnNKVTFKemdXRDNqMmRZaWpwMDJ1UQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
             "배당"
-          ]
-        },
-        {
-          "title": "‘상반기 순익 11조’ 역대급 실적 금융주, 개인은 팔고 기관·외인은 담았다 - 직썰",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Nb1pzMmJObVhDRklCVjBjUHZxa3lFcUtsRjl5cXlSQng2aVBvUENSR1A1cl9tNjVZVHNXYmhtcFhUb3daeVhqRk4wNGxYc1JNYTdNTEZjLVZVdlF6MlVZNHBDa21PWVJj0gFsQVVfeXFMTjY3VzM0RXRlN3ZNeVN3c1VPVnBuT3ZaMWtoSGwtRVNWeVRGa2xUODlrOUg0M3pSLU1SVHNnTjNkUlhqd0dzai0tQ0kwdGplWHIwcHk4eV9kOVlzbl9PUHBlODlGQTBkemtsaHlM?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
           ]
         }
       ]
@@ -757,54 +756,6 @@
       ]
     },
     {
-      "slug": "bio-stocks",
-      "title": "바이오 관련주 체크",
-      "score": 19,
-      "evidence": [
-        {
-          "title": "바이오 관련주, 단백질 분해 신약(TPD)이 부상한다 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRGVmbUZNT1lmR3piVUg1NloyT1R0R3dia3NwdUYtdTNNSWJvTVdTWnluTk9ZWXlzaERYQ3psdTRoYjQxSjNGaENZanhsNnZZekJMOUpjZEZsUQ?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오",
-            "신약"
-          ]
-        },
-        {
-          "title": "‘탈모치료제 급여화’ 공론화 제동에…관련주 제약주 동반 약세 - 메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRWhCYnNNQnB5WHJNV1MwZk02UzZheTVmLXVaeDJwaHZNWFdTaWI3RVlsQ0pXUjFUZVFzLU1RLXRUeGxTbEExUG1JeVJ4N1NUeWhSdUc4Z2N5VEdzRGpBZU5HUU1TS1dFQnNLcg?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "제약"
-          ]
-        },
-        {
-          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQ01lcFNQendHQ21FRnJSdERLZnhrT3NGUHdVRXd3VFhENnp0endJOTR3Y0Y2ZHJQWWV0cXdnckJWYjJjMk9LZ01Idkl4NVk?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
       "score": 18,
@@ -853,10 +804,65 @@
       ]
     },
     {
-      "slug": "power-equipment-stocks",
-      "title": "전력기기 관련주 체크",
+      "slug": "bio-stocks",
+      "title": "바이오 관련주 체크",
       "score": 17,
       "evidence": [
+        {
+          "title": "바이오시밀러 관련주, 흔들리는 바이오 섹터 속 특허 만료 수혜 주목 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVGdOU3JuVGVESzgySUpjbXlaeHBrUzRyaEJ4MnJjVUI0UG45aldoNmNfTnY0TlI2bWRDQUl3R3FSbGNtd093WHJEenl1TDZhQmxra0NVaEZWc2VjQW45eU5NUlRLUEtxM3pOenJUZVNaQnhuMndfOTVMSXZZUGM?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "‘탈모치료제 급여화’ 공론화 제동에…관련주 제약주 동반 약세 - 메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRWhCYnNNQnB5WHJNV1MwZk02UzZheTVmLXVaeDJwaHZNWFdTaWI3RVlsQ0pXUjFUZVFzLU1RLXRUeGxTbEExUG1JeVJ4N1NUeWhSdUc4Z2N5VEdzRGpBZU5HUU1TS1dFQnNLcg?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "제약"
+          ]
+        },
+        {
+          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQ01lcFNQendHQ21FRnJSdERLZnhrT3NGUHdVRXd3VFhENnp0endJOTR3Y0Y2ZHJQWWV0cXdnckJWYjJjMk9LZ01Idkl4NVk?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "[적중! 대박 예감] '한올바이오파마, 태성' 내일장 예감 좋은 대박 종목은? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNDlyUGpIY1VFZ25QSnFwYXFjSXhFMXdwYUJ2YnRud1RTMFJZVDBoZG5VMUd3X0dhMFVUVnlteDVvbzdRdE5OaEVKRF9DclIyckNhYnQxQXlybERXZm01VEFxR1piMEpr0gFuQVVfeXFMUG96YXBLNjVzN1NnbWZUcmZIWVF6Y0NlRXlTWXltZDBTakV2aGREbUpad3ZVNmVIT1J4VHVIWHB3WHFaVW1VUGtneEFIZmREc0lhdDl2ejA3S3ctX1A0Z3B5dzl4RFJSTW9FNkpJVWc?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "power-equipment-stocks",
+      "title": "전력기기 관련주 체크",
+      "score": 16,
+      "evidence": [
+        {
+          "title": "SK이터닉스 질주에 태양광·전력기기 훈풍 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSUo5SzlRNExUbVl1MHBTc3V3X0I3bHdaUnRyTlVSSThiOUROX29iaXM1RXA3am8zd083aEZUaE90a09CQU9ybUNhdDdteU0xcHc?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기"
+          ]
+        },
         {
           "title": "하나증권 \"AI 데이터센터 투자 확대에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BbkxMQUkzYmhhWGtMQjB5dGpFSHdiUC0wbl95VkdNOU15MExLeWdqV2FnNVVHSzU4MERsVXJzb0lBOFd3dzI5WldEVW5uZnpFcmZwQTBoM1ZQR2xkMXhVMXoyd3RMNkkwQjNBR1RTMlVfQmc?oc=5",
@@ -864,14 +870,6 @@
           "matchedSignals": [
             "전력기기",
             "데이터센터"
-          ]
-        },
-        {
-          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기"
           ]
         },
         {
