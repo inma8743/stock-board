@@ -80,7 +80,16 @@ function validatePrioritySearchPages(sitemap) {
     },
     {
       file: 'korea-etf-gdr-guide.html',
-      requiredTexts: ['GDR 주식이란?', '국내 원주·ETF·GDR 비교', 'FAQPage'],
+      requiredTexts: [
+        'GDR 주식이란?',
+        '국내 원주·ETF·GDR 비교',
+        'id="gdr-calculator"',
+        'GDR 환산·괴리율 계산기',
+        'api.frankfurter.dev/v2/rate/USD/KRW',
+        'gdr_calculate',
+        '삼성전자 SMSN 25:1 적용',
+        'FAQPage',
+      ],
     },
     {
       file: 'sk-hynix-stock-outlook.html',

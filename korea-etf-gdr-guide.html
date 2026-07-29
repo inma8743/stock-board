@@ -3,16 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="GDR 주식 뜻부터 삼성전자 GDR, 원주·ETF·ADR 차이, 가격 괴리와 환율·수수료·유동성 확인 방법까지 쉽게 정리했습니다.">
+  <meta name="description" content="GDR 주식 뜻과 삼성전자 GDR 25:1 구조를 알아보고, 달러 가격·원달러 환율·국내 주가를 입력해 원주 환산가와 괴리율을 계산하세요.">
   <meta name="google-site-verification" content="iJYo0s5IVucjVPlcUXP11HltZW35jnzpXC0C4rTFapw">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="https://stock-board-ten.vercel.app/korea-etf-gdr-guide.html">
   <meta property="og:type" content="article">
   <meta property="og:locale" content="ko_KR">
-  <meta property="og:title" content="GDR 주식 뜻 | 삼성전자 GDR·ETF·원주 차이">
-  <meta property="og:description" content="예탁증서의 구조와 가격 괴리, 실제 거래 전 확인할 항목을 한 번에 정리합니다.">
+  <meta property="og:title" content="GDR 주식 뜻·환산 계산기 | 삼성전자 GDR 괴리율">
+  <meta property="og:description" content="GDR 달러 가격을 원주 1주 가치로 환산하고 국내 주가 대비 프리미엄·디스카운트를 계산합니다.">
   <meta property="og:url" content="https://stock-board-ten.vercel.app/korea-etf-gdr-guide.html">
-  <title>GDR 주식 뜻 | 삼성전자 GDR·ETF·원주 차이</title>
+  <title>GDR 주식 뜻·환산 계산기 | 삼성전자 GDR 괴리율</title>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EZW95TCSF"></script>
   <script>
     window.dataLayer=window.dataLayer||[];
@@ -65,6 +65,17 @@
             }
           }
         ]
+      },
+      {
+        "@type": "WebApplication",
+        "name": "GDR 환산·괴리율 계산기",
+        "description": "GDR 달러 가격, 원달러 환율, 원주 전환 비율과 국내 주가를 이용해 원주 환산가와 괴리율을 계산합니다.",
+        "url": "https://stock-board-ten.vercel.app/korea-etf-gdr-guide.html#gdr-calculator",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "Web",
+        "browserRequirements": "JavaScript",
+        "isAccessibleForFree": true,
+        "inLanguage": "ko-KR"
       }
     ]
   }
@@ -93,8 +104,42 @@
     .checklist{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
     .check{padding:16px;border:1px solid #ede9fe;border-radius:16px;background:#fafafa}
     .check strong{display:block;margin-bottom:5px}
+    .calculator{border-color:#8b5cf6;background:linear-gradient(145deg,#fff,#faf5ff)}
+    .calculator-intro{max-width:760px;color:#475569}
+    .preset-row,.calculator-actions,.result-actions{display:flex;flex-wrap:wrap;gap:9px;align-items:center}
+    .preset-row{margin:14px 0 18px}
+    button{border:0;font:inherit;font-weight:800;cursor:pointer}
+    .preset-button{padding:8px 11px;border:1px solid #c4b5fd;border-radius:999px;color:#5b21b6;background:#fff}
+    .form-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+    .field label{display:block;margin-bottom:6px;font-weight:800}
+    .field small{display:block;margin-top:6px;color:#64748b;line-height:1.5}
+    .field input{width:100%;min-height:50px;padding:11px 13px;border:1px solid #cbd5e1;border-radius:13px;color:#172033;background:#fff;font:inherit}
+    .field input:focus{outline:3px solid #ddd6fe;border-color:#7c3aed}
+    .rate-line{display:flex;gap:8px}
+    .rate-line input{flex:1}
+    .rate-button{flex:0 0 auto;padding:0 13px;border:1px solid #c4b5fd;border-radius:13px;color:#5b21b6;background:#f5f3ff}
+    .rate-status{min-height:24px;margin:9px 0 0;color:#64748b;font-size:13px}
+    .primary-button{min-height:50px;padding:11px 18px;border-radius:13px;color:#fff;background:#6d28d9}
+    .secondary-button{min-height:44px;padding:9px 13px;border:1px solid #c4b5fd;border-radius:12px;color:#5b21b6;background:#fff}
+    .calculator-actions{margin-top:20px}
+    .form-error{min-height:24px;margin:10px 0 0;color:#b91c1c;font-weight:700}
+    .results{margin-top:20px;padding:20px;border:1px solid #c4b5fd;border-radius:18px;background:#fff}
+    .results[hidden]{display:none}
+    .result-head{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+    .result-head h3{margin:0}
+    .result-badge{padding:6px 10px;border-radius:999px;font-size:13px;font-weight:900}
+    .result-badge.premium{color:#b91c1c;background:#fee2e2}
+    .result-badge.discount{color:#1d4ed8;background:#dbeafe}
+    .result-badge.flat{color:#475569;background:#e2e8f0}
+    .result-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:16px 0}
+    .metric{padding:15px;border-radius:15px;background:#f8fafc}
+    .metric span{display:block;color:#64748b;font-size:13px}
+    .metric strong{display:block;margin-top:3px;font-size:clamp(20px,4vw,28px);letter-spacing:-.6px}
+    .result-note,.formula{color:#64748b;font-size:13px}
+    .formula{margin:18px 0 0;padding:14px;border-radius:13px;background:#f8fafc}
+    .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
     footer{padding:12px 0 42px;color:#64748b;text-align:center;font-size:13px}
-    @media(max-width:660px){.card{padding:20px}.checklist{grid-template-columns:1fr}th,td{min-width:150px}}
+    @media(max-width:660px){.card{padding:20px}.checklist,.form-grid,.result-grid{grid-template-columns:1fr}th,td{min-width:150px}.rate-line{align-items:stretch}.rate-button{max-width:110px}}
   </style>
 </head>
 <body>
@@ -113,6 +158,84 @@
         <li>GDR 가격은 원주 가격과 단순히 1대1이 아닙니다. <strong>전환 비율·환율·거래 시간·수수료·유동성</strong>을 반영해야 합니다.</li>
         <li>국내 개별주, 한국 주식 ETF, GDR은 노출 대상과 권리·비용이 다릅니다. 상품 이름보다 실제 투자설명서와 증권사 거래 조건을 먼저 확인해야 합니다.</li>
       </ul>
+    </section>
+
+    <section id="gdr-calculator" class="card calculator">
+      <h2>GDR 환산·괴리율 계산기</h2>
+      <p class="calculator-intro">GDR 달러 가격을 원화로 바꾼 뒤 원주 전환 비율로 나눠 <strong>원주 1주 환산가</strong>를 구합니다. 국내 주가를 함께 입력하면 GDR이 상대적으로 얼마나 높거나 낮은지도 계산합니다.</p>
+      <div class="preset-row" aria-label="계산 프리셋">
+        <button id="samsung-preset" class="preset-button" type="button">삼성전자 SMSN 25:1 적용</button>
+        <span>런던거래소의 SMSN은 GDR 1주당 보통주 25주를 나타냅니다.</span>
+      </div>
+
+      <form id="gdr-form" novalidate>
+        <div class="form-grid">
+          <div class="field">
+            <label for="gdr-price">GDR 가격 (USD)</label>
+            <input id="gdr-price" name="gdr" type="number" min="0.01" step="0.01" inputmode="decimal" placeholder="예: 4484" required>
+            <small>해외 거래소에서 확인한 같은 종목·같은 종류의 GDR 가격을 입력하세요.</small>
+          </div>
+
+          <div class="field">
+            <label for="shares-per-gdr">GDR 1주당 원주 수</label>
+            <input id="shares-per-gdr" name="ratio" type="number" min="0.0001" step="0.0001" inputmode="decimal" value="25" required>
+            <small>예탁 비율입니다. 25:1이면 25를 입력합니다. 상품 문서에서 반드시 재확인하세요.</small>
+          </div>
+
+          <div class="field">
+            <label for="usd-krw">원달러 환율 (1 USD당 KRW)</label>
+            <div class="rate-line">
+              <input id="usd-krw" name="fx" type="number" min="1" step="0.01" inputmode="decimal" placeholder="자동 조회 또는 직접 입력" required>
+              <button id="refresh-rate" class="rate-button" type="button">환율 갱신</button>
+            </div>
+            <p id="rate-status" class="rate-status" aria-live="polite">일간 참고 환율을 불러오는 중입니다.</p>
+          </div>
+
+          <div class="field">
+            <label for="local-price">국내 원주 가격 (KRW)</label>
+            <input id="local-price" name="local" type="number" min="1" step="1" inputmode="numeric" placeholder="예: 255000" required>
+            <small>가능하면 GDR 가격과 가장 가까운 시점의 국내 보통주 또는 우선주 가격을 입력하세요.</small>
+          </div>
+        </div>
+
+        <div class="calculator-actions">
+          <button class="primary-button" type="submit">환산가와 괴리율 계산</button>
+          <button id="reset-calculator" class="secondary-button" type="button">입력 초기화</button>
+        </div>
+        <p id="form-error" class="form-error" role="alert"></p>
+      </form>
+
+      <div id="gdr-results" class="results" aria-live="polite" hidden>
+        <div class="result-head">
+          <h3>계산 결과</h3>
+          <span id="result-badge" class="result-badge flat">비교 전</span>
+        </div>
+        <div class="result-grid">
+          <div class="metric">
+            <span>GDR 1주의 원화 가치</span>
+            <strong id="gdr-krw-value">-</strong>
+          </div>
+          <div class="metric">
+            <span>원주 1주 환산가</span>
+            <strong id="implied-local-price">-</strong>
+          </div>
+          <div class="metric">
+            <span>국내 주가 대비 괴리율</span>
+            <strong id="premium-discount">-</strong>
+          </div>
+          <div class="metric">
+            <span>괴리율 0% 기준 GDR 가격</span>
+            <strong id="parity-gdr-price">-</strong>
+          </div>
+        </div>
+        <p id="result-note" class="result-note"></p>
+        <div class="result-actions">
+          <button id="copy-result" class="secondary-button" type="button">결과 요약 복사</button>
+          <button id="copy-link" class="secondary-button" type="button">입력값 링크 복사</button>
+        </div>
+      </div>
+
+      <p class="formula"><strong>계산식:</strong> 원주 1주 환산가 = GDR 가격 × 원달러 환율 ÷ GDR 1주당 원주 수. 괴리율 = (원주 환산가 ÷ 국내 주가 - 1) × 100. 수수료·세금·배당·전환 제약은 포함하지 않습니다.</p>
     </section>
 
     <section class="card">
@@ -180,10 +303,12 @@
 
     <section class="card">
       <h2>공식 자료로 더 확인하기</h2>
-      <p>예탁증서의 일반 구조는 미국 투자자 교육 사이트의 ADR 설명이 이해에 도움이 됩니다. 실제 삼성전자 GDR 조건은 삼성전자 IR과 이용 중인 증권사가 제공하는 상품 문서를 기준으로 판단해야 합니다.</p>
+      <p>예탁증서의 일반 구조는 미국 투자자 교육 사이트의 ADR 설명이 이해에 도움이 됩니다. 삼성전자 SMSN의 25:1 비율은 런던거래소 종목 정보에서 확인할 수 있습니다. 계산기가 자동 입력하는 환율은 Frankfurter의 USD/KRW 일간 참고값이며 실시간 체결 환율이 아닙니다.</p>
       <div class="links">
         <a href="https://www.investor.gov/introduction-investing/investing-basics/glossary/american-depositary-receipts-adrs" target="_blank" rel="noopener">Investor.gov 예탁증서 설명</a>
         <a href="https://www.samsung.com/global/ir/" target="_blank" rel="noopener">삼성전자 공식 IR</a>
+        <a href="https://www.londonstockexchange.com/stock/SMSN/samsung-electronics-co-ltd-att" target="_blank" rel="noopener">런던거래소 SMSN 25:1 정보</a>
+        <a href="https://frankfurter.dev/" target="_blank" rel="noopener">Frankfurter 환율 API</a>
         <a href="https://dart.fss.or.kr/" target="_blank" rel="noopener">DART 전자공시</a>
         <a href="https://global.krx.co.kr/" target="_blank" rel="noopener">한국거래소 영문 안내</a>
       </div>
@@ -215,5 +340,243 @@
   </main>
 
   <footer>© 2026 마켓콕 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/feedback.html">피드백</a> · <a href="/privacy.html">개인정보처리방침·투자정보 고지</a></footer>
+  <script>
+    (function () {
+      var form = document.getElementById('gdr-form');
+      var gdrPriceInput = document.getElementById('gdr-price');
+      var ratioInput = document.getElementById('shares-per-gdr');
+      var rateInput = document.getElementById('usd-krw');
+      var localPriceInput = document.getElementById('local-price');
+      var rateStatus = document.getElementById('rate-status');
+      var formError = document.getElementById('form-error');
+      var results = document.getElementById('gdr-results');
+      var resultBadge = document.getElementById('result-badge');
+      var gdrKrwValue = document.getElementById('gdr-krw-value');
+      var impliedLocalPrice = document.getElementById('implied-local-price');
+      var premiumDiscount = document.getElementById('premium-discount');
+      var parityGdrPrice = document.getElementById('parity-gdr-price');
+      var resultNote = document.getElementById('result-note');
+      var currentResult = null;
+      var rateDate = '';
+
+      var krwFormatter = new Intl.NumberFormat('ko-KR', {
+        style: 'currency',
+        currency: 'KRW',
+        maximumFractionDigits: 0
+      });
+      var usdFormatter = new Intl.NumberFormat('en-US', {
+        style: 'currency',
+        currency: 'USD',
+        minimumFractionDigits: 2,
+        maximumFractionDigits: 2
+      });
+
+      function track(eventName, parameters) {
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', eventName, parameters || {});
+        }
+      }
+
+      function positiveNumber(input) {
+        var value = Number(input.value);
+        return Number.isFinite(value) && value > 0 ? value : null;
+      }
+
+      function setInputFromQuery(input, value) {
+        if (value === null) return false;
+        var parsed = Number(value);
+        if (!Number.isFinite(parsed) || parsed <= 0) return false;
+        input.value = String(parsed);
+        return true;
+      }
+
+      function restoreSharedInputs() {
+        var params = new URLSearchParams(window.location.search);
+        setInputFromQuery(gdrPriceInput, params.get('gdr'));
+        setInputFromQuery(ratioInput, params.get('ratio'));
+        var restoredRate = setInputFromQuery(rateInput, params.get('fx'));
+        setInputFromQuery(localPriceInput, params.get('local'));
+        if (restoredRate) {
+          rateInput.dataset.source = 'shared';
+          rateStatus.textContent = '공유 링크에 저장된 환율입니다. 필요하면 환율 갱신을 누르세요.';
+        }
+        return restoredRate;
+      }
+
+      async function loadReferenceRate(force) {
+        rateStatus.textContent = 'Frankfurter에서 USD/KRW 일간 참고값을 불러오는 중입니다.';
+        try {
+          var response = await fetch('https://api.frankfurter.dev/v2/rate/USD/KRW');
+          if (!response.ok) throw new Error('rate request failed');
+          var data = await response.json();
+          if (!Number.isFinite(data.rate) || data.rate <= 0) throw new Error('invalid rate');
+          if (force || !rateInput.value || rateInput.dataset.source === 'auto') {
+            rateInput.value = Number(data.rate).toFixed(2);
+            rateInput.dataset.source = 'auto';
+          }
+          rateDate = data.date || '';
+          rateStatus.textContent = (rateDate ? rateDate + ' 기준 ' : '') + 'USD/KRW 일간 참고값입니다. 실시간 체결 환율이 아니며 직접 수정할 수 있습니다.';
+          if (force) track('gdr_rate_refresh', { rate_source: 'frankfurter' });
+        } catch (error) {
+          rateStatus.textContent = '환율 자동 조회에 실패했습니다. 이용 중인 금융 서비스의 USD/KRW 환율을 직접 입력하세요.';
+          rateInput.dataset.source = 'manual';
+          if (force) track('gdr_rate_refresh_failed');
+        }
+      }
+
+      function calculate() {
+        var gdrPrice = positiveNumber(gdrPriceInput);
+        var ratio = positiveNumber(ratioInput);
+        var rate = positiveNumber(rateInput);
+        var localPrice = positiveNumber(localPriceInput);
+        var fields = [
+          { input: gdrPriceInput, value: gdrPrice, label: 'GDR 가격' },
+          { input: ratioInput, value: ratio, label: '원주 전환 비율' },
+          { input: rateInput, value: rate, label: '원달러 환율' },
+          { input: localPriceInput, value: localPrice, label: '국내 원주 가격' }
+        ];
+        var invalid = fields.find(function (field) { return field.value === null; });
+
+        if (invalid) {
+          formError.textContent = invalid.label + '을(를) 0보다 큰 숫자로 입력하세요.';
+          invalid.input.focus();
+          results.hidden = true;
+          return;
+        }
+
+        formError.textContent = '';
+        var totalKrw = gdrPrice * rate;
+        var impliedPrice = totalKrw / ratio;
+        var gapPercent = (impliedPrice / localPrice - 1) * 100;
+        var parityPrice = localPrice * ratio / rate;
+        var direction = Math.abs(gapPercent) < 0.05 ? 'flat' : gapPercent > 0 ? 'premium' : 'discount';
+
+        gdrKrwValue.textContent = krwFormatter.format(totalKrw);
+        impliedLocalPrice.textContent = krwFormatter.format(impliedPrice);
+        premiumDiscount.textContent = (gapPercent > 0 ? '+' : '') + gapPercent.toFixed(2) + '%';
+        parityGdrPrice.textContent = usdFormatter.format(parityPrice);
+
+        resultBadge.className = 'result-badge ' + direction;
+        if (direction === 'premium') {
+          resultBadge.textContent = 'GDR 프리미엄 ' + gapPercent.toFixed(2) + '%';
+        } else if (direction === 'discount') {
+          resultBadge.textContent = 'GDR 디스카운트 ' + Math.abs(gapPercent).toFixed(2) + '%';
+        } else {
+          resultBadge.textContent = '가격 차이 0.05% 미만';
+        }
+
+        resultNote.textContent = '가격 시점, 거래 시간, 호가, 환전·예탁·전환 비용을 반영하지 않은 단순 비교입니다.' +
+          (rateDate ? ' 적용 환율 날짜: ' + rateDate + '.' : '');
+        results.hidden = false;
+        currentResult = {
+          gdrPrice: gdrPrice,
+          ratio: ratio,
+          rate: rate,
+          localPrice: localPrice,
+          totalKrw: totalKrw,
+          impliedPrice: impliedPrice,
+          gapPercent: gapPercent,
+          parityPrice: parityPrice,
+          direction: direction
+        };
+        track('gdr_calculate', {
+          result_direction: direction,
+          rate_source: rateInput.dataset.source || 'manual'
+        });
+        results.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+
+      async function copyText(text, button, successLabel) {
+        try {
+          if (navigator.clipboard && window.isSecureContext) {
+            await navigator.clipboard.writeText(text);
+          } else {
+            var textarea = document.createElement('textarea');
+            textarea.value = text;
+            textarea.setAttribute('readonly', '');
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            textarea.remove();
+          }
+          var original = button.textContent;
+          button.textContent = successLabel;
+          window.setTimeout(function () { button.textContent = original; }, 1800);
+          return true;
+        } catch (error) {
+          formError.textContent = '복사하지 못했습니다. 브라우저의 클립보드 권한을 확인하세요.';
+          return false;
+        }
+      }
+
+      form.addEventListener('submit', function (event) {
+        event.preventDefault();
+        calculate();
+      });
+
+      rateInput.addEventListener('input', function () {
+        rateInput.dataset.source = 'manual';
+        rateDate = '';
+        rateStatus.textContent = '직접 입력한 환율을 사용합니다.';
+      });
+
+      document.getElementById('refresh-rate').addEventListener('click', function () {
+        loadReferenceRate(true);
+      });
+
+      document.getElementById('samsung-preset').addEventListener('click', function () {
+        ratioInput.value = '25';
+        track('gdr_samsung_preset');
+        gdrPriceInput.focus();
+      });
+
+      document.getElementById('reset-calculator').addEventListener('click', function () {
+        gdrPriceInput.value = '';
+        ratioInput.value = '25';
+        localPriceInput.value = '';
+        formError.textContent = '';
+        results.hidden = true;
+        currentResult = null;
+        loadReferenceRate(true);
+        gdrPriceInput.focus();
+        track('gdr_calculator_reset');
+      });
+
+      document.getElementById('copy-result').addEventListener('click', async function () {
+        if (!currentResult) return;
+        var summary = [
+          'GDR 환산·괴리율 계산 결과',
+          'GDR 가격: ' + usdFormatter.format(currentResult.gdrPrice),
+          'GDR 1주당 원주: ' + currentResult.ratio + '주',
+          'USD/KRW 환율: ' + currentResult.rate.toLocaleString('ko-KR'),
+          '원주 1주 환산가: ' + krwFormatter.format(currentResult.impliedPrice),
+          '국내 원주 가격: ' + krwFormatter.format(currentResult.localPrice),
+          '괴리율: ' + (currentResult.gapPercent > 0 ? '+' : '') + currentResult.gapPercent.toFixed(2) + '%',
+          '참고용 단순 계산이며 수수료·세금·거래 시간 차이는 포함하지 않습니다.',
+          'https://stock-board-ten.vercel.app/korea-etf-gdr-guide.html'
+        ].join('\n');
+        if (await copyText(summary, this, '결과 복사됨')) track('gdr_result_copy');
+      });
+
+      document.getElementById('copy-link').addEventListener('click', async function () {
+        if (!currentResult) return;
+        var url = new URL('https://stock-board-ten.vercel.app/korea-etf-gdr-guide.html');
+        url.searchParams.set('gdr', currentResult.gdrPrice.toFixed(2));
+        url.searchParams.set('ratio', String(currentResult.ratio));
+        url.searchParams.set('fx', currentResult.rate.toFixed(2));
+        url.searchParams.set('local', String(Math.round(currentResult.localPrice)));
+        url.hash = 'gdr-calculator';
+        if (await copyText(url.toString(), this, '링크 복사됨')) track('gdr_link_copy');
+      });
+
+      var restoredRate = restoreSharedInputs();
+      if (!restoredRate) loadReferenceRate(false);
+      if (gdrPriceInput.value && ratioInput.value && rateInput.value && localPriceInput.value) {
+        calculate();
+      }
+    })();
+  </script>
 </body>
 </html>
