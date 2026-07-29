@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://stock-board-ten.vercel.app/sitemap.xml
 Sitemap: https://stock-board-ten.vercel.app/sitemap-index.xml

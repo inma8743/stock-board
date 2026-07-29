@@ -24,61 +24,25 @@ const newsCache = fs.existsSync(newsCachePath)
   ? JSON.parse(fs.readFileSync(newsCachePath, 'utf8'))
   : { themes: {} };
 
-const staticPages = [
-  { path: '/', changefreq: 'daily', priority: '1.0' },
-  { path: '/en.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/us.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/about.html', changefreq: 'monthly', priority: '0.5' },
-  { path: '/en/about.html', changefreq: 'monthly', priority: '0.5' },
-  { path: '/methodology.html', changefreq: 'monthly', priority: '0.5' },
-  { path: '/en/methodology.html', changefreq: 'monthly', priority: '0.5' },
-  { path: '/feedback.html', changefreq: 'monthly', priority: '0.5' },
-  { path: '/stock-theme-checklist.html', changefreq: 'weekly', priority: '0.78' },
-  { path: '/stock-market-glossary.html', changefreq: 'weekly', priority: '0.76' },
-  { path: '/korea-etf-gdr-guide.html', changefreq: 'monthly', priority: '0.72' },
-  { path: '/us-ai-bigtech-stocks.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/korea-us-semiconductor-flow.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/en/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/en/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/en/spacex-stock-price-today.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/en/spacex-vs-korean-space-stocks.html', changefreq: 'daily', priority: '0.88' },
-  { path: '/en/is-spacex-publicly-traded.html', changefreq: 'daily', priority: '0.88' },
-  { path: '/en/starlink-stock-korean-satellite-stocks.html', changefreq: 'daily', priority: '0.88' },
-  { path: '/en/how-to-follow-korean-stocks.html', changefreq: 'weekly', priority: '0.88' },
-  { path: '/en/korean-stock-etfs-gdrs.html', changefreq: 'weekly', priority: '0.87' },
-  { path: '/en/ewy-vs-flkr-korea-etf.html', changefreq: 'weekly', priority: '0.86' },
-  { path: '/en/korean-stock-market-hours.html', changefreq: 'weekly', priority: '0.87' },
-  { path: '/en/korean-stock-market-holidays.html', changefreq: 'weekly', priority: '0.87' },
-  { path: '/en/korean-stock-market-glossary.html', changefreq: 'weekly', priority: '0.86' },
-  { path: '/en/korean-semiconductor-stocks.html', changefreq: 'daily', priority: '0.86' },
-  { path: '/en/korean-memory-stocks.html', changefreq: 'daily', priority: '0.86' },
-  { path: '/en/korean-chip-equipment-stocks.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/korean-hbm-equipment-stocks.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/korean-advanced-packaging-stocks.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/korean-osat-stocks.html', changefreq: 'daily', priority: '0.84' },
-  { path: '/en/korean-glass-substrate-stocks.html', changefreq: 'daily', priority: '0.84' },
-  { path: '/en/hanmi-semiconductor-hbm4-tc-bonder.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/korean-ai-semiconductor-stocks.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/korean-hbm-stocks.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/korean-hbm4-stocks.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/samsung-vs-sk-hynix-hbm.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/samsung-hbm4-stock.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/samsung-foundry-stock.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/samsung-stock-us-investors.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/samsung-electronics.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/sk-hynix-stock-us-investors.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/sk-hynix-hbm-outlook.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/sk-hynix-hbm.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/en/kospi-kosdaq.html', changefreq: 'daily', priority: '0.85' },
-  { path: '/themes.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/spacex-ipo-korea-stocks.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/spacex-stock-spcx.html', changefreq: 'daily', priority: '0.9' },
-  { path: '/samsung-electronics.html', changefreq: 'daily', priority: '0.8' },
-  { path: '/samsung-stock-outlook.html', changefreq: 'daily', priority: '0.84' },
-  { path: '/sk-hynix.html', changefreq: 'daily', priority: '0.8' },
-  { path: '/sk-hynix-stock-outlook.html', changefreq: 'daily', priority: '0.84' },
-  { path: '/hbm-leader-stocks.html', changefreq: 'daily', priority: '0.84' },
-  { path: '/kospi-kosdaq.html', changefreq: 'daily', priority: '0.8' }
+// Keep the discovery sitemap deliberately small while the domain builds crawl trust.
+// Other pages remain reachable through internal links and can be promoted after they
+// show impressions or are expanded into unique, substantial guides.
+const corePages = [
+  { path: '/', lastmod: today },
+  { path: '/samsung-electronics.html', lastmod: '2026-07-29' },
+  { path: '/korea-etf-gdr-guide.html', lastmod: '2026-07-29' },
+  { path: '/sk-hynix-stock-outlook.html', lastmod: '2026-07-29' },
+  { path: '/hbm-stocks.html', lastmod: today },
+  { path: '/defense-stocks.html', lastmod: today },
+  { path: '/themes.html', lastmod: today },
+  { path: '/stock-market-glossary.html' },
+  { path: '/us.html' },
+  { path: '/us-ai-bigtech-stocks.html' },
+  { path: '/korea-us-semiconductor-flow.html' },
+  { path: '/en.html' },
+  { path: '/en/samsung-electronics.html' },
+  { path: '/en/samsung-stock-us-investors.html' },
+  { path: '/en/spacex-stock-price-today.html' }
 ];
 
 function mergeThemes(primary, secondary) {
@@ -288,25 +252,26 @@ removeInactiveAutoThemePages(themes, autoThemeRules);
 updateIndexAutoThemeLinks(autoThemes);
 updateIndexAutoTrendCards(autoThemes);
 
-const sitemapPages = [
-  ...staticPages,
-  ...themes.map((theme) => ({ path: `/${theme.slug}.html`, changefreq: 'daily', priority: '0.8' })),
-  { path: '/privacy.html', changefreq: 'yearly', priority: '0.3' }
-];
-
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${sitemapPages.map((page) => `  <url>
+${corePages.map((page) => `  <url>
     <loc>${siteUrl}${page.path}</loc>
-    <lastmod>${today}</lastmod>
-    <changefreq>${page.changefreq}</changefreq>
-    <priority>${page.priority}</priority>
-  </url>`).join('\n')}
+${page.lastmod ? `    <lastmod>${page.lastmod}</lastmod>\n` : ''}  </url>`).join('\n')}
 </urlset>
 `;
 
+const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>${siteUrl}/sitemap.xml</loc>
+    <lastmod>${today}</lastmod>
+  </sitemap>
+</sitemapindex>
+`;
+
 fs.writeFileSync(path.join(root, 'sitemap.xml'), sitemap);
-console.log(`Generated ${themes.length} theme pages and sitemap.xml`);
+fs.writeFileSync(path.join(root, 'sitemap-index.xml'), sitemapIndex);
+console.log(`Generated ${themes.length} theme pages and ${corePages.length} core sitemap URLs`);
 
 function renderThemeIndex(allThemes, promotedThemes) {
   const promotedSlugs = new Set(promotedThemes.map((theme) => theme.slug));

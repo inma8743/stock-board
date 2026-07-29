@@ -44,7 +44,7 @@ function validateThemeShape(theme) {
   assert(Array.isArray(theme.checklist) && theme.checklist.length >= 3, `Missing checklist: ${theme.slug}`);
 }
 
-function validateThemePage(theme, sitemap) {
+function validateThemePage(theme) {
   const file = `${theme.slug}.html`;
   const html = read(file);
   const canonical = `${siteUrl}/${file}`;
@@ -52,11 +52,53 @@ function validateThemePage(theme, sitemap) {
   assert(html.includes(theme.title), `Missing title text: ${file}`);
   assert(html.includes('투자 유의'), `Missing disclaimer: ${file}`);
   assert(html.includes('G-3EZW95TCSF'), `Missing GA: ${file}`);
-  assert(sitemap.includes(`<loc>${canonical}</loc>`), `Missing sitemap loc: ${file}`);
 
   const cacheItems = newsCache.themes?.[theme.slug]?.items || [];
   if (cacheItems.length) {
     assert(html.includes('자동 수집 최신 뉴스'), `Missing latest news section: ${file}`);
+  }
+}
+
+function visibleWordCount(html) {
+  return html
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&[a-z0-9#]+;/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .split(' ')
+    .filter(Boolean)
+    .length;
+}
+
+function validatePrioritySearchPages(sitemap) {
+  const pages = [
+    {
+      file: 'samsung-electronics.html',
+      requiredTexts: ['005930과 005935 차이', 'HBM 뉴스는 이렇게 읽기', 'FAQPage'],
+    },
+    {
+      file: 'korea-etf-gdr-guide.html',
+      requiredTexts: ['GDR 주식이란?', '국내 원주·ETF·GDR 비교', 'FAQPage'],
+    },
+    {
+      file: 'sk-hynix-stock-outlook.html',
+      requiredTexts: ['HBM3E·HBM4 뉴스를 읽는 순서', '상승 기대와 함께 볼 위험', 'FAQPage'],
+    },
+  ];
+
+  for (const page of pages) {
+    const html = read(page.file);
+    const canonical = `${siteUrl}/${page.file}`;
+    assert(html.includes(`<link rel="canonical" href="${canonical}">`), `Missing canonical: ${page.file}`);
+    assert(html.includes('G-3EZW95TCSF'), `Missing GA: ${page.file}`);
+    assert(html.includes('ca-pub-4587553505034907'), `Missing AdSense: ${page.file}`);
+    assert(sitemap.includes(`<loc>${canonical}</loc>`), `Missing priority sitemap loc: ${page.file}`);
+    assert(visibleWordCount(html) >= 300, `Priority page is too thin: ${page.file}`);
+    for (const text of page.requiredTexts) {
+      assert(html.includes(text), `Missing priority content in ${page.file}: ${text}`);
+    }
   }
 }
 
@@ -127,12 +169,16 @@ function main() {
 
   assert(sitemap.includes(`<loc>${siteUrl}/</loc>`), 'Missing home in sitemap');
   assert(sitemap.includes(`<loc>${siteUrl}/themes.html</loc>`), 'Missing themes.html in sitemap');
-  assert(sitemap.includes(`<loc>${siteUrl}/feedback.html</loc>`), 'Missing feedback.html in sitemap');
+  assert(!sitemap.includes('/samsung-stock-outlook.html'), 'Redirected Samsung page must not be in sitemap');
+  assert(!sitemap.includes('/sk-hynix.html'), 'Redirected SK hynix page must not be in sitemap');
+  assert((sitemap.match(/<loc>/g) || []).length <= 20, 'Core sitemap is too broad');
+  assert(read('sitemap-index.xml').includes(`${siteUrl}/sitemap.xml`), 'Invalid sitemap index');
   assert(index.includes('/themes.html'), 'Missing themes.html link on home');
   assert(index.includes('/feedback.html'), 'Missing feedback.html link on home');
   assert(themeIndex.includes('국장 테마 전체보기'), 'Invalid themes.html');
   validateUsRadarPage(sitemap);
   validateBrandAndSearchPages(sitemap);
+  validatePrioritySearchPages(sitemap);
 
   for (const term of blockedTerms) {
     assert(!serializedCache.includes(term), `Blocked term/source in news cache: ${term}`);
@@ -140,7 +186,7 @@ function main() {
 
   for (const theme of themes) {
     validateThemeShape(theme);
-    validateThemePage(theme, sitemap);
+    validateThemePage(theme);
     assert(themeIndex.includes(`/${theme.slug}.html`), `Missing theme index link: ${theme.slug}`);
   }
 
