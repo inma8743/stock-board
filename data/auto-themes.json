@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-08-01T03:46:44.234Z",
+  "discoveredAt": "2026-08-01T10:46:51.109Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -61,20 +61,20 @@
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "코스피 급락에 놀란 개미, 금융주로 눈 돌릴까 - straightnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSFdVZDkyYjVzaUZKcy15RHhxdFdONmJpQ0pLTjF1V1RLSHRGSE9jcU9oSzg5cXJBblhON3VydTFzXzg5cGhQR3BOY0NDVjd4M1ZYZ2JuZjRBRUxyOVQxSGQwVFg1QllwdG1EV2xHX0kyejjSAXdBVV95cUxQdF9YUmllZ1pZYVd6ZU9Ga0ljdGhYZWdwQ0UwVGV0YzNYWGs5WUdqam5PX0lWRFEtbjFKUTlHMXVnWEdUUl84c05zRmpfRl81NmxucXlZaV9SUHVUb1loXzlWQTJKUGlQTWFSMUF1QzNTVm1hQjlfRQ?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
           "title": "하락장에 관심받는 금융주…KB·신한·하나 주주환원 따져보니 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1EREduN2JiYWtnRTEwRnhycWFBZXJUdXlHY1NteENhV2RrTkZINDBZeF96SEtKVnJ3YVlPWFV2SmZxX1BjOXc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sbEI1RG5KV3V5SnlEdmpNcHp0VENydmJacl9URkdOQ2p2cGlTd3NhaEFlSkYtX3RkMTlBcHh6NXZiTVdkVkNkZ3VaVzhiakg4RWZ3Nw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
             "주주환원"
+          ]
+        },
+        {
+          "title": "코스피 급락에 놀란 개미, 금융주로 눈 돌릴까 - 스트레이트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSFdVZDkyYjVzaUZKcy15RHhxdFdONmJpQ0pLTjF1V1RLSHRGSE9jcU9oSzg5cXJBblhON3VydTFzXzg5cGhQR3BOY0NDVjd4M1ZYZ2JuZjRBRUxyOVQxSGQwVFg1QllwdG1EV2xHX0kyejjSAXdBVV95cUxQdF9YUmllZ1pZYVd6ZU9Ga0ljdGhYZWdwQ0UwVGV0YzNYWGs5WUdqam5PX0lWRFEtbjFKUTlHMXVnWEdUUl84c05zRmpfRl81NmxucXlZaV9SUHVUb1loXzlWQTJKUGlQTWFSMUF1QzNTVm1hQjlfRQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
           ]
         },
         {
@@ -261,7 +261,7 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 25,
+      "score": 26,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -281,6 +281,14 @@
           ]
         },
         {
+          "title": "코스피, 중동 긴장 완화에 반등세 지속…‘테마주 랠리’ 두드러져 - daily.hankooki.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02a3REWG5qcGt4RkV6TTNIZHlWNjNHc1FyR0JyUEphcTZoUDVEWlljblhra2lPUHhqTjhhOERIaXJvdy16WERiSUhMYzRETm02MktWaGZ2dzhlejFydHhfQ3U3d05ROEJxXzhRT1pMd9IBc0FVX3lxTE04d2FLdUZ2VEstU2Y2VE01b0tUWGFYNTRaam9yR21ZTF9GNXNDcGljTGR5c0c0amtZWWpPYzhCc2ctajRXeWFSb1RvUTFUVlBGaGFEWDcyXzkyM3JReGVxejdfMHJJb0xVM2FEMzN5d0RzV0U?oc=5",
+          "query": "코스피 코스닥 테마 관련주",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
           "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKOS1xS2o5V3NOUkRjdm5sd3V6Y3plTm94dmNDY3pVTFc3VWsyQzlkODhpbTk0QzhDcWZtaXYtWVhpRUVQWmM2TTNsVlRHVzliQjRkTmFTN1BqQlY3Q2xSel9tcGI2N1dKbVdWaWd2VEzSAXRBVV95cUxPVmY4SWZoYVpSZ3BwdUxPRjFkU1FzdnI1bUVMWk1TbUdVSlFTNVpvTHN6cEFiZDRXMFRQdG9LTklXMk45bmVvZGktZDJZWk85N1JzV0JPdExXb3JIdGxTZVRrcHQ0N3ExRy1BYktHWXlWZE5QYw?oc=5",
           "query": "코스피 코스닥 테마 관련주",
@@ -289,20 +297,11 @@
           ]
         },
         {
-          "title": "지방선거 특수 사라진 ‘정치테마주'…AI 등 정책수혜주만 일부 상승 - s-d.kr",
+          "title": "지방선거 특수 사라진 ‘정치테마주'…AI 등 정책수혜주만 일부 상승 - 증권일보",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNkU4am9EU2hwMXI4TjdBaDZ0SnRReFRDSVFxWlpudFBGY3JlRnotbEh5akloVTk4WlFSc0tHaHdBWllSRUJtUDJYRG9FanVWVkZSazFGS0w2VlpWLXg0RQ?oc=5",
           "query": "증시 수혜주 관련주",
           "matchedSignals": [
             "AI"
-          ]
-        },
-        {
-          "title": "국내 소프트웨어 관련주 AI 수혜주 살펴보기 - 브런치",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sTko5SS1FWjc1a3ZXaW9qLXpGY3lDY1ZrdXdTUWl4Z0JqREhRZEl3bHRGWW5uV1RWZEkyanV1ODhVaXhKeFluT3hR?oc=5",
-          "query": "AI 소프트웨어 관련주",
-          "matchedSignals": [
-            "AI",
-            "소프트웨어"
           ]
         }
       ]
@@ -564,14 +563,6 @@
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "SK이터닉스 질주에 태양광·전력기기 훈풍 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSUo5SzlRNExUbVl1MHBTc3V3X0I3bHdaUnRyTlVSSThiOUROX29iaXM1RXA3am8zd083aEZUaE90a09CQU9ybUNhdDdteU0xcHc?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기"
-          ]
-        },
-        {
           "title": "AI 데이터센터 전력기기 관련주 3사 분석, HD현대일 - 브런치",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00bWhkWE9wdXh6emNCdTVmRG1EZlh0bF9NM2FMZkRoWnBPMWFQWEtpeUY1bmJ5bDFXMDVaUVVyb05yNER0cmw4?oc=5",
           "query": "전력기기 관련주",
@@ -581,8 +572,25 @@
           ]
         },
         {
+          "title": "SK이터닉스 질주에 태양광·전력기기 훈풍 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSUo5SzlRNExUbVl1MHBTc3V3X0I3bHdaUnRyTlVSSThiOUROX29iaXM1RXA3am8zd083aEZUaE90a09CQU9ybUNhdDdteU0xcHc?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기"
+          ]
+        },
+        {
           "title": "하나증권 \"AI 데이터센터 투자 확대에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BbkxMQUkzYmhhWGtMQjB5dGpFSHdiUC0wbl95VkdNOU15MExLeWdqV2FnNVVHSzU4MERsVXJzb0lBOFd3dzI5WldEVW5uZnpFcmZwQTBoM1ZQR2xkMXhVMXoyd3RMNkkwQjNBR1RTMlVfQmc?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기",
+            "데이터센터"
+          ]
+        },
+        {
+          "title": "산일전기, 반도체주 조정 이틀째 급락…AI 데이터센터 전력기기도 주가 흔들 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TalM4VF9BbXZGeFVXTWJ3T0s2cFVXeUR6bldVUm5YNGxobkE1a2JCcUhPaUVELVVFN2VZWmxzUW5TaE5YXzl0NURMYVVkMTFIazE5cUVWd0pZWWdLOVVhbHhIYUtvdTJV?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기",
@@ -596,15 +604,6 @@
           "matchedSignals": [
             "전선"
           ]
-        },
-        {
-          "title": "산일전기, 반도체주 조정 이틀째 급락…AI 데이터센터 전력기기도 주가 흔들 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TalM4VF9BbXZGeFVXTWJ3T0s2cFVXeUR6bldVUm5YNGxobkE1a2JCcUhPaUVELVVFN2VZWmxzUW5TaE5YXzl0NURMYVVkMTFIazE5cUVWd0pZWWdLOVVhbHhIYUtvdTJV?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기",
-            "데이터센터"
-          ]
         }
       ]
     }
@@ -616,20 +615,20 @@
       "score": 32,
       "evidence": [
         {
-          "title": "코스피 급락에 놀란 개미, 금융주로 눈 돌릴까 - straightnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSFdVZDkyYjVzaUZKcy15RHhxdFdONmJpQ0pLTjF1V1RLSHRGSE9jcU9oSzg5cXJBblhON3VydTFzXzg5cGhQR3BOY0NDVjd4M1ZYZ2JuZjRBRUxyOVQxSGQwVFg1QllwdG1EV2xHX0kyejjSAXdBVV95cUxQdF9YUmllZ1pZYVd6ZU9Ga0ljdGhYZWdwQ0UwVGV0YzNYWGs5WUdqam5PX0lWRFEtbjFKUTlHMXVnWEdUUl84c05zRmpfRl81NmxucXlZaV9SUHVUb1loXzlWQTJKUGlQTWFSMUF1QzNTVm1hQjlfRQ?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
           "title": "하락장에 관심받는 금융주…KB·신한·하나 주주환원 따져보니 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1EREduN2JiYWtnRTEwRnhycWFBZXJUdXlHY1NteENhV2RrTkZINDBZeF96SEtKVnJ3YVlPWFV2SmZxX1BjOXc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sbEI1RG5KV3V5SnlEdmpNcHp0VENydmJacl9URkdOQ2p2cGlTd3NhaEFlSkYtX3RkMTlBcHh6NXZiTVdkVkNkZ3VaVzhiakg4RWZ3Nw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
             "주주환원"
+          ]
+        },
+        {
+          "title": "코스피 급락에 놀란 개미, 금융주로 눈 돌릴까 - 스트레이트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSFdVZDkyYjVzaUZKcy15RHhxdFdONmJpQ0pLTjF1V1RLSHRGSE9jcU9oSzg5cXJBblhON3VydTFzXzg5cGhQR3BOY0NDVjd4M1ZYZ2JuZjRBRUxyOVQxSGQwVFg1QllwdG1EV2xHX0kyejjSAXdBVV95cUxQdF9YUmllZ1pZYVd6ZU9Ga0ljdGhYZWdwQ0UwVGV0YzNYWGs5WUdqam5PX0lWRFEtbjFKUTlHMXVnWEdUUl84c05zRmpfRl81NmxucXlZaV9SUHVUb1loXzlWQTJKUGlQTWFSMUF1QzNTVm1hQjlfRQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
           ]
         },
         {
@@ -714,7 +713,7 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 25,
+      "score": 26,
       "evidence": [
         {
           "title": "[박정식의 국내 주식시황] 엔비디아 AI칩 훈풍에 반도체·로봇주 강세 이어지나 - 뉴스퀘스트",
@@ -733,6 +732,14 @@
           ]
         },
         {
+          "title": "코스피, 중동 긴장 완화에 반등세 지속…‘테마주 랠리’ 두드러져 - daily.hankooki.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02a3REWG5qcGt4RkV6TTNIZHlWNjNHc1FyR0JyUEphcTZoUDVEWlljblhra2lPUHhqTjhhOERIaXJvdy16WERiSUhMYzRETm02MktWaGZ2dzhlejFydHhfQ3U3d05ROEJxXzhRT1pMd9IBc0FVX3lxTE04d2FLdUZ2VEstU2Y2VE01b0tUWGFYNTRaam9yR21ZTF9GNXNDcGljTGR5c0c0amtZWWpPYzhCc2ctajRXeWFSb1RvUTFUVlBGaGFEWDcyXzkyM3JReGVxejdfMHJJb0xVM2FEMzN5d0RzV0U?oc=5",
+          "query": "코스피 코스닥 테마 관련주",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
           "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKOS1xS2o5V3NOUkRjdm5sd3V6Y3plTm94dmNDY3pVTFc3VWsyQzlkODhpbTk0QzhDcWZtaXYtWVhpRUVQWmM2TTNsVlRHVzliQjRkTmFTN1BqQlY3Q2xSel9tcGI2N1dKbVdWaWd2VEzSAXRBVV95cUxPVmY4SWZoYVpSZ3BwdUxPRjFkU1FzdnI1bUVMWk1TbUdVSlFTNVpvTHN6cEFiZDRXMFRQdG9LTklXMk45bmVvZGktZDJZWk85N1JzV0JPdExXb3JIdGxTZVRrcHQ0N3ExRy1BYktHWXlWZE5QYw?oc=5",
           "query": "코스피 코스닥 테마 관련주",
@@ -741,20 +748,11 @@
           ]
         },
         {
-          "title": "지방선거 특수 사라진 ‘정치테마주'…AI 등 정책수혜주만 일부 상승 - s-d.kr",
+          "title": "지방선거 특수 사라진 ‘정치테마주'…AI 등 정책수혜주만 일부 상승 - 증권일보",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNkU4am9EU2hwMXI4TjdBaDZ0SnRReFRDSVFxWlpudFBGY3JlRnotbEh5akloVTk4WlFSc0tHaHdBWllSRUJtUDJYRG9FanVWVkZSazFGS0w2VlpWLXg0RQ?oc=5",
           "query": "증시 수혜주 관련주",
           "matchedSignals": [
             "AI"
-          ]
-        },
-        {
-          "title": "국내 소프트웨어 관련주 AI 수혜주 살펴보기 - 브런치",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sTko5SS1FWjc1a3ZXaW9qLXpGY3lDY1ZrdXdTUWl4Z0JqREhRZEl3bHRGWW5uV1RWZEkyanV1ODhVaXhKeFluT3hR?oc=5",
-          "query": "AI 소프트웨어 관련주",
-          "matchedSignals": [
-            "AI",
-            "소프트웨어"
           ]
         }
       ]
@@ -860,20 +858,20 @@
       "score": 17,
       "evidence": [
         {
-          "title": "SK이터닉스 질주에 태양광·전력기기 훈풍 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSUo5SzlRNExUbVl1MHBTc3V3X0I3bHdaUnRyTlVSSThiOUROX29iaXM1RXA3am8zd083aEZUaE90a09CQU9ybUNhdDdteU0xcHc?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기"
-          ]
-        },
-        {
           "title": "AI 데이터센터 전력기기 관련주 3사 분석, HD현대일 - 브런치",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00bWhkWE9wdXh6emNCdTVmRG1EZlh0bF9NM2FMZkRoWnBPMWFQWEtpeUY1bmJ5bDFXMDVaUVVyb05yNER0cmw4?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기",
             "데이터센터"
+          ]
+        },
+        {
+          "title": "SK이터닉스 질주에 태양광·전력기기 훈풍 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSUo5SzlRNExUbVl1MHBTc3V3X0I3bHdaUnRyTlVSSThiOUROX29iaXM1RXA3am8zd083aEZUaE90a09CQU9ybUNhdDdteU0xcHc?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기"
           ]
         },
         {
@@ -886,20 +884,20 @@
           ]
         },
         {
-          "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전선"
-          ]
-        },
-        {
           "title": "산일전기, 반도체주 조정 이틀째 급락…AI 데이터센터 전력기기도 주가 흔들 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TalM4VF9BbXZGeFVXTWJ3T0s2cFVXeUR6bldVUm5YNGxobkE1a2JCcUhPaUVELVVFN2VZWmxzUW5TaE5YXzl0NURMYVVkMTFIazE5cUVWd0pZWWdLOVVhbHhIYUtvdTJV?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기",
             "데이터센터"
+          ]
+        },
+        {
+          "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전선"
           ]
         }
       ]
