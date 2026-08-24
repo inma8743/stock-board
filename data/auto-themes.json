@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-08-24T01:55:35.420Z",
+  "discoveredAt": "2026-08-24T10:01:05.808Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -159,9 +159,27 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 31,
+      "score": 33,
       "autoDiscovered": true,
       "evidence": [
+        {
+          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9md04xV1VuM1dJNTl4VnlLS3FwUmNEdWU3VEZZQXVkYy1IcExsV3hNUTZzdnBwdUVvZFhPNFZudmtYMVdVcnNwY1pjNTJjMmVVNXloZllPYTVQcFdnVjdyMdIBYEFVX3lxTE9md04xV1VuM1dJNTl4VnlLS3FwUmNEdWU3VEZZQXVkYy1IcExsV3hNUTZzdnBwdUVvZFhPNFZudmtYMVdVcnNwY1pjNTJjMmVVNXloZllPYTVQcFdnVjdyMQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "주주환원"
+          ]
+        },
+        {
+          "title": "한투증권 “고금리 장기화 국면…실적·주주환원 갖춘 금융주 주목” - 브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NUXBseWZ2VFJ5cHpFbUVhX0l4SHZOdlR4NF9kemJPS3pxQ0FOZUlwT1pWVWxicUI5a1RIS3dFUGIyNnltdDRnRGNyaHQ2R0R0VWJwZlIxTGdLZw?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "주주환원"
+          ]
+        },
         {
           "title": "트럼프 투자계좌, 6월에만 1000건 거래…금융주 집중 매수 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XLTR0VXBXaHppUUViajdXWktzV293VGVWbFdhWDRxZlJhckZNOVUtUV9qWTRKR3JvZ215OXd1bjV6SnJ2a21XWDRTREdvbnM?oc=5",
@@ -182,23 +200,6 @@
         {
           "title": "바클레이즈, 실적 견인하는 다각화 금융주 10개 ’비중확대’ 제시 - Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUTByOHBWbmUtYmRTTlEtMU5pQWNsVGMxM3RjdlFpQUlfQW5Vdl9RUzBjNUhuSXNfMnVUd21wdDZOYzgtYVRqdnVmV2tsMEUwQjlpOF8za0M2cWhpOHQ1MHppT3REQ0VqZzl5V3dObWJMWVppOWlZ?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82VG1DQVdlUU13bC12MXN5eEtEbUx1X2VFcTBlX1pZN1JLckFkdTMyZXZyb1Rra3VZdXRvVERld2NJUGc5QUJkYXEtUW1qSlZRbWEw?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "주주환원"
-          ]
-        },
-        {
-          "title": "뉴욕증시 다우지수 '반등'...제약-헬스케어 & 금융주 '활짝' - 초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhNU5WcnlqRjNGYUI5Ti15LS1vUVBxWC1aNVo5SlkzN1FCR0NobndsZEo5bGtzbjFpY2Q5Q1BwbG9VVFZodVFxSFl1SmRUaWxwd0g2dEgteUpxT0VoaXAxa1ZkQk5tcWRJOW5pY3FZRdIBc0FVX3lxTE0tTktrUzl4c2lkdXE1czJYSFRqSmdTaG1yaHV4Vm5KVWRzSHFsUXVOSTJPbnRqc0QxRnV0YkpDSnBIb2VCWXNjcnRNdFQ3WU1ucXo0OUtrUUZjVmpGbkhkaDdSZDdoaDZSZ1A3YjBXX084TDA?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -260,9 +261,17 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 27,
+      "score": 28,
       "autoDiscovered": true,
       "evidence": [
+        {
+          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZw?oc=5",
+          "query": "오늘 국내증시 관련주",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
         {
           "title": "[AI] 코스피·코스닥 급락 속 AI 테마주 강세… 네이버·엔비디아 동맹, 정책 훈풍이 '불씨' - investnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81WEUyOXdNdGRuQ29EdE4tXzhjd0V4bWItY3puVjVhSHp4NHI5LWhTbTJZcUU2djlnN3hjSmI3SnZRdldEcUZvX0ZSSXFtTzZCOWtCNVpEOFdQVEtXSTFtT2gzV2xEX3hFbDBfNlZUSWkxQdIBdkFVX3lxTE00ajhicGZRWktBYzgxWW0xMVBoZnN3cmlTZVB6ZFRBMEItS3dLNlF0dU9Oem5IRjZhMUVXcnpmRzNtdWZFbUhFc2xhZFJTNmkyUDgxaC1BdU1SUjZBbFZBeXFoZ2hwQzBrQ2kzbXFlTDlURUFSVkE?oc=5",
@@ -294,16 +303,6 @@
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI",
-            "소프트웨어"
-          ]
-        },
-        {
-          "title": "하나증권 \"생성형AI 적용범위 확대와 미국 금리인상 가능성 하락, AI 소프트웨어주 주목\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tbU9ZWHBZcjgzeFZ6Ny1sZThMb3pBclMxYVlhUU5ZVUpkMHI1b3NVdm13YkVHQVdHSU9FZUlnNmxTSVlmaFZaSHFQSm50U3BzY2NSUG96bUJnNzBfdWJHaXFGRFN3cnlCeXRjcEFBdVNVUlE?oc=5",
-          "query": "AI 소프트웨어 관련주",
-          "matchedSignals": [
-            "AI",
-            "생성형",
             "소프트웨어"
           ]
         }
@@ -363,7 +362,7 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 20,
+      "score": 21,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -383,14 +382,6 @@
           ]
         },
         {
-          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
           "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - 이투데이",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wNW9DQzlUU0dXaUdzcHdtY2xESE1sM1RXbXpnRWU0NXVmWHZhbFA0dnA4Q3hmYXBUVEo1ZU5VLTFJQXUyTlhZZnZJWDZHQkNiemRpaA?oc=5",
           "query": "바이오 관련주",
@@ -401,6 +392,14 @@
         {
           "title": "숨겨진 RNA 수혜주?…에이프릴바이오·삼양바이오팜·파미셀 '주목' - 팜이데일리",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "기술이전 기대 커진 바이오…면역항암제 관련주 카나프테라퓨틱스 앱클론 에이프릴바이오 '신바람' - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80X2xnYnl5NXdLWmduQ1J2OENNT3Q2ay1PUTJBb3NrRkdDdFEwVXMwVHN4NnVYSUUzS2ZmaDZ6Uy1hN3h3Sk84YkdEclhUQzI1V2NwRU1QV2U5UEE0ZDNlZnZfOEl6QVpBMVdvbDEwUVl2SmfSAXdBVV95cUxNX2VRNWJ5OUtZNGRSbzRxaVZqYS1DMjZSWjEzeEs2MXc2aTZVWF9qQ3ZDRWkzQVRNMm1VSjJPYUltTXNNZnJ6Q0xWQ2tBSF8wUlRrNEJnTHdxZ0txWGgwdmtMekFkdmNmazVBT1FHVzhiaTl2NnNwQQ?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -466,16 +465,16 @@
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "특징주, 에코프로-2차전지(소재/부품) 테마 상승세에 7.83% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SZjVqR1NoUXFVWldUclF1S1ZWOHBxYXFpSGZtSDJPNDlHcWN3RkJzTUdzZHdBREozcUxsU1FFTUlPb0Y5TmZLTVRhNk4wVjVMNnc?oc=5",
+          "title": "[특징주] 매각 이슈에 '삼성SDI' 7%대 강세…2차전지·ESS株 동반 상승 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMlVYZXdWQ2hYRGplNUNNUVhOaVllc1BPUVhVZE9mZ1hNWnFQNFBaZEYxZlk0Z0JmUmNjcGhDZl81RVE3S1BEWW5pd3lPR3RkUUFxQVQ3TzY3S1R2?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "[특징주] 매각 이슈에 '삼성SDI' 7%대 강세…2차전지·ESS株 동반 상승 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMlVYZXdWQ2hYRGplNUNNUVhOaVllc1BPUVhVZE9mZ1hNWnFQNFBaZEYxZlk0Z0JmUmNjcGhDZl81RVE3S1BEWW5pd3lPR3RkUUFxQVQ3TzY3S1R2?oc=5",
+          "title": "특징주, 에코프로-2차전지(소재/부품) 테마 상승세에 7.83% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SZjVqR1NoUXFVWldUclF1S1ZWOHBxYXFpSGZtSDJPNDlHcWN3RkJzTUdzZHdBREozcUxsU1FFTUlPb0Y5TmZLTVRhNk4wVjVMNnc?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -499,8 +498,8 @@
           ]
         },
         {
-          "title": "계속되는 순환매…2차전지 관련주 상승세 [특징주] - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVlF5ZDNLaW1WX2JuQTRyeHBKTGlBNXFKcm9fSC1SWjhiYWNhRmNlWF81U05iZ0s3a0dlU0lZalFETDg4anRJeC1FZE5vWmFHa3dRWDBVdmY4WHFZcUlScURWQ3JPRHhHanlGOVVBWmJpZjVXdHJ3UXhHYVdCRnFrbXEzTVVFcWJzOVljUkxPWEk3NVpGWmlXX0NZSFZtN0RTd04zWXhlVmRvVlNqd2ZMcDFkeHdfYnFPazhwSlRuT2xDWm9rdFlWU01WVlNqQmV1UHFJS0M4SUh3Z0Rocm9PaElMei1mQktLV00waGg3bVVXeWpOcVhtcF9pdmxzbEdNT3BYRnJreWVla3pLRlBnUzB1TU80VGkxQ040YV81WFNLYzA?oc=5",
+          "title": "[ETF 시황] 2차전지 ETF 강세…삼성전자 레버리지 '급락' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jbThreXFPc2dkRjU5ak1UTUh0alJzdVV5MDF3WGZKZjJPOFlfT1NnczNtOE9ZNXlTUm54U2lHX214MkZ5Vm10UTJvSUhKX0FUQWZUQ0F5ak5ZX2lw?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -664,8 +663,26 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 31,
+      "score": 33,
       "evidence": [
+        {
+          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9md04xV1VuM1dJNTl4VnlLS3FwUmNEdWU3VEZZQXVkYy1IcExsV3hNUTZzdnBwdUVvZFhPNFZudmtYMVdVcnNwY1pjNTJjMmVVNXloZllPYTVQcFdnVjdyMdIBYEFVX3lxTE9md04xV1VuM1dJNTl4VnlLS3FwUmNEdWU3VEZZQXVkYy1IcExsV3hNUTZzdnBwdUVvZFhPNFZudmtYMVdVcnNwY1pjNTJjMmVVNXloZllPYTVQcFdnVjdyMQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "주주환원"
+          ]
+        },
+        {
+          "title": "한투증권 “고금리 장기화 국면…실적·주주환원 갖춘 금융주 주목” - 브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NUXBseWZ2VFJ5cHpFbUVhX0l4SHZOdlR4NF9kemJPS3pxQ0FOZUlwT1pWVWxicUI5a1RIS3dFUGIyNnltdDRnRGNyaHQ2R0R0VWJwZlIxTGdLZw?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "주주환원"
+          ]
+        },
         {
           "title": "트럼프 투자계좌, 6월에만 1000건 거래…금융주 집중 매수 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XLTR0VXBXaHppUUViajdXWktzV293VGVWbFdhWDRxZlJhckZNOVUtUV9qWTRKR3JvZ215OXd1bjV6SnJ2a21XWDRTREdvbnM?oc=5",
@@ -690,31 +707,22 @@
           "matchedSignals": [
             "금융주"
           ]
-        },
-        {
-          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82VG1DQVdlUU13bC12MXN5eEtEbUx1X2VFcTBlX1pZN1JLckFkdTMyZXZyb1Rra3VZdXRvVERld2NJUGc5QUJkYXEtUW1qSlZRbWEw?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "주주환원"
-          ]
-        },
-        {
-          "title": "뉴욕증시 다우지수 '반등'...제약-헬스케어 & 금융주 '활짝' - 초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhNU5WcnlqRjNGYUI5Ti15LS1vUVBxWC1aNVo5SlkzN1FCR0NobndsZEo5bGtzbjFpY2Q5Q1BwbG9VVFZodVFxSFl1SmRUaWxwd0g2dEgteUpxT0VoaXAxa1ZkQk5tcWRJOW5pY3FZRdIBc0FVX3lxTE0tTktrUzl4c2lkdXE1czJYSFRqSmdTaG1yaHV4Vm5KVWRzSHFsUXVOSTJPbnRqc0QxRnV0YkpDSnBIb2VCWXNjcnRNdFQ3WU1ucXo0OUtrUUZjVmpGbkhkaDdSZDdoaDZSZ1A3YjBXX084TDA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
         }
       ]
     },
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 27,
+      "score": 28,
       "evidence": [
+        {
+          "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcXlDVTBMWE5rUDVlNjUyOTJuQ0dmZXpNeEhzM2syV0xXaTg5ay03NVc4RHN3d3VucEc4S3c3TUZUNUVHTTRHTFFnZVVrVEltbnVWUl9xdlAxZw?oc=5",
+          "query": "오늘 국내증시 관련주",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
         {
           "title": "[AI] 코스피·코스닥 급락 속 AI 테마주 강세… 네이버·엔비디아 동맹, 정책 훈풍이 '불씨' - investnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81WEUyOXdNdGRuQ29EdE4tXzhjd0V4bWItY3puVjVhSHp4NHI5LWhTbTJZcUU2djlnN3hjSmI3SnZRdldEcUZvX0ZSSXFtTzZCOWtCNVpEOFdQVEtXSTFtT2gzV2xEX3hFbDBfNlZUSWkxQdIBdkFVX3lxTE00ajhicGZRWktBYzgxWW0xMVBoZnN3cmlTZVB6ZFRBMEItS3dLNlF0dU9Oem5IRjZhMUVXcnpmRzNtdWZFbUhFc2xhZFJTNmkyUDgxaC1BdU1SUjZBbFZBeXFoZ2hwQzBrQ2kzbXFlTDlURUFSVkE?oc=5",
@@ -748,23 +756,13 @@
             "AI",
             "소프트웨어"
           ]
-        },
-        {
-          "title": "하나증권 \"생성형AI 적용범위 확대와 미국 금리인상 가능성 하락, AI 소프트웨어주 주목\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tbU9ZWHBZcjgzeFZ6Ny1sZThMb3pBclMxYVlhUU5ZVUpkMHI1b3NVdm13YkVHQVdHSU9FZUlnNmxTSVlmaFZaSHFQSm50U3BzY2NSUG96bUJnNzBfdWJHaXFGRFN3cnlCeXRjcEFBdVNVUlE?oc=5",
-          "query": "AI 소프트웨어 관련주",
-          "matchedSignals": [
-            "AI",
-            "생성형",
-            "소프트웨어"
-          ]
         }
       ]
     },
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 20,
+      "score": 21,
       "evidence": [
         {
           "title": "\"왜 내가 사면 떨어질까\"…바이오 '–80%' 찍고 깨달은 투자 함정 - 뉴시스",
@@ -777,14 +775,6 @@
         {
           "title": "바이오시밀러·CDMO 관련주, 미국 생물보안법 시행 본격화에 최대 수혜주는? : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4TDFpV1dXeTdUWWRwMTlCa0I2WmRTMkk1MjU4OWl2cFZlYmF6MWxXMmFuVXRYamFBd1NHTG1WZnMtakw4YS0tMGhIeHJ3MUFnWHJsOU0xZ0Y4S21nSjU4MG5HMnp6YVE?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -805,6 +795,14 @@
           "matchedSignals": [
             "바이오"
           ]
+        },
+        {
+          "title": "기술이전 기대 커진 바이오…면역항암제 관련주 카나프테라퓨틱스 앱클론 에이프릴바이오 '신바람' - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80X2xnYnl5NXdLWmduQ1J2OENNT3Q2ay1PUTJBb3NrRkdDdFEwVXMwVHN4NnVYSUUzS2ZmaDZ6Uy1hN3h3Sk84YkdEclhUQzI1V2NwRU1QV2U5UEE0ZDNlZnZfOEl6QVpBMVdvbDEwUVl2SmfSAXdBVV95cUxNX2VRNWJ5OUtZNGRSbzRxaVZqYS1DMjZSWjEzeEs2MXc2aTZVWF9qQ3ZDRWkzQVRNMm1VSjJPYUltTXNNZnJ6Q0xWQ2tBSF8wUlRrNEJnTHdxZ0txWGgwdmtMekFkdmNmazVBT1FHVzhiaTl2NnNwQQ?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
         }
       ]
     },
@@ -814,16 +812,16 @@
       "score": 16,
       "evidence": [
         {
-          "title": "특징주, 에코프로-2차전지(소재/부품) 테마 상승세에 7.83% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SZjVqR1NoUXFVWldUclF1S1ZWOHBxYXFpSGZtSDJPNDlHcWN3RkJzTUdzZHdBREozcUxsU1FFTUlPb0Y5TmZLTVRhNk4wVjVMNnc?oc=5",
+          "title": "[특징주] 매각 이슈에 '삼성SDI' 7%대 강세…2차전지·ESS株 동반 상승 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMlVYZXdWQ2hYRGplNUNNUVhOaVllc1BPUVhVZE9mZ1hNWnFQNFBaZEYxZlk0Z0JmUmNjcGhDZl81RVE3S1BEWW5pd3lPR3RkUUFxQVQ3TzY3S1R2?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "[특징주] 매각 이슈에 '삼성SDI' 7%대 강세…2차전지·ESS株 동반 상승 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMlVYZXdWQ2hYRGplNUNNUVhOaVllc1BPUVhVZE9mZ1hNWnFQNFBaZEYxZlk0Z0JmUmNjcGhDZl81RVE3S1BEWW5pd3lPR3RkUUFxQVQ3TzY3S1R2?oc=5",
+          "title": "특징주, 에코프로-2차전지(소재/부품) 테마 상승세에 7.83% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SZjVqR1NoUXFVWldUclF1S1ZWOHBxYXFpSGZtSDJPNDlHcWN3RkJzTUdzZHdBREozcUxsU1FFTUlPb0Y5TmZLTVRhNk4wVjVMNnc?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -847,8 +845,8 @@
           ]
         },
         {
-          "title": "계속되는 순환매…2차전지 관련주 상승세 [특징주] - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVlF5ZDNLaW1WX2JuQTRyeHBKTGlBNXFKcm9fSC1SWjhiYWNhRmNlWF81U05iZ0s3a0dlU0lZalFETDg4anRJeC1FZE5vWmFHa3dRWDBVdmY4WHFZcUlScURWQ3JPRHhHanlGOVVBWmJpZjVXdHJ3UXhHYVdCRnFrbXEzTVVFcWJzOVljUkxPWEk3NVpGWmlXX0NZSFZtN0RTd04zWXhlVmRvVlNqd2ZMcDFkeHdfYnFPazhwSlRuT2xDWm9rdFlWU01WVlNqQmV1UHFJS0M4SUh3Z0Rocm9PaElMei1mQktLV00waGg3bVVXeWpOcVhtcF9pdmxzbEdNT3BYRnJreWVla3pLRlBnUzB1TU80VGkxQ040YV81WFNLYzA?oc=5",
+          "title": "[ETF 시황] 2차전지 ETF 강세…삼성전자 레버리지 '급락' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jbThreXFPc2dkRjU5ak1UTUh0alJzdVV5MDF3WGZKZjJPOFlfT1NnczNtOE9ZNXlTUm54U2lHX214MkZ5Vm10UTJvSUhKX0FUQWZUQ0F5ak5ZX2lw?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
