@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T01:50:02.381Z",
+  "fetchedAt": "2026-08-25T09:49:19.251Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -126,6 +126,13 @@
       "title": "원전 관련주 체크",
       "items": [
         {
+          "title": "[특징주]지투파워, 코스닥 약세 뚫고 11% 치솟아…‘대미 원전 1호’ 발표 임박 기대 - 남도일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Wem54UVl1Q2lNajNTLVVMQUpaV1BOeW95OWRhTFRQa0tmN05tQjVTeWZlclRYVjl0S2EyYzNGWTM1Z2RFNnZJbUhuS2VHM0VIalp3WlZ1eWJWQ29RcTVHR3hDX3NDUGxNV1A1YtIBcEFVX3lxTFBHM1I4Y2JOU0dlMDJab3BvVVE0VnJ5NEpSNUhHT1BueUhVMUVSWmI4aVEzSzktYTJLSjlkT2g2RkkxWFpGRlM2RjFRVzhYd0o2emhMTUVwX3BaVDZ1YjBPQ2FNQnFnd0pPUVVnck84Y3I?oc=5",
+          "source": "남도일보",
+          "publishedAt": "Tue, 25 Aug 2026 01:28:41 GMT",
+          "query": "원전 관련주"
+        },
+        {
           "title": "대규모 원전 호재 터졌다…원전 관련주 상한가 행진 - 매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TdTI1aVhkc3dQblZGTWNHUGVUSERNczdFdW43MEZzeW52TGlIbTdvcGFLNWs2S1IzVi0yT01rZi1nNE9kbi16S1A3cnlySHhLdHc?oc=5",
           "source": "매일경제",
@@ -147,17 +154,10 @@
           "query": "원전 관련주"
         },
         {
-          "title": "원전 해체주 투심 흔들… 현대건설·비에이치아이는 '함박웃음' - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SWUNsNmtMZjhCZ0d1T3FYS1B2T0ZKR2VuandaQW1HNVc3dERqUzZIeFlsSWN2Nk9BWE5RMXBLVjZYNWZ5MDZwWVp6RHhISTdWWWVRTjUwMFN5VVQ1dHpPZHo0RlMyZTdMN0M0ZjVPaGcyenfSAXdBVV95cUxOTDQzdE9tdlF4blU3a0RMSXJSSFNMZEVZR3hHbHVNdmtFX2RQOG5vZ24xeUtQaGtrVC1vV3R2Zm9NdkhqdUJGemxvM19vUjdlRW1YbVZtYTFpUzg4OUIyaWsydVdBWXpFalRrYWhUVnRHSjRWbmtiZw?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Wed, 19 Aug 2026 05:36:35 GMT",
-          "query": "원전 관련주"
-        },
-        {
-          "title": "[긴급]📌급등임박 원전수혜주 딱 3종목📌AI데이터센터 SMR 소형모듈원전 원전관련주 급등주 두산에너빌리티 우리기술 [차분남] Angeline Boucher Calgary (m42gA0oOLX) - Mshale",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53eEZTbmplaVlUNmhpV3hSSjdBQVJsNmhFSXpzWnNOdlRlSnZEaG1nOWJRU1k4cVlZSkZvVnNQUXJoSlpHcU04R0NoV0VPMnlTTXcxMldtak9YYm8?oc=5",
-          "source": "Mshale",
-          "publishedAt": "Wed, 19 Aug 2026 21:32:14 GMT",
+          "title": "'원전 관련주' 장 초반 강세… 두산에너빌리티·오르비텍 등 강세 - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkdmxhUmlMekhVdVdVZzdLS01mY3ljVl8zWU9DS21tajFZaDlpUEpxOUNWRk5HSURxbll0WjJ4WElHWThqaGZ1WFg3ZkdvWkNZZkQyTmFfV2l6MnJfOG93?oc=5",
+          "source": "조세일보",
+          "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
           "query": "원전 관련주"
         }
       ]
@@ -202,12 +202,52 @@
         }
       ]
     },
+    "finance-stocks": {
+      "title": "금융주 체크",
+      "items": [
+        {
+          "title": "[하우머니] 은행 턱밑까지 온 증권주…금융주 판도 바뀌나 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94cXhUc3pETWZoelB4SktyOVJLUzFTZW44dEVBaEJUZE1ZZzZkZThMZXd0ZXZORUFSRjdDajVGbzh2TUN2QUpPRmxPQ2Y5X2c?oc=5",
+          "source": "v.daum.net",
+          "publishedAt": "Tue, 25 Aug 2026 01:55:22 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "[분석] 고금리 리스크를 견딜 수 있는 금융주 - 알파경제",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wckg2Z0p5c2pTd19TWjRSVWwySUZuSXFsenR3YXp3bmVGV216d1I0Tmp3OXJRSmxWNVR2ZUFWZmQ4QVdSa19kLUR3LXBQSlpERjNIbkgzV05rX0tRNVhmMF81U25qNHh3Vm9yU2Vn?oc=5",
+          "source": "알파경제",
+          "publishedAt": "Mon, 24 Aug 2026 23:00:00 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "[일본 증시] 닛케이 소폭 반등...전선주·금융주 주도로 0.5%↑ - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzcHFGeEt0V2tKbWhhX1NPdVRQU3R2R1pDLWI5bGJVNGNFOTVPTktYbDFYaEwtdWp1WE91OVdsOXlPcDJRVFhaNEp3SUlfLWJGZU1yTm0yZUZoaENz?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "Tue, 25 Aug 2026 07:30:00 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "베선트 콘퍼런스 주목…트레이더들, DXY 반전·금융주 헤지·반도체 급락에 촉각 - VT Markets",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxObHpuY3BmdXgzOHFOV0RfajhTaElqNHlNakI3ajMyMWVQdXZ6Y2QzbHNnaUpyLWN3SnVhTnNGZ1A2NDZ0WGFSS2tPdmIxNWM5RlNlMXV6Z1lYUUlXUGJwckxOMlFhZTVwb2hkeFlRMDVsY1dqZUpIcmpwYmRPUkNMOVRiTzNBd0FpcVhoUjF5Mjg4U3VzMmx5RURfbXhYNVA3dXJfUnlMR254eUh2U1o3UjJwYjhydzlFZ0FWdlFWWWtPVzJsaXB4RUY5cWFtcE9PU0MxdmE2bk9wd3ZtV2JSaWJoNGd0Q183S3NMdGFoa3pSUGtPV3M1VzZTYWx4Wm5WMDNXTWJBU19pSTQxbUdNanlUbWdYUk1tQ1ctSmhvMEVOaEZSem9kVTRVSkNNRkpxbUJkUWhfa3gzcElELVBDa0hQRWZDd2JpbU9mZk5ueDlTZw?oc=5",
+          "source": "VT Markets",
+          "publishedAt": "Tue, 25 Aug 2026 09:46:39 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ck1MRGt5ajBqNnloOENHMUV0b045SVhWUDhEcHUwUGJPc2NpYlBrcFo1U3doaFVxWTZ3UVNCWGY4NFpzTkZZZ0R0M0FLYWRuQmhwR1hHZ25vcEnSAWBBVV95cUxPZndOMVdVbjNXSTU5eFZ5S0txcFJjRHVlN1RGWUF1ZGMtSHBMbFd4TVE2c3ZwcHVFb2RYTzRWbnZrWDFXVXJzcGNaYzUyYzJlVTV5aGZZT2E1UHBXZ1Y3cjE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "Sun, 23 Aug 2026 23:15:28 GMT",
+          "query": "금융주"
+        }
+      ]
+    },
     "cosmetics-stocks": {
       "title": "화장품 관련주 체크",
       "items": [
         {
-          "title": "한국콜마, 화장품관련주의 대장주(K뷰티)일 것. : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEt4bkJqZkpmMVZnekY3dUpTYWV0cklkNkdsV2ZlOFZrcmtPT0ZPUERDYkh6TF85M0lsaWM0RnIzRDhTSi1JM2xTZERlUWhDb3FmMFY5bVpDNnltT1dPNEFiZTd2eVo1OXRScUZuN1didkt2Wmdvd1p6TmZkYm90cThSWFo?oc=5",
+          "title": "한국콜마, 화장품관련주의 대장주(K뷰티)일 것. - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Gb1ZUQjlpYjNTZllhUGY4enp3eU8xcmxRTG9uSG5KdUdOMkJ4MzBBLXIzYjhBT2puUW1UdnpjZE1GNjBKYTFZUlN1SGdXdm03bWpUMmhZOTV6MTdERlVrSGFxcUlURFk?oc=5",
           "source": "Naver Blog",
           "publishedAt": "Wed, 12 Aug 2026 07:00:00 GMT",
           "query": "화장품 관련주"
@@ -239,46 +279,6 @@
           "source": "매일경제 마켓",
           "publishedAt": "Sun, 22 Mar 2026 07:00:00 GMT",
           "query": "화장품 관련주"
-        }
-      ]
-    },
-    "finance-stocks": {
-      "title": "금융주 체크",
-      "items": [
-        {
-          "title": "[분석] 고금리 리스크를 견딜 수 있는 금융주 - 알파경제",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wckg2Z0p5c2pTd19TWjRSVWwySUZuSXFsenR3YXp3bmVGV216d1I0Tmp3OXJRSmxWNVR2ZUFWZmQ4QVdSa19kLUR3LXBQSlpERjNIbkgzV05rX0tRNVhmMF81U25qNHh3Vm9yU2Vn?oc=5",
-          "source": "알파경제",
-          "publishedAt": "Mon, 24 Aug 2026 23:00:00 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "'바이백'에도 장기금리 고공행진…증권가 \"주주환원·금융주로 분산\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zRmhuM3RuWkU4S0JGYkg4LXN5cHJmLWQyTXc5eS1RcWh3OGxfelJrTDB3bWtzQmpLQkdvdUFUaFFUZ2drQWtWN0trVVpnQU5NSTVNRklJWjF3SUFNWVlMbNIBeEFVX3lxTE9FaUpFT3FMRGRBZG5GSXV6QjV2ZWJkTUl6cXMwY1hlUDluaG9tS1RFSHk4UEFvZjNia1JlUHVLeHN4d2FSd2xPeUR0a0ZhVVEwRFRTcHJYOTVEZlZWRmhENHVfYWoxQnJJdEQ1MjBJUENfRkIxVW1Geg?oc=5",
-          "source": "뉴시스",
-          "publishedAt": "Mon, 24 Aug 2026 22:00:00 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "[인도증시] 지정학적 긴장 지속·국채 수익률 상승 속 하락...금융주 약세 속 IT주 선방 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55Nlk1V3hfSUFQUzNxSmdsQUtremxCcUhQQlliWXNOSmZnQnoxa2tmRkEtMnU2RnlZdTVTV3NyU2dGSExKWDNRLUtqYkVmN1J0c1p6ODlKY2FfREZR?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "Mon, 24 Aug 2026 11:01:00 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9md04xV1VuM1dJNTl4VnlLS3FwUmNEdWU3VEZZQXVkYy1IcExsV3hNUTZzdnBwdUVvZFhPNFZudmtYMVdVcnNwY1pjNTJjMmVVNXloZllPYTVQcFdnVjdyMdIBYEFVX3lxTE9md04xV1VuM1dJNTl4VnlLS3FwUmNEdWU3VEZZQXVkYy1IcExsV3hNUTZzdnBwdUVvZFhPNFZudmtYMVdVcnNwY1pjNTJjMmVVNXloZllPYTVQcFdnVjdyMQ?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "Sun, 23 Aug 2026 23:15:28 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "트럼프 투자계좌, 6월에만 1000건 거래…금융주 집중 매수 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XLTR0VXBXaHppUUViajdXWktzV293VGVWbFdhWDRxZlJhckZNOVUtUV9qWTRKR3JvZ215OXd1bjV6SnJ2a21XWDRTREdvbnM?oc=5",
-          "source": "v.daum.net",
-          "publishedAt": "Sun, 23 Aug 2026 09:15:51 GMT",
-          "query": "금융주"
         }
       ]
     },
@@ -380,17 +380,17 @@
           "query": "2차전지 관련주"
         },
         {
-          "title": "2차전지 관련주, 전기차 확대로 투자 '흥행' - 얼리어답터뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00WVRid0REVmV6Sl9ZUjllT091d01sdDJKQnpscW45el9aS3QxdDR2cTYzeC1oNmdaVzVlOVZCUVVWSkJ5ckdQcg?oc=5",
-          "source": "얼리어답터뉴스",
-          "publishedAt": "Wed, 19 Aug 2026 22:25:37 GMT",
+          "title": "‘삼성D 지분 매각’ 삼성SDI, 8%대↑…2차전지株 ‘불기둥’ [줍줍 리포트] - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXekd1bEJvQUo0dnh5MWM2SElYZThHN3BYTnlhSTZCd2FEMXo5UWd3Nzh3NzhiNGc1ZW5zZ05VX2VDQW5GaGw4NkQ1M2h0MVhEM2c?oc=5",
+          "source": "서울경제",
+          "publishedAt": "Mon, 24 Aug 2026 01:31:16 GMT",
           "query": "2차전지 관련주"
         },
         {
-          "title": "2차전지 관련주, 전기차 확대로 투자 '흥행' - 유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NMkVmb1dhT1dLRzRKd2xJdkRXQm5CYk9YZjk3ZFYzUWdsQkg1TVpaRkJZQVQxNU1wMm1HX2NXVEJ6ZXlNNkJtNHBNNHpoOU9FNWc?oc=5",
-          "source": "유스연합",
-          "publishedAt": "Wed, 19 Aug 2026 22:25:37 GMT",
+          "title": "엘앤에프, 2차전지 소재주 동반 조정 속 장중 하락세 지속 : 기업주식정보 - 재경일보",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50VmJ5dkhQbTN3U2FjZDdKNGhwVnBTNlpzQklhWHNIV3NfS21keHJYSGRyU3RwQlFNX2l3Sjh2LUFZVEJNM2JSamlR?oc=5",
+          "source": "재경일보",
+          "publishedAt": "Tue, 25 Aug 2026 01:56:00 GMT",
           "query": "2차전지 관련주"
         },
         {
