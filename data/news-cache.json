@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T01:56:16.453Z",
+  "fetchedAt": "2026-08-26T09:54:50.977Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -133,13 +133,6 @@
           "query": "원전 관련주"
         },
         {
-          "title": "[특징주]지투파워, 코스닥 약세 뚫고 11% 치솟아…‘대미 원전 1호’ 발표 임박 기대 - 남도일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHM1I4Y2JOU0dlMDJab3BvVVE0VnJ5NEpSNUhHT1BueUhVMUVSWmI4aVEzSzktYTJLSjlkT2g2RkkxWFpGRlM2RjFRVzhYd0o2emhMTUVwX3BaVDZ1YjBPQ2FNQnFnd0pPUVVnck84Y3LSAXBBVV95cUxQRzNSOGNiTlNHZTAyWm9wb1VRNFZyeTRKUjVIR09QbnlIVTFFUlpiOGlRM0s5LWEyS0o5ZE9oNkZJMVhaRkZTNkYxUVc4WHdKNnpoTE1FcF9wWlQ2dWIwT0NhTUJxZ3dKT1FVZ3JPOGNy?oc=5",
-          "source": "남도일보",
-          "publishedAt": "Tue, 25 Aug 2026 01:28:41 GMT",
-          "query": "원전 관련주"
-        },
-        {
           "title": "대규모 원전 호재 터졌다…원전 관련주 상한가 행진 - 매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TdTI1aVhkc3dQblZGTWNHUGVUSERNczdFdW43MEZzeW52TGlIbTdvcGFLNWs2S1IzVi0yT01rZi1nNE9kbi16S1A3cnlySHhLdHc?oc=5",
           "source": "매일경제",
@@ -147,10 +140,10 @@
           "query": "원전 관련주"
         },
         {
-          "title": "두산에너빌리티 약세·우리기술 강보합…원전주 동향은? - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1SmlTYjVUeEpqYXZ6N2ZnYmdyNEJJX3JKY3NLVGhkaTBKWGtMNzBiMEpBcXhJNkFicEZrSWVmNzJOUFY4T1lBNUc2a29fN1Q3N0xWd1hFRzNsRklnclFSVVpkV3FSWkpW?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Thu, 20 Aug 2026 13:53:56 GMT",
+          "title": "[특징주]지투파워, 코스닥 약세 뚫고 11% 치솟아…‘대미 원전 1호’ 발표 임박 기대 - 남도일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Wem54UVl1Q2lNajNTLVVMQUpaV1BOeW95OWRhTFRQa0tmN05tQjVTeWZlclRYVjl0S2EyYzNGWTM1Z2RFNnZJbUhuS2VHM0VIalp3WlZ1eWJWQ29RcTVHR3hDX3NDUGxNV1A1YtIBcEFVX3lxTFBHM1I4Y2JOU0dlMDJab3BvVVE0VnJ5NEpSNUhHT1BueUhVMUVSWmI4aVEzSzktYTJLSjlkT2g2RkkxWFpGRlM2RjFRVzhYd0o2emhMTUVwX3BaVDZ1YjBPQ2FNQnFnd0pPUVVnck84Y3I?oc=5",
+          "source": "남도일보",
+          "publishedAt": "Tue, 25 Aug 2026 01:28:41 GMT",
           "query": "원전 관련주"
         },
         {
@@ -159,6 +152,13 @@
           "source": "연합인포맥스",
           "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
           "query": "원전 관련주"
+        },
+        {
+          "title": "'원전 관련주' 장 초반 강세… 두산에너빌리티·오르비텍 등 강세 - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkdmxhUmlMekhVdVdVZzdLS01mY3ljVl8zWU9DS21tajFZaDlpUEpxOUNWRk5HSURxbll0WjJ4WElHWThqaGZ1WFg3ZkdvWkNZZkQyTmFfV2l6MnJfOG93?oc=5",
+          "source": "조세일보",
+          "publishedAt": "Mon, 16 Mar 2026 07:00:00 GMT",
+          "query": "원전 관련주"
         }
       ]
     },
@@ -166,17 +166,24 @@
       "title": "로봇 관련주 체크",
       "items": [
         {
-          "title": "엔비디아 실적 D-1…HBM 넘어 냉각·전력·로봇까지 ‘수혜주 찾기’ - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRNDg4M2FtTy1wUTdnd2ZnWVU0cXpxeXRaMmw4V1hJREw5QllJQmZ6YUZOS3UyUTZIVUlnTUlUUHlJdUo2bmFTSHpBbUxwUzNSbFVPUQ?oc=5",
-          "source": "이투데이",
-          "publishedAt": "Tue, 25 Aug 2026 21:00:00 GMT",
-          "query": "로봇 관련주"
-        },
-        {
           "title": "하나증권 \"중국 로봇기업 대규모 자금조달로 상용화 기대 커져, 관련주 레인보우로보틱스 로보티즈\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wb0diWGdSYkR0alBmOWZ4NWx1SmdBQk5VMy1qMUpvcVNMT0IwemdIVjNvV0tvLUVRaWNTUENudE5sbGx4V2QycDlkd2ZaZjY4OGdNbTdST3gtdFlNZjU5LWdoQ2EycTFZRkNxYXlSUmc5Y28?oc=5",
           "source": "비즈니스포스트",
           "publishedAt": "Mon, 24 Aug 2026 23:52:18 GMT",
+          "query": "로봇 관련주"
+        },
+        {
+          "title": "휴림로봇, 소폭 상승…최근 급등락 뒤 6500원대 공방 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HUU40Q3IyYzFhOE9QSVVFaTVwOE5RQ1ItNnkyRHVMeE1WQ3ZNanNIM19ESUkyRS00MkhfdENLZnlNejNKMk9pdDcxUzV5dTRDMzFiUDluY0FWOHQyYUdWeHBiTm9JSWtR?oc=5",
+          "source": "CBC뉴스",
+          "publishedAt": "Tue, 25 Aug 2026 15:40:00 GMT",
+          "query": "로봇 관련주"
+        },
+        {
+          "title": "엔비디아 실적 D-1…HBM 넘어 냉각·전력·로봇까지 '수혜주 찾기' - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tekxQMmZ4N21ULXdVeDJ6eWZveHhuZmJhVzJmd0IycTljSU5lSnNDYjhwZ2R6TDkxWDBrT3g5akc4UjNEa05meDY0UDZvbUtxclV1UWl1UV9NZ053VWNWdmkyWFVEQXRybXpXcllSQTlyNlBmOWM4ZA?oc=5",
+          "source": "네이트",
+          "publishedAt": "Tue, 25 Aug 2026 21:01:00 GMT",
           "query": "로봇 관련주"
         },
         {
@@ -191,13 +198,6 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBISmpjNmp0YzZMSWhBYzg1SFZYNG1VMDZMUHpkOUktWVlNajNGMHNLWmk2Z1pfVFJfOXQxYnpmRGRFb0hjRnQwc1dreWpvaUZLQXdwLWpHUFFvNUFSb2RSeTdhVzhNWDh1SnVrSjRrVVFGVjBHVkJz?oc=5",
           "source": "TradingView",
           "publishedAt": "Wed, 19 Aug 2026 05:09:23 GMT",
-          "query": "로봇 관련주"
-        },
-        {
-          "title": "로봇주 일제히 밀렸다…미국 증시 동반 하락 여파도 부담 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UTkpLTVFWZ3VROVFIcTBTanVfQnJLREdGT1hWLU9vRmZmVXNKUnZGR0RjNkY3SDJUNkhVdWFzWHFPckQxM0lTWEdkOUlURWVPOUhIMTR3Q0JjT1J3NmoyeHNhUC1NWDJC?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Fri, 21 Aug 2026 06:48:52 GMT",
           "query": "로봇 관련주"
         }
       ]
@@ -246,6 +246,13 @@
       "title": "금융주 체크",
       "items": [
         {
+          "title": "[도쿄증시-마감] 반도체·금융주 강세에 닛케이 66,000선 회복 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTcxQV9mOEZFMnFjcHc0WWR1anhmOUZESlVqb0FlRlFLaGZlVEwxQ2E1aUZaZF9NWHNSMFVKbFhpdXhrb2JrUkhEeGlKT2htM21sYTZVdV81c0tJNVNvbE8xVy1VbXJIWHhockZjMjA?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "Wed, 26 Aug 2026 08:51:48 GMT",
+          "query": "금융주"
+        },
+        {
           "title": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아” - 경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
           "source": "경향신문",
@@ -253,31 +260,24 @@
           "query": "금융주"
         },
         {
+          "title": "장기금리 오르자 금융주 희비…보험주 14% 뛸 동안 증권주 2% 하락 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZN1RIb2lobDk3Ul9RdU5TMW9yMDZURGFVRGY2ckdsa254SEg1Z3BUY19rVU56eTljWmNCVXhHdkUtUXBtVnhKTzdZay1VU1hwTkZ2cnNBTlFTUQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "Wed, 26 Aug 2026 07:38:28 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xYlFybzhhQnZLUkx3VEd2cEVxQWoxM3J0RDFEbWRCZGhsczRJYWlNYlZHZnU5YkZHdEVXYTZkVmFveHdrS3B5aWJYX3UzWEptZ0dTMg?oc=5",
+          "source": "v.daum.net",
+          "publishedAt": "Tue, 25 Aug 2026 23:01:53 GMT",
+          "query": "금융주"
+        },
+        {
           "title": "고금리에 갈린 금융주…보험 10% 오를 때 증권 3% 밀렸다 - 서울경제TV",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQLWFKU2RaMzdBSl9CNFZzSXRiSTVyZDlrY01lbDl3Q0FWeVY5TWowTUF2UU9WdlI5WEc0ZDYwS08xMFo3VDFqcXJGTExWMmtCRkI3X3JxcGtkY1JFSmpBQWxHUVc?oc=5",
           "source": "서울경제TV",
           "publishedAt": "Wed, 26 Aug 2026 00:03:37 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ck1MRGt5ajBqNnloOENHMUV0b045SVhWUDhEcHUwUGJPc2NpYlBrcFo1U3doaFVxWTZ3UVNCWGY4NFpzTkZZZ0R0M0FLYWRuQmhwR1hHZ25vcEnSAWBBVV95cUxPZndOMVdVbjNXSTU5eFZ5S0txcFJjRHVlN1RGWUF1ZGMtSHBMbFd4TVE2c3ZwcHVFb2RYTzRWbnZrWDFXVXJzcGNaYzUyYzJlVTV5aGZZT2E1UHBXZ1Y3cjE?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "Sun, 23 Aug 2026 23:15:28 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "[일본 증시] 닛케이 소폭 반등...전선주·금융주 주도로 0.5%↑ - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzcHFGeEt0V2tKbWhhX1NPdVRQU3R2R1pDLWI5bGJVNGNFOTVPTktYbDFYaEwtdWp1WE91OVdsOXlPcDJRVFhaNEp3SUlfLWJGZU1yTm0yZUZoaENz?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "Tue, 25 Aug 2026 07:30:00 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "[하우머니] 은행 턱밑까지 온 증권주…금융주 판도 바뀌나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94cXhUc3pETWZoelB4SktyOVJLUzFTZW44dEVBaEJUZE1ZZzZkZThMZXd0ZXZORUFSRjdDajVGbzh2TUN2QUpPRmxPQ2Y5X2c?oc=5",
-          "source": "v.daum.net",
-          "publishedAt": "Tue, 25 Aug 2026 01:55:22 GMT",
           "query": "금융주"
         }
       ]
@@ -314,10 +314,10 @@
           "query": "AI 소프트웨어 관련주"
         },
         {
-          "title": "정부 AI 예산 3배 확대…국내 AI 소프트웨어 관련주 총정리 - 경제시그널",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vQm9rRTN2cl80NFZYUXJrQTNIWU9zR05Hc25acjhhaEtiSkw5NXd6R3RPekdWQkZDNHA1Vkh4UG9kYTRqdHU1dlhhRTVzeTZuLTE2MkxBejNfR3phS3hqNEtYRDVxbFlrTEhJUlN5aDFrUQ?oc=5",
-          "source": "경제시그널",
-          "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+          "title": "2026년 8월 22일 미국 AI 관련주 — 소프트웨어만 상승, AI 인프라는 주간 두 자릿수 하락 - AI 매터스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yb2RLQXk2YzdNVkxnWlY5LUJNQ1BGWkE5cEZad19vQWJOenVoX0dld2gwR3AzT09tbzdSeHNuTHpmQUx2dXp0S3VzQ0tUUUJaazRjUQ?oc=5",
+          "source": "AI 매터스",
+          "publishedAt": "Sat, 22 Aug 2026 02:32:04 GMT",
           "query": "AI 소프트웨어 관련주"
         }
       ]
@@ -420,6 +420,13 @@
           "query": "전력기기 관련주"
         },
         {
+          "title": "하나증권 \"AI 데이터센터 대규모 투자에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YWlIyWUtIdVN0TWhfSWZ0dVJnOHRWUkg4TE5CR19Ia1psVloydDJVRWtoRWkzcTZsR2t2YUdZQ0FOSFc0WnJqY0dONGFUWUg5X1FBVm01cFRQYjc1OFRtMkhiVHZZWmV4eXRFNXlmZ3F1dGM?oc=5",
+          "source": "비즈니스포스트",
+          "publishedAt": "Mon, 17 Aug 2026 23:51:08 GMT",
+          "query": "전력기기 관련주"
+        },
+        {
           "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "source": "Naver Blog",
@@ -431,13 +438,6 @@
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WE40QVBCWERXWDlVTUozZm1LX2s0OHVNODhvY3hqczBBZmF0Tks3bWN0Ujhmb09PTGxaRGVnX3Jrdm56Yl81R202V3VXN1k?oc=5",
           "source": "v.daum.net",
           "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
-          "query": "전력기기 관련주"
-        },
-        {
-          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
-          "source": "매일경제 마켓",
-          "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
           "query": "전력기기 관련주"
         }
       ]

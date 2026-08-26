@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-08-26T01:56:16.423Z",
+  "discoveredAt": "2026-08-26T09:54:50.950Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -159,12 +159,38 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 32,
+      "score": 33,
       "autoDiscovered": true,
       "evidence": [
         {
+          "title": "[도쿄증시-마감] 반도체·금융주 강세에 닛케이 66,000선 회복 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTcxQV9mOEZFMnFjcHc0WWR1anhmOUZESlVqb0FlRlFLaGZlVEwxQ2E1aUZaZF9NWHNSMFVKbFhpdXhrb2JrUkhEeGlKT2htM21sYTZVdV81c0tJNVNvbE8xVy1VbXJIWHhockZjMjA?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아” - 경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "장기금리 오르자 금융주 희비…보험주 14% 뛸 동안 증권주 2% 하락 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZN1RIb2lobDk3Ul9RdU5TMW9yMDZURGFVRGY2ckdsa254SEg1Z3BUY19rVU56eTljWmNCVXhHdkUtUXBtVnhKTzdZay1VU1hwTkZ2cnNBTlFTUQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "보험주",
+            "증권주"
+          ]
+        },
+        {
+          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xYlFybzhhQnZLUkx3VEd2cEVxQWoxM3J0RDFEbWRCZGhsczRJYWlNYlZHZnU5YkZHdEVXYTZkVmFveHdrS3B5aWJYX3UzWEptZ0dTMg?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -176,32 +202,6 @@
           "query": "금융주",
           "matchedSignals": [
             "금융주"
-          ]
-        },
-        {
-          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ck1MRGt5ajBqNnloOENHMUV0b045SVhWUDhEcHUwUGJPc2NpYlBrcFo1U3doaFVxWTZ3UVNCWGY4NFpzTkZZZ0R0M0FLYWRuQmhwR1hHZ25vcEnSAWBBVV95cUxPZndOMVdVbjNXSTU5eFZ5S0txcFJjRHVlN1RGWUF1ZGMtSHBMbFd4TVE2c3ZwcHVFb2RYTzRWbnZrWDFXVXJzcGNaYzUyYzJlVTV5aGZZT2E1UHBXZ1Y3cjE?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "주주환원"
-          ]
-        },
-        {
-          "title": "[일본 증시] 닛케이 소폭 반등...전선주·금융주 주도로 0.5%↑ - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzcHFGeEt0V2tKbWhhX1NPdVRQU3R2R1pDLWI5bGJVNGNFOTVPTktYbDFYaEwtdWp1WE91OVdsOXlPcDJRVFhaNEp3SUlfLWJGZU1yTm0yZUZoaENz?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[하우머니] 은행 턱밑까지 온 증권주…금융주 판도 바뀌나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94cXhUc3pETWZoelB4SktyOVJLUzFTZW44dEVBaEJUZE1ZZzZkZThMZXd0ZXZORUFSRjdDajVGbzh2TUN2QUpPRmxPQ2Y5X2c?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "증권주"
           ]
         }
       ]
@@ -260,7 +260,7 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 29,
+      "score": 27,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -459,7 +459,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 19,
+      "score": 20,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -563,6 +563,15 @@
       "autoDiscovered": true,
       "evidence": [
         {
+          "title": "하나증권 \"AI 데이터센터 대규모 투자에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YWlIyWUtIdVN0TWhfSWZ0dVJnOHRWUkg4TE5CR19Ia1psVloydDJVRWtoRWkzcTZsR2t2YUdZQ0FOSFc0WnJqY0dONGFUWUg5X1FBVm01cFRQYjc1OFRtMkhiVHZZWmV4eXRFNXlmZ3F1dGM?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기",
+            "데이터센터"
+          ]
+        },
+        {
           "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "query": "전력기기 관련주",
@@ -584,15 +593,6 @@
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
-          ]
-        },
-        {
-          "title": "하나증권 \"AI 데이터센터 투자 확대에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BbkxMQUkzYmhhWGtMQjB5dGpFSHdiUC0wbl95VkdNOU15MExLeWdqV2FnNVVHSzU4MERsVXJzb0lBOFd3dzI5WldEVW5uZnpFcmZwQTBoM1ZQR2xkMXhVMXoyd3RMNkkwQjNBR1RTMlVfQmc?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기",
-            "데이터센터"
           ]
         },
         {
@@ -661,11 +661,37 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 32,
+      "score": 33,
       "evidence": [
+        {
+          "title": "[도쿄증시-마감] 반도체·금융주 강세에 닛케이 66,000선 회복 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTcxQV9mOEZFMnFjcHc0WWR1anhmOUZESlVqb0FlRlFLaGZlVEwxQ2E1aUZaZF9NWHNSMFVKbFhpdXhrb2JrUkhEeGlKT2htM21sYTZVdV81c0tJNVNvbE8xVy1VbXJIWHhockZjMjA?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
         {
           "title": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아” - 경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "장기금리 오르자 금융주 희비…보험주 14% 뛸 동안 증권주 2% 하락 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZN1RIb2lobDk3Ul9RdU5TMW9yMDZURGFVRGY2ckdsa254SEg1Z3BUY19rVU56eTljWmNCVXhHdkUtUXBtVnhKTzdZay1VU1hwTkZ2cnNBTlFTUQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "보험주",
+            "증권주"
+          ]
+        },
+        {
+          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xYlFybzhhQnZLUkx3VEd2cEVxQWoxM3J0RDFEbWRCZGhsczRJYWlNYlZHZnU5YkZHdEVXYTZkVmFveHdrS3B5aWJYX3UzWEptZ0dTMg?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -678,39 +704,13 @@
           "matchedSignals": [
             "금융주"
           ]
-        },
-        {
-          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ck1MRGt5ajBqNnloOENHMUV0b045SVhWUDhEcHUwUGJPc2NpYlBrcFo1U3doaFVxWTZ3UVNCWGY4NFpzTkZZZ0R0M0FLYWRuQmhwR1hHZ25vcEnSAWBBVV95cUxPZndOMVdVbjNXSTU5eFZ5S0txcFJjRHVlN1RGWUF1ZGMtSHBMbFd4TVE2c3ZwcHVFb2RYTzRWbnZrWDFXVXJzcGNaYzUyYzJlVTV5aGZZT2E1UHBXZ1Y3cjE?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "주주환원"
-          ]
-        },
-        {
-          "title": "[일본 증시] 닛케이 소폭 반등...전선주·금융주 주도로 0.5%↑ - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzcHFGeEt0V2tKbWhhX1NPdVRQU3R2R1pDLWI5bGJVNGNFOTVPTktYbDFYaEwtdWp1WE91OVdsOXlPcDJRVFhaNEp3SUlfLWJGZU1yTm0yZUZoaENz?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[하우머니] 은행 턱밑까지 온 증권주…금융주 판도 바뀌나 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94cXhUc3pETWZoelB4SktyOVJLUzFTZW44dEVBaEJUZE1ZZzZkZThMZXd0ZXZORUFSRjdDajVGbzh2TUN2QUpPRmxPQ2Y5X2c?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주",
-            "증권주"
-          ]
         }
       ]
     },
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 29,
+      "score": 27,
       "evidence": [
         {
           "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
@@ -805,7 +805,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 19,
+      "score": 20,
       "evidence": [
         {
           "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
@@ -856,6 +856,15 @@
       "score": 13,
       "evidence": [
         {
+          "title": "하나증권 \"AI 데이터센터 대규모 투자에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YWlIyWUtIdVN0TWhfSWZ0dVJnOHRWUkg4TE5CR19Ia1psVloydDJVRWtoRWkzcTZsR2t2YUdZQ0FOSFc0WnJqY0dONGFUWUg5X1FBVm01cFRQYjc1OFRtMkhiVHZZWmV4eXRFNXlmZ3F1dGM?oc=5",
+          "query": "전력기기 관련주",
+          "matchedSignals": [
+            "전력기기",
+            "데이터센터"
+          ]
+        },
+        {
           "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "query": "전력기기 관련주",
@@ -877,15 +886,6 @@
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
-          ]
-        },
-        {
-          "title": "하나증권 \"AI 데이터센터 투자 확대에 전력기기주 부각, 관련주 HD현대일렉트릭 효성중공업\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BbkxMQUkzYmhhWGtMQjB5dGpFSHdiUC0wbl95VkdNOU15MExLeWdqV2FnNVVHSzU4MERsVXJzb0lBOFd3dzI5WldEVW5uZnpFcmZwQTBoM1ZQR2xkMXhVMXoyd3RMNkkwQjNBR1RTMlVfQmc?oc=5",
-          "query": "전력기기 관련주",
-          "matchedSignals": [
-            "전력기기",
-            "데이터센터"
           ]
         },
         {
