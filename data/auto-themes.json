@@ -1,107 +1,9 @@
 {
-  "discoveredAt": "2026-08-29T14:26:53.328Z",
+  "discoveredAt": "2026-08-30T05:20:15.047Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
   "promoted": [
-    {
-      "slug": "finance-stocks",
-      "title": "금융주 체크",
-      "pageTitle": "금융주 뉴스 체크 | 은행·보험·증권 테마 체크",
-      "description": "KB금융, 신한지주, 하나금융지주 등 금융주의 배당, 금리, 주주환원 테마 체크포인트를 모아보는 정보 페이지입니다.",
-      "keywords": "금융주, 은행주, 보험주, 증권주, KB금융, 신한지주, 하나금융지주, 배당주",
-      "intro": "금융주는 금리, 배당, 자사주, 주주환원 정책에 민감합니다. 단기 테마보다 이익 체력과 자본 정책을 같이 확인하세요.",
-      "searchQueries": [
-        "금융주",
-        "은행주 배당",
-        "주주환원 관련주"
-      ],
-      "stocks": [
-        {
-          "name": "KB금융",
-          "code": "105560",
-          "tags": [
-            "은행",
-            "배당",
-            "지주"
-          ],
-          "summary": "대표 금융지주 종목입니다. 순이자마진, 대손비용, 주주환원 정책을 확인하세요."
-        },
-        {
-          "name": "신한지주",
-          "code": "055550",
-          "tags": [
-            "은행",
-            "지주",
-            "배당"
-          ],
-          "summary": "금융지주와 배당 테마에서 자주 검색됩니다. 이익 안정성과 자본 정책을 같이 보세요."
-        },
-        {
-          "name": "하나금융지주",
-          "code": "086790",
-          "tags": [
-            "은행",
-            "환율",
-            "배당"
-          ],
-          "summary": "은행주와 배당 이슈에 민감합니다. 환율, 대손, 자사주 정책을 확인하세요."
-        }
-      ],
-      "checklist": [
-        "금리 방향과 순이자마진 전망은 어떤가?",
-        "대손비용과 부동산 PF 리스크는 관리되는가?",
-        "배당·자사주 정책이 지속 가능한가?",
-        "경기 둔화 시 이익 방어력이 있는가?"
-      ],
-      "related": [
-        "kospi-kosdaq.html"
-      ],
-      "score": 33,
-      "autoDiscovered": true,
-      "evidence": [
-        {
-          "title": "UBS, 유럽 금융주 최고 투자 종목 선정 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rdjl1Rm5wQk5IT2Z2YXhVbDQyWGxpX050a2tNQVk2VzZ2dGgzTnlvTklOZVJFNS1lMVVCdURYZ0xndFRBbThvN3BCTUhPSzBHeHlodGhTNkRhQ2RsdzhNSDlxdTdvenhLUG5fVzc5VlhfeFpXTzJF?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[도쿄증시-마감] 반도체·금융주 강세에 닛케이 66,000선 회복 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTcxQV9mOEZFMnFjcHc0WWR1anhmOUZESlVqb0FlRlFLaGZlVEwxQ2E1aUZaZF9NWHNSMFVKbFhpdXhrb2JrUkhEeGlKT2htM21sYTZVdV81c0tJNVNvbE8xVy1VbXJIWHhockZjMjA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[주식, 반도체 다음은?] ③금리 타고 금융주 부상 - 스트레이트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIa3A0MmpYdjZyWklBR1ozTVJ6U1pQZGRjOG1aWDRRQklMVWlCbEkyTzRHZTFGVktxYi00VnBNemVPV0haelYxeV9HNEFUbVAtRm5fanBUT3Fpbm11NnlUbEd6YWs4SGNfQjZJR2ZMYTItcXBhYUcw0gF3QVVfeXFMUEhrcDQyalh2NnJaSUFHWjNNUnpTWlBkZGM4bVpYNFFCSUxVaUJsSTJPNEdlMUZWS3FiLTRWcE16ZU9XSFp6VjF5X0c0QVRtUC1Gbl9qcFRPcWlubXU2eVRsR3phazhIY19CNklHZkxhMi1xcGFhRzA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        }
-      ]
-    },
     {
       "slug": "cosmetics-stocks",
       "title": "화장품 관련주 체크",
@@ -155,7 +57,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 31,
+      "score": 33,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -200,6 +102,104 @@
           "matchedSignals": [
             "K뷰티",
             "뷰티"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "finance-stocks",
+      "title": "금융주 체크",
+      "pageTitle": "금융주 뉴스 체크 | 은행·보험·증권 테마 체크",
+      "description": "KB금융, 신한지주, 하나금융지주 등 금융주의 배당, 금리, 주주환원 테마 체크포인트를 모아보는 정보 페이지입니다.",
+      "keywords": "금융주, 은행주, 보험주, 증권주, KB금융, 신한지주, 하나금융지주, 배당주",
+      "intro": "금융주는 금리, 배당, 자사주, 주주환원 정책에 민감합니다. 단기 테마보다 이익 체력과 자본 정책을 같이 확인하세요.",
+      "searchQueries": [
+        "금융주",
+        "은행주 배당",
+        "주주환원 관련주"
+      ],
+      "stocks": [
+        {
+          "name": "KB금융",
+          "code": "105560",
+          "tags": [
+            "은행",
+            "배당",
+            "지주"
+          ],
+          "summary": "대표 금융지주 종목입니다. 순이자마진, 대손비용, 주주환원 정책을 확인하세요."
+        },
+        {
+          "name": "신한지주",
+          "code": "055550",
+          "tags": [
+            "은행",
+            "지주",
+            "배당"
+          ],
+          "summary": "금융지주와 배당 테마에서 자주 검색됩니다. 이익 안정성과 자본 정책을 같이 보세요."
+        },
+        {
+          "name": "하나금융지주",
+          "code": "086790",
+          "tags": [
+            "은행",
+            "환율",
+            "배당"
+          ],
+          "summary": "은행주와 배당 이슈에 민감합니다. 환율, 대손, 자사주 정책을 확인하세요."
+        }
+      ],
+      "checklist": [
+        "금리 방향과 순이자마진 전망은 어떤가?",
+        "대손비용과 부동산 PF 리스크는 관리되는가?",
+        "배당·자사주 정책이 지속 가능한가?",
+        "경기 둔화 시 이익 방어력이 있는가?"
+      ],
+      "related": [
+        "kospi-kosdaq.html"
+      ],
+      "score": 31,
+      "autoDiscovered": true,
+      "evidence": [
+        {
+          "title": "금리 인상기 코스피 투자전략은…\"금융주 담고 실적주 선별\"[기준금리 3%시대③] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmelRVVEFfT0dBbTFYeDdUd04xVnVWa3BVYmRkTlVTcHNyR0FJRG9MT3pXTkRuNkNwNkVSRjJnZHlyZGtDS01zaDROVktHUnNZaks3bzBkV21JemhhZXk5RktHdFh4MGtoeW4zU1FMZEN6SVlocjUzddIBeEFVX3lxTFBmelRVVEFfT0dBbTFYeDdUd04xVnVWa3BVYmRkTlVTcHNyR0FJRG9MT3pXTkRuNkNwNkVSRjJnZHlyZGtDS01zaDROVktHUnNZaks3bzBkV21JemhhZXk5RktHdFh4MGtoeW4zU1FMZEN6SVlocjUzdQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "[도쿄증시-마감] 반도체·금융주 강세에 닛케이 66,000선 회복 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTcxQV9mOEZFMnFjcHc0WWR1anhmOUZESlVqb0FlRlFLaGZlVEwxQ2E1aUZaZF9NWHNSMFVKbFhpdXhrb2JrUkhEeGlKT2htM21sYTZVdV81c0tJNVNvbE8xVy1VbXJIWHhockZjMjA?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "[주식, 반도체 다음은?] ③금리 타고 금융주 부상 - 스트레이트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fdDI1TkNSRVBmU1drVTBpY0NVSUVvc2QxblBvMkRfcERKMW1pdzQwQTZOSjRDUEpFVHpaQ1hXcDB4TzFkRnAzeS0wdmhuek5NUjhXaWFMZ2hGWEdwanFxWGlJZURmWHZDT012N2ZJbHpSNHPSAXdBVV95cUxQSGtwNDJqWHY2clpJQUdaM01SelNaUGRkYzhtWlg0UUJJTFVpQmxJMk80R2UxRlZLcWItNFZwTXplT1dIWnpWMXlfRzRBVG1QLUZuX2pwVE9xaW5tdTZ5VGxHemFrOEhjX0I2SUdmTGEyLXFwYWFHMA?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
           ]
         }
       ]
@@ -359,20 +359,12 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 20,
+      "score": 19,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "특징주, 코이즈-2차전지(소재/부품) 테마 상승세에 29.84% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mY0ZUZDZwWGJkZEJnU2cyd0Mway05MkE1S2RRaWR3cENEd0tNOVRteDA5YkVaVmNHeW81U2F1Mm9hMzM4ck4yUkJDSEhmR1EzVlE?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "[특징주] 매각 이슈에 '삼성SDI' 7%대 강세…2차전지·ESS株 동반 상승 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMlVYZXdWQ2hYRGplNUNNUVhOaVllc1BPUVhVZE9mZ1hNWnFQNFBaZEYxZlk0Z0JmUmNjcGhDZl81RVE3S1BEWW5pd3lPR3RkUUFxQVQ3TzY3S1R2?oc=5",
+          "title": "특징주, 상신이디피-2차전지(소재/부품) 테마 상승세에 8.11% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92V1I2eVNLR3VQLVJodFFIaDQ0TVlJQnltWnBlM1Z2b08wcVYtb01BWkdCT0VOWk12NUtJYzJZZkpFdDE3N0xURkpEYThJdDJQdFE?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -385,6 +377,14 @@
           "matchedSignals": [
             "2차전지",
             "배터리"
+          ]
+        },
+        {
+          "title": "[특징주] 매각 이슈에 '삼성SDI' 7%대 강세…2차전지·ESS株 동반 상승 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMlVYZXdWQ2hYRGplNUNNUVhOaVllc1BPUVhVZE9mZ1hNWnFQNFBaZEYxZlk0Z0JmUmNjcGhDZl81RVE3S1BEWW5pd3lPR3RkUUFxQVQ3TzY3S1R2?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
           ]
         },
         {
@@ -459,7 +459,7 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 20,
+      "score": 19,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -572,7 +572,7 @@
         },
         {
           "title": "[특징주] 美 외국산 전력장비 수입 금지에…전력기기株 '강세' - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FdmlZV01IYmNyRkEtVG41aXdYendRMElGaUFVMVJ0U0huWGI5UjN2NXVRaGJhUVJVdzdYQ2p5V0drZmJNZDFaQUVFUk14VGpkYVFEUlh6VERFSGw3SHQyYm82Wlg0eEVKRUZfM2M3aXBvRGvSAXNBVV95cUxNRXZpWVdNSGJjckZBLVRuNWl3WHp3UTBJRmlBVTFSdFNIblhiOVIzdjV1UWhiYVFSVXc3WENqeVdHa2ZiTWQxWkFFRVJNeFRqZGFRRFJYelRERUhsN0h0MmJvNlpYNHhFSkVGXzNjN2lwb0Rr?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ONThZY3FIYllkeEpFN1RnQUctNG4tbU9Jbkd6eGtqaHE3dEtJaHZBQ2VQYmNPZ3RXR2VJWEJLOWQ3dmpPSDY0N1RhOUZCcUpxZGxaSDdYQ0lXclI4dmIzOWpqQktPZmNBQ3lWallURdIBc0FVX3lxTE1FdmlZV01IYmNyRkEtVG41aXdYendRMElGaUFVMVJ0U0huWGI5UjN2NXVRaGJhUVJVdzdYQ2p5V0drZmJNZDFaQUVFUk14VGpkYVFEUlh6VERFSGw3SHQyYm82Wlg0eEVKRUZfM2M3aXBvRGs?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -588,16 +588,16 @@
           ]
         },
         {
-          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
+          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
+          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -608,56 +608,9 @@
   ],
   "candidates": [
     {
-      "slug": "finance-stocks",
-      "title": "금융주 체크",
-      "score": 33,
-      "evidence": [
-        {
-          "title": "UBS, 유럽 금융주 최고 투자 종목 선정 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rdjl1Rm5wQk5IT2Z2YXhVbDQyWGxpX050a2tNQVk2VzZ2dGgzTnlvTklOZVJFNS1lMVVCdURYZ0xndFRBbThvN3BCTUhPSzBHeHlodGhTNkRhQ2RsdzhNSDlxdTdvenhLUG5fVzc5VlhfeFpXTzJF?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[도쿄증시-마감] 반도체·금융주 강세에 닛케이 66,000선 회복 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTcxQV9mOEZFMnFjcHc0WWR1anhmOUZESlVqb0FlRlFLaGZlVEwxQ2E1aUZaZF9NWHNSMFVKbFhpdXhrb2JrUkhEeGlKT2htM21sYTZVdV81c0tJNVNvbE8xVy1VbXJIWHhockZjMjA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[주식, 반도체 다음은?] ③금리 타고 금융주 부상 - 스트레이트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIa3A0MmpYdjZyWklBR1ozTVJ6U1pQZGRjOG1aWDRRQklMVWlCbEkyTzRHZTFGVktxYi00VnBNemVPV0haelYxeV9HNEFUbVAtRm5fanBUT3Fpbm11NnlUbEd6YWs4SGNfQjZJR2ZMYTItcXBhYUcw0gF3QVVfeXFMUEhrcDQyalh2NnJaSUFHWjNNUnpTWlBkZGM4bVpYNFFCSUxVaUJsSTJPNEdlMUZWS3FiLTRWcE16ZU9XSFp6VjF5X0c0QVRtUC1Gbl9qcFRPcWlubXU2eVRsR3phazhIY19CNklHZkxhMi1xcGFhRzA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "cosmetics-stocks",
       "title": "화장품 관련주 체크",
-      "score": 31,
+      "score": 33,
       "evidence": [
         {
           "title": "한국콜마, 화장품관련주의 대장주(K뷰티)일 것. - Naver Blog",
@@ -701,6 +654,53 @@
           "matchedSignals": [
             "K뷰티",
             "뷰티"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "finance-stocks",
+      "title": "금융주 체크",
+      "score": 31,
+      "evidence": [
+        {
+          "title": "금리 인상기 코스피 투자전략은…\"금융주 담고 실적주 선별\"[기준금리 3%시대③] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmelRVVEFfT0dBbTFYeDdUd04xVnVWa3BVYmRkTlVTcHNyR0FJRG9MT3pXTkRuNkNwNkVSRjJnZHlyZGtDS01zaDROVktHUnNZaks3bzBkV21JemhhZXk5RktHdFh4MGtoeW4zU1FMZEN6SVlocjUzddIBeEFVX3lxTFBmelRVVEFfT0dBbTFYeDdUd04xVnVWa3BVYmRkTlVTcHNyR0FJRG9MT3pXTkRuNkNwNkVSRjJnZHlyZGtDS01zaDROVktHUnNZaks3bzBkV21JemhhZXk5RktHdFh4MGtoeW4zU1FMZEN6SVlocjUzdQ?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "[도쿄증시-마감] 반도체·금융주 강세에 닛케이 66,000선 회복 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTcxQV9mOEZFMnFjcHc0WWR1anhmOUZESlVqb0FlRlFLaGZlVEwxQ2E1aUZaZF9NWHNSMFVKbFhpdXhrb2JrUkhEeGlKT2htM21sYTZVdV81c0tJNVNvbE8xVy1VbXJIWHhockZjMjA?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
+          "title": "[주식, 반도체 다음은?] ③금리 타고 금융주 부상 - 스트레이트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fdDI1TkNSRVBmU1drVTBpY0NVSUVvc2QxblBvMkRfcERKMW1pdzQwQTZOSjRDUEpFVHpaQ1hXcDB4TzFkRnAzeS0wdmhuek5NUjhXaWFMZ2hGWEdwanFxWGlJZURmWHZDT012N2ZJbHpSNHPSAXdBVV95cUxQSGtwNDJqWHY2clpJQUdaM01SelNaUGRkYzhtWlg0UUJJTFVpQmxJMk80R2UxRlZLcWItNFZwTXplT1dIWnpWMXlfRzRBVG1QLUZuX2pwVE9xaW5tdTZ5VGxHemFrOEhjX0I2SUdmTGEyLXFwYWFHMA?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
           ]
         }
       ]
@@ -757,19 +757,11 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 20,
+      "score": 19,
       "evidence": [
         {
-          "title": "특징주, 코이즈-2차전지(소재/부품) 테마 상승세에 29.84% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mY0ZUZDZwWGJkZEJnU2cyd0Mway05MkE1S2RRaWR3cENEd0tNOVRteDA5YkVaVmNHeW81U2F1Mm9hMzM4ck4yUkJDSEhmR1EzVlE?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "[특징주] 매각 이슈에 '삼성SDI' 7%대 강세…2차전지·ESS株 동반 상승 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMlVYZXdWQ2hYRGplNUNNUVhOaVllc1BPUVhVZE9mZ1hNWnFQNFBaZEYxZlk0Z0JmUmNjcGhDZl81RVE3S1BEWW5pd3lPR3RkUUFxQVQ3TzY3S1R2?oc=5",
+          "title": "특징주, 상신이디피-2차전지(소재/부품) 테마 상승세에 8.11% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92V1I2eVNLR3VQLVJodFFIaDQ0TVlJQnltWnBlM1Z2b08wcVYtb01BWkdCT0VOWk12NUtJYzJZZkpFdDE3N0xURkpEYThJdDJQdFE?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -782,6 +774,14 @@
           "matchedSignals": [
             "2차전지",
             "배터리"
+          ]
+        },
+        {
+          "title": "[특징주] 매각 이슈에 '삼성SDI' 7%대 강세…2차전지·ESS株 동반 상승 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMlVYZXdWQ2hYRGplNUNNUVhOaVllc1BPUVhVZE9mZ1hNWnFQNFBaZEYxZlk0Z0JmUmNjcGhDZl81RVE3S1BEWW5pd3lPR3RkUUFxQVQ3TzY3S1R2?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
           ]
         },
         {
@@ -805,7 +805,7 @@
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 20,
+      "score": 19,
       "evidence": [
         {
           "title": "[기업이슈] 코로나 19 재확산 보도에…제약·바이오 테마 수급 집중 - supple.kr",
@@ -865,7 +865,7 @@
         },
         {
           "title": "[특징주] 美 외국산 전력장비 수입 금지에…전력기기株 '강세' - 뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FdmlZV01IYmNyRkEtVG41aXdYendRMElGaUFVMVJ0U0huWGI5UjN2NXVRaGJhUVJVdzdYQ2p5V0drZmJNZDFaQUVFUk14VGpkYVFEUlh6VERFSGw3SHQyYm82Wlg0eEVKRUZfM2M3aXBvRGvSAXNBVV95cUxNRXZpWVdNSGJjckZBLVRuNWl3WHp3UTBJRmlBVTFSdFNIblhiOVIzdjV1UWhiYVFSVXc3WENqeVdHa2ZiTWQxWkFFRVJNeFRqZGFRRFJYelRERUhsN0h0MmJvNlpYNHhFSkVGXzNjN2lwb0Rr?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ONThZY3FIYllkeEpFN1RnQUctNG4tbU9Jbkd6eGtqaHE3dEtJaHZBQ2VQYmNPZ3RXR2VJWEJLOWQ3dmpPSDY0N1RhOUZCcUpxZGxaSDdYQ0lXclI4dmIzOWpqQktPZmNBQ3lWallURdIBc0FVX3lxTE1FdmlZV01IYmNyRkEtVG41aXdYendRMElGaUFVMVJ0U0huWGI5UjN2NXVRaGJhUVJVdzdYQ2p5V0drZmJNZDFaQUVFUk14VGpkYVFEUlh6VERFSGw3SHQyYm82Wlg0eEVKRUZfM2M3aXBvRGs?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -881,16 +881,16 @@
           ]
         },
         {
-          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
+          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "美·이란 종전 가시화에 전력기기株 '숨고르기' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdXU2bVVWUTdRM1NDMFVGdnRXUXdRcEU2LXVGY2MzLWRtQ2xPT2hJdXVUU1BGU25xQ0xUdnZIMWhNVDNlZUZjY0hHb0tUUVFqQ3c?oc=5",
+          "title": "전력기기 관련주, 북미·중동 재건 특수 누린다 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVFZBb2xHNGszdVB2RGVfN2JDaHVVd0NHSlhOSWdvcWtSQ2hZaVdWZV9VNThTdzRHOHBzdW1iTzNxVm1FcE9uOGJDcEhHV3h1aFNnRjhxZXBoWFNxcFNNNVI4Zjdja1k?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
