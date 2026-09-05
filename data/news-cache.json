@@ -1,14 +1,14 @@
 {
-  "fetchedAt": "2026-09-04T13:29:50.417Z",
+  "fetchedAt": "2026-09-05T04:21:41.144Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
       "title": "HBM 관련주 체크",
       "items": [
         {
-          "title": "HBM 관련주 혼조…유니테스트 5%대 급등, SK하이닉스·삼성전자 상승 - CBC뉴스",
+          "title": "HBM 관련주 혼조…유니테스트 5%대 급등, SK하이닉스·삼성전자 상승 - cbci.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzWXpmY3BsTDk2ellTZmJUcm42ZGpNQlBsOEUyQl91YlFYZ0pGZXpUTC14cm02R2pqNUZoSndRTDlVUFJ3REZSSmNSNTlsaWtjM0owd0FHcnNQbzItRXVXTHhsSkRjX0pz?oc=5",
-          "source": "CBC뉴스",
+          "source": "cbci.co.kr",
           "publishedAt": "Thu, 03 Sep 2026 00:49:02 GMT",
           "query": "HBM 관련주"
         },
@@ -20,9 +20,9 @@
           "query": "HBM 관련주"
         },
         {
-          "title": "HBM 관련주, 뜨거워지는 HBM4 납품경쟁 속 수혜주는?! : 네이버 블로그 - Naver Blog",
+          "title": "HBM 관련주, 뜨거워지는 HBM4 납품경쟁 속 수혜주는?! : 네이버 블로그 - blog.naver.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LLTVuWndTVGpaQjRueFNpSks0WEZQZVVwUXFDc29vd2IwZXItNmRZXy0yLTZBRk8ybXVoaDBpV2VkUGVhaDZwQVVWRkFOXy1zdHJYaUVUTXpvdw?oc=5",
-          "source": "Naver Blog",
+          "source": "blog.naver.com",
           "publishedAt": "Fri, 02 Jan 2026 08:00:00 GMT",
           "query": "HBM 관련주"
         },
@@ -53,9 +53,9 @@
           "query": "방산 관련주"
         },
         {
-          "title": "방산 관련주, 미국-이란 전쟁에 'K-방산' 관심 집중!! : 네이버 블로그 - Naver Blog",
+          "title": "방산 관련주, 미국-이란 전쟁에 'K-방산' 관심 집중!! : 네이버 블로그 - blog.naver.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nY0V0UGNIV2NzN0Y4VWFSOGJMcm8xclRMLUREQjNyZWpVX0RzUU9Pa1B5M2dSb0dKSU9kcTZiRklYOG9vYzlfa1RGNWtlVVNVXzJqcDBRRVZRVzRrZllmb19aMGZWdjg?oc=5",
-          "source": "Naver Blog",
+          "source": "blog.naver.com",
           "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
           "query": "방산 관련주"
         },
@@ -86,24 +86,24 @@
       "title": "조선 관련주 체크",
       "items": [
         {
-          "title": "조선주 장중 혼조…HD현대중공업·HD한국조선해양 상승, 삼성중공업 2%대 하락 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxdzhSS0tGako3RXZRLV9iWjBfWEgwd201ZXpadFlaR1d1YmhQQ2NYZ0N0VFA4Sk5GQUNCS2VlOFFzUjl5YWVmbUo4aEZuUjY2aTdhdzhKRTZKcjZrR29ZTmNjc2Zpd1Na?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Fri, 04 Sep 2026 02:30:14 GMT",
+          "title": "조선 관련주 강세…동일스틸럭스 16%대 급등, 한화오션·삼성중공업 상승 - cbci.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12end0ZncwLVZWdHgwYVpHU1NYbHFHaEw3dV9ub0cxSlF4TW0teVIyQ1dXT1ZEVlpXWUtWU3lENE5sR042TnBmZ3lZTmVvRnJfaXBrRXRFb1hTNTF6X0d0TGhueno1QUdo?oc=5",
+          "source": "cbci.co.kr",
+          "publishedAt": "Thu, 03 Sep 2026 00:44:56 GMT",
           "query": "조선 관련주"
         },
         {
           "title": "위고비 다음은 탈모약… 월가가 찍은 ‘새 금광’ - 조선일보",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHhNcTFDenN4SHJjdDVUVURWTVVHeHlqQm9LWjdiRXpmSUZhZEdpYlI4dldYZkM5enYwVHlkUWJqTTFhcTRCNE5iMEpvY05JaHJHamdHcHZtcC1OWThGM3RjeklGTDBhbEV0b2dSSXN6RXRNLVdEcUs4dWdrUXhkMw?oc=5",
           "source": "조선일보",
-          "publishedAt": "Mon, 31 Aug 2026 07:00:00 GMT",
+          "publishedAt": "Sun, 30 Aug 2026 01:59:00 GMT",
           "query": "조선 관련주"
         },
         {
-          "title": "조선 관련주 강세…동일스틸럭스 16%대 급등, 한화오션·삼성중공업 상승 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12end0ZncwLVZWdHgwYVpHU1NYbHFHaEw3dV9ub0cxSlF4TW0teVIyQ1dXT1ZEVlpXWUtWU3lENE5sR042TnBmZ3lZTmVvRnJfaXBrRXRFb1hTNTF6X0d0TGhueno1QUdo?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Thu, 03 Sep 2026 00:44:56 GMT",
+          "title": "[기업이슈] 조선 3사 호실적…K조선 기대감에 관련주 '순풍' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04LTU1UWpwbHViWTQwNWp2Q21Ud3JQY2ZIZkx4TUNyX3ppMXF2bXZCN1BBZkx3VXkzbzF1UGFyVU4wSFN5UGg0R0xOWFE1N28?oc=5",
+          "source": "v.daum.net",
+          "publishedAt": "Fri, 31 Jul 2026 07:00:00 GMT",
           "query": "조선 관련주"
         },
         {
@@ -114,10 +114,10 @@
           "query": "조선 관련주"
         },
         {
-          "title": "[기업이슈] 조선 3사 호실적…K조선 기대감에 관련주 '순풍' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Ybi10OENBMGpUOWhQQmxOU2hjTGw1Ni1kcHRybTl3Z1VHZm1WZExYdXFNQWFlWXdhSFFiSUQ4LWZJTVNDeWc?oc=5",
-          "source": "v.daum.net",
-          "publishedAt": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "title": "조선주 장중 혼조…HD현대중공업·HD한국조선해양 상승, 삼성중공업 2%대 하락 - cbci.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxdzhSS0tGako3RXZRLV9iWjBfWEgwd201ZXpadFlaR1d1YmhQQ2NYZ0N0VFA4Sk5GQUNCS2VlOFFzUjl5YWVmbUo4aEZuUjY2aTdhdzhKRTZKcjZrR29ZTmNjc2Zpd1Na?oc=5",
+          "source": "cbci.co.kr",
+          "publishedAt": "Fri, 04 Sep 2026 02:30:14 GMT",
           "query": "조선 관련주"
         }
       ]
@@ -133,16 +133,16 @@
           "query": "원전 관련주"
         },
         {
-          "title": "원전 관련주 엇갈린 흐름 LS ELECTRIC 강세 두산에너빌리티도 상승 - CBC뉴스",
+          "title": "원전 관련주 엇갈린 흐름 LS ELECTRIC 강세 두산에너빌리티도 상승 - cbci.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HWTkydFZtRVEwSWlMRHFJS180ZDVMRVE1dGs3akVvV3VEZUFidmNyYmUxV1hVNWx1OERTREdkVHpZcmZSTDNhaXRaVlV6N1dFSW1WM21EQlRTcFdNQW15Q2x3bkt1eGtN?oc=5",
-          "source": "CBC뉴스",
+          "source": "cbci.co.kr",
           "publishedAt": "Thu, 27 Aug 2026 04:32:00 GMT",
           "query": "원전 관련주"
         },
         {
-          "title": "[SMR 패권경쟁③] SMR 수혜주 어디…원전株 넘어 조선·연료 눈길 - news.einfomax.co.kr",
+          "title": "[SMR 패권경쟁③] SMR 수혜주 어디…원전株 넘어 조선·연료 눈길 - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TVhtanY0MWE5WUxCZUcxcXBDa0hUT2lrQkRBSUlkeTdESU1jcm9MdjJzVDRqMnMxaEs2QXctOHNiRC11VnpCcG1SbDRadTRNNFdNUV9Uck1SN1RtbDNDRldlVTgyTDJEb1JUVTQwdGU?oc=5",
-          "source": "news.einfomax.co.kr",
+          "source": "연합인포맥스",
           "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
           "query": "원전 관련주"
         },
@@ -154,10 +154,10 @@
           "query": "원전 관련주"
         },
         {
-          "title": "美, 웨스팅하우스 지분 투자설에…원전주 일제히 급등 - imaeil.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KTXlBOFFSdXNxMUxjTHYwcGJ3Znk3Mnp6ZUdGaFNpT1NSQm4tTXd3TFNxLV80QVhJQWdKRE9IUjZ2UWN0V0g0bVNlOVdZNlpkNEFDVHJ5M21BSUsxV3d6TXp3?oc=5",
-          "source": "imaeil.com",
-          "publishedAt": "Wed, 26 Aug 2026 01:42:20 GMT",
+          "title": "NH아문디 \"원전업종 '숨고르기'…매력적인 진입 기회\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yekpEajFYZFcwQlp4RHljOFdFQV94VlNUdHRJX2lncVhTazlPUF9EbjVjRzhjR3pKclk5RS1jQkZfMzlDVjJnRUJLQmhhcVYtbW5Pb3d2MVdvU0XSAWBBVV95cUxQQXBzUGNyWEZIaF9zY0VrZlhlRkpQTWZ4VHFIcDJpRnhvVGpKSlNrU1hreHhHQ0lLWU5LNkFlMDFEcDNjcTJfcE5MNXQ2VnZlRFhkbUVoN2dJU2g3Q3gwUGI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
           "query": "원전 관련주"
         }
       ]
@@ -173,31 +173,31 @@
           "query": "로봇 관련주"
         },
         {
+          "title": "[특징주] 로봇주, ‘피지컬 AI’ 타고 질주…로보티즈(22.54% 상승) 등 강세 - moneystorm.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTnZIaFdmcWVYaTJoYlZpSFFQR1RSZTlWWFJvV09DNE9yMU9qMGtPWVZ2WXB6MkRjN1VIMzhoTFllUXpDaUdqQ3hIVFUtRzJwdDZlWG5GdnYyZXI2YWZlVzZ6Y0dhWVRINHc?oc=5",
+          "source": "moneystorm.kr",
+          "publishedAt": "Fri, 04 Sep 2026 08:10:56 GMT",
+          "query": "로봇 관련주"
+        },
+        {
+          "title": "피앤에스로보틱스·노타 상승세...로봇·AI 섹터 '왕성한 식욕' - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5NVhCMkdaM3AtRGFIcVJOdUZVWGZOUXRoVzl4cmoxTWtRYlRMTkRJSlhFZzRCblhEX1dza0VJTVJaYWdWdUpGdkpQbzlyYk54am1tOVRqclRZX0k1eUR1WkdKZFVNSDBVRFdPUlNiVUNVcm9zUkRj0gF3QVVfeXFMUHk1WEIyR1ozcC1EYUhxUk51RlVYZk5RdGhXOXhyajFNa1FiVExORElKWEVnNEJuWERfV3NrRUlNUlphZ1Z1SkZ2SlBvOXJiTnhqbW05VGpyVFlfSTV5RHVaR0pkVU1IMFVEV09SU2JVQ1Vyb3NSRGM?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Fri, 04 Sep 2026 06:32:29 GMT",
+          "query": "로봇 관련주"
+        },
+        {
+          "title": "로봇 관련주 엇갈린 흐름…케이엔알시스템 4%대 상승, 클로봇 4%대 하락 - cbci.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sSExfYVBWZjBKT2tPYW5lTy11V3BEUU5qMk1tSEl3Nzdtc1NuYjJBZHNBOVBYVEdvMVR0c1RHaDdSajVqd0pxZWpoeXBmeTd6T3dfX1JmZUNIR0ZJY3YtWHJVbG1YYXlY?oc=5",
+          "source": "cbci.co.kr",
+          "publishedAt": "Thu, 03 Sep 2026 00:23:50 GMT",
+          "query": "로봇 관련주"
+        },
+        {
           "title": "'로봇 투자 예산안 확대' 원익홀딩스·로보스타 등 관련주↑ - gukjenews.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrUEpxc2ltQmJmMkVteUtPTGtKR0w4R3VfNVJrMDZFc282cHlsdkZsQ2lnemMyeEJOV2tpbHRjYkNla1ZZSHNQN0g3NTZhTlVPcXlTSEFmbkZBd3JYTmlJUFZlX19OVVRySEIzSGNB?oc=5",
           "source": "gukjenews.com",
           "publishedAt": "Fri, 04 Sep 2026 02:11:41 GMT",
-          "query": "로봇 관련주"
-        },
-        {
-          "title": "[코스닥 기관] 수급 뒤집혔다…로봇주 사고 화장품주는 팔았다 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zT1pUY2RlTTljNXJxbHFXbjFqenVGWnJOcjhTMDJlN245WmRaa1cxZmU4YmVmRXdhUl9xUGVZRWNpVmFFUjdCaDM0eG9TX2N0TWk5YlBUS2JfZDZ5ZjJBRHhldGQxNEZiVkFOUTk2SzgxWW_SAXdBVV95cUxPTXFwZ0Q4eHlpTC0tbEtwRm9qSzd0ZjN5dTJFUjhWaVFWeDlBdDFWZVJINmZNejJ0cEx4X1BYLV8wM1F5TXItZExHQktMMUJxN0FhRkQ3M0gyTjF3bmx2VjlDQlNXQjhaVnBhLTRfVGtDWW5sRjFsVQ?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "query": "로봇 관련주"
-        },
-        {
-          "title": "\"로봇주 더 사둘 걸\"…정부 '큰손' 등판에 주가 20% 넘게 뛰었다 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iUDNNV0Y1S1VOeWdLYnZidTZXVGRwTElfT19PZXJ3YTR0RURNR0FzMFVhaVcyUzRVT2swbzRwV2h2N3RvSjgyYVlPeE0wU09wTkVuQ25hYTJ1Zw?oc=5",
-          "source": "한국경제",
-          "publishedAt": "Fri, 04 Sep 2026 08:46:46 GMT",
-          "query": "로봇 관련주"
-        },
-        {
-          "title": "2026년 최고의 휴머노이드 로봇 관련주…진짜 돈 버는 곳은 어디? - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gc0I1d2lQMXBQTDVpTFFYS2N1TW5zVHB2YmtrYXR4dHo3TFUzdHpNdXpWNjlsa2pTMHRVOU0yc2ZfSzFSUGhnb0Z5Skhxb1VxN25Kc2pqOHM5dVdWR0lMWjdOTzYyd2RRWDdlS0pGbzhqR1U?oc=5",
-          "source": "디지털투데이",
-          "publishedAt": "Wed, 26 Aug 2026 15:01:00 GMT",
           "query": "로봇 관련주"
         }
       ]
@@ -207,23 +207,23 @@
       "items": [
         {
           "title": "[코스닥 기관] 수급 뒤집혔다…로봇주 사고 화장품주는 팔았다 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zT1pUY2RlTTljNXJxbHFXbjFqenVGWnJOcjhTMDJlN245WmRaa1cxZmU4YmVmRXdhUl9xUGVZRWNpVmFFUjdCaDM0eG9TX2N0TWk5YlBUS2JfZDZ5ZjJBRHhldGQxNEZiVkFOUTk2SzgxWW_SAXdBVV95cUxPTXFwZ0Q4eHlpTC0tbEtwRm9qSzd0ZjN5dTJFUjhWaVFWeDlBdDFWZVJINmZNejJ0cEx4X1BYLV8wM1F5TXItZExHQktMMUJxN0FhRkQ3M0gyTjF3bmx2VjlDQlNXQjhaVnBhLTRfVGtDWW5sRjFsVQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NcXBnRDh4eWlMLS1sS3BGb2pLN3RmM3l1MkVSOFZpUVZ4OUF0MVZlUkg2Zk16MnRwTHhfUFgtXzAzUXlNci1kTEdCS0wxQnE3QWFGRDczSDJOMXdubHZWOUNCU1dCOFpWcGEtNF9Ua0NZbmxGMWxV0gF3QVVfeXFMT01xcGdEOHh5aUwtLWxLcEZvaks3dGYzeXUyRVI4VmlRVng5QXQxVmVSSDZmTXoydHBMeF9QWC1fMDNReU1yLWRMR0JLTDFCcTdBYUZENzNIMk4xd25sdlY5Q0JTV0I4WlZwYS00X1RrQ1lubEYxbFU?oc=5",
           "source": "핀포인트뉴스",
-          "publishedAt": "Fri, 04 Sep 2026 07:00:00 GMT",
+          "publishedAt": "Fri, 04 Sep 2026 07:07:29 GMT",
           "query": "화장품 관련주"
         },
         {
-          "title": "한국콜마, 화장품관련주의 대장주(K뷰티)일 것. - Naver Blog",
+          "title": "한국콜마, 화장품관련주의 대장주(K뷰티)일 것. - blog.naver.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Gb1ZUQjlpYjNTZllhUGY4enp3eU8xcmxRTG9uSG5KdUdOMkJ4MzBBLXIzYjhBT2puUW1UdnpjZE1GNjBKYTFZUlN1SGdXdm03bWpUMmhZOTV6MTdERlVrSGFxcUlURFk?oc=5",
-          "source": "Naver Blog",
+          "source": "blog.naver.com",
           "publishedAt": "Wed, 12 Aug 2026 07:00:00 GMT",
           "query": "화장품 관련주"
         },
         {
-          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
+          "title": "[특징주] 화장품주, 수출 호조 지속에 상승(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvb2JVVjdsamtwYlhTSUpIeUhGSEJiMDMxMDlualJGRnZfdjVwUVRBZWJzOGdDS3RRMHFwLWEyV0pITEEyOXF4c3RSbkJUZENVV09HZUNFU1V3RHfSAWBBVV95cUxOZE1IVmRlQTBvVTBNQ2NoSmVIR2J2RWZCTVA4a252emlBbll3bjN6V2tjZFZSMHRhLVoyS3NBWGEwRzhRb2Nzc3Q0VE9lRE1Pb25Nc1RiOUxvU0Z4T2xEeEM?oc=5",
           "source": "연합뉴스",
-          "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "publishedAt": "Tue, 11 Aug 2026 07:00:00 GMT",
           "query": "화장품 관련주"
         },
         {
@@ -246,39 +246,79 @@
       "title": "금융주 체크",
       "items": [
         {
-          "title": "살아난 반도체 투심, 삼전닉스 웃고 금융주 약세…코스닥 810선 회복 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ZTdsUmtBMTUzSFR3Vk1WVzdoMzJQOVQ2eVMzNE1EWjFHS1p2NW9talZyT3lfbzl2SFQzS3ZFMVoxSlVIUVEtUENjM3NBY3g0b0dNQjQ4djlyLS1EVTN5dlBqY1YxM2p0dmw2djVR0gFuQVVfeXFMUDRlN2xSa0ExNTNIVHdWTVZXN2gzMlA5VDZ5UzM0TURaMUdLWnY1b21qVnJPeV9vOXZIVDNLdkUxWjFKVUhRUS1QQ2Mzc0FjeDRvR01CNDh2OXItLURVM3l2UGpjVjEzanR2bDZ2NVE?oc=5",
-          "source": "머니투데이",
-          "publishedAt": "Fri, 04 Sep 2026 07:09:39 GMT",
-          "query": "금융주"
-        },
-        {
           "title": "[특징주] 금융주, 글로벌 금리 상승 영향에 올랐다가 하락 마감(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yWHRUcHVhbHVfWlh4YUIxclJrQkFTRkpkUVAxYjh1WEw3TXoxc0VmQkVGbEZrNzJTWGR1Q2FUQlh3UUtORGdUUmh1VUg1QWJsUDViRHdVZUlFbm1OTTF3X9IBYEFVX3lxTE1yWHRUcHVhbHVfWlh4YUIxclJrQkFTRkpkUVAxYjh1WEw3TXoxc0VmQkVGbEZrNzJTWGR1Q2FUQlh3UUtORGdUUmh1VUg1QWJsUDViRHdVZUlFbm1OTTF3Xw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNM2JlcmpacjlxdjI1dVBuR3F4VnRaZWlwYXlBU2lsYXpzcWtvQjRNV3dBTFZsWTI2M1pYWkphdHZZZi1OOEdNZ1FjY2FxUDFSa21pdmRFVmlMTTDSAWBBVV95cUxNclh0VHB1YWx1X1pYeGFCMXJSa0JBU0ZKZFFQMWI4dVhMN016MXNFZkJFRmxGazcyU1hkdUNhVEJYd1FLTkRnVFJodVVINUFibFA1YkR3VWVJRW5tTk0xd18?oc=5",
           "source": "연합뉴스",
           "publishedAt": "Wed, 02 Sep 2026 06:46:10 GMT",
           "query": "금융주"
         },
         {
-          "title": "[특징주] 금융주, 글로벌 금리 상승 영향에 장 초반 강보합 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0cmtvc0dERHZVdkZMNDJwQzBYT2dhSDNqVEZYOFBaVlo2WjJITXJqYWdrVEhYMlkwdnA4UFc4bnpJOHdQWHc?oc=5",
+          "title": "[특징주] 금융주, 글로벌 금리 상승 영향에 올랐다가 하락 마감(종합) - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OLWRoTUtFdjVEWlJjY1AxdTlSaFRIZUdKazVoc0JaVklvQWVZS1FnXzhKd0tGSFV3d2pWMzBKS0dtZnM3bUE?oc=5",
           "source": "v.daum.net",
-          "publishedAt": "Wed, 02 Sep 2026 00:14:53 GMT",
+          "publishedAt": "Wed, 02 Sep 2026 06:47:55 GMT",
           "query": "금융주"
         },
         {
-          "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 오르고 금융주는 울상… 엇갈린 흐름 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Vnd6eXh4SjRmeERUV3liVHNnSlUtVjN6N29XdUdZb2E0R3NZanBrTHdadFd4VHpNYThDa2pzeWFyNkFzM0RnQ2VWdDNNTk5XaENMZFZkQ0lDUENlcW5UaWhmQzFReFVnRTJWaEl3bTFSbHphWVhz0gF3QVVfeXFMTjdWd3p5eHhKNGZ4RFRXeWJUc2dKVS1WM3o3b1d1R1lvYTRHc1lqcGtMd1p0V3hUek1hOENranN5YXI2QXMzRGdDZVZ0M01OTldoQ0xkVmRDSUNQQ2VxblRpaGZDMVF4VWdFMlZoSXdtMVJsemFZWHM?oc=5",
+          "title": "살아난 반도체 투심, 삼전닉스 웃고 금융주 약세…코스닥 810선 회복 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ycllDNVpPZGZGS0hIZjFwdUtWMENrUmoxWEFBRFExUnAzalNva1BVSXRWNlR3ZHRYeFFyNU9nSjZ1WjNCYUlwbElRSm9raUV0MU8zWXFYbnB1LTBuNmU5SHU1b3UtMF9v0gFuQVVfeXFMUDRlN2xSa0ExNTNIVHdWTVZXN2gzMlA5VDZ5UzM0TURaMUdLWnY1b21qVnJPeV9vOXZIVDNLdkUxWjFKVUhRUS1QQ2Mzc0FjeDRvR01CNDh2OXItLURVM3l2UGpjVjEzanR2bDZ2NVE?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "Fri, 04 Sep 2026 07:09:39 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "기준금리 3% 시대, 금융주 희비 교차…은행 뛰는데 증권은 ‘뒷걸음질’ - 이코노미스트",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zUVlOckllWHVxY2pYYnpLMjNoaE9wSVdCLXU3MWRnN3F5bkJrRnYyREYzbjA5ZzZVN1RFcGlLVTBhSFJZUnlNMkxFYm45TmExZEdlVlFCWEpFU3duT3BRdzln?oc=5",
+          "source": "이코노미스트",
+          "publishedAt": "Mon, 31 Aug 2026 07:00:00 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "[특징주] 글로벌 금리 상승에 금융주 '방긋'…JB금융지주 5%↑ - 뉴스웍스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBueTFETi1mbjloRFlhWkdNMGJaR2NFQ1lLcEZWMUc1bE1RYVdmN05jdUcxc2h6NlJmLUxGOUw2NEJSeTBYQWhsMXpGNHZHWWd6ZzlnVVI4MGRyNmxueVA1enJ4aUhhRHo1VGYwMnEyb9IBc0FVX3lxTE1kdXg5X0hCVUtRSEJaRDBPT0c2T2trYWVhVTZIWTVMdUQ1LVlZcnZtU3VveVE2SlFXTlp1VExWQXRKYjc1dFBmNk82UEpuODdkWFJLLXctY1FJenNkQTZVNnBmNTRRWlpYTENjakp0dGg0Q1k?oc=5",
+          "source": "뉴스웍스",
+          "publishedAt": "Wed, 02 Sep 2026 04:26:10 GMT",
+          "query": "금융주"
+        }
+      ]
+    },
+    "battery-stocks": {
+      "title": "2차전지 관련주 체크",
+      "items": [
+        {
+          "title": "2차전지 전고체 관련주 혼조…이브이첨단소재 5%대 급등, SK아이이테크놀로지 3%대 하락 - cbci.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0QUNjbi1FNHVnZ0JjZ21qZEItVkJSeng3bFU3b0RwQ2JsbGNxQmU2MTE5QWFOdXVkdUtiYVNnOFJ5d2kxUjFMZkkyUldtUWhJU3Zkb2Zkam43cko1TWFUdlktYkkzSVl0?oc=5",
+          "source": "cbci.co.kr",
+          "publishedAt": "Fri, 04 Sep 2026 15:08:46 GMT",
+          "query": "2차전지 관련주"
+        },
+        {
+          "title": "[기업이슈] SK온, 美 ESS 대규모 수주에…2차전지 관련주 강세 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WWlFqMW5Hb0lwU0p0ZWJvcno5dzdvSDJUZFhEVkt2UlQ0SHNJMXpBR0FMVGFTV0xUVDJjWnVpZ3VFeDlFcnJxM0FvUTI1SERjOWp4Xw?oc=5",
+          "source": "v.daum.net",
+          "publishedAt": "Mon, 31 Aug 2026 23:30:08 GMT",
+          "query": "2차전지 관련주"
+        },
+        {
+          "title": "‘드디어 반등’ 글로벌 공급망 재편 기대감에 2차전지株 빛볼까 - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJZzlUX3VqMk92RXhuMFpuUjNXQ2FxQ2ZYMlBkWlBtZTZ2blhfRTRVUjdwTHNyMzFPUVgwdjZ6eWdYUUtTVEFRd2QyanpmQzd6clVXUnpTVm50b0JSMUxOSDZ4NA?oc=5",
+          "source": "쿠키뉴스",
+          "publishedAt": "Tue, 01 Sep 2026 21:00:06 GMT",
+          "query": "2차전지 관련주"
+        },
+        {
+          "title": "[주간 코스닥 기관] 이오테크닉스 로보티즈 피노 ISC 담고 알테오젠 심텍 에코프로는 팔았다 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ray13V3V3TkdTYjIxYXhBU1hBZ1dkQzBYUHZzcHhqMVdpNEpUTGdkX2lpOGZndU5Rb181WUtHbGpUQTVjeUtPZkkwd2RaRmdrTVFDbEhiRGpzLVNzYlBNajNvVVlWSW9HUEk0UnF4aEVOY0tfNVMw0gF3QVVfeXFMTVFrLXdXdXdOR1NiMjFheEFTWEFnV2RDMFhQdnNweGoxV2k0SlRMZ2RfaWk4Zmd1TlFvXzVZS0dsalRBNWN5S09mSTB3ZFpGZ2tNUUNsSGJEanMtU3NiUE1qM29VWVZJb0dQSTRScXhoRU5jS181UzA?oc=5",
           "source": "핀포인트뉴스",
-          "publishedAt": "Fri, 04 Sep 2026 08:27:15 GMT",
-          "query": "금융주"
+          "publishedAt": "Sat, 05 Sep 2026 00:56:34 GMT",
+          "query": "2차전지 관련주"
         },
         {
-          "title": "[오늘의증시] 코스피, 장중 3% 급락 딛고 6570선 회복…금융주가 지수 방어 - 경인방송 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VY19odFVkV2s4RUFFS3IxMG1NX05yd1Jtb3NtU1FTZVFkZzNNVVppWUNaWHhyZlh2NWZHSUVVal80d3UxVFF3bXZnMFlPdTVxWHNQcWNmMDh4aERnWmNrX3NrelLSAWhBVV95cUxQQ18tYzVscTdvVFZXR0ZNUnc0bjRVTWpzRXN6cEx5Z1l6dHE5UTk3ZlVhalZyaDR6TEdFb19XV0FYTnFKMm1WRmxYZXBHLUdFRkZSejhpUVhVSDE4a18wY3c4cVZSZUtKYg?oc=5",
-          "source": "경인방송 뉴스",
-          "publishedAt": "Thu, 03 Sep 2026 08:27:46 GMT",
-          "query": "금융주"
+          "title": "[특징주] 리튬 가격 반등·공급 불확실성 부각…2차전지株 동반 '강세' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpUEJMWHVubDdKYWZTRWZUQUtFNVN0emh1RFFoQ05SM3ZWSkpNVHV1MUh3RGxKRlZFOGJ0RUpXeG00WEV4clV1U1lfZGxNVy1JRUNSVGY3Vm5TSjk5?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "Mon, 31 Aug 2026 00:42:00 GMT",
+          "query": "2차전지 관련주"
         }
       ]
     },
@@ -286,24 +326,31 @@
       "title": "바이오 관련주 체크",
       "items": [
         {
-          "title": "HLB 약보합 속 바이오테크 신약 임상 관련주 혼조…HLB제약 2%대 상승 - CBC뉴스",
+          "title": "HLB 약보합 속 바이오테크 신약 임상 관련주 혼조…HLB제약 2%대 상승 - cbci.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zVmliV2JUMzFxbWM5bm1La0xWRUtQUXVBQUpmUC0wVFdWQXd6WnQzQm1qemNVeWdYVnJISDUzc2dZdlhmTDVXZkMySVk0RE0tYTJXZ19ESjZvbEdkWjZSU1N6cndkVk9R?oc=5",
-          "source": "CBC뉴스",
+          "source": "cbci.co.kr",
           "publishedAt": "Thu, 03 Sep 2026 00:31:23 GMT",
           "query": "바이오 관련주"
         },
         {
-          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
+          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - blog.naver.com",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
-          "source": "Naver Blog",
+          "source": "blog.naver.com",
           "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
           "query": "바이오 관련주"
         },
         {
-          "title": "\"왜 내가 사면 떨어질까\"…바이오 '–80%' 찍고 깨달은 투자 함정 - 뉴시스",
+          "title": "\"왜 내가 사면 떨어질까\"…바이오 '–80%' 찍고 깨달은 투자 함정 - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9URzdPVlY2OGlOaGMzci1yRVFsVC16SEdyVng0a2tOUlZyUVlnZTc5RHM2QXA2M0JISmdnMEtaRGxfcXVtZjNMNWFhNURzd2g5YmtmT1ByRU14aFJYYThlVNIBeEFVX3lxTE8yOEVPcWdWWHE5MEh4X0Ryd0VRQ0tjQVlzOEc3TVhVb01LUTY0VGNwS2FDUDdreEpaNlZJNW9IRzgxTmI2S0Y5a2xqa2o0MWU5dFM0SGo5MERsbk1zQjFWTENOOHBSckZKVWJHQWt1QkhqeGFZSEtyaQ?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wNW9DQzlUU0dXaUdzcHdtY2xESE1sM1RXbXpnRWU0NXVmWHZhbFA0dnA4Q3hmYXBUVEo1ZU5VLTFJQXUyTlhZZnZJWDZHQkNiemRpaA?oc=5",
+          "source": "이투데이",
+          "publishedAt": "Wed, 24 Jun 2026 07:00:00 GMT",
           "query": "바이오 관련주"
         },
         {
@@ -311,13 +358,6 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQl96b2hINDVzQm14UDhzMVJVamlHMWpnTXpYSVlkVkczUFg5ZElvTnB2UU1Fc1pFMVpGWWpDN0hyMkxydDVGR2VtMDQyM1Nncjg5Yl95bGFzSVdmYUdRUEhkeDdiVWFkeWk2Mm93?oc=5",
           "source": "팜이데일리",
           "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "[기업이슈] 코로나 19 재확산 보도에…제약·바이오 테마 수급 집중 - supple.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oS2p1V1RHYVQ4dkdfMmJsVkRkeWR1c1lTZVNyTUotRV9pSlVldzhZM3hIdmJ5TFkza0NfN1BQRE12UF9wNlhkVW1DZ3RZZ1Bvd29iSVNvbjN5XzV0?oc=5",
-          "source": "supple.kr",
-          "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
           "query": "바이오 관련주"
         }
       ]
@@ -354,51 +394,11 @@
           "query": "AI 소프트웨어 관련주"
         },
         {
-          "title": "국내 소프트웨어 관련주 AI 수혜주 살펴보기 - 브런치",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sTko5SS1FWjc1a3ZXaW9qLXpGY3lDY1ZrdXdTUWl4Z0JqREhRZEl3bHRGWW5uV1RWZEkyanV1ODhVaXhKeFluT3hR?oc=5",
-          "source": "브런치",
-          "publishedAt": "Thu, 16 Jul 2026 12:47:33 GMT",
+          "title": "AI 수혜주 바뀌나… 반도체 휘청일 때, 보안·SW ETF 선전 - IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94T1hrSXBURGhXa3NmeFlTS1JTd1JTWHpHTjRVMGFPcE8tbWIzQm9tVVcxOGwtYllhY0VXUk9FZFk1RU4tcEZ5NU5paFF5eWlGMU9JT3U5Rk9aTnEtZ2w3cHNaZE44WEpaNjBVTGFUd0nSAXRBVV95cUxPRUpxWE1fdDVsSXg0N1gtbmlZTmJQZ3hGNXV4U2dpSU1DYnpPeWZaV2x2bWFEeHFqVTlfaW5XN2NmWS1MaVFpVUVzeDJkZFQ5QmFHYXlZMVE2bkFzSVl6N2NELTdoRnNfcDBVS3JtcFF6RU5ocA?oc=5",
+          "source": "IT조선",
+          "publishedAt": "Thu, 13 Aug 2026 07:00:00 GMT",
           "query": "AI 소프트웨어 관련주"
-        }
-      ]
-    },
-    "battery-stocks": {
-      "title": "2차전지 관련주 체크",
-      "items": [
-        {
-          "title": "[기업이슈] SK온, 美 ESS 대규모 수주에…2차전지 관련주 강세 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IRlJ1RlhzblhtcVQ0bi1NNUxFZGtWQ0ZWeXdOUVJjYmJvSHpqOHFWUTIyTzJqc2ltWHhCbVJ5RnZvTE5OZDJZNEV0MA?oc=5",
-          "source": "v.daum.net",
-          "publishedAt": "Mon, 31 Aug 2026 23:30:08 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
-          "title": "2차전지 관련주 대형주 강세…LG화학 4%대·POSCO홀딩스 2%대 상승 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWlUzQkcxbTk2ZHVWUDBfOG1mNXVwVHZnZURUMEs4YUctWXV6dkVEdnZVbGlTYjdkclk1ZUNqQW42bG5vN0gxbFViUktGMXRxbmRfN0ZhX0JlYnp2VW5aNVl4NkxBM3Y5?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Thu, 03 Sep 2026 01:27:20 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
-          "title": "‘드디어 반등’ 글로벌 공급망 재편 기대감에 2차전지株 빛볼까 - 쿠키뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJZzlUX3VqMk92RXhuMFpuUjNXQ2FxQ2ZYMlBkWlBtZTZ2blhfRTRVUjdwTHNyMzFPUVgwdjZ6eWdYUUtTVEFRd2QyanpmQzd6clVXUnpTVm50b0JSMUxOSDZ4NA?oc=5",
-          "source": "쿠키뉴스",
-          "publishedAt": "Tue, 01 Sep 2026 21:00:06 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
-          "title": "[특징주] 리튬 가격 반등·공급 불확실성 부각…2차전지株 동반 '강세' - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpUEJMWHVubDdKYWZTRWZUQUtFNVN0emh1RFFoQ05SM3ZWSkpNVHV1MUh3RGxKRlZFOGJ0RUpXeG00WEV4clV1U1lfZGxNVy1JRUNSVGY3Vm5TSjk5?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "Mon, 31 Aug 2026 00:42:00 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
-          "title": "美 ESS 전력망 안보 자산 격상·中 리튬 광산 재가동 차질…2차전지株 반등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZi1wd1FHalRNTnphZWRzRUNLWXdmWUFIRzZsblRRUVhGUVhNTjZRX05odGhMcXJHdi1lOFJRSVFvYmYzNmMteWFtNENMVkFza2ZBZm9hV1c5bEFNc183SkdsV0w2eTVhb2lRVllCUDVZZVBfQ2c?oc=5",
-          "source": "인포스탁데일리",
-          "publishedAt": "Mon, 31 Aug 2026 02:29:29 GMT",
-          "query": "2차전지 관련주"
         }
       ]
     },
