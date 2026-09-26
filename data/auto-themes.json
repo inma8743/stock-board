@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-09-26T04:52:48.717Z",
+  "discoveredAt": "2026-09-26T13:43:43.610Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -85,16 +85,16 @@
           ]
         },
         {
-          "title": "메타 ‘뮤즈’ AI 돌풍에 금융주 흔들…“인간 자산관리사 역할 줄어들까” - 파이낸스투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtSkhnVVd0czRLdjdqZmJZamY4cjZsb3Z5ZVJET0FuTTFpWGcyX1prVWtGVFBGcTlDeFFkOENpNEdGTkY1NFN3OVVUNzFSSkpTRjFRWDEtb2t0SG5IQTNzNlpiOU96dHBhMl9oLQ?oc=5",
+          "title": "3분기 실적 기대감에 금융주 강세…ELS 과징금 등은 변수 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVUVfQjgtTWdfWHhyb3dPRDNzTTkyanVUSmtIbUNCaUprdDFIODhuVEpwLWgzNHdLbkZsN0NVaUhmOXV4NkNLSGRUZWhNS1hoeEEteWp1eFFDUGwwSXozZmcyZGLSAWhBVV95cUxOWjdGdkhMcmZaQm55NEQ5SElZOEVFM1FuYTRkN2hnanotQWhwaUJDcTRwTTF3SjZSczdmOHdKeWgxdDZIaTVWc3dzd0NDOVhSd2hEVEx0a3EzanhEaFh6eXl3RVdxUUQzSQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
         },
         {
-          "title": "3분기 실적 기대감에 금융주 강세…ELS 과징금 등은 변수 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVUVfQjgtTWdfWHhyb3dPRDNzTTkyanVUSmtIbUNCaUprdDFIODhuVEpwLWgzNHdLbkZsN0NVaUhmOXV4NkNLSGRUZWhNS1hoeEEteWp1eFFDUGwwSXozZmcyZGLSAWhBVV95cUxOWjdGdkhMcmZaQm55NEQ5SElZOEVFM1FuYTRkN2hnanotQWhwaUJDcTRwTTF3SjZSczdmOHdKeWgxdDZIaTVWc3dzd0NDOVhSd2hEVEx0a3EzanhEaFh6eXl3RVdxUUQzSQ?oc=5",
+          "title": "[인도증시] 유가·美 국채 금리 급등 속 10주래 최대 폭 하락...보험 수수료 상한선 제한 우려에 금융주 '급락' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SQ3ltNF9rTmtkN3FvMDhfZ2ZsVXJwQWFMcUJSSlF4SG9zd2FTaDRsNnM0OC1mNmxEMlZzZlY0U25udUxMX0xqNHVib0RvR0VNaDRzTGpZOEJ4V1py?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -169,7 +169,7 @@
           ]
         },
         {
-          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - yna.co.kr",
+          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
           "query": "화장품 관련주",
           "matchedSignals": [
@@ -259,7 +259,7 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 27,
+      "score": 26,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -271,7 +271,7 @@
           ]
         },
         {
-          "title": "[테마시황] 멈추지 않는 AI 투자 열기, 광통신·반도체 '들썩' - 인포스탁데일리",
+          "title": "[테마시황] 멈추지 않는 AI 투자 열기, 광통신·반도체 '들썩' - infostockdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yLUNVNmtTN0JTdTltYzZZOHNIRjVBRnFQNXdmQUtzczlDeVllZ1lKOFBqSE1sTkNTMEZUbEhnLTZnTWFpb1M0YmJfUlRvTmpJZjVYSXpVQTlHSWh5YWpGVnpodHFaTU82eE11d25YdFlyNTRGcGc?oc=5",
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
@@ -279,26 +279,24 @@
           ]
         },
         {
-          "title": "AI 투자의 결실 입증된 미 증시…국내 AI·클라우드·보안 관련주 동반 급등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzb1FvR0VFWEdWS0xERnhKcDlYTHZISFoyQXZPQkJaMmV5MTI1c1RQbWNZX1RrVV8zM3FzUGpNSEQ1djdiQVo3b1NPRHYxVS13TWcxNl9jNU00UFczMFd2U281X2R1R2dpd2JkM19YQ1NTOGZDUFE?oc=5",
+          "title": "[테마시황] 제약·바이오, 빅파마 M&A 기대·학회 모멘텀에 강세…'미프진 도입' 테마도 급등 - infostockdaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISkstYUwtRG9GbzFKcUNjTjFUVEJRQzIyMEFVTHhwNWhaOVpERHc2a015V0p3YjJjR1AwTG9LUklidVlscTNOOWJWSDRnYnZGUGpEN2JVWDFmZ09BTmFnOWdYUFU5cG8zSmFBeHFHbldPRk4yLUE?oc=5",
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
-            "AI",
-            "클라우드"
+            "AI"
+          ]
+        },
+        {
+          "title": "[테마시황] 오픈AI '아스트라' 발표와 AI 인프라 확산… 반도체·전력·SOFC 테마 동반 상승 - infostockdaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MaC05S19KejhBdEtUMUJKTFVBWkNTclVsZTV6OVBaMi01VEExZ3BJTE5wa2xhdFNkSHVFaVpESWpoSElrWkhJTGhNWXBYRUxIX1J6QTFfeUkwZzUyOFlhbFVJVTdQaWc2OThfV2twMHdfRExvc3c?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
           ]
         },
         {
           "title": "하나증권 \"기업용 AI 소프트웨어 시장 성장 기대, 관련주 네이버 더존비즈온\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lLTBaMXJQcXZSWUxfZUtwcHU0WnZ2bTR3OFpkeTNBOEM3ejg3ci1lZGlVaW5uN3NzUy1hSmhURXNOS3pWd1drbWpwSHU3eURMX0YzeXE2UWY3Z09Ielo3d1FGaEwwblItOE9rV0pPWW45aVU?oc=5",
-          "query": "AI 소프트웨어 관련주",
-          "matchedSignals": [
-            "AI",
-            "소프트웨어"
-          ]
-        },
-        {
-          "title": "\"AI 수혜주인 줄 알았는데”…美 소프트웨어 기업 줄줄이 ‘휘청’ - 한경매거진&북",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tNnVIQUg0UmJQcWVvejJtZ19fRHB6VXhvdjdvd0RqYTJXWG0xY2dNSDNhWXRWR21yam9HS1E3M204WFFucnZ2U0xPUXZBRjQ4R1ludXJOMVJCcEpNbXZZN3NyOXZudmlsdldLNA?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI",
@@ -365,7 +363,7 @@
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "[테마시황] 제약·바이오, 빅파마 M&A 기대·학회 모멘텀에 강세…'미프진 도입' 테마도 급등 - 인포스탁데일리",
+          "title": "[테마시황] 제약·바이오, 빅파마 M&A 기대·학회 모멘텀에 강세…'미프진 도입' 테마도 급등 - infostockdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISkstYUwtRG9GbzFKcUNjTjFUVEJRQzIyMEFVTHhwNWhaOVpERHc2a015V0p3YjJjR1AwTG9LUklidVlscTNOOWJWSDRnYnZGUGpEN2JVWDFmZ09BTmFnOWdYUFU5cG8zSmFBeHFHbldPRk4yLUE?oc=5",
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
@@ -463,7 +461,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 18,
+      "score": 16,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -641,16 +639,16 @@
           ]
         },
         {
-          "title": "메타 ‘뮤즈’ AI 돌풍에 금융주 흔들…“인간 자산관리사 역할 줄어들까” - 파이낸스투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtSkhnVVd0czRLdjdqZmJZamY4cjZsb3Z5ZVJET0FuTTFpWGcyX1prVWtGVFBGcTlDeFFkOENpNEdGTkY1NFN3OVVUNzFSSkpTRjFRWDEtb2t0SG5IQTNzNlpiOU96dHBhMl9oLQ?oc=5",
+          "title": "3분기 실적 기대감에 금융주 강세…ELS 과징금 등은 변수 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVUVfQjgtTWdfWHhyb3dPRDNzTTkyanVUSmtIbUNCaUprdDFIODhuVEpwLWgzNHdLbkZsN0NVaUhmOXV4NkNLSGRUZWhNS1hoeEEteWp1eFFDUGwwSXozZmcyZGLSAWhBVV95cUxOWjdGdkhMcmZaQm55NEQ5SElZOEVFM1FuYTRkN2hnanotQWhwaUJDcTRwTTF3SjZSczdmOHdKeWgxdDZIaTVWc3dzd0NDOVhSd2hEVEx0a3EzanhEaFh6eXl3RVdxUUQzSQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
         },
         {
-          "title": "3분기 실적 기대감에 금융주 강세…ELS 과징금 등은 변수 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVUVfQjgtTWdfWHhyb3dPRDNzTTkyanVUSmtIbUNCaUprdDFIODhuVEpwLWgzNHdLbkZsN0NVaUhmOXV4NkNLSGRUZWhNS1hoeEEteWp1eFFDUGwwSXozZmcyZGLSAWhBVV95cUxOWjdGdkhMcmZaQm55NEQ5SElZOEVFM1FuYTRkN2hnanotQWhwaUJDcTRwTTF3SjZSczdmOHdKeWgxdDZIaTVWc3dzd0NDOVhSd2hEVEx0a3EzanhEaFh6eXl3RVdxUUQzSQ?oc=5",
+          "title": "[인도증시] 유가·美 국채 금리 급등 속 10주래 최대 폭 하락...보험 수수료 상한선 제한 우려에 금융주 '급락' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SQ3ltNF9rTmtkN3FvMDhfZ2ZsVXJwQWFMcUJSSlF4SG9zd2FTaDRsNnM0OC1mNmxEMlZzZlY0U25udUxMX0xqNHVib0RvR0VNaDRzTGpZOEJ4V1py?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -674,7 +672,7 @@
           ]
         },
         {
-          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - yna.co.kr",
+          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
           "query": "화장품 관련주",
           "matchedSignals": [
@@ -713,7 +711,7 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 27,
+      "score": 26,
       "evidence": [
         {
           "title": "[증시 오늘(23일) 주요 특징주] 코스피 7100선 강세속 종목별 차별화…반도체·AI 관련주 일제히 급등 - thefairnews.co.kr",
@@ -724,7 +722,7 @@
           ]
         },
         {
-          "title": "[테마시황] 멈추지 않는 AI 투자 열기, 광통신·반도체 '들썩' - 인포스탁데일리",
+          "title": "[테마시황] 멈추지 않는 AI 투자 열기, 광통신·반도체 '들썩' - infostockdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yLUNVNmtTN0JTdTltYzZZOHNIRjVBRnFQNXdmQUtzczlDeVllZ1lKOFBqSE1sTkNTMEZUbEhnLTZnTWFpb1M0YmJfUlRvTmpJZjVYSXpVQTlHSWh5YWpGVnpodHFaTU82eE11d25YdFlyNTRGcGc?oc=5",
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
@@ -732,26 +730,24 @@
           ]
         },
         {
-          "title": "AI 투자의 결실 입증된 미 증시…국내 AI·클라우드·보안 관련주 동반 급등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzb1FvR0VFWEdWS0xERnhKcDlYTHZISFoyQXZPQkJaMmV5MTI1c1RQbWNZX1RrVV8zM3FzUGpNSEQ1djdiQVo3b1NPRHYxVS13TWcxNl9jNU00UFczMFd2U281X2R1R2dpd2JkM19YQ1NTOGZDUFE?oc=5",
+          "title": "[테마시황] 제약·바이오, 빅파마 M&A 기대·학회 모멘텀에 강세…'미프진 도입' 테마도 급등 - infostockdaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISkstYUwtRG9GbzFKcUNjTjFUVEJRQzIyMEFVTHhwNWhaOVpERHc2a015V0p3YjJjR1AwTG9LUklidVlscTNOOWJWSDRnYnZGUGpEN2JVWDFmZ09BTmFnOWdYUFU5cG8zSmFBeHFHbldPRk4yLUE?oc=5",
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
-            "AI",
-            "클라우드"
+            "AI"
+          ]
+        },
+        {
+          "title": "[테마시황] 오픈AI '아스트라' 발표와 AI 인프라 확산… 반도체·전력·SOFC 테마 동반 상승 - infostockdaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MaC05S19KejhBdEtUMUJKTFVBWkNTclVsZTV6OVBaMi01VEExZ3BJTE5wa2xhdFNkSHVFaVpESWpoSElrWkhJTGhNWXBYRUxIX1J6QTFfeUkwZzUyOFlhbFVJVTdQaWc2OThfV2twMHdfRExvc3c?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
           ]
         },
         {
           "title": "하나증권 \"기업용 AI 소프트웨어 시장 성장 기대, 관련주 네이버 더존비즈온\" - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lLTBaMXJQcXZSWUxfZUtwcHU0WnZ2bTR3OFpkeTNBOEM3ejg3ci1lZGlVaW5uN3NzUy1hSmhURXNOS3pWd1drbWpwSHU3eURMX0YzeXE2UWY3Z09Ielo3d1FGaEwwblItOE9rV0pPWW45aVU?oc=5",
-          "query": "AI 소프트웨어 관련주",
-          "matchedSignals": [
-            "AI",
-            "소프트웨어"
-          ]
-        },
-        {
-          "title": "\"AI 수혜주인 줄 알았는데”…美 소프트웨어 기업 줄줄이 ‘휘청’ - 한경매거진&북",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tNnVIQUg0UmJQcWVvejJtZ19fRHB6VXhvdjdvd0RqYTJXWG0xY2dNSDNhWXRWR21yam9HS1E3M204WFFucnZ2U0xPUXZBRjQ4R1ludXJOMVJCcEpNbXZZN3NyOXZudmlsdldLNA?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI",
@@ -766,7 +762,7 @@
       "score": 21,
       "evidence": [
         {
-          "title": "[테마시황] 제약·바이오, 빅파마 M&A 기대·학회 모멘텀에 강세…'미프진 도입' 테마도 급등 - 인포스탁데일리",
+          "title": "[테마시황] 제약·바이오, 빅파마 M&A 기대·학회 모멘텀에 강세…'미프진 도입' 테마도 급등 - infostockdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISkstYUwtRG9GbzFKcUNjTjFUVEJRQzIyMEFVTHhwNWhaOVpERHc2a015V0p3YjJjR1AwTG9LUklidVlscTNOOWJWSDRnYnZGUGpEN2JVWDFmZ09BTmFnOWdYUFU5cG8zSmFBeHFHbldPRk4yLUE?oc=5",
           "query": "국내 주식 급등 테마",
           "matchedSignals": [
@@ -813,7 +809,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 18,
+      "score": 16,
       "evidence": [
         {
           "title": "2차전지株 일제히 휘파람... 로봇 배터리부터 핵심 소재까지 매수세 확산 - 핀포인트뉴스",
