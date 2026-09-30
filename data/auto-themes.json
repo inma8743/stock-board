@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-09-29T15:46:12.842Z",
+  "discoveredAt": "2026-09-30T05:27:26.455Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,9 +57,17 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 30,
+      "score": 32,
       "autoDiscovered": true,
       "evidence": [
+        {
+          "title": "“고금리엔 잘 버는 금융주”…한투證, KB·삼성증권·메리츠 ‘최선호’ - 디지털데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ubjFlM2ZlYUlnZ2dQUjBDNnNIa0RNSjRGcUduY0ZBVVpzYkFidEVuS3lMVjk3T1RJZkdKNlB5UUFHaFVfMVN2WU9qZFNVOWppcndqbnZ5RnlCak1Ud0VOMzJjY2E?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
         {
           "title": "“코스피 흔들려도 ‘이 종목’은 날개 다네”…고배당 금융주 다시 주목 - 매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52WlZMUzRuN3A2OHFVbk82aldLbkNCNDZpbnliek01SDdYaVNlR2JLeVJGeEVSd1ZjdU80ZjFMa245bmZyY1FjdVpZTXBkTlNUVVE?oc=5",
@@ -70,32 +78,25 @@
           ]
         },
         {
+          "title": "“코스피 흔들려도 ‘이 종목’은 날개 다네”…고배당 금융주 다시 주목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FNHozQmJSdUlHTXV4Wm94RHV0Tk82a3lZTVE5SUpaYUxTZy16V0llcXlwNWQwNzRkMkJuZ3NlMnU2MDMwSVE?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "배당"
+          ]
+        },
+        {
+          "title": "“2028년까지 금리 인하 어렵다”…한국투자증권이 주목한 금융주는? - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzZUptV1RnVjNtc2diaTYwOUtvRjZueTB6NDJzZndpb20zRXVHbVdZcGtWME5tZm1fMjNUWGpUVnMwT19ORkVYVGNWMkxIZURUSkE0eG1URmcxZm9SenB2aWt1VEFzc3NoWjBDRG9LbW13Ym_SAXdBVV95cUxOT1ZtcG1CM0tad1J4V2RTb1NvSHZsODdfR3haNGlEQm81R2RibWEwSU1TSTloVWlsdk42VzRFUzNnVWJQZzkyZzUxYVFkTXEtdFpSSThEWEM4UWhXdi1yR0dmVFdVSDBhOXlzUU1vcUpHNzQ4N1BtYw?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "금융주 사고, 게임시장 뚫고…2분기 해외직접투자 32%↑ - edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0poU2M5OF9ibHZTalF0ZmNMcEh2akc4Ynh6MDhheXNyUlBzUHJreHFQRzNyTnhWOTNtUnVLdmVndG5LWHMzWnZUZmRlX2toUW4xY1lDOUJ6akU5OTJIT3dzVFEzTmZsd1hXQ0VLQmZHRlF3RVFhZklkM0lFbzdDVA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "메타 AI 딜에 페이팔 급등, 기술주 순환매로 금융주 하락 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wdE5GdUtjbmxkbDE0OXZFT25pN2VFOERQenNwc0RNYjNNbHhaRmlHQWd3R2prQkUxZE8zdF93eGVJV3M5b2dCTDI2VnVRdURXeENacjBTYndYdXdiOEZOQUZkcWZBTk1MVXZrZnFtT3c?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "AI 호황 이면에 ‘레버리지’ 리스크…미 투자사 손실에 금융주 ‘흔들’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UmZoenRMbWc3dHJxTHpaanRuR3duSEZQVmpNWmE3YUtsQThwanNtVDVxckVtMWhZMV9ISkY4bGFLQkdmaE9VWXd0VENZUHJqTVJRNTRaWENKR0NCTmV6VTc2ZTQ0c3M?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "메타 ‘뮤즈’ AI 돌풍에 금융주 흔들…“인간 자산관리사 역할 줄어들까” - 파이낸스투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtSkhnVVd0czRLdjdqZmJZamY4cjZsb3Z5ZVJET0FuTTFpWGcyX1prVWtGVFBGcTlDeFFkOENpNEdGTkY1NFN3OVVUNzFSSkpTRjFRWDEtb2t0SG5IQTNzNlpiOU96dHBhMl9oLQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -288,7 +289,7 @@
           ]
         },
         {
-          "title": "하나증권 \"기업용 AI 소프트웨어 시장 성장 기대, 관련주 네이버 더존비즈온\" - 비즈니스포스트",
+          "title": "하나증권 \"기업용 AI 소프트웨어 시장 성장 기대, 관련주 네이버 더존비즈온\" - businesspost.co.kr",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lLTBaMXJQcXZSWUxfZUtwcHU0WnZ2bTR3OFpkeTNBOEM3ejg3ci1lZGlVaW5uN3NzUy1hSmhURXNOS3pWd1drbWpwSHU3eURMX0YzeXE2UWY3Z09Ielo3d1FGaEwwblItOE9rV0pPWW45aVU?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
@@ -383,7 +384,7 @@
           ]
         },
         {
-          "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - pinpointnews.co.kr",
+          "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Jdkp6YTFnNDFvcnVEWEdFODNFVWtBZjhSTmJuVTl6TEw1cjJlUlVBY2pydUdYdWloN09KQ01FQVN0c211Zy0yY2tEUnJfZFFnaG9ON09oWjhpRnl4RFZKSE0wZWdxYjNpakxaUEpBMDh3cWI3M3Zn0gF3QVVfeXFMTkl2SnphMWc0MW9ydURYR0U4M0VVa0FmOFJOYm5VOXpMTDVyMmVSVUFjanJ1R1h1aWg3T0pDTUVBU3RzbXVnLTJja0RScl9kUWdob043T2haOGlGeXhEVkpITTBlZ3FiM2lqTFpQSkEwOHdxYjczdmc?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
@@ -462,7 +463,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 19,
+      "score": 21,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -474,34 +475,32 @@
           ]
         },
         {
-          "title": "전기차 배터리 핵심 원자재 리튬... 2차전지 관련주 전반에 매수 온기 - pinpointnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PU1ByS3VTSEw0bjY4NUhCNWNrREtiaEN3b1ZrLTFGaVA3QU9na0FybklBRDN3a0V2YWFLZHhyRVFpcTZReW1xWENwVHU2d3pJOExSbmM5Rl92NmJkbEVWM2Vhay00bVZvRk9hbVI1NTFEWC1icjlj0gF3QVVfeXFMTk9TUHJLdVNITDRuNjg1SEI1Y2tES2JoQ3dvVmstMUZpUDdBT2drQXJuSUFEM3drRXZhYUtkeHJFUWlxNlF5bXFYQ3BUdTZ3ekk4TFJuYzlGX3Y2YmRsRVYzZWFrLTRtVm9GT2FtUjU1MURYLWJyOWM?oc=5",
+          "title": "특징주, 나인테크-2차전지(전고체) 테마 상승세에 12.21% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43S3ZselhWS0xiT3BmX0FmRDlGQWg1MmxEQ1gzU01fN3g3VnNhdVoxcVNObm1BWVBPTmNQWTMwOUVoXzFrenRJRE5xVXIwX2RTcVE?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
-            "2차전지",
-            "배터리",
-            "전기차"
+            "2차전지"
+          ]
+        },
+        {
+          "title": "이수스페셜티케미컬·후성 주가 신바람… 2차전지 전반 투자심리 회복 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRUpzUklyTVotZmpVdlBPb0lydWJ4VjUxZmlTdWh5SHA2OVRNUV9VSXhNcXlWYzdTMmxuVUxkaTRaeHRvalNjWllYWkVVV0MwcEhZZWJTdWZsNWJkV2RKQWp6MWNrN0l2N2Y1Q05tcmUtU3BEVUlv0gF3QVVfeXFMUDBFSnNSSXJNWi1malV2UE9vSXJ1YnhWNTFmaVN1aHlIcDY5VE1RX1VJeE1xeVZjN1MybG5VTGRpNFp4dG9qU2NaWVhaRVVXQzBwSFllYlN1Zmw1YmRXZEpBanoxY2s3SXY3ZjVDTm1yZS1TcERVSW8?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "특징주, 하나기술-2차전지(전고체) 테마 상승세에 6.82% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PZGhXTDhDSjRSSzFoYjRkNFc2a2s5T1FDbnE5SkxoZnlERDB0ZDltaEhDbnp0YzRJMGVPbU0zSmFSNWhKbElDc2wza2JWZ1JGN2c?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
           ]
         },
         {
           "title": "[증시 오늘(29일) 주요 특징주] \"반도체·2차전지 동반 약세\"…코스피·코스닥 하락 압력 확대 - thefairnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zOUVBWmJfQkFaa1pqRmNTTjEwRDNBWlhUV1ktZDdFbnBpZ2dPb2RxUTU3cHRHc1NJV0pfVEhObWRTUl81OTFmSFpaM28wVW9PMFVobnZySFVoVHFjZXFRVVNuVGQtQVBUQ1J4SW1Ddl8?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "2차전지·전고체 관련주 혼조…아이엘 4%대·미코 3%대 상승, LG에너지솔루션 약세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52amlxbXVWRnRNNzJ4aTZ6QlB5eG9XSENVVTBkSFpJTWVSX1J5akNQcVAydnV6QThsR0hyVUtFS1NsSEV6UUJYZ240SG02ZHFYdlB4UUl2ZWR6UDkwQXhPOGVPOGVzSnpU?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "[기업이슈] SK온, 美 ESS 대규모 수주에…2차전지 관련주 강세 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IRlJ1RlhzblhtcVQ0bi1NNUxFZGtWQ0ZWeXdOUVJjYmJvSHpqOHFWUTIyTzJqc2ltWHhCbVJ5RnZvTE5OZDJZNEV0MA?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -563,7 +562,7 @@
         "hbm-stocks.html",
         "nuclear-stocks.html"
       ],
-      "score": 14,
+      "score": 12,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -600,8 +599,8 @@
           ]
         },
         {
-          "title": "신재생에너지 관련주 혼조세…태양광 약세 속 전력기기·에너지 인프라 종목 강세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZEQ5a3gtZGZ5OWNQQnpNYUpwRGhid3dBLWdQejJZUVZNYm5ydEtRbmluQ0szQ2p0TVFXYVdfOVY5UGJ5RmdmSHdkWXZtOHhqck5acXk0OFhjSkZJN2NfeldQV3RQMDJO?oc=5",
+          "title": "[특징주] 트럼프 ‘외국산 전력장비 금지’ 명령에… 전력기기株 일제히 강세 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWdOQVExNzJOOG1lUTY1NVBKTHU2VFZqQ2hFM2RUQkhkM0x5T19PYS1yaE9NaFlkVzhZbjJhY0lMUUs5Z041WHB0TTBNazctZGZBSjA2cGhyZzk1ajVRYWJoazY2VE1FNGpSQ2dna0Rhc3lJSVVWMFpoZlFIODBaZDBwNjlTTmow0gGcAUFVX3lxTFBRR1JRc2lNWXZOZEFDR3M0cEloSHpjSk5ITzhfUm44NXQ0V0JFRjgyNU5MbnhXYl9GdWdtS0FBenJtTlZHOUpFdkJTajdqNFZ2d05wTnNlbWNTWXRWM0NxYVlHdVlUNXlOdEtSODFLY3BVckRkNDc2RWFvb3Y0cExVQ3lORkFQbHFoa04yQVBTU29VZ1lsLUNxOEsxRQ?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -614,8 +613,16 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 30,
+      "score": 32,
       "evidence": [
+        {
+          "title": "“고금리엔 잘 버는 금융주”…한투證, KB·삼성증권·메리츠 ‘최선호’ - 디지털데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ubjFlM2ZlYUlnZ2dQUjBDNnNIa0RNSjRGcUduY0ZBVVpzYkFidEVuS3lMVjk3T1RJZkdKNlB5UUFHaFVfMVN2WU9qZFNVOWppcndqbnZ5RnlCak1Ud0VOMzJjY2E?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
         {
           "title": "“코스피 흔들려도 ‘이 종목’은 날개 다네”…고배당 금융주 다시 주목 - 매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52WlZMUzRuN3A2OHFVbk82aldLbkNCNDZpbnliek01SDdYaVNlR2JLeVJGeEVSd1ZjdU80ZjFMa245bmZyY1FjdVpZTXBkTlNUVVE?oc=5",
@@ -626,32 +633,25 @@
           ]
         },
         {
+          "title": "“코스피 흔들려도 ‘이 종목’은 날개 다네”…고배당 금융주 다시 주목 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FNHozQmJSdUlHTXV4Wm94RHV0Tk82a3lZTVE5SUpaYUxTZy16V0llcXlwNWQwNzRkMkJuZ3NlMnU2MDMwSVE?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주",
+            "배당"
+          ]
+        },
+        {
+          "title": "“2028년까지 금리 인하 어렵다”…한국투자증권이 주목한 금융주는? - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzZUptV1RnVjNtc2diaTYwOUtvRjZueTB6NDJzZndpb20zRXVHbVdZcGtWME5tZm1fMjNUWGpUVnMwT19ORkVYVGNWMkxIZURUSkE0eG1URmcxZm9SenB2aWt1VEFzc3NoWjBDRG9LbW13Ym_SAXdBVV95cUxOT1ZtcG1CM0tad1J4V2RTb1NvSHZsODdfR3haNGlEQm81R2RibWEwSU1TSTloVWlsdk42VzRFUzNnVWJQZzkyZzUxYVFkTXEtdFpSSThEWEM4UWhXdi1yR0dmVFdVSDBhOXlzUU1vcUpHNzQ4N1BtYw?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "금융주 사고, 게임시장 뚫고…2분기 해외직접투자 32%↑ - edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0poU2M5OF9ibHZTalF0ZmNMcEh2akc4Ynh6MDhheXNyUlBzUHJreHFQRzNyTnhWOTNtUnVLdmVndG5LWHMzWnZUZmRlX2toUW4xY1lDOUJ6akU5OTJIT3dzVFEzTmZsd1hXQ0VLQmZHRlF3RVFhZklkM0lFbzdDVA?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "메타 AI 딜에 페이팔 급등, 기술주 순환매로 금융주 하락 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wdE5GdUtjbmxkbDE0OXZFT25pN2VFOERQenNwc0RNYjNNbHhaRmlHQWd3R2prQkUxZE8zdF93eGVJV3M5b2dCTDI2VnVRdURXeENacjBTYndYdXdiOEZOQUZkcWZBTk1MVXZrZnFtT3c?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "AI 호황 이면에 ‘레버리지’ 리스크…미 투자사 손실에 금융주 ‘흔들’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UmZoenRMbWc3dHJxTHpaanRuR3duSEZQVmpNWmE3YUtsQThwanNtVDVxckVtMWhZMV9ISkY4bGFLQkdmaE9VWXd0VENZUHJqTVJRNTRaWENKR0NCTmV6VTc2ZTQ0c3M?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "메타 ‘뮤즈’ AI 돌풍에 금융주 흔들…“인간 자산관리사 역할 줄어들까” - 파이낸스투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtSkhnVVd0czRLdjdqZmJZamY4cjZsb3Z5ZVJET0FuTTFpWGcyX1prVWtGVFBGcTlDeFFkOENpNEdGTkY1NFN3OVVUNzFSSkpTRjFRWDEtb2t0SG5IQTNzNlpiOU96dHBhMl9oLQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -741,7 +741,7 @@
           ]
         },
         {
-          "title": "하나증권 \"기업용 AI 소프트웨어 시장 성장 기대, 관련주 네이버 더존비즈온\" - 비즈니스포스트",
+          "title": "하나증권 \"기업용 AI 소프트웨어 시장 성장 기대, 관련주 네이버 더존비즈온\" - businesspost.co.kr",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lLTBaMXJQcXZSWUxfZUtwcHU0WnZ2bTR3OFpkeTNBOEM3ejg3ci1lZGlVaW5uN3NzUy1hSmhURXNOS3pWd1drbWpwSHU3eURMX0YzeXE2UWY3Z09Ielo3d1FGaEwwblItOE9rV0pPWW45aVU?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
@@ -784,7 +784,7 @@
           ]
         },
         {
-          "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - pinpointnews.co.kr",
+          "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Jdkp6YTFnNDFvcnVEWEdFODNFVWtBZjhSTmJuVTl6TEw1cjJlUlVBY2pydUdYdWloN09KQ01FQVN0c211Zy0yY2tEUnJfZFFnaG9ON09oWjhpRnl4RFZKSE0wZWdxYjNpakxaUEpBMDh3cWI3M3Zn0gF3QVVfeXFMTkl2SnphMWc0MW9ydURYR0U4M0VVa0FmOFJOYm5VOXpMTDVyMmVSVUFjanJ1R1h1aWg3T0pDTUVBU3RzbXVnLTJja0RScl9kUWdob043T2haOGlGeXhEVkpITTBlZ3FiM2lqTFpQSkEwOHdxYjczdmc?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
@@ -812,7 +812,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 19,
+      "score": 21,
       "evidence": [
         {
           "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
@@ -823,34 +823,32 @@
           ]
         },
         {
-          "title": "전기차 배터리 핵심 원자재 리튬... 2차전지 관련주 전반에 매수 온기 - pinpointnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PU1ByS3VTSEw0bjY4NUhCNWNrREtiaEN3b1ZrLTFGaVA3QU9na0FybklBRDN3a0V2YWFLZHhyRVFpcTZReW1xWENwVHU2d3pJOExSbmM5Rl92NmJkbEVWM2Vhay00bVZvRk9hbVI1NTFEWC1icjlj0gF3QVVfeXFMTk9TUHJLdVNITDRuNjg1SEI1Y2tES2JoQ3dvVmstMUZpUDdBT2drQXJuSUFEM3drRXZhYUtkeHJFUWlxNlF5bXFYQ3BUdTZ3ekk4TFJuYzlGX3Y2YmRsRVYzZWFrLTRtVm9GT2FtUjU1MURYLWJyOWM?oc=5",
+          "title": "특징주, 나인테크-2차전지(전고체) 테마 상승세에 12.21% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43S3ZselhWS0xiT3BmX0FmRDlGQWg1MmxEQ1gzU01fN3g3VnNhdVoxcVNObm1BWVBPTmNQWTMwOUVoXzFrenRJRE5xVXIwX2RTcVE?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
-            "2차전지",
-            "배터리",
-            "전기차"
+            "2차전지"
+          ]
+        },
+        {
+          "title": "이수스페셜티케미컬·후성 주가 신바람… 2차전지 전반 투자심리 회복 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRUpzUklyTVotZmpVdlBPb0lydWJ4VjUxZmlTdWh5SHA2OVRNUV9VSXhNcXlWYzdTMmxuVUxkaTRaeHRvalNjWllYWkVVV0MwcEhZZWJTdWZsNWJkV2RKQWp6MWNrN0l2N2Y1Q05tcmUtU3BEVUlv0gF3QVVfeXFMUDBFSnNSSXJNWi1malV2UE9vSXJ1YnhWNTFmaVN1aHlIcDY5VE1RX1VJeE1xeVZjN1MybG5VTGRpNFp4dG9qU2NaWVhaRVVXQzBwSFllYlN1Zmw1YmRXZEpBanoxY2s3SXY3ZjVDTm1yZS1TcERVSW8?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "특징주, 하나기술-2차전지(전고체) 테마 상승세에 6.82% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PZGhXTDhDSjRSSzFoYjRkNFc2a2s5T1FDbnE5SkxoZnlERDB0ZDltaEhDbnp0YzRJMGVPbU0zSmFSNWhKbElDc2wza2JWZ1JGN2c?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
           ]
         },
         {
           "title": "[증시 오늘(29일) 주요 특징주] \"반도체·2차전지 동반 약세\"…코스피·코스닥 하락 압력 확대 - thefairnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zOUVBWmJfQkFaa1pqRmNTTjEwRDNBWlhUV1ktZDdFbnBpZ2dPb2RxUTU3cHRHc1NJV0pfVEhObWRTUl81OTFmSFpaM28wVW9PMFVobnZySFVoVHFjZXFRVVNuVGQtQVBUQ1J4SW1Ddl8?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "2차전지·전고체 관련주 혼조…아이엘 4%대·미코 3%대 상승, LG에너지솔루션 약세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52amlxbXVWRnRNNzJ4aTZ6QlB5eG9XSENVVTBkSFpJTWVSX1J5akNQcVAydnV6QThsR0hyVUtFS1NsSEV6UUJYZ240SG02ZHFYdlB4UUl2ZWR6UDkwQXhPOGVPOGVzSnpU?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
-        {
-          "title": "[기업이슈] SK온, 美 ESS 대규모 수주에…2차전지 관련주 강세 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IRlJ1RlhzblhtcVQ0bi1NNUxFZGtWQ0ZWeXdOUVJjYmJvSHpqOHFWUTIyTzJqc2ltWHhCbVJ5RnZvTE5OZDJZNEV0MA?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -861,7 +859,7 @@
     {
       "slug": "power-equipment-stocks",
       "title": "전력기기 관련주 체크",
-      "score": 14,
+      "score": 12,
       "evidence": [
         {
           "title": "AI 데이터센터 전력기기 관련주 3사 분석, HD현대일 - 브런치",
@@ -897,8 +895,8 @@
           ]
         },
         {
-          "title": "신재생에너지 관련주 혼조세…태양광 약세 속 전력기기·에너지 인프라 종목 강세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZEQ5a3gtZGZ5OWNQQnpNYUpwRGhid3dBLWdQejJZUVZNYm5ydEtRbmluQ0szQ2p0TVFXYVdfOVY5UGJ5RmdmSHdkWXZtOHhqck5acXk0OFhjSkZJN2NfeldQV3RQMDJO?oc=5",
+          "title": "[특징주] 트럼프 ‘외국산 전력장비 금지’ 명령에… 전력기기株 일제히 강세 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWdOQVExNzJOOG1lUTY1NVBKTHU2VFZqQ2hFM2RUQkhkM0x5T19PYS1yaE9NaFlkVzhZbjJhY0lMUUs5Z041WHB0TTBNazctZGZBSjA2cGhyZzk1ajVRYWJoazY2VE1FNGpSQ2dna0Rhc3lJSVVWMFpoZlFIODBaZDBwNjlTTmow0gGcAUFVX3lxTFBRR1JRc2lNWXZOZEFDR3M0cEloSHpjSk5ITzhfUm44NXQ0V0JFRjgyNU5MbnhXYl9GdWdtS0FBenJtTlZHOUpFdkJTajdqNFZ2d05wTnNlbWNTWXRWM0NxYVlHdVlUNXlOdEtSODFLY3BVckRkNDc2RWFvb3Y0cExVQ3lORkFQbHFoa04yQVBTU29VZ1lsLUNxOEsxRQ?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
