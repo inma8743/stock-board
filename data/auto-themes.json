@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-10-01T05:45:58.680Z",
+  "discoveredAt": "2026-10-01T16:23:34.353Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -62,7 +62,7 @@
       "evidence": [
         {
           "title": "“같은 금융주인데 왜 우리만 이러죠”…은행·보험 뛸 때 증권 울상인 이유 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhbElOcHpSSk5BanowN09sb1RIQ0pZQVBKUzRoVUZUdUUtQkZvMVMwbllGRDlQNVVXSThXVjNYN1ZZdk1seHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oa0ZBbGJyMC1EaHRjTjFTS0QxMDJzMlI4Q3c4YUczUlJBS3NzT3hPX0xQSm1TcWZtdzNjNFRpUUxHTEpxZDd5OTRvaw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "title": "“고금리엔 잘 버는 금융주”…한투證, KB·삼성증권·메리츠 ‘최선호’ - 디지털데일리",
+          "title": "“고금리엔 잘 버는 금융주”…한투證, KB·삼성증권·메리츠 ‘최선호’ - ddaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ubjFlM2ZlYUlnZ2dQUjBDNnNIa0RNSjRGcUduY0ZBVVpzYkFidEVuS3lMVjk3T1RJZkdKNlB5UUFHaFVfMVN2WU9qZFNVOWppcndqbnZ5RnlCak1Ud0VOMzJjY2E?oc=5",
           "query": "금융주",
           "matchedSignals": [
@@ -186,11 +186,12 @@
           ]
         },
         {
-          "title": "하나증권 \"기업용 AI 소프트웨어 시장 성장 기대, 관련주 네이버 더존비즈온\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lLTBaMXJQcXZSWUxfZUtwcHU0WnZ2bTR3OFpkeTNBOEM3ejg3ci1lZGlVaW5uN3NzUy1hSmhURXNOS3pWd1drbWpwSHU3eURMX0YzeXE2UWY3Z09Ielo3d1FGaEwwblItOE9rV0pPWW45aVU?oc=5",
+          "title": "하나증권 \"생성형AI 적용범위 확대와 미국 금리인상 가능성 하락, AI 소프트웨어주 주목\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tbU9ZWHBZcjgzeFZ6Ny1sZThMb3pBclMxYVlhUU5ZVUpkMHI1b3NVdm13YkVHQVdHSU9FZUlnNmxTSVlmaFZaSHFQSm50U3BzY2NSUG96bUJnNzBfdWJHaXFGRFN3cnlCeXRjcEFBdVNVUlE?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI",
+            "생성형",
             "소프트웨어"
           ]
         },
@@ -258,7 +259,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 29,
+      "score": 27,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -288,7 +289,7 @@
           ]
         },
         {
-          "title": "[특징주] 화장품주, 해외 판매 증가에 상승세…아모레퍼시픽 4%대 급등 - ziksir.com",
+          "title": "[특징주] 화장품주, 해외 판매 증가에 상승세…아모레퍼시픽 4%대 급등 - 직썰",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVa0VfVWhlU09lZTZaU1BIc0tRbXdCVUtQdlJ6alFqVl9TRTZGcnRmRFo2Qmd0OVpzcERLMTdKbEtGZkNNT1hLNU5ValJfbUlMSnp1Z1puT0FTY19NeGJsTUJZMzVFUXZ10gFsQVVfeXFMT0NnZndZakl3Y3lSS2JKanFsUjR0TWVnc0pSYUhZeFFNYXZBRUxuMDJWaHFHMllvbzBXdlRQS1I1OGZLZ3JQSWRaT1BOOElrcFJ6dkMzV0ZuT19BZ2ViRWpCdDNmR0xCOHM3ZWdP?oc=5",
           "query": "화장품 관련주",
           "matchedSignals": [
@@ -360,7 +361,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 19,
+      "score": 20,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -381,7 +382,7 @@
         },
         {
           "title": "전기차 배터리 핵심 원자재 리튬... 2차전지 관련주 전반에 매수 온기 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PU1ByS3VTSEw0bjY4NUhCNWNrREtiaEN3b1ZrLTFGaVA3QU9na0FybklBRDN3a0V2YWFLZHhyRVFpcTZReW1xWENwVHU2d3pJOExSbmM5Rl92NmJkbEVWM2Vhay00bVZvRk9hbVI1NTFEWC1icjlj0gF3QVVfeXFMTk9TUHJLdVNITDRuNjg1SEI1Y2tES2JoQ3dvVmstMUZpUDdBT2drQXJuSUFEM3drRXZhYUtkeHJFUWlxNlF5bXFYQ3BUdTZ3ekk4TFJuYzlGX3Y2YmRsRVYzZWFrLTRtVm9GT2FtUjU1MURYLWJyOWM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zOEZadV9HLW5fbHBqWm5pd2ZRM3otcFZuNlV6QUxhMEt2WnNKUzU2Mk8wMDYtX0hxN1IyU3JyYklJWS01MWEzY0wzZEFkNDZfMFpSdl9QUWh2RHBZbnFraDJsSUhlQmdJNS1vT3NHOXhmdFXSAXdBVV95cUxOT1NQckt1U0hMNG42ODVIQjVja0RLYmhDd29Way0xRmlQN0FPZ2tBcm5JQUQzd2tFdmFhS2R4ckVRaXE2UXltcVhDcFR1Nnd6SThMUm5jOUZfdjZiZGxFVjNlYWstNG1Wb0ZPYW1SNTUxRFgtYnI5Yw?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지",
@@ -475,7 +476,7 @@
         },
         {
           "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Jdkp6YTFnNDFvcnVEWEdFODNFVWtBZjhSTmJuVTl6TEw1cjJlUlVBY2pydUdYdWloN09KQ01FQVN0c211Zy0yY2tEUnJfZFFnaG9ON09oWjhpRnl4RFZKSE0wZWdxYjNpakxaUEpBMDh3cWI3M3Zn0gF3QVVfeXFMTkl2SnphMWc0MW9ydURYR0U4M0VVa0FmOFJOYm5VOXpMTDVyMmVSVUFjanJ1R1h1aWg3T0pDTUVBU3RzbXVnLTJja0RScl9kUWdob043T2haOGlGeXhEVkpITTBlZ3FiM2lqTFpQSkEwOHdxYjczdmc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRTWZTLWY2MWRlamx2cTBtM2F0Sm05R0ZsQnZUS3FmaHpyem5wWUNJbURGaS1EdGhMaEFQQVAwWkZ4RzhXTU9DOW1EcHgybG51MmFYRzQtZ2drV1hlMEZGOE84bklOcTlYbC1haWIwNjFJZEHSAXdBVV95cUxOSXZKemExZzQxb3J1RFhHRTgzRVVrQWY4Uk5iblU5ekxMNXIyZVJVQWNqcnVHWHVpaDdPSkNNRUFTdHNtdWctMmNrRFJyX2RRZ2hvTjdPaFo4aUZ5eERWSkhNMGVncWIzaWpMWlBKQTA4d3FiNzN2Zw?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -563,7 +564,7 @@
         "hbm-stocks.html",
         "nuclear-stocks.html"
       ],
-      "score": 15,
+      "score": 14,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -618,7 +619,7 @@
       "evidence": [
         {
           "title": "“같은 금융주인데 왜 우리만 이러죠”…은행·보험 뛸 때 증권 울상인 이유 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhbElOcHpSSk5BanowN09sb1RIQ0pZQVBKUzRoVUZUdUUtQkZvMVMwbllGRDlQNVVXSThXVjNYN1ZZdk1seHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oa0ZBbGJyMC1EaHRjTjFTS0QxMDJzMlI4Q3c4YUczUlJBS3NzT3hPX0xQSm1TcWZtdzNjNFRpUUxHTEpxZDd5OTRvaw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -634,7 +635,7 @@
           ]
         },
         {
-          "title": "“고금리엔 잘 버는 금융주”…한투證, KB·삼성증권·메리츠 ‘최선호’ - 디지털데일리",
+          "title": "“고금리엔 잘 버는 금융주”…한투證, KB·삼성증권·메리츠 ‘최선호’ - ddaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ubjFlM2ZlYUlnZ2dQUjBDNnNIa0RNSjRGcUduY0ZBVVpzYkFidEVuS3lMVjk3T1RJZkdKNlB5UUFHaFVfMVN2WU9qZFNVOWppcndqbnZ5RnlCak1Ud0VOMzJjY2E?oc=5",
           "query": "금융주",
           "matchedSignals": [
@@ -690,11 +691,12 @@
           ]
         },
         {
-          "title": "하나증권 \"기업용 AI 소프트웨어 시장 성장 기대, 관련주 네이버 더존비즈온\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lLTBaMXJQcXZSWUxfZUtwcHU0WnZ2bTR3OFpkeTNBOEM3ejg3ci1lZGlVaW5uN3NzUy1hSmhURXNOS3pWd1drbWpwSHU3eURMX0YzeXE2UWY3Z09Ielo3d1FGaEwwblItOE9rV0pPWW45aVU?oc=5",
+          "title": "하나증권 \"생성형AI 적용범위 확대와 미국 금리인상 가능성 하락, AI 소프트웨어주 주목\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tbU9ZWHBZcjgzeFZ6Ny1sZThMb3pBclMxYVlhUU5ZVUpkMHI1b3NVdm13YkVHQVdHSU9FZUlnNmxTSVlmaFZaSHFQSm50U3BzY2NSUG96bUJnNzBfdWJHaXFGRFN3cnlCeXRjcEFBdVNVUlE?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI",
+            "생성형",
             "소프트웨어"
           ]
         },
@@ -712,7 +714,7 @@
     {
       "slug": "cosmetics-stocks",
       "title": "화장품 관련주 체크",
-      "score": 29,
+      "score": 27,
       "evidence": [
         {
           "title": "화장품 관련주 엇갈려…코스메카코리아 2.76%↑·에이피알 3.60%↓ - CBC뉴스",
@@ -741,7 +743,7 @@
           ]
         },
         {
-          "title": "[특징주] 화장품주, 해외 판매 증가에 상승세…아모레퍼시픽 4%대 급등 - ziksir.com",
+          "title": "[특징주] 화장품주, 해외 판매 증가에 상승세…아모레퍼시픽 4%대 급등 - 직썰",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVa0VfVWhlU09lZTZaU1BIc0tRbXdCVUtQdlJ6alFqVl9TRTZGcnRmRFo2Qmd0OVpzcERLMTdKbEtGZkNNT1hLNU5ValJfbUlMSnp1Z1puT0FTY19NeGJsTUJZMzVFUXZ10gFsQVVfeXFMT0NnZndZakl3Y3lSS2JKanFsUjR0TWVnc0pSYUhZeFFNYXZBRUxuMDJWaHFHMllvbzBXdlRQS1I1OGZLZ3JQSWRaT1BOOElrcFJ6dkMzV0ZuT19BZ2ViRWpCdDNmR0xCOHM3ZWdP?oc=5",
           "query": "화장품 관련주",
           "matchedSignals": [
@@ -762,7 +764,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 19,
+      "score": 20,
       "evidence": [
         {
           "title": "[17일 증시 특징주] 코스피·코스닥 동반 하락속 2차전지·초전도체 테마주 강세 - thefairnews.co.kr",
@@ -782,7 +784,7 @@
         },
         {
           "title": "전기차 배터리 핵심 원자재 리튬... 2차전지 관련주 전반에 매수 온기 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PU1ByS3VTSEw0bjY4NUhCNWNrREtiaEN3b1ZrLTFGaVA3QU9na0FybklBRDN3a0V2YWFLZHhyRVFpcTZReW1xWENwVHU2d3pJOExSbmM5Rl92NmJkbEVWM2Vhay00bVZvRk9hbVI1NTFEWC1icjlj0gF3QVVfeXFMTk9TUHJLdVNITDRuNjg1SEI1Y2tES2JoQ3dvVmstMUZpUDdBT2drQXJuSUFEM3drRXZhYUtkeHJFUWlxNlF5bXFYQ3BUdTZ3ekk4TFJuYzlGX3Y2YmRsRVYzZWFrLTRtVm9GT2FtUjU1MURYLWJyOWM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zOEZadV9HLW5fbHBqWm5pd2ZRM3otcFZuNlV6QUxhMEt2WnNKUzU2Mk8wMDYtX0hxN1IyU3JyYklJWS01MWEzY0wzZEFkNDZfMFpSdl9QUWh2RHBZbnFraDJsSUhlQmdJNS1vT3NHOXhmdFXSAXdBVV95cUxOT1NQckt1U0hMNG42ODVIQjVja0RLYmhDd29Way0xRmlQN0FPZ2tBcm5JQUQzd2tFdmFhS2R4ckVRaXE2UXltcVhDcFR1Nnd6SThMUm5jOUZfdjZiZGxFVjNlYWstNG1Wb0ZPYW1SNTUxRFgtYnI5Yw?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지",
@@ -824,7 +826,7 @@
         },
         {
           "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Jdkp6YTFnNDFvcnVEWEdFODNFVWtBZjhSTmJuVTl6TEw1cjJlUlVBY2pydUdYdWloN09KQ01FQVN0c211Zy0yY2tEUnJfZFFnaG9ON09oWjhpRnl4RFZKSE0wZWdxYjNpakxaUEpBMDh3cWI3M3Zn0gF3QVVfeXFMTkl2SnphMWc0MW9ydURYR0U4M0VVa0FmOFJOYm5VOXpMTDVyMmVSVUFjanJ1R1h1aWg3T0pDTUVBU3RzbXVnLTJja0RScl9kUWdob043T2haOGlGeXhEVkpITTBlZ3FiM2lqTFpQSkEwOHdxYjczdmc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRTWZTLWY2MWRlamx2cTBtM2F0Sm05R0ZsQnZUS3FmaHpyem5wWUNJbURGaS1EdGhMaEFQQVAwWkZ4RzhXTU9DOW1EcHgybG51MmFYRzQtZ2drV1hlMEZGOE84bklOcTlYbC1haWIwNjFJZEHSAXdBVV95cUxOSXZKemExZzQxb3J1RFhHRTgzRVVrQWY4Uk5iblU5ekxMNXIyZVJVQWNqcnVHWHVpaDdPSkNNRUFTdHNtdWctMmNrRFJyX2RRZ2hvTjdPaFo4aUZ5eERWSkhNMGVncWIzaWpMWlBKQTA4d3FiNzN2Zw?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -861,7 +863,7 @@
     {
       "slug": "power-equipment-stocks",
       "title": "전력기기 관련주 체크",
-      "score": 15,
+      "score": 14,
       "evidence": [
         {
           "title": "AI 데이터센터 전력기기 관련주 3사 분석, HD현대일 - 브런치",
