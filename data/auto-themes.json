@@ -1,110 +1,9 @@
 {
-  "discoveredAt": "2026-10-07T16:25:05.135Z",
+  "discoveredAt": "2026-10-08T05:56:50.317Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
   "promoted": [
-    {
-      "slug": "cosmetics-stocks",
-      "title": "화장품 관련주 체크",
-      "pageTitle": "화장품 관련주 뉴스 체크 | K뷰티·수출 테마 체크",
-      "description": "아모레퍼시픽, 코스맥스, 한국콜마 등 화장품 관련주의 K뷰티, 수출, 중국·미국 소비 테마 체크포인트를 모아보는 정보 페이지입니다.",
-      "keywords": "화장품 관련주, K뷰티 관련주, 아모레퍼시픽, 코스맥스, 한국콜마, 화장품 수출",
-      "intro": "화장품 테마는 수출 데이터, 중국 소비, 미국·일본 K뷰티 수요에 따라 움직입니다. 브랜드와 ODM 기업의 실적 구조를 나눠 보세요.",
-      "searchQueries": [
-        "화장품 관련주",
-        "K뷰티 관련주",
-        "화장품 수출 관련주"
-      ],
-      "stocks": [
-        {
-          "name": "아모레퍼시픽",
-          "code": "090430",
-          "tags": [
-            "화장품",
-            "브랜드",
-            "중국"
-          ],
-          "summary": "대표 화장품 브랜드 종목입니다. 중국 소비 회복, 북미 성장, 비용 구조를 함께 확인하세요."
-        },
-        {
-          "name": "코스맥스",
-          "code": "192820",
-          "tags": [
-            "ODM",
-            "화장품",
-            "수출"
-          ],
-          "summary": "화장품 ODM 대표 종목입니다. 고객사 주문, 해외 법인 실적, 마진 흐름을 체크하세요."
-        },
-        {
-          "name": "한국콜마",
-          "code": "161890",
-          "tags": [
-            "ODM",
-            "화장품",
-            "헬스케어"
-          ],
-          "summary": "ODM과 헬스케어 사업을 함께 보는 종목입니다. 수주와 원가 부담을 함께 확인하세요."
-        }
-      ],
-      "checklist": [
-        "수출 데이터가 실제 실적 개선으로 이어지는가?",
-        "중국 의존도가 낮아지고 지역 다변화가 진행되는가?",
-        "브랜드 기업과 ODM 기업의 투자 포인트를 구분했는가?",
-        "단기 소비 테마 과열은 아닌가?"
-      ],
-      "related": [
-        "kospi-kosdaq.html"
-      ],
-      "score": 31,
-      "autoDiscovered": true,
-      "evidence": [
-        {
-          "title": "K뷰티 수출 질주에 화장품주 강세…한국콜마·아모레퍼시픽 주목 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IT3FGdFZyXzZrbU9nRnZ4Wi1xWlVJbWNFSjZGOTY1Vk1LUkYtNWE5UVRCSG84OThiYjk5TUpZbHVMMmlhOWk0bXdlclUycjJjU1Q3Wlk0STU5Q24ybTl3cGRxaWxCRWVTaHVTdTUtM2VSSlV5MHpv0gF3QVVfeXFMTUhPcUZ0VnJfNmttT2dGdnhaLXFaVUltY0VKNkY5NjVWTUtSRi01YTlRVEJIbzg5OGJiOTlNSllsdUwyaWE5aTRtd2VyVTJyMmNTVDdaWTRJNTlDbjJtOXdwZHFpbEJFZVNodVN1NS0zZVJKVXkwem8?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품",
-            "K뷰티",
-            "뷰티"
-          ]
-        },
-        {
-          "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
-          ]
-        },
-        {
-          "title": "화장품 관련주, 미국서 입증된 'K-뷰티 전성시대' : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02N2ZXQ1I5UVUtM2ctVFp3cFJJSEdhUms3Q1VSNDJFa2RsMDNaLS1MNXBLcnFILWlrRUtGc2dfQnZQSXJ6Z3ZpYnh3Ulp5bEV4eGdENHI5WGl3b2trY2ZsZC1HN19fRnc?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품",
-            "뷰티"
-          ]
-        },
-        {
-          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
-          ]
-        },
-        {
-          "title": "[특징주] 화장품주, 해외 판매 증가에 상승세…아모레퍼시픽 4%대 급등 - 직썰",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVa0VfVWhlU09lZTZaU1BIc0tRbXdCVUtQdlJ6alFqVl9TRTZGcnRmRFo2Qmd0OVpzcERLMTdKbEtGZkNNT1hLNU5ValJfbUlMSnp1Z1puT0FTY19NeGJsTUJZMzVFUXZ10gFsQVVfeXFMT0NnZndZakl3Y3lSS2JKanFsUjR0TWVnc0pSYUhZeFFNYXZBRUxuMDJWaHFHMllvbzBXdlRQS1I1OGZLZ3JQSWRaT1BOOElrcFJ6dkMzV0ZuT19BZ2ViRWpCdDNmR0xCOHM3ZWdP?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
-          ]
-        }
-      ]
-    },
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
@@ -186,16 +85,16 @@
           ]
         },
         {
-          "title": "역대급 실적에도 불장서 소외되는 금융주, 왜?...PBR도 '털썩' - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2UFVMUllzWFE0S2VrcGxEUXNDbkVNUFh3bVNqemEzZ3ZpY0JkSHN4cGc5TEs3b2p2YzdkOFhlVUZrYWkwMlNvUWV4R0lNeGp5TlNDQzlTX3FGVXdNTHF4aE43eHRZSTN1aEpz0gFwQVVfeXFMUGxUdXhuWk94ZDBOM2ptWGVsRW14Ymx0WHh3RGotOWU5V2Jqc21PczUwSHZhUVhXTndhLVpLUHUzU1FqNnBqWkk5Y1lBdF9NWHVKVl80QzM1RWpYMi1DdmxJeGlHM3R0eFVGa05Fc1k3bQ?oc=5",
+          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
         },
         {
-          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
+          "title": "AI 호황 이면에 ‘레버리지’ 리스크…미 투자사 손실에 금융주 ‘흔들’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UmZoenRMbWc3dHJxTHpaanRuR3duSEZQVmpNWmE3YUtsQThwanNtVDVxckVtMWhZMV9ISkY4bGFLQkdmaE9VWXd0VENZUHJqTVJRNTRaWENKR0NCTmV6VTc2ZTQ0c3M?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -257,7 +156,7 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 26,
+      "score": 27,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -302,6 +201,109 @@
           "matchedSignals": [
             "AI",
             "소프트웨어"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cosmetics-stocks",
+      "title": "화장품 관련주 체크",
+      "pageTitle": "화장품 관련주 뉴스 체크 | K뷰티·수출 테마 체크",
+      "description": "아모레퍼시픽, 코스맥스, 한국콜마 등 화장품 관련주의 K뷰티, 수출, 중국·미국 소비 테마 체크포인트를 모아보는 정보 페이지입니다.",
+      "keywords": "화장품 관련주, K뷰티 관련주, 아모레퍼시픽, 코스맥스, 한국콜마, 화장품 수출",
+      "intro": "화장품 테마는 수출 데이터, 중국 소비, 미국·일본 K뷰티 수요에 따라 움직입니다. 브랜드와 ODM 기업의 실적 구조를 나눠 보세요.",
+      "searchQueries": [
+        "화장품 관련주",
+        "K뷰티 관련주",
+        "화장품 수출 관련주"
+      ],
+      "stocks": [
+        {
+          "name": "아모레퍼시픽",
+          "code": "090430",
+          "tags": [
+            "화장품",
+            "브랜드",
+            "중국"
+          ],
+          "summary": "대표 화장품 브랜드 종목입니다. 중국 소비 회복, 북미 성장, 비용 구조를 함께 확인하세요."
+        },
+        {
+          "name": "코스맥스",
+          "code": "192820",
+          "tags": [
+            "ODM",
+            "화장품",
+            "수출"
+          ],
+          "summary": "화장품 ODM 대표 종목입니다. 고객사 주문, 해외 법인 실적, 마진 흐름을 체크하세요."
+        },
+        {
+          "name": "한국콜마",
+          "code": "161890",
+          "tags": [
+            "ODM",
+            "화장품",
+            "헬스케어"
+          ],
+          "summary": "ODM과 헬스케어 사업을 함께 보는 종목입니다. 수주와 원가 부담을 함께 확인하세요."
+        }
+      ],
+      "checklist": [
+        "수출 데이터가 실제 실적 개선으로 이어지는가?",
+        "중국 의존도가 낮아지고 지역 다변화가 진행되는가?",
+        "브랜드 기업과 ODM 기업의 투자 포인트를 구분했는가?",
+        "단기 소비 테마 과열은 아닌가?"
+      ],
+      "related": [
+        "kospi-kosdaq.html"
+      ],
+      "score": 26,
+      "autoDiscovered": true,
+      "evidence": [
+        {
+          "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
+          "title": "K뷰티 수출 질주에 화장품주 강세…한국콜마·아모레퍼시픽 주목 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IT3FGdFZyXzZrbU9nRnZ4Wi1xWlVJbWNFSjZGOTY1Vk1LUkYtNWE5UVRCSG84OThiYjk5TUpZbHVMMmlhOWk0bXdlclUycjJjU1Q3Wlk0STU5Q24ybTl3cGRxaWxCRWVTaHVTdTUtM2VSSlV5MHpv0gF3QVVfeXFMTUhPcUZ0VnJfNmttT2dGdnhaLXFaVUltY0VKNkY5NjVWTUtSRi01YTlRVEJIbzg5OGJiOTlNSllsdUwyaWE5aTRtd2VyVTJyMmNTVDdaWTRJNTlDbjJtOXdwZHFpbEJFZVNodVN1NS0zZVJKVXkwem8?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품",
+            "K뷰티",
+            "뷰티"
+          ]
+        },
+        {
+          "title": "화장품 관련주, 미국서 입증된 'K-뷰티 전성시대' : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02N2ZXQ1I5UVUtM2ctVFp3cFJJSEdhUms3Q1VSNDJFa2RsMDNaLS1MNXBLcnFILWlrRUtGc2dfQnZQSXJ6Z3ZpYnh3Ulp5bEV4eGdENHI5WGl3b2trY2ZsZC1HN19fRnc?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품",
+            "뷰티"
+          ]
+        },
+        {
+          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
+          "title": "한국콜마, 화장품관련주의 대장주(K뷰티)일 것. : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Gb1ZUQjlpYjNTZllhUGY4enp3eU8xcmxRTG9uSG5KdUdOMkJ4MzBBLXIzYjhBT2puUW1UdnpjZE1GNjBKYTFZUlN1SGdXdm03bWpUMmhZOTV6MTdERlVrSGFxcUlURFk?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품",
+            "K뷰티",
+            "뷰티"
           ]
         }
       ]
@@ -373,23 +375,6 @@
           ]
         },
         {
-          "title": "신약 개발에 AI·정밀진단 접목…생명과학도구 관련주 러브콜 쏟아지네 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JV0Z2WGttdmdGZ2I4M0E3VU9PdzUxRGtiNU5nNjZ6N0hiTC1GUExyQ3RYNUd4R2s4YU9XNDdhOF9DcVprLWQxOER2XzlRS1I4SENpR0Z4WVoxTDllTTk5T2NmeXZfOTlwdmtfQ0Z4eUVpeVnSAXdBVV95cUxOUVF3d1ZBVmVfS3BTT3hDN2cwelktbHd1RUwydGwtbnpta25uclFNc3hfbUhCLUV3eHZBSFoyNktmVzZSN3I0Tkg0eUF3WUxORFdMNDc4UDYtSTZJT2l6ZjBvc1VITUZCVzBIdFFGSVREWEt1eFdCcw?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "신약"
-          ]
-        },
-        {
-          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "FDA",
-            "신약"
-          ]
-        },
-        {
           "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
           "query": "바이오 관련주",
@@ -398,8 +383,24 @@
           ]
         },
         {
+          "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRTWZTLWY2MWRlamx2cTBtM2F0Sm05R0ZsQnZUS3FmaHpyem5wWUNJbURGaS1EdGhMaEFQQVAwWkZ4RzhXTU9DOW1EcHgybG51MmFYRzQtZ2drV1hlMEZGOE84bklOcTlYbC1haWIwNjFJZEHSAXdBVV95cUxOSXZKemExZzQxb3J1RFhHRTgzRVVrQWY4Uk5iblU5ekxMNXIyZVJVQWNqcnVHWHVpaDdPSkNNRUFTdHNtdWctMmNrRFJyX2RRZ2hvTjdPaFo4aUZ5eERWSkhNMGVncWIzaWpMWlBKQTA4d3FiNzN2Zw?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
           "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - 이투데이",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wNW9DQzlUU0dXaUdzcHdtY2xESE1sM1RXbXpnRWU0NXVmWHZhbFA0dnA4Q3hmYXBUVEo1ZU5VLTFJQXUyTlhZZnZJWDZHQkNiemRpaA?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -461,7 +462,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 18,
+      "score": 16,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -473,32 +474,32 @@
           ]
         },
         {
-          "title": "“2차전지 드디어 반등?” 삼성SDI·LG엔솔 5% 급등 [이런국장 저런주식] - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uUUY1M3VWQTh1c0dSd2hlNGdWVmkwMWw5eW9venFCa0ozaV9zMjRaVUE2T1VVbUZ6aUlOY01WN25hVzRtX2owMG53a3M2Q0o2X3dj0gFTQVVfeXFMTm5RRjUzdVZBOHVzR1J3aGU0Z1ZWaTAxbDl5b296cUJrSjNpX3MyNFpVQTZPVVVtRnppSU5jTVY3bmFXNG1fajAwbndrczZDSjZfd2M?oc=5",
+          "title": "특징주, 에코앤드림-2차전지(소재/부품) 테마 상승세에 6.51% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00Y3E3NWtyeWFXanJNNTlZMVVwdk5qczB5eHU4emRMWEp4cFlWOFR2VkZLUmkwcFRidUxrSFlWc2JQVm5EZkJkaWN1M05oS18zaHc?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "[ 종목 정보 ] 2차전지 관련주 \"□□□\" - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DSHBSY0N4QzNyWEoteVVUQXg5Z1pmTG1Ucjd0c1NtVkhPdDNNT29VVGh2Zk5ZTWNSQU00M0o3YjhmTHI4VkotQ2dtRE5vMXozUWk2UkQ3ZFFlOXVvZHFMVXJLeURpNXVQ?oc=5",
+          "title": "2차전지株 일제히 달아 올랐다…LG엔솔부터 소재·장비주까지 ‘훨훨’ - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xNHl4bDk4NHVhNDlRZXdSU3lhX1FLUzZ2NVVDSU1RbmRxaEYzVU5JakJFMWlWRWhucWdNMlZaMHRTRjE0ZVVHUnc5SW95RFprQ3dqVzY0ZmhmY1FwZEQ2aVdSU0FZN1d4VGFPSnZweV8wVWhSeEZB0gF3QVVfeXFMTTE0eXhsOTg0dWE0OVFld1JTeWFfUUtTNnY1VUNJTVFuZHFoRjNVTklqQkUxaVZFaG5xZ00yVlowdFNGMTRlVUdSdzlJb3lEWmtDd2pXNjRmaGZjUXBkRDZpV1JTQVk3V3hUYU9KdnB5XzBVaFJ4RkE?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "[기업이슈] SK온, 美 ESS 대규모 수주에…2차전지 관련주 강세 - Daum",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QdTBma01ueUpucmE2S3JFc0FXbVh1amU3MFN0bDRodUl3bHhISE16Q2lNdmo5UjlRM2lpVkIyTUZDT3ZacGZxRGcyMThZdlU?oc=5",
+          "title": "2차전지株 동반상승…LG엔솔, 분기 최대 매출에 6%↑ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mYndub3VtZ1JmSUoyWExtSHNXTG1Va3NHN25lM25VUG5xV1pheFNPeDJNazMzZF9Oc2NmU2lrMFBDczJHNkE4MlMxeHA3ZTJMWWdMNVlwdkF2TjFCbDBUQmROalVXbmVMM1d4X3cyTExVVkViWnhTc9IBeEFVX3lxTE5mYndub3VtZ1JmSUoyWExtSHNXTG1Va3NHN25lM25VUG5xV1pheFNPeDJNazMzZF9Oc2NmU2lrMFBDczJHNkE4MlMxeHA3ZTJMWWdMNVlwdkF2TjFCbDBUQmROalVXbmVMM1d4X3cyTExVVkViWnhTcw?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "계속되는 순환매…2차전지 관련주 상승세 [특징주] - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVlF5ZDNLaW1WX2JuQTRyeHBKTGlBNXFKcm9fSC1SWjhiYWNhRmNlWF81U05iZ0s3a0dlU0lZalFETDg4anRJeC1FZE5vWmFHa3dRWDBVdmY4WHFZcUlScURWQ3JPRHhHanlGOVVBWmJpZjVXdHJ3UXhHYVdCRnFrbXEzTVVFcWJzOVljUkxPWEk3NVpGWmlXX0NZSFZtN0RTd04zWXhlVmRvVlNqd2ZMcDFkeHdfYnFPazhwSlRuT2xDWm9rdFlWU01WVlNqQmV1UHFJS0M4SUh3Z0Rocm9PaElMei1mQktLV00waGg3bVVXeWpOcVhtcF9pdmxzbEdNT3BYRnJreWVla3pLRlBnUzB1TU80VGkxQ040YV81WFNLYzA?oc=5",
+          "title": "[이 시각 시황] 삼성전자 어닝서프라이즈에도 시장 하락…2차전지·반도체는 강세 - SBS Biz",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbWJfbDRWTllnQ1psM3Q2RzBfRzRxY09yVEJkOVJ0T3piZEZtdXRLMEc4OW1pSWFyc1FRckxGaG9pdkhsUmttVTFDcEpzWUQyYm840gFYQVVfeXFMTzJ6azlhM2psRWZiaGNvQjZKVHAtN01PWjFlOUJ5cm9VZnI3X2ozUlcycWMxamRzNGlrRjYyRTk5NGJKNnVmVzVDbU5qdzRiajhoakxwVjZteQ?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -597,8 +598,8 @@
           ]
         },
         {
-          "title": "[특징주] 트럼프 ‘외국산 전력장비 금지’ 명령에… 전력기기株 일제히 강세 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWdOQVExNzJOOG1lUTY1NVBKTHU2VFZqQ2hFM2RUQkhkM0x5T19PYS1yaE9NaFlkVzhZbjJhY0lMUUs5Z041WHB0TTBNazctZGZBSjA2cGhyZzk1ajVRYWJoazY2VE1FNGpSQ2dna0Rhc3lJSVVWMFpoZlFIODBaZDBwNjlTTmow0gGcAUFVX3lxTFBRR1JRc2lNWXZOZEFDR3M0cEloSHpjSk5ITzhfUm44NXQ0V0JFRjgyNU5MbnhXYl9GdWdtS0FBenJtTlZHOUpFdkJTajdqNFZ2d05wTnNlbWNTWXRWM0NxYVlHdVlUNXlOdEtSODFLY3BVckRkNDc2RWFvb3Y0cExVQ3lORkFQbHFoa04yQVBTU29VZ1lsLUNxOEsxRQ?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - https://www.2news.co.kr/",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -608,56 +609,6 @@
     }
   ],
   "candidates": [
-    {
-      "slug": "cosmetics-stocks",
-      "title": "화장품 관련주 체크",
-      "score": 31,
-      "evidence": [
-        {
-          "title": "K뷰티 수출 질주에 화장품주 강세…한국콜마·아모레퍼시픽 주목 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IT3FGdFZyXzZrbU9nRnZ4Wi1xWlVJbWNFSjZGOTY1Vk1LUkYtNWE5UVRCSG84OThiYjk5TUpZbHVMMmlhOWk0bXdlclUycjJjU1Q3Wlk0STU5Q24ybTl3cGRxaWxCRWVTaHVTdTUtM2VSSlV5MHpv0gF3QVVfeXFMTUhPcUZ0VnJfNmttT2dGdnhaLXFaVUltY0VKNkY5NjVWTUtSRi01YTlRVEJIbzg5OGJiOTlNSllsdUwyaWE5aTRtd2VyVTJyMmNTVDdaWTRJNTlDbjJtOXdwZHFpbEJFZVNodVN1NS0zZVJKVXkwem8?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품",
-            "K뷰티",
-            "뷰티"
-          ]
-        },
-        {
-          "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
-          ]
-        },
-        {
-          "title": "화장품 관련주, 미국서 입증된 'K-뷰티 전성시대' : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02N2ZXQ1I5UVUtM2ctVFp3cFJJSEdhUms3Q1VSNDJFa2RsMDNaLS1MNXBLcnFILWlrRUtGc2dfQnZQSXJ6Z3ZpYnh3Ulp5bEV4eGdENHI5WGl3b2trY2ZsZC1HN19fRnc?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품",
-            "뷰티"
-          ]
-        },
-        {
-          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
-          ]
-        },
-        {
-          "title": "[특징주] 화장품주, 해외 판매 증가에 상승세…아모레퍼시픽 4%대 급등 - 직썰",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVa0VfVWhlU09lZTZaU1BIc0tRbXdCVUtQdlJ6alFqVl9TRTZGcnRmRFo2Qmd0OVpzcERLMTdKbEtGZkNNT1hLNU5ValJfbUlMSnp1Z1puT0FTY19NeGJsTUJZMzVFUXZ10gFsQVVfeXFMT0NnZndZakl3Y3lSS2JKanFsUjR0TWVnc0pSYUhZeFFNYXZBRUxuMDJWaHFHMllvbzBXdlRQS1I1OGZLZ3JQSWRaT1BOOElrcFJ6dkMzV0ZuT19BZ2ViRWpCdDNmR0xCOHM3ZWdP?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품"
-          ]
-        }
-      ]
-    },
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
@@ -688,16 +639,16 @@
           ]
         },
         {
-          "title": "역대급 실적에도 불장서 소외되는 금융주, 왜?...PBR도 '털썩' - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2UFVMUllzWFE0S2VrcGxEUXNDbkVNUFh3bVNqemEzZ3ZpY0JkSHN4cGc5TEs3b2p2YzdkOFhlVUZrYWkwMlNvUWV4R0lNeGp5TlNDQzlTX3FGVXdNTHF4aE43eHRZSTN1aEpz0gFwQVVfeXFMUGxUdXhuWk94ZDBOM2ptWGVsRW14Ymx0WHh3RGotOWU5V2Jqc21PczUwSHZhUVhXTndhLVpLUHUzU1FqNnBqWkk5Y1lBdF9NWHVKVl80QzM1RWpYMi1DdmxJeGlHM3R0eFVGa05Fc1k3bQ?oc=5",
+          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
         },
         {
-          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
+          "title": "AI 호황 이면에 ‘레버리지’ 리스크…미 투자사 손실에 금융주 ‘흔들’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UmZoenRMbWc3dHJxTHpaanRuR3duSEZQVmpNWmE3YUtsQThwanNtVDVxckVtMWhZMV9ISkY4bGFLQkdmaE9VWXd0VENZUHJqTVJRNTRaWENKR0NCTmV6VTc2ZTQ0c3M?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -708,7 +659,7 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 26,
+      "score": 27,
       "evidence": [
         {
           "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
@@ -757,6 +708,58 @@
       ]
     },
     {
+      "slug": "cosmetics-stocks",
+      "title": "화장품 관련주 체크",
+      "score": 26,
+      "evidence": [
+        {
+          "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
+          "title": "K뷰티 수출 질주에 화장품주 강세…한국콜마·아모레퍼시픽 주목 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IT3FGdFZyXzZrbU9nRnZ4Wi1xWlVJbWNFSjZGOTY1Vk1LUkYtNWE5UVRCSG84OThiYjk5TUpZbHVMMmlhOWk0bXdlclUycjJjU1Q3Wlk0STU5Q24ybTl3cGRxaWxCRWVTaHVTdTUtM2VSSlV5MHpv0gF3QVVfeXFMTUhPcUZ0VnJfNmttT2dGdnhaLXFaVUltY0VKNkY5NjVWTUtSRi01YTlRVEJIbzg5OGJiOTlNSllsdUwyaWE5aTRtd2VyVTJyMmNTVDdaWTRJNTlDbjJtOXdwZHFpbEJFZVNodVN1NS0zZVJKVXkwem8?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품",
+            "K뷰티",
+            "뷰티"
+          ]
+        },
+        {
+          "title": "화장품 관련주, 미국서 입증된 'K-뷰티 전성시대' : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02N2ZXQ1I5UVUtM2ctVFp3cFJJSEdhUms3Q1VSNDJFa2RsMDNaLS1MNXBLcnFILWlrRUtGc2dfQnZQSXJ6Z3ZpYnh3Ulp5bEV4eGdENHI5WGl3b2trY2ZsZC1HN19fRnc?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품",
+            "뷰티"
+          ]
+        },
+        {
+          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
+          "title": "한국콜마, 화장품관련주의 대장주(K뷰티)일 것. : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Gb1ZUQjlpYjNTZllhUGY4enp3eU8xcmxRTG9uSG5KdUdOMkJ4MzBBLXIzYjhBT2puUW1UdnpjZE1GNjBKYTFZUlN1SGdXdm03bWpUMmhZOTV6MTdERlVrSGFxcUlURFk?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품",
+            "K뷰티",
+            "뷰티"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
       "score": 20,
@@ -771,25 +774,16 @@
           ]
         },
         {
-          "title": "신약 개발에 AI·정밀진단 접목…생명과학도구 관련주 러브콜 쏟아지네 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JV0Z2WGttdmdGZ2I4M0E3VU9PdzUxRGtiNU5nNjZ6N0hiTC1GUExyQ3RYNUd4R2s4YU9XNDdhOF9DcVprLWQxOER2XzlRS1I4SENpR0Z4WVoxTDllTTk5T2NmeXZfOTlwdmtfQ0Z4eUVpeVnSAXdBVV95cUxOUVF3d1ZBVmVfS3BTT3hDN2cwelktbHd1RUwydGwtbnpta25uclFNc3hfbUhCLUV3eHZBSFoyNktmVzZSN3I0Tkg0eUF3WUxORFdMNDc4UDYtSTZJT2l6ZjBvc1VITUZCVzBIdFFGSVREWEt1eFdCcw?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "신약"
-          ]
-        },
-        {
-          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "FDA",
-            "신약"
-          ]
-        },
-        {
           "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRTWZTLWY2MWRlamx2cTBtM2F0Sm05R0ZsQnZUS3FmaHpyem5wWUNJbURGaS1EdGhMaEFQQVAwWkZ4RzhXTU9DOW1EcHgybG51MmFYRzQtZ2drV1hlMEZGOE84bklOcTlYbC1haWIwNjFJZEHSAXdBVV95cUxOSXZKemExZzQxb3J1RFhHRTgzRVVrQWY4Uk5iblU5ekxMNXIyZVJVQWNqcnVHWHVpaDdPSkNNRUFTdHNtdWctMmNrRFJyX2RRZ2hvTjdPaFo4aUZ5eERWSkhNMGVncWIzaWpMWlBKQTA4d3FiNzN2Zw?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -802,13 +796,21 @@
           "matchedSignals": [
             "바이오"
           ]
+        },
+        {
+          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
         }
       ]
     },
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 18,
+      "score": 16,
       "evidence": [
         {
           "title": "[어제장 오늘장] 배터리 전시회 '인터배터리' 개최…관련주 호재될까 - Daum",
@@ -819,32 +821,32 @@
           ]
         },
         {
-          "title": "“2차전지 드디어 반등?” 삼성SDI·LG엔솔 5% 급등 [이런국장 저런주식] - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uUUY1M3VWQTh1c0dSd2hlNGdWVmkwMWw5eW9venFCa0ozaV9zMjRaVUE2T1VVbUZ6aUlOY01WN25hVzRtX2owMG53a3M2Q0o2X3dj0gFTQVVfeXFMTm5RRjUzdVZBOHVzR1J3aGU0Z1ZWaTAxbDl5b296cUJrSjNpX3MyNFpVQTZPVVVtRnppSU5jTVY3bmFXNG1fajAwbndrczZDSjZfd2M?oc=5",
+          "title": "특징주, 에코앤드림-2차전지(소재/부품) 테마 상승세에 6.51% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00Y3E3NWtyeWFXanJNNTlZMVVwdk5qczB5eHU4emRMWEp4cFlWOFR2VkZLUmkwcFRidUxrSFlWc2JQVm5EZkJkaWN1M05oS18zaHc?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "[ 종목 정보 ] 2차전지 관련주 \"□□□\" - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DSHBSY0N4QzNyWEoteVVUQXg5Z1pmTG1Ucjd0c1NtVkhPdDNNT29VVGh2Zk5ZTWNSQU00M0o3YjhmTHI4VkotQ2dtRE5vMXozUWk2UkQ3ZFFlOXVvZHFMVXJLeURpNXVQ?oc=5",
+          "title": "2차전지株 일제히 달아 올랐다…LG엔솔부터 소재·장비주까지 ‘훨훨’ - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xNHl4bDk4NHVhNDlRZXdSU3lhX1FLUzZ2NVVDSU1RbmRxaEYzVU5JakJFMWlWRWhucWdNMlZaMHRTRjE0ZVVHUnc5SW95RFprQ3dqVzY0ZmhmY1FwZEQ2aVdSU0FZN1d4VGFPSnZweV8wVWhSeEZB0gF3QVVfeXFMTTE0eXhsOTg0dWE0OVFld1JTeWFfUUtTNnY1VUNJTVFuZHFoRjNVTklqQkUxaVZFaG5xZ00yVlowdFNGMTRlVUdSdzlJb3lEWmtDd2pXNjRmaGZjUXBkRDZpV1JTQVk3V3hUYU9KdnB5XzBVaFJ4RkE?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "[기업이슈] SK온, 美 ESS 대규모 수주에…2차전지 관련주 강세 - Daum",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QdTBma01ueUpucmE2S3JFc0FXbVh1amU3MFN0bDRodUl3bHhISE16Q2lNdmo5UjlRM2lpVkIyTUZDT3ZacGZxRGcyMThZdlU?oc=5",
+          "title": "2차전지株 동반상승…LG엔솔, 분기 최대 매출에 6%↑ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mYndub3VtZ1JmSUoyWExtSHNXTG1Va3NHN25lM25VUG5xV1pheFNPeDJNazMzZF9Oc2NmU2lrMFBDczJHNkE4MlMxeHA3ZTJMWWdMNVlwdkF2TjFCbDBUQmROalVXbmVMM1d4X3cyTExVVkViWnhTc9IBeEFVX3lxTE5mYndub3VtZ1JmSUoyWExtSHNXTG1Va3NHN25lM25VUG5xV1pheFNPeDJNazMzZF9Oc2NmU2lrMFBDczJHNkE4MlMxeHA3ZTJMWWdMNVlwdkF2TjFCbDBUQmROalVXbmVMM1d4X3cyTExVVkViWnhTcw?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "계속되는 순환매…2차전지 관련주 상승세 [특징주] - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVlF5ZDNLaW1WX2JuQTRyeHBKTGlBNXFKcm9fSC1SWjhiYWNhRmNlWF81U05iZ0s3a0dlU0lZalFETDg4anRJeC1FZE5vWmFHa3dRWDBVdmY4WHFZcUlScURWQ3JPRHhHanlGOVVBWmJpZjVXdHJ3UXhHYVdCRnFrbXEzTVVFcWJzOVljUkxPWEk3NVpGWmlXX0NZSFZtN0RTd04zWXhlVmRvVlNqd2ZMcDFkeHdfYnFPazhwSlRuT2xDWm9rdFlWU01WVlNqQmV1UHFJS0M4SUh3Z0Rocm9PaElMei1mQktLV00waGg3bVVXeWpOcVhtcF9pdmxzbEdNT3BYRnJreWVla3pLRlBnUzB1TU80VGkxQ040YV81WFNLYzA?oc=5",
+          "title": "[이 시각 시황] 삼성전자 어닝서프라이즈에도 시장 하락…2차전지·반도체는 강세 - SBS Biz",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbWJfbDRWTllnQ1psM3Q2RzBfRzRxY09yVEJkOVJ0T3piZEZtdXRLMEc4OW1pSWFyc1FRckxGaG9pdkhsUmttVTFDcEpzWUQyYm840gFYQVVfeXFMTzJ6azlhM2psRWZiaGNvQjZKVHAtN01PWjFlOUJ5cm9VZnI3X2ozUlcycWMxamRzNGlrRjYyRTk5NGJKNnVmVzVDbU5qdzRiajhoakxwVjZteQ?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -891,8 +893,8 @@
           ]
         },
         {
-          "title": "[특징주] 트럼프 ‘외국산 전력장비 금지’ 명령에… 전력기기株 일제히 강세 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWdOQVExNzJOOG1lUTY1NVBKTHU2VFZqQ2hFM2RUQkhkM0x5T19PYS1yaE9NaFlkVzhZbjJhY0lMUUs5Z041WHB0TTBNazctZGZBSjA2cGhyZzk1ajVRYWJoazY2VE1FNGpSQ2dna0Rhc3lJSVVWMFpoZlFIODBaZDBwNjlTTmow0gGcAUFVX3lxTFBRR1JRc2lNWXZOZEFDR3M0cEloSHpjSk5ITzhfUm44NXQ0V0JFRjgyNU5MbnhXYl9GdWdtS0FBenJtTlZHOUpFdkJTajdqNFZ2d05wTnNlbWNTWXRWM0NxYVlHdVlUNXlOdEtSODFLY3BVckRkNDc2RWFvb3Y0cExVQ3lORkFQbHFoa04yQVBTU29VZ1lsLUNxOEsxRQ?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - https://www.2news.co.kr/",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
