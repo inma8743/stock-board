@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T06:03:01.862Z",
+  "fetchedAt": "2026-10-09T16:09:05.571Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -16,7 +16,7 @@
           "title": "[중국 특징주] HBM 가격 121% 상승 전망…A주 테마주 실적 성장 기대 - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wUVRDQ0ZFdVhpd3ZqN19IQS01QlBiUkVBdFFWZWhJM3V3cjJQWko2eGJMa1VjNVV2U1U3Qm9CaC1vcC1sQkItd0ZVQUl3YnZNcHlTU2NyTkFvN0RC?oc=5",
           "source": "뉴스핌",
-          "publishedAt": "Wed, 30 Sep 2026 02:06:00 GMT",
+          "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
           "query": "HBM 관련주"
         },
         {
@@ -206,13 +206,6 @@
       "title": "금융주 체크",
       "items": [
         {
-          "title": "설정값과 결과값을 구별하는 우리 카지노 계열 베스트 온라인 카지노슬롯보증 숫자 읽기 - Calgary Roughnecks",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUxQZnFvNG1jUkd3WUp0UTR3WWNKT1Y4X1pFa2JjdS1mQ1dlaE84cThNSm1MYmtNZVdPUmJITk5rVVZGT29wdXZPVXlqTGxYMVZCcy0xeXpaM3k1amhGejBqZHAtNDYwZlJrVlEtVkV3Wm1saS1XTWwzSTlUQlZ1WGpncmRDdzNyOTFkdEQ3eWFiNXVuY0c2UnFkWGFTRmhJNlJickZoRkZEQ2EzZ3cySEJaT19XX1ZsQ1hKWElzXzE0TUE?oc=5",
-          "source": "Calgary Roughnecks",
-          "publishedAt": "Thu, 08 Oct 2026 17:05:41 GMT",
-          "query": "금융주"
-        },
-        {
           "title": "[인도증시] 25년래 최장 하락세 마감 후 반등… 실적 호조 금융주가 상승 견인 - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxcDdid2llbTBpTnl6dkYxZHdybTFZUm1McGVodlk2eGQzYkx1Y2duLWprRlZZSUxXUzk2YlJtVFAySjU1N1dmaDk2cThEWFR6bmVOcGtPc2xwUDdk?oc=5",
           "source": "뉴스핌",
@@ -234,51 +227,18 @@
           "query": "금융주"
         },
         {
+          "title": "설정값과 결과값을 구별하는 우리 카지노 계열 베스트 온라인 카지노슬롯보증 숫자 읽기 - Calgary Roughnecks",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUxQZnFvNG1jUkd3WUp0UTR3WWNKT1Y4X1pFa2JjdS1mQ1dlaE84cThNSm1MYmtNZVdPUmJITk5rVVZGT29wdXZPVXlqTGxYMVZCcy0xeXpaM3k1amhGejBqZHAtNDYwZlJrVlEtVkV3Wm1saS1XTWwzSTlUQlZ1WGpncmRDdzNyOTFkdEQ3eWFiNXVuY0c2UnFkWGFTRmhJNlJickZoRkZEQ2EzZ3cySEJaT19XX1ZsQ1hKWElzXzE0TUE?oc=5",
+          "source": "Calgary Roughnecks",
+          "publishedAt": "Thu, 08 Oct 2026 17:05:41 GMT",
+          "query": "금융주"
+        },
+        {
           "title": "10월 8일 증시: 금융주가 지수에 하락 압력을 가했다. - Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHRTZW5oTUtYZFFXTG1rSlU1MlpkeWQyZlBoQUczcEVfLVhYT3YzYVRNYzB1VEpVOEtKX2Z2YmpUNXFKVU5nVVh1NWNSRG5TS3NuY1Nqc09wRzlRSldnMWVaZ1BhQ1Zra0pfQVhxU2w0TUFjYWJiaVlpUlJ2cG9nOHNLTXpJeGFHQ0hzc0JzdlJYR1E?oc=5",
           "source": "Vietnam.vn",
           "publishedAt": "Thu, 08 Oct 2026 10:42:17 GMT",
           "query": "금융주"
-        }
-      ]
-    },
-    "cosmetics-stocks": {
-      "title": "화장품 관련주 체크",
-      "items": [
-        {
-          "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Tue, 06 Oct 2026 05:16:00 GMT",
-          "query": "화장품 관련주"
-        },
-        {
-          "title": "K뷰티 수출 질주에 화장품주 강세…한국콜마·아모레퍼시픽 주목 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IT3FGdFZyXzZrbU9nRnZ4Wi1xWlVJbWNFSjZGOTY1Vk1LUkYtNWE5UVRCSG84OThiYjk5TUpZbHVMMmlhOWk0bXdlclUycjJjU1Q3Wlk0STU5Q24ybTl3cGRxaWxCRWVTaHVTdTUtM2VSSlV5MHpv0gF3QVVfeXFMTUhPcUZ0VnJfNmttT2dGdnhaLXFaVUltY0VKNkY5NjVWTUtSRi01YTlRVEJIbzg5OGJiOTlNSllsdUwyaWE5aTRtd2VyVTJyMmNTVDdaWTRJNTlDbjJtOXdwZHFpbEJFZVNodVN1NS0zZVJKVXkwem8?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Wed, 07 Oct 2026 00:12:08 GMT",
-          "query": "화장품 관련주"
-        },
-        {
-          "title": "언어를 바꾸면 달라지는 에이블 카지노 메뉴 표현 - Calgary Roughnecks",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ROFN6Q2hxXzRiR3FiT1VrajJ4OWhjeG9VQWE3cGNCSDlVX29pblo1ZzFjTFJIcXlTRnZvYWJMcnpwbnRodUlHNVRuS0c5NWNsVEpFT0IwYjl0dUpxWVYyT2lGZTJybnpaVEpKdA?oc=5",
-          "source": "Calgary Roughnecks",
-          "publishedAt": "Wed, 07 Oct 2026 00:51:30 GMT",
-          "query": "화장품 관련주"
-        },
-        {
-          "title": "화장품 관련주, 미국서 입증된 'K-뷰티 전성시대' : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02N2ZXQ1I5UVUtM2ctVFp3cFJJSEdhUms3Q1VSNDJFa2RsMDNaLS1MNXBLcnFILWlrRUtGc2dfQnZQSXJ6Z3ZpYnh3Ulp5bEV4eGdENHI5WGl3b2trY2ZsZC1HN19fRnc?oc=5",
-          "source": "Naver Blog",
-          "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-          "query": "화장품 관련주"
-        },
-        {
-          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT",
-          "query": "화장품 관련주"
         }
       ]
     },
@@ -322,6 +282,46 @@
         }
       ]
     },
+    "cosmetics-stocks": {
+      "title": "화장품 관련주 체크",
+      "items": [
+        {
+          "title": "골든 웰스 바카라 추가 규칙이 붙는 상황 - Calgary Roughnecks",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUEhlX00tN1kxcGtiRmd6QjdJUUlRNXhieEtxNjFkR0JLWGl6bmh1VmVXR08wajMydkRRRm5td3BnVmNpNmRlcno4Q2M3dVdOQzRDM05yU1NiT0ZmSHoyQWxMUUxzN0hOMmFxQjRyNl9KUU12MzZDUTV1QXY1clE?oc=5",
+          "source": "Calgary Roughnecks",
+          "publishedAt": "Fri, 09 Oct 2026 02:08:00 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
+          "source": "CBC뉴스",
+          "publishedAt": "Tue, 06 Oct 2026 05:16:00 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "화장품 관련주, 미국서 입증된 'K-뷰티 전성시대' : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02N2ZXQ1I5UVUtM2ctVFp3cFJJSEdhUms3Q1VSNDJFa2RsMDNaLS1MNXBLcnFILWlrRUtGc2dfQnZQSXJ6Z3ZpYnh3Ulp5bEV4eGdENHI5WGl3b2trY2ZsZC1HN19fRnc?oc=5",
+          "source": "Naver Blog",
+          "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "[특징주] 화장품주, '美아마존 데이' 약진에 장 초반 강세 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVy1URkdibjE2QU9WUGVlaWdmeDlEbE5pb3JvLVk2UThVWXJSNlUyYkF0dkQ3MmlYaXhGN0F5TG1zZFdmb2NyMHA0bVp4aml4QjVQRUlBa0V0b0HSAWBBVV95cUxOY3VXTEhfN09Fd3hGNHhhZ0dxRVVaV2N1dzdraFZ4T2FLYUdzZnFkTUw5TEtSTDd4YXh2MHluVk9Ob290WWNrdHh2eFM0NlBfcDF5S2ZxMXUtdmE3SmV2RWQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "언어를 바꾸면 달라지는 에이블 카지노 메뉴 표현 - Calgary Roughnecks",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ROFN6Q2hxXzRiR3FiT1VrajJ4OWhjeG9VQWE3cGNCSDlVX29pblo1ZzFjTFJIcXlTRnZvYWJMcnpwbnRodUlHNVRuS0c5NWNsVEpFT0IwYjl0dUpxWVYyT2lGZTJybnpaVEpKdA?oc=5",
+          "source": "Calgary Roughnecks",
+          "publishedAt": "Wed, 07 Oct 2026 00:51:30 GMT",
+          "query": "화장품 관련주"
+        }
+      ]
+    },
     "bio-stocks": {
       "title": "바이오 관련주 체크",
       "items": [
@@ -340,10 +340,10 @@
           "query": "바이오 관련주"
         },
         {
-          "title": "모바일 신분증부터 AI 보안까지… 바이오인식 관련주 러브콜 봇물 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRTWZTLWY2MWRlamx2cTBtM2F0Sm05R0ZsQnZUS3FmaHpyem5wWUNJbURGaS1EdGhMaEFQQVAwWkZ4RzhXTU9DOW1EcHgybG51MmFYRzQtZ2drV1hlMEZGOE84bklOcTlYbC1haWIwNjFJZEHSAXdBVV95cUxOSXZKemExZzQxb3J1RFhHRTgzRVVrQWY4Uk5iblU5ekxMNXIyZVJVQWNqcnVHWHVpaDdPSkNNRUFTdHNtdWctMmNrRFJyX2RRZ2hvTjdPaFo4aUZ5eERWSkhNMGVncWIzaWpMWlBKQTA4d3FiNzN2Zw?oc=5",
+          "title": "신약 개발에 AI·정밀진단 접목…생명과학도구 관련주 러브콜 쏟아지네 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JV0Z2WGttdmdGZ2I4M0E3VU9PdzUxRGtiNU5nNjZ6N0hiTC1GUExyQ3RYNUd4R2s4YU9XNDdhOF9DcVprLWQxOER2XzlRS1I4SENpR0Z4WVoxTDllTTk5T2NmeXZfOTlwdmtfQ0Z4eUVpeVnSAXdBVV95cUxOUVF3d1ZBVmVfS3BTT3hDN2cwelktbHd1RUwydGwtbnpta25uclFNc3hfbUhCLUV3eHZBSFoyNktmVzZSN3I0Tkg0eUF3WUxORFdMNDc4UDYtSTZJT2l6ZjBvc1VITUZCVzBIdFFGSVREWEt1eFdCcw?oc=5",
           "source": "핀포인트뉴스",
-          "publishedAt": "Mon, 28 Sep 2026 05:15:18 GMT",
+          "publishedAt": "Thu, 01 Oct 2026 04:16:35 GMT",
           "query": "바이오 관련주"
         },
         {
@@ -380,17 +380,17 @@
           "query": "2차전지 관련주"
         },
         {
-          "title": "“2차전지 드디어 반등?” 삼성SDI·LG엔솔 5% 급등 [이런국장 저런주식] - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kUGxlZTJMekNodnJsTTZCOXJJaVR1QmRpa3BUMkZzbl9rLVFEanlkdzNqdl9neDI3NFM4cVFGVXA1QXNZYWVlVmI1R0lSYjROQ2V3REF5WQ?oc=5",
-          "source": "서울경제",
-          "publishedAt": "Tue, 06 Oct 2026 04:43:20 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
           "title": "2차전지株 동반상승…LG엔솔, 분기 최대 매출에 6%↑ - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mYndub3VtZ1JmSUoyWExtSHNXTG1Va3NHN25lM25VUG5xV1pheFNPeDJNazMzZF9Oc2NmU2lrMFBDczJHNkE4MlMxeHA3ZTJMWWdMNVlwdkF2TjFCbDBUQmROalVXbmVMM1d4X3cyTExVVkViWnhTc9IBeEFVX3lxTE5mYndub3VtZ1JmSUoyWExtSHNXTG1Va3NHN25lM25VUG5xV1pheFNPeDJNazMzZF9Oc2NmU2lrMFBDczJHNkE4MlMxeHA3ZTJMWWdMNVlwdkF2TjFCbDBUQmROalVXbmVMM1d4X3cyTExVVkViWnhTcw?oc=5",
           "source": "뉴시스",
           "publishedAt": "Thu, 08 Oct 2026 01:02:27 GMT",
+          "query": "2차전지 관련주"
+        },
+        {
+          "title": "“2차전지 드디어 반등?” 삼성SDI·LG엔솔 5% 급등 [이런국장 저런주식] - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kUGxlZTJMekNodnJsTTZCOXJJaVR1QmRpa3BUMkZzbl9rLVFEanlkdzNqdl9neDI3NFM4cVFGVXA1QXNZYWVlVmI1R0lSYjROQ2V3REF5WQ?oc=5",
+          "source": "서울경제",
+          "publishedAt": "Tue, 06 Oct 2026 04:43:20 GMT",
           "query": "2차전지 관련주"
         },
         {
@@ -405,13 +405,6 @@
     "power-equipment-stocks": {
       "title": "전력기기 관련주 체크",
       "items": [
-        {
-          "title": "AI 전력 수요는 늘어나는데…전기장비株는 차익실현에 ‘휘청’ - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oU25iSnFtcmczYmw3enNGcU9lUzdGLXpsUlg3NUxwMmtFcURhbC1KdmJlbnlUZUJuRV9qRHB0dHdjSm5Na3FGcDIwbTF5bjF3VDU1OHhpZ2JMTWNCVy1JSVI1X3QzbHZFTFRpV1ItY3FMYlhsV29r0gF3QVVfeXFMTWhTbmJKcW1yZzNibDd6c0ZxT2VTN0YtemxSWDc1THAya0VxRGFsLUp2YmVueVRlQm5FX2pEcHR0d2NKbk1rcUZwMjBtMXluMXdUNTU4eGlnYkxNY0JXLUlJUjVfdDNsdkVMVGlXUi1jcUxiWGxXb2s?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Wed, 07 Oct 2026 05:35:13 GMT",
-          "query": "전력기기 관련주"
-        },
         {
           "title": "전력 관련 대장주·수혜주… 지금 주목해야 할 이유 - 중기이코노미",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZnZJUlhuRVV6bkJybE1kcEVKczAzMS05SDhtUTZFdXdsemhsalNVaEtjaGVrYV85SS01d0RjazVJaG1jUkZmUWcyb1QyOVJqQkxEU3pVaVZ3NTJEaHZWaUl1RjFEWkFfSnc?oc=5",
@@ -438,6 +431,13 @@
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00bWhkWE9wdXh6emNCdTVmRG1EZlh0bF9NM2FMZkRoWnBPMWFQWEtpeUY1bmJ5bDFXMDVaUVVyb05yNER0cmw4?oc=5",
           "source": "브런치",
           "publishedAt": "Tue, 28 Jul 2026 07:00:00 GMT",
+          "query": "전력기기 관련주"
+        },
+        {
+          "title": "[이 시각 시황] 전선·전력설비, 에너지 대전환 관련주 우상향 지속 - Daum",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeV92S1NxeWNrZGxyUHBDYjNmbXM3Ul9uekxSOGZwTTIyRjZFWlJNVHRsMHJFQUk1OEFwWXZTOVBJRko4N0E?oc=5",
+          "source": "Daum",
+          "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
           "query": "전력기기 관련주"
         }
       ]
