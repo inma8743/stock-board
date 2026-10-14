@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T04:47:34.442Z",
+  "fetchedAt": "2026-10-14T14:29:00.344Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -20,10 +20,10 @@
           "query": "HBM 관련주"
         },
         {
-          "title": "AI 반도체 호황에 장비株 주목… HBM 공급망 수혜주 '출렁' - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zRmVGek53VVJrRUFCOGlmV3dMZGxoZlh3S1RabjdDS1duODlsNDRGUmJTQjVhYjZBTFBpN3d6YjRqTDBLS3Zzb3M4ZXhnbEl1MlozcGxHVjlBeEF5aVdERGNZanBjdXpPQW1CSHRBWlgwNUnSAXdBVV95cUxOYkZNQ0YwZlBrWC1jR1FZZ19WWGNtZnZxenNnZ0RldGN2bkl0Z1JNeDB3cU15OUR3a0duTUlaMHY1dG1pdXN6LWtLYTl4OWJZTE1qU3FsTm4zRzlxbDUyOXowOTd3TVR0RlRNYlZOdjBXVEIxc3p3TQ?oc=5",
+          "title": "AI 반도체 수요 폭발에... HBM 관련주 뭉칫돈 몰린다 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqSVJQeHpySGV6UGMzQWw4ZjRQUFBXcHdnTkpIemwtZmhVanhZU0dqUTZIUlBJSEJSVG9lSjZNd042Y2dSdnFpU3JtZzllMWxNN2NERHpBSElWSGlLZmpJQTR2aEZscjdkZDViZGRGMUhsVkXSAXdBVV95cUxPQmExanlub1Vjdkk3dXA5VGhxc19tSDRWekJ1bmY4YWE1MGNUemVsb0pSSXRpakp0dXRMcENlWFc5YnVBb0t5M3NoTVBzR3BXSmxFRlJZOXlidDVBWFBOa25zbmd5ZWdQcFI5LTMwaTZHaUlCb2NUbw?oc=5",
           "source": "핀포인트뉴스",
-          "publishedAt": "Thu, 08 Oct 2026 06:17:47 GMT",
+          "publishedAt": "Wed, 30 Sep 2026 00:30:44 GMT",
           "query": "HBM 관련주"
         },
         {
@@ -53,6 +53,13 @@
           "query": "방산 관련주"
         },
         {
+          "title": "미-이란 전쟁 임박 관측 확대···방산 관련주 연일 ‘강세’ 이어가 - 증권일보",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CU1k3Zmd4UE4yakZJOVg0ZGxZeGxLUHR2Z3ZUb2t5eTg1OHdwRlZELTZ5bHFoYW1FWENCcVhEczdnQlJBbGxBQ2U5WnFHOVk4RzZqd1EwVGJadmdjSXp6Nw?oc=5",
+          "source": "증권일보",
+          "publishedAt": "Fri, 20 Feb 2026 08:00:00 GMT",
+          "query": "방산 관련주"
+        },
+        {
           "title": "케이앤에스아이앤씨·덕산하이메탈 '거침없는 하이킥'... 방산 관련주 매수 유입 무슨 일? - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qTHVManRWM1ZVOFJ0Ym8zZ2VXSDhqZmZCT2MzazhWMmxSLWRObzRvYi0tTFlWcTlJaVdzMTR1UXViM0F3bXdkakhMRk9zVDBtam1UalBwd3hxeHRPMFFKYlR6RFQyTEJQUzJvbVY4bmdpTlnSAXdBVV95cUxQbWd5VEZwMmpRbUtNUkZHN1RlVTN4VmEzcGZNMjJXLXBudFJGcF9pdFZ3d0x5bW9udTQzaGV1c1FuYVplQkJpSVU0SVVkalZaQlhvTHM4U2hJS1JpMzhmU19DUTE4VTlTTllQQmI0dlhBU1FCSXBOTQ?oc=5",
           "source": "핀포인트뉴스",
@@ -64,13 +71,6 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16V1BZT08xaXl3dThjNHpQYmRUaS12VzgyRTZHUzIyQ1dvTm8yeTZpUElNa0pTNVRRLWJ1SnNfRzgzYUNIRVBoSEFSN19oNnZ3a1NKWlBVM25XUQ?oc=5",
           "source": "한국경제",
           "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
-          "query": "방산 관련주"
-        },
-        {
-          "title": "미-이란 전쟁 임박 관측 확대···방산 관련주 연일 ‘강세’ 이어가 - 증권일보",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CU1k3Zmd4UE4yakZJOVg0ZGxZeGxLUHR2Z3ZUb2t5eTg1OHdwRlZELTZ5bHFoYW1FWENCcVhEczdnQlJBbGxBQ2U5WnFHOVk4RzZqd1EwVGJadmdjSXp6Nw?oc=5",
-          "source": "증권일보",
-          "publishedAt": "Fri, 20 Feb 2026 08:00:00 GMT",
           "query": "방산 관련주"
         },
         {
@@ -166,6 +166,13 @@
       "title": "로봇 관련주 체크",
       "items": [
         {
+          "title": "제조 현장에 로봇 투입 확대… 피지컬 AI 관련주 노려라 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JT2VZMGg2X2FHa0dSeDRmRXBkZ1RmX29PRzVSa0NselQ5ZmRSb1Rzd2w0cDRleHlmN1dhMWpWQlBOWGs0YkIwWDhPbmtKaXZNdEhFcDFmNkZmZV9rbzcycTZkSjFIWlV0bmxYNU53VmRwYTNpOU130gF3QVVfeXFMTUlPZVkwaDZfYUdrR1J4NGZFcGRnVGZfb09HNVJrQ2x6VDlmZFJvVHN3bDRwNGV4eWY3V2ExalZCUE5YazRiQjBYOE9ua0ppdk10SEVwMWY2RmZlX2tvNzJxNmRKMUhaVXRubFg1TndWZHBhM2k5TXc?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Wed, 14 Oct 2026 04:56:08 GMT",
+          "query": "로봇 관련주"
+        },
+        {
           "title": "레인보우로보틱스·두산로보틱스·로보티즈 등 로봇주 일제히 약세…주초장 낙폭 확대 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwMDVWYkJMZURlMUJFUzFhWVBNbFlmckNaNmVna2daQ1BrVjY0NnBoYmVhWG5KU1IwSEdCdDhySTAyYjZRQ3RBNTM5NzRVd1JZOW5BNm1VbzJyVnJMOTA4UGNjREpPOTNU?oc=5",
           "source": "CBC뉴스",
@@ -192,19 +199,19 @@
           "source": "Investing.com 한국어",
           "publishedAt": "Fri, 18 Sep 2026 07:00:00 GMT",
           "query": "로봇 관련주"
-        },
-        {
-          "title": "[특징주] 로봇 관련주, 美 중국 로봇 수입 금지 발표에 상승세 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbW5DbmdNR2ROV2VfRHlKQTNTRGpqRWc0MGtHM3ZGZmI4QVlscGo4Z3R0VHVBV1V3WlZoWkRRRk84d2I1VjM3dlZZT0FkSjNZNjFLbg?oc=5",
-          "source": "이투데이",
-          "publishedAt": "Wed, 29 Jul 2026 07:00:00 GMT",
-          "query": "로봇 관련주"
         }
       ]
     },
     "finance-stocks": {
       "title": "금융주 체크",
       "items": [
+        {
+          "title": "금융주 덮친 해킹 악재…신한·우리금융 2주 새 11% 넘게 하락 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZW5Vcmk3NlpGYzdUUE5MV1ZfRW50dU1VeGFPZDRyQ2w4OXNCVzZmNUNfTmcyNXZjRHNXSW0zcWgzWFdKWjFacDRNSkY5SENIRjdiR2lBX0RMcFBxMlRXTlYwZE1YMUN5b240TnFtZDJwdw?oc=5",
+          "source": "인더스트리뉴스",
+          "publishedAt": "Wed, 14 Oct 2026 08:44:16 GMT",
+          "query": "금융주"
+        },
         {
           "title": "[오늘의 글로벌마켓] 뉴욕증시, 美 금융주 약세에 반도체주도 하락...3대지수↓ - 오피니언뉴스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rUUEzY25CbW9sc1dQOWhUc2hKcmpwRDNia3poVGgweUJhMEFtT1FDVFpoNW94UEpIQUxuYkZDbWdRWnFoRk1hTExfV3RfWEhjdHRUZTRUaTN2SnVWc0ZRajV4Wmx6WVpuVDZ3Y1FoMlg?oc=5",
@@ -232,19 +239,19 @@
           "source": "서울파이낸스",
           "publishedAt": "Mon, 12 Oct 2026 07:48:55 GMT",
           "query": "금융주"
-        },
-        {
-          "title": "“같은 금융주인데 왜 우리만 이러죠”…은행·보험 뛸 때 증권 울상인 이유 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11SFBwcXloTXdrLXdDM0x2a2ZkRURaaGJRVnFhbGF3MmhWV085VnoyMUlncDNSX2tEb09oazd4U21WWnBjRU00ZVI2eWUtTFJHcVE?oc=5",
-          "source": "매일경제 마켓",
-          "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "금융주"
         }
       ]
     },
     "ai-software-stocks": {
       "title": "AI 소프트웨어 관련주 체크",
       "items": [
+        {
+          "title": "제조 현장에 로봇 투입 확대… 피지컬 AI 관련주 노려라 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LRk1Telh3ejBwV2lSOTI1WTNudUhfZ3lkamRLMmpsTzBZV2VhRWJQVlB5TW9GLWFrM29rMmxSb2xsWFlOQmtyUnpOMzNkNkVHbzIwSTlEX0Vzck1zaFRqQV9zSmtmNVNmajF2S1lQaFozSlnSAXdBVV95cUxNSU9lWTBoNl9hR2tHUng0ZkVwZGdUZl9vT0c1UmtDbHpUOWZkUm9Uc3dsNHA0ZXh5ZjdXYTFqVkJQTlhrNGJCMFg4T25rSml2TXRIRXAxZjZGZmVfa283MnE2ZEoxSFpVdG5sWDVOd1ZkcGEzaTlNdw?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Wed, 14 Oct 2026 04:50:51 GMT",
+          "query": "AI 소프트웨어 관련주"
+        },
         {
           "title": "2026년 10월 12일 미국 AI 관련주, 브로드컴 AI 칩 600억 달러 금융 조달 추진 - AI 매터스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wVFdVVU9hUlk4MUVTbmxSQ29tbFR6a1pZNDJWMnRfZ2hucWhVQ3ZBbWhJM3pDWkJyMkxLUXhmUlU5UnhxTkVsaGdSQWVKV3otMko3Tw?oc=5",
@@ -271,13 +278,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzRWRSRVN5cEl4bjB6SzZIcm1CTGptbDlEcVBWWFNRMDhrSjhONkNINDlhTGQtbzZETVltY3Y5ZS1objBWbE80c0FQb3FoNVZxU205SjZzeGRSS1E2Z3dQQkIwVU5JbzFiUFHSAW5BVV95cUxNdW9wLUpjQXJVSWxQVTZlaWFMYWhYVVBnVVdWUGRZQnN1UTI3ZlNCMEQwdWtVLWVHMzh3Z2NTQ2Q2UVJscDcxTmxfRkZoSEZRVUZ3Y0FJQXg4OEpOYjlaalB4YVVpaG5HRl9vWDZ5QQ?oc=5",
           "source": "중부매일",
           "publishedAt": "Sun, 31 May 2026 07:00:00 GMT",
-          "query": "AI 소프트웨어 관련주"
-        },
-        {
-          "title": "AI 관련주 찾는다면 주목할 기업용 소프트웨어 종목 3선 - Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUEwTG94amptX1o0bzRVLWtZVk0yaGdVWWstcGFaUTRWQXFXNjNiWno4czNhTzNmNUVjbURubndYOEZ3aVctRW5rY3V4Zng0MlVGREFUc2VYMW9RWFRlRGFVZGx5VG9BTTJReTUtS1V0UDhDbXpTeDBMNlNIMHBUZ1V5eXJXNFRkRWlLdnB6TjFpZ9IBlwFBVV95cUxPemtZZ0Y0SFBLLWZmN193TVNXa0s5Vk8zUnF3RjRpNThkMkVYaGw0WlNaQlNXZWdHbWRZMV9la2dVS0JsdFZZUlM1QmRWTUlPcEhnamdBX2JuOTZ1MUk2TGhiOVhpZ1kyMkxkbU5OQkNxYV9hUGdsUENMdHlRZ1FoeFliUDhFbnlaUS1pOEFES0RkTkJDVDln?oc=5",
-          "source": "Simply Wall Street",
-          "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
           "query": "AI 소프트웨어 관련주"
         }
       ]
@@ -366,17 +366,17 @@
       "title": "바이오 관련주 체크",
       "items": [
         {
+          "title": "백신·치료제·진단키트주 엇갈린 흐름…투자심리 살아나나 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZQnRHM1M4MVlSSTVzY1dkZWlSdFl4Zi1qUnhpd3ZLdHNSTElSYjBGZlJhSkJra1BBTXBYWkY1UjIzaW1KenFzQldXZ2hSb2htMHlYOWJJVUw0eXpJbHAtTFRuU1B6VFRJM1pVUExsdmczN0h3Umsw0gF3QVVfeXFMTllCdEczUzgxWVJJNXNjV2RlaVJ0WXhmLWpSeGl3dkt0c1JMSVJiMEZmUmFKQmtrUEFNcFhaRjVSMjNpbUp6cXNCV1dnaFJvaG0weVg5YklVTDR5eklscC1MVG5TUHpUVEkzWlVQTGx2ZzM3SHdSazA?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Wed, 14 Oct 2026 05:16:12 GMT",
+          "query": "바이오 관련주"
+        },
+        {
           "title": "치매 관련주 희비 엇갈려…하이퍼코퍼레이션 상한가, 에이비엘바이오·알지노믹스 하락 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Lc2RPNVhkblVULVFYRGpEZk5FeWxJWVlpQ0hBc2FNNEg5NTVPbDUzYkVMVUROUXE3QlVaTENfenhyNUtFMkhlR3pnVERodFNNTGpPYUxMcXJlMkx6bGhQMmZndkpLcVh6?oc=5",
           "source": "CBC뉴스",
           "publishedAt": "Wed, 14 Oct 2026 01:20:33 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "바이오 R&D 투자 우려에 관련주 약세…수주·매출 성장 확인해야 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvX3JrSWlHSXhaUTVCc3Roam0yNEtWQ2p3a1hLNy1IbnRubkxkRm5vV180OXB5b0o4b0hvU05HRW5RMWROWk5XVjlYX3FDZDczaW9yWDhQRk9GRVpZNUFaaEZGNEhKamtXbWxYMnRYTkdqcnRTbFpz0gF3QVVfeXFMUG9fcmtJaUdJeFpRNUJzdGhqbTI0S1ZDandrWEs3LUhudG5uTGRGbm9XXzQ5cHlvSjhvSG9TTkdFblExZE5aTldWOVhfcUNkNzNpb3JYOFBGT0ZFWlk1QVpoRkY0SEpqa1dtbFgydFhOR2pydFNsWnM?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Mon, 12 Oct 2026 06:02:29 GMT",
           "query": "바이오 관련주"
         },
         {
@@ -387,17 +387,17 @@
           "query": "바이오 관련주"
         },
         {
+          "title": "바이오 R&D 투자 우려에 관련주 약세…수주·매출 성장 확인해야 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCblhNaE9fSUJUeUtLQUdscVJpaGJESFVqR3dtd2gxeEVtSlhuWjU1N205a24wcnFjQm5FYmNwUk1rRW5CV1hEa3czOUdFc1BnTFlGUmw3S1FtQU4wOFJnNjRhNVd4ZEQ4amMyNTNGVlJhLUnSAXdBVV95cUxQb19ya0lpR0l4WlE1QnN0aGptMjRLVkNqd2tYSzctSG50bm5MZEZub1dfNDlweW9KOG9Ib1NOR0VuUTFkTlpOV1Y5WF9xQ2Q3M2lvclg4UEZPRkVaWTVBWmhGRjRISmprV21sWDJ0WE5HanJ0U2xacw?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Mon, 12 Oct 2026 05:44:34 GMT",
+          "query": "바이오 관련주"
+        },
+        {
           "title": "이른 독감에 SK바이오·녹십자 등 백신 테마주 관심...실제 수혜는 제한적? - 오피니언뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vOFlqb285dDlUd05FNmxDRDdpMWNRclQ3UTQxaHdzYWZLbjhQVDBBTFFJLXExaUVHWVoxaDh5SFdBOVZqVXBMNkFBWUZTaHNYekVObHZsakxoXzdtOEg1TVlqWkxrdmp4dGIyQnBtbFlhQQ?oc=5",
           "source": "오피니언뉴스",
           "publishedAt": "Mon, 21 Sep 2026 04:34:46 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
-          "source": "Naver Blog",
-          "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
           "query": "바이오 관련주"
         }
       ]
