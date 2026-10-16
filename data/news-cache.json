@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T04:25:19.475Z",
+  "fetchedAt": "2026-10-16T13:55:42.320Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -220,17 +220,10 @@
           "query": "금융주"
         },
         {
-          "title": "은행 실적 시즌 개막: AI가 선별한 금융주 추천 - Investing.com 한국어",
+          "title": "은행 실적 시즌 개막: AI가 고른 유망 금융주는? - Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wWTE1S21FcXBRLUExMDF2YUQydm4wRGdzOHZCLUUwYXhpaE5ZR2RjS3phNkpiNmduWmNhQ0FHcllaMDZpbU04cFZXd2NySFotSjd5cU5yQk13V0hTRS1BSWZfQlgzVlJBWTVld1NkUXo?oc=5",
           "source": "Investing.com 한국어",
           "publishedAt": "Tue, 13 Oct 2026 11:13:00 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "[전날 애프터마켓] '21만전자' 붕괴 속 금융주 반등…대한제강 8.5% 급등 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VZ0JDTFhPVzdMZnNxZlZHTGd0THpLYUZMaU11aGdDRFcxWmVaX2N4THZ0ajJBZ2dpNHExQm5jbk9yMHRPb1pFMEVUakxzUFRnQWJpbw?oc=5",
-          "source": "이투데이",
-          "publishedAt": "Thu, 15 Oct 2026 22:37:00 GMT",
           "query": "금융주"
         },
         {
@@ -238,6 +231,13 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZW5Vcmk3NlpGYzdUUE5MV1ZfRW50dU1VeGFPZDRyQ2w4OXNCVzZmNUNfTmcyNXZjRHNXSW0zcWgzWFdKWjFacDRNSkY5SENIRjdiR2lBX0RMcFBxMlRXTlYwZE1YMUN5b240TnFtZDJwdw?oc=5",
           "source": "인더스트리뉴스",
           "publishedAt": "Wed, 14 Oct 2026 08:44:16 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "[전날 애프터마켓] '21만전자' 붕괴 속 금융주 반등…대한제강 8.5% 급등 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VZ0JDTFhPVzdMZnNxZlZHTGd0THpLYUZMaU11aGdDRFcxWmVaX2N4THZ0ajJBZ2dpNHExQm5jbk9yMHRPb1pFMEVUakxzUFRnQWJpbw?oc=5",
+          "source": "이투데이",
+          "publishedAt": "Thu, 15 Oct 2026 22:37:00 GMT",
           "query": "금융주"
         }
       ]
@@ -333,6 +333,13 @@
           "query": "2차전지 관련주"
         },
         {
+          "title": "그나마 믿을건 배터리?…3개월 ETF 수익률 상위권 싹쓸이 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kS0tQYnJiNVlIbU5ENV9MN2FNdkRNSUlqM3dTUVNmTG14VllPLW1GRHJXRDYxdXpQWnN6YlZIU3pTdk9ET1VGOG5nbXNUV2ZaNGc?oc=5",
+          "source": "매일경제 마켓",
+          "publishedAt": "Thu, 15 Oct 2026 02:20:49 GMT",
+          "query": "2차전지 관련주"
+        },
+        {
           "title": "리튬 공급 늘고 전기차 수요 주춤… 2차전지 관련주 흔들 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BV04wOWtYN2xtbGI4OXFPWGpFQ2lQSWxzcGdPTkd0S0x1eDQ5S3hDMVZJdkFtdWFWa0ZSLVJLQnZ2eU5ZR0U2RUFyLUE2Y2NfaGFlcW9IWm5JU1dVdE5RY011SU1VQVNLYm9kYWJPVXRyU1E?oc=5",
           "source": "핀포인트뉴스",
@@ -351,13 +358,6 @@
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53TVJsaDBjV3poSmJnVU9XaXUxOV8yTno3bV9qMlJuc05BczB3Nkp0c2lEUXMxYTFVM0gyVGdoUXFfanRrRFJac3JBclhlRnZRTWpaVjVhYkZNR3VYMHJDdUpn?oc=5",
           "source": "매일신문",
           "publishedAt": "Wed, 14 Oct 2026 01:04:09 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
-          "title": "특징주, 코스모신소재-2차전지 테마 상승세에 6.04% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jSkZ2YW9idno5TDZfNG5VRlRieDdrRzlxSmRMaEoyX2VHMVFNTzFtaV9sbU5neVc2dlRVdEZzeWE2c0E1cUVla2xaazR6SC1HMnc?oc=5",
-          "source": "매일경제 마켓",
-          "publishedAt": "Wed, 14 Oct 2026 01:01:39 GMT",
           "query": "2차전지 관련주"
         }
       ]
@@ -380,17 +380,17 @@
           "query": "바이오 관련주"
         },
         {
-          "title": "전염병 이슈 잠잠하자 백신 테마주 흔들…제약·바이오 투자심리 위축 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10SmhVbmZWUWxqd0dsakdLbFJ4RTRfYUNrMXNDNEVMQXZ1VHJqWXBwZWVGN3VfQXRVeUdhOG5xdy1SeTZxRGRja3dSRVBSN01UMUUwVmp6NTVHcU5xOGo2bnN2dTEtd29QbkFHYWtMVGEyUmPSAXdBVV95cUxOM0JaZGpiZHRKQXd5MjRrN2xYc0hYTmlqSG44RHAyOFpWVElRdk56czZSeUVxRWFtcGJUUFZWSjhQalZGWWNKUmZ3dFRtSEJMcUp5TDF0QVo2b1cxR19yT0lOMHZDaUpaWXBIRnV2MjZIVk9ITW83MA?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Thu, 15 Oct 2026 04:48:13 GMT",
-          "query": "바이오 관련주"
-        },
-        {
           "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
           "source": "Naver Blog",
           "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "전염병 이슈 잠잠하자 백신 테마주 흔들…제약·바이오 투자심리 위축 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10SmhVbmZWUWxqd0dsakdLbFJ4RTRfYUNrMXNDNEVMQXZ1VHJqWXBwZWVGN3VfQXRVeUdhOG5xdy1SeTZxRGRja3dSRVBSN01UMUUwVmp6NTVHcU5xOGo2bnN2dTEtd29QbkFHYWtMVGEyUmPSAXdBVV95cUxOM0JaZGpiZHRKQXd5MjRrN2xYc0hYTmlqSG44RHAyOFpWVElRdk56czZSeUVxRWFtcGJUUFZWSjhQalZGWWNKUmZ3dFRtSEJMcUp5TDF0QVo2b1cxR19yT0lOMHZDaUpaWXBIRnV2MjZIVk9ITW83MA?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Thu, 15 Oct 2026 04:48:13 GMT",
           "query": "바이오 관련주"
         },
         {
