@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-10-17T12:56:24.421Z",
+  "discoveredAt": "2026-10-18T04:25:20.555Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,7 +57,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 29,
+      "score": 30,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -177,6 +177,14 @@
           ]
         },
         {
+          "title": "[테마시황] 멈추지 않는 AI 투자 열기, 광통신·반도체 '들썩' - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yLUNVNmtTN0JTdTltYzZZOHNIRjVBRnFQNXdmQUtzczlDeVllZ1lKOFBqSE1sTkNTMEZUbEhnLTZnTWFpb1M0YmJfUlRvTmpJZjVYSXpVQTlHSWh5YWpGVnpodHFaTU82eE11d25YdFlyNTRGcGc?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
           "title": "AI 데이터센터 인터커넥트 수요 급증: 어느 광통신 관련주가 가장 큰 수혜를 볼까? 주목할 미국 주식 5선 - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc09UNUhKbnJWajZObGJkNFhTc1QtWTFna0hMYnpXanJoTURpNDI3eGZVSGpxYVQyODZaUXVCLW1NSWQ5REY4Y0dwQ2ZqMENaNzRUTmFCTUw3dUFsOGNSb3dEX3AzV0ctV2pnUm5mUnFiZnRsZ2ZYX043QlJXRE10VVl3RkFvREFybXgwOVRDWVNTX0o1RHlieFk4VFhuTzgxM1lZSnVwbGlLSWlYcjlpMnRSb3FwUVFfWXZ5UEYzcmxXVko0RzZmSlV1NA?oc=5",
           "query": "증시 수혜주 관련주",
@@ -187,14 +195,6 @@
         {
           "title": "제조 현장에 로봇 투입 확대… 피지컬 AI 관련주 노려라 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LRk1Telh3ejBwV2lSOTI1WTNudUhfZ3lkamRLMmpsTzBZV2VhRWJQVlB5TW9GLWFrM29rMmxSb2xsWFlOQmtyUnpOMzNkNkVHbzIwSTlEX0Vzck1zaFRqQV9zSmtmNVNmajF2S1lQaFozSlnSAXdBVV95cUxNSU9lWTBoNl9hR2tHUng0ZkVwZGdUZl9vT0c1UmtDbHpUOWZkUm9Uc3dsNHA0ZXh5ZjdXYTFqVkJQTlhrNGJCMFg4T25rSml2TXRIRXAxZjZGZmVfa283MnE2ZEoxSFpVdG5sWDVOd1ZkcGEzaTlNdw?oc=5",
-          "query": "AI 소프트웨어 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "2026년 10월 12일 미국 AI 관련주, 브로드컴 AI 칩 600억 달러 금융 조달 추진 - AI 매터스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wVFdVVU9hUlk4MUVTbmxSQ29tbFR6a1pZNDJWMnRfZ2hucWhVQ3ZBbWhJM3pDWkJyMkxLUXhmUlU5UnhxTkVsaGdSQWVKV3otMko3Tw?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI"
@@ -359,17 +359,9 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 19,
+      "score": 18,
       "autoDiscovered": true,
       "evidence": [
-        {
-          "title": "[특징주] 美 친환경 정책 변화 기대·이익 증가 전망에 2차전지株 급등 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RMC13ZGJEX0dzb2RDTzVSNDdpc0xvb3RoV0pfYW5ITk43WGd6MVpYLUhGNUtIam04UDZyTEZ5M1RURGl2cWVSbEViVXUzQVh0cV9NVk9sT29mTGlC?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
         {
           "title": "리튬 공급 늘고 전기차 수요 주춤… 2차전지 관련주 흔들 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BV04wOWtYN2xtbGI4OXFPWGpFQ2lQSWxzcGdPTkd0S0x1eDQ5S3hDMVZJdkFtdWFWa0ZSLVJLQnZ2eU5ZR0U2RUFyLUE2Y2NfaGFlcW9IWm5JU1dVdE5RY011SU1VQVNLYm9kYWJPVXRyU1E?oc=5",
@@ -378,6 +370,14 @@
             "2차전지",
             "전기차",
             "리튬"
+          ]
+        },
+        {
+          "title": "[특징주] 美 친환경 정책 변화 기대·이익 증가 전망에 2차전지株 급등 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RMC13ZGJEX0dzb2RDTzVSNDdpc0xvb3RoV0pfYW5ITk43WGd6MVpYLUhGNUtIam04UDZyTEZ5M1RURGl2cWVSbEViVXUzQVh0cV9NVk9sT29mTGlC?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
           ]
         },
         {
@@ -460,12 +460,37 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 17,
+      "score": 18,
       "autoDiscovered": true,
       "evidence": [
         {
+          "title": "치매 테마주 약세 속 엔젠바이오 상한가…종목별 희비 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VXE3TUtpT3ZkTk9rN0dqWUxwNVF3NmtuT0Vka0oyQ3BONEJYY0tQNS04R0owNVpoOGNGVmFaRUNyLXhIWGxWNWtseTRFalpkWWI3WlFjX25VQzlsWGtUUGVtWmstSFNlT0tBYU9rYVFDeGPSAXdBVV95cUxQZjgxc1JfbGpXRmlBYzhZQ1ZMSXBnYzRQUk9jLWpUQnp3QllJRXlxZkVOLWY1Mm1qRk1HUmhDOGRrV2pXeDhQQjhPZnZhYUhLMmZkWTR5WXZEV3lqV0lHbE5wWXJqWEtkNEZJa2ZmTEhKRW52NmtfNA?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
           "title": "치매 관련주 희비 엇갈려…하이퍼코퍼레이션 상한가, 에이비엘바이오·알지노믹스 하락 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Lc2RPNVhkblVULVFYRGpEZk5FeWxJWVlpQ0hBc2FNNEg5NTVPbDUzYkVMVUROUXE3QlVaTENfenhyNUtFMkhlR3pnVERodFNNTGpPYUxMcXJlMkx6bGhQMmZndkpLcVh6?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "FDA",
+            "신약"
+          ]
+        },
+        {
+          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -478,30 +503,6 @@
           "matchedSignals": [
             "바이오",
             "제약"
-          ]
-        },
-        {
-          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "이른 독감에 SK바이오·녹십자 등 백신 테마주 관심...실제 수혜는 제한적? - 오피니언뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vOFlqb285dDlUd05FNmxDRDdpMWNRclQ3UTQxaHdzYWZLbjhQVDBBTFFJLXExaUVHWVoxaDh5SFdBOVZqVXBMNkFBWUZTaHNYekVObHZsakxoXzdtOEg1TVlqWkxrdmp4dGIyQnBtbFlhQQ?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "치매 테마주 약세 속 엔젠바이오 상한가…종목별 희비 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VXE3TUtpT3ZkTk9rN0dqWUxwNVF3NmtuT0Vka0oyQ3BONEJYY0tQNS04R0owNVpoOGNGVmFaRUNyLXhIWGxWNWtseTRFalpkWWI3WlFjX25VQzlsWGtUUGVtWmstSFNlT0tBYU9rYVFDeGPSAXdBVV95cUxQZjgxc1JfbGpXRmlBYzhZQ1ZMSXBnYzRQUk9jLWpUQnp3QllJRXlxZkVOLWY1Mm1qRk1HUmhDOGRrV2pXeDhQQjhPZnZhYUhLMmZkWTR5WXZEV3lqV0lHbE5wWXJqWEtkNEZJa2ZmTEhKRW52NmtfNA?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
           ]
         }
       ]
@@ -611,7 +612,7 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 29,
+      "score": 30,
       "evidence": [
         {
           "title": "은행 실적 시즌 개막: AI가 고른 유망 금융주는? - Investing.com 한국어",
@@ -678,6 +679,14 @@
           ]
         },
         {
+          "title": "[테마시황] 멈추지 않는 AI 투자 열기, 광통신·반도체 '들썩' - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yLUNVNmtTN0JTdTltYzZZOHNIRjVBRnFQNXdmQUtzczlDeVllZ1lKOFBqSE1sTkNTMEZUbEhnLTZnTWFpb1M0YmJfUlRvTmpJZjVYSXpVQTlHSWh5YWpGVnpodHFaTU82eE11d25YdFlyNTRGcGc?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
           "title": "AI 데이터센터 인터커넥트 수요 급증: 어느 광통신 관련주가 가장 큰 수혜를 볼까? 주목할 미국 주식 5선 - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc09UNUhKbnJWajZObGJkNFhTc1QtWTFna0hMYnpXanJoTURpNDI3eGZVSGpxYVQyODZaUXVCLW1NSWQ5REY4Y0dwQ2ZqMENaNzRUTmFCTUw3dUFsOGNSb3dEX3AzV0ctV2pnUm5mUnFiZnRsZ2ZYX043QlJXRE10VVl3RkFvREFybXgwOVRDWVNTX0o1RHlieFk4VFhuTzgxM1lZSnVwbGlLSWlYcjlpMnRSb3FwUVFfWXZ5UEYzcmxXVko0RzZmSlV1NA?oc=5",
           "query": "증시 수혜주 관련주",
@@ -688,14 +697,6 @@
         {
           "title": "제조 현장에 로봇 투입 확대… 피지컬 AI 관련주 노려라 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LRk1Telh3ejBwV2lSOTI1WTNudUhfZ3lkamRLMmpsTzBZV2VhRWJQVlB5TW9GLWFrM29rMmxSb2xsWFlOQmtyUnpOMzNkNkVHbzIwSTlEX0Vzck1zaFRqQV9zSmtmNVNmajF2S1lQaFozSlnSAXdBVV95cUxNSU9lWTBoNl9hR2tHUng0ZkVwZGdUZl9vT0c1UmtDbHpUOWZkUm9Uc3dsNHA0ZXh5ZjdXYTFqVkJQTlhrNGJCMFg4T25rSml2TXRIRXAxZjZGZmVfa283MnE2ZEoxSFpVdG5sWDVOd1ZkcGEzaTlNdw?oc=5",
-          "query": "AI 소프트웨어 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "2026년 10월 12일 미국 AI 관련주, 브로드컴 AI 칩 600억 달러 금융 조달 추진 - AI 매터스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wVFdVVU9hUlk4MUVTbmxSQ29tbFR6a1pZNDJWMnRfZ2hucWhVQ3ZBbWhJM3pDWkJyMkxLUXhmUlU5UnhxTkVsaGdSQWVKV3otMko3Tw?oc=5",
           "query": "AI 소프트웨어 관련주",
           "matchedSignals": [
             "AI"
@@ -758,16 +759,8 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 19,
+      "score": 18,
       "evidence": [
-        {
-          "title": "[특징주] 美 친환경 정책 변화 기대·이익 증가 전망에 2차전지株 급등 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RMC13ZGJEX0dzb2RDTzVSNDdpc0xvb3RoV0pfYW5ITk43WGd6MVpYLUhGNUtIam04UDZyTEZ5M1RURGl2cWVSbEViVXUzQVh0cV9NVk9sT29mTGlC?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "2차전지"
-          ]
-        },
         {
           "title": "리튬 공급 늘고 전기차 수요 주춤… 2차전지 관련주 흔들 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BV04wOWtYN2xtbGI4OXFPWGpFQ2lQSWxzcGdPTkd0S0x1eDQ5S3hDMVZJdkFtdWFWa0ZSLVJLQnZ2eU5ZR0U2RUFyLUE2Y2NfaGFlcW9IWm5JU1dVdE5RY011SU1VQVNLYm9kYWJPVXRyU1E?oc=5",
@@ -776,6 +769,14 @@
             "2차전지",
             "전기차",
             "리튬"
+          ]
+        },
+        {
+          "title": "[특징주] 美 친환경 정책 변화 기대·이익 증가 전망에 2차전지株 급등 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RMC13ZGJEX0dzb2RDTzVSNDdpc0xvb3RoV0pfYW5ITk43WGd6MVpYLUhGNUtIam04UDZyTEZ5M1RURGl2cWVSbEViVXUzQVh0cV9NVk9sT29mTGlC?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
           ]
         },
         {
@@ -807,11 +808,36 @@
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 17,
+      "score": 18,
       "evidence": [
+        {
+          "title": "치매 테마주 약세 속 엔젠바이오 상한가…종목별 희비 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VXE3TUtpT3ZkTk9rN0dqWUxwNVF3NmtuT0Vka0oyQ3BONEJYY0tQNS04R0owNVpoOGNGVmFaRUNyLXhIWGxWNWtseTRFalpkWWI3WlFjX25VQzlsWGtUUGVtWmstSFNlT0tBYU9rYVFDeGPSAXdBVV95cUxQZjgxc1JfbGpXRmlBYzhZQ1ZMSXBnYzRQUk9jLWpUQnp3QllJRXlxZkVOLWY1Mm1qRk1HUmhDOGRrV2pXeDhQQjhPZnZhYUhLMmZkWTR5WXZEV3lqV0lHbE5wWXJqWEtkNEZJa2ZmTEhKRW52NmtfNA?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
         {
           "title": "치매 관련주 희비 엇갈려…하이퍼코퍼레이션 상한가, 에이비엘바이오·알지노믹스 하락 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Lc2RPNVhkblVULVFYRGpEZk5FeWxJWVlpQ0hBc2FNNEg5NTVPbDUzYkVMVUROUXE3QlVaTENfenhyNUtFMkhlR3pnVERodFNNTGpPYUxMcXJlMkx6bGhQMmZndkpLcVh6?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "FDA",
+            "신약"
+          ]
+        },
+        {
+          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -824,30 +850,6 @@
           "matchedSignals": [
             "바이오",
             "제약"
-          ]
-        },
-        {
-          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "이른 독감에 SK바이오·녹십자 등 백신 테마주 관심...실제 수혜는 제한적? - 오피니언뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vOFlqb285dDlUd05FNmxDRDdpMWNRclQ3UTQxaHdzYWZLbjhQVDBBTFFJLXExaUVHWVoxaDh5SFdBOVZqVXBMNkFBWUZTaHNYekVObHZsakxoXzdtOEg1TVlqWkxrdmp4dGIyQnBtbFlhQQ?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "치매 테마주 약세 속 엔젠바이오 상한가…종목별 희비 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VXE3TUtpT3ZkTk9rN0dqWUxwNVF3NmtuT0Vka0oyQ3BONEJYY0tQNS04R0owNVpoOGNGVmFaRUNyLXhIWGxWNWtseTRFalpkWWI3WlFjX25VQzlsWGtUUGVtWmstSFNlT0tBYU9rYVFDeGPSAXdBVV95cUxQZjgxc1JfbGpXRmlBYzhZQ1ZMSXBnYzRQUk9jLWpUQnp3QllJRXlxZkVOLWY1Mm1qRk1HUmhDOGRrV2pXeDhQQjhPZnZhYUhLMmZkWTR5WXZEV3lqV0lHbE5wWXJqWEtkNEZJa2ZmTEhKRW52NmtfNA?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
           ]
         }
       ]
