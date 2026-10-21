@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-10-20T14:16:25.880Z",
+  "discoveredAt": "2026-10-21T04:39:36.993Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -58,7 +58,7 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 27,
+      "score": 28,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -158,17 +158,9 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 27,
+      "score": 28,
       "autoDiscovered": true,
       "evidence": [
-        {
-          "title": "[개장 시황] 코스피, 하락 출발…금융주·기술주 부담 ↑ - 필드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXSU5JbVppS1FVZHJZTkpGRWpCR1FsSFNpM2hBTm1qekgzTjNfVnJHRllkMG1CYklGbnNRWjl1QWJEVEZsOGdLUVc1ZWxYZ3lpY3l2cXcwNDRXNUFYeTh1UU9hSkxtdUs10gFsQVVfeXFMUHBJd0RRanpfMGVDZU5NejdsUmdMZGxOLW1HMEl6LWFITmtjb0R3MWQzRG1FZWFHTm91M0JRU0QzOXJjV18tTVJPWVVmM1pBdmp3cGN0MGNodVp5ODZacVk5Q1Fra1dWRkxJbHRo?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
         {
           "title": "\"AI주 위험 집중 헤지 필요…헬스케어·금융주 등 비중 확대\" - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMGpPVUhiSzMySTQ1T3dxTzNXU3AxdEdudFFCRTJYR0pmcjEwc3g1TDU2YXhqSWpDUUdrYjFjdDhlc3hqdDVNandzZ3V2NEJFOXJPQU1qQ0NLNExicWpRSFFfb2V1aXNRZmxlaGlITS0?oc=5",
@@ -194,112 +186,19 @@
           ]
         },
         {
-          "title": "[美증시] AI·반도체 반등에 나스닥 상승…금융주 약세 다우는 약보합 - 미디어펜",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BMTVYUkRmcWxDLXY0T0xDdmN0VFRHOEx6aDJNRlRvOW5HSHA5aHVCckZreGY4VEtaT0Zvb1h0WDl3aVdWUWU3Y2N1N3BTOG53cVBCNdIBWEFVX3lxTFBSeWFGeEhwcmJTbktRdzFzcHVNU3IyN3NZbkhBLUUwRi1KMEMzRnJURUR1RUl4WFBqY0c5R2hNUnBhRnlpNVZYdlQ0ZVROZk1xeUZkX3pmbVA?oc=5",
+          "title": "금융주 덮친 해킹 악재…신한·우리금융 2주 새 11% 넘게 하락 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZW5Vcmk3NlpGYzdUUE5MV1ZfRW50dU1VeGFPZDRyQ2w4OXNCVzZmNUNfTmcyNXZjRHNXSW0zcWgzWFdKWjFacDRNSkY5SENIRjdiR2lBX0RMcFBxMlRXTlYwZE1YMUN5b240TnFtZDJwdw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
-        }
-      ]
-    },
-    {
-      "slug": "bio-stocks",
-      "title": "바이오 관련주 체크",
-      "pageTitle": "바이오 관련주 뉴스 체크 | 임상·기술수출 테마 체크",
-      "description": "삼성바이오로직스, 셀트리온, 알테오젠 등 바이오 관련주의 임상, 기술수출, CMO 테마 체크포인트를 모아보는 정보 페이지입니다.",
-      "keywords": "바이오 관련주, 제약바이오 관련주, 삼성바이오로직스, 셀트리온, 알테오젠, 기술수출",
-      "intro": "바이오 테마는 임상 결과, 기술수출, FDA 승인, CMO 수주 뉴스에 민감합니다. 기대감과 실제 매출·마일스톤 반영을 구분하세요.",
-      "searchQueries": [
-        "바이오 관련주",
-        "제약바이오 관련주",
-        "기술수출 관련주"
-      ],
-      "stocks": [
-        {
-          "name": "삼성바이오로직스",
-          "code": "207940",
-          "tags": [
-            "CMO",
-            "바이오",
-            "대형주"
-          ],
-          "summary": "바이오 CMO 대표 종목입니다. 수주 잔고, 증설, 환율 영향을 같이 확인하세요."
         },
         {
-          "name": "셀트리온",
-          "code": "068270",
-          "tags": [
-            "바이오시밀러",
-            "제약",
-            "대형주"
-          ],
-          "summary": "바이오시밀러와 합병 시너지 이슈로 주목됩니다. 제품 허가와 판매 성장을 확인하세요."
-        },
-        {
-          "name": "알테오젠",
-          "code": "196170",
-          "tags": [
-            "플랫폼",
-            "기술수출",
-            "바이오"
-          ],
-          "summary": "플랫폼 기술과 기술수출 이슈로 자주 검색됩니다. 계약 조건과 마일스톤 인식 가능성을 확인하세요."
-        }
-      ],
-      "checklist": [
-        "임상 결과나 허가 뉴스가 공식 자료로 확인되는가?",
-        "기술수출 계약의 규모와 조건이 명확한가?",
-        "적자 기업이라면 현금흐름과 증자 가능성을 확인했는가?",
-        "단일 뉴스에 따른 급등락 리스크는 없는가?"
-      ],
-      "related": [
-        "kospi-kosdaq.html",
-        "robot-stocks.html"
-      ],
-      "score": 21,
-      "autoDiscovered": true,
-      "evidence": [
-        {
-          "title": "차세대 바이오 기술 부각…마이크로바이옴 관련주 훨훨 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wdWdKZ1ZmZDF6dnJ3ZWRMYmFibkJHTG5KYVladTNPaVB5bkw0R1RNUVNYaDVOUWFhSGNucVZ4SVI1US16ejFwQkxzMDJITXh2al9qTmZMVGRsNTg3RFNfNnlWeUdkOWZxMllhekJmOHl6anNLV1FF0gF3QVVfeXFMT3B1Z0pnVmZkMXp2cndlZExiYWJuQkdMbkphWVp1M09pUHluTDRHVE1RU1hoNU5RYWFIY25xVnhJUjVRLXp6MXBCTHMwMkhNeHZqX2pOZkxUZGw1ODdEU182eVZ5R2Q5ZnEyWWF6QmY4eXpqc0tXUUU?oc=5",
-          "query": "바이오 관련주",
+          "title": "은행 실적 시즌 개막: AI가 고른 유망 금융주는? - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wWTE1S21FcXBRLUExMDF2YUQydm4wRGdzOHZCLUUwYXhpaE5ZR2RjS3phNkpiNmduWmNhQ0FHcllaMDZpbU04cFZXd2NySFotSjd5cU5yQk13V0hTRS1BSWZfQlgzVlJBWTVld1NkUXo?oc=5",
+          "query": "금융주",
           "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "코스피·코스닥 이틀 연속↑···제약·바이오·화학 중심 - 더리포트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11bDZmUjV3bzc0c01IUXFpdmNCaWpTeGdmUHA2ODlMSkNXbzNTOWM4Nk1pSUFKTVcyRmdNVFRpVm4tSDZmaWpjVURRRjA3dUZvNTREaGEtdUJfWXRpV2VfbjRVRy1neWNPM1dQQzZn?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오",
-            "제약"
-          ]
-        },
-        {
-          "title": "알테오젠·삼성에피스홀딩스 등 바이오시밀러주 동반 강세…코스닥 4%대 반등 속 상승세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WeEpwMWdIcDB5M29pbzBKUU1aekZ3YWVFSHVnY2VpRVJIT1ZyV1YwbDVNejVOazhWQnh1V1NYcW5UVWF0cUlXQnhOd2MzdnlwOGtIWktJcGNUVTNPWTF2Z19WcEI3SG9R?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "FDA",
-            "신약"
-          ]
-        },
-        {
-          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
+            "금융주"
           ]
         }
       ]
@@ -399,6 +298,107 @@
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bio-stocks",
+      "title": "바이오 관련주 체크",
+      "pageTitle": "바이오 관련주 뉴스 체크 | 임상·기술수출 테마 체크",
+      "description": "삼성바이오로직스, 셀트리온, 알테오젠 등 바이오 관련주의 임상, 기술수출, CMO 테마 체크포인트를 모아보는 정보 페이지입니다.",
+      "keywords": "바이오 관련주, 제약바이오 관련주, 삼성바이오로직스, 셀트리온, 알테오젠, 기술수출",
+      "intro": "바이오 테마는 임상 결과, 기술수출, FDA 승인, CMO 수주 뉴스에 민감합니다. 기대감과 실제 매출·마일스톤 반영을 구분하세요.",
+      "searchQueries": [
+        "바이오 관련주",
+        "제약바이오 관련주",
+        "기술수출 관련주"
+      ],
+      "stocks": [
+        {
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "tags": [
+            "CMO",
+            "바이오",
+            "대형주"
+          ],
+          "summary": "바이오 CMO 대표 종목입니다. 수주 잔고, 증설, 환율 영향을 같이 확인하세요."
+        },
+        {
+          "name": "셀트리온",
+          "code": "068270",
+          "tags": [
+            "바이오시밀러",
+            "제약",
+            "대형주"
+          ],
+          "summary": "바이오시밀러와 합병 시너지 이슈로 주목됩니다. 제품 허가와 판매 성장을 확인하세요."
+        },
+        {
+          "name": "알테오젠",
+          "code": "196170",
+          "tags": [
+            "플랫폼",
+            "기술수출",
+            "바이오"
+          ],
+          "summary": "플랫폼 기술과 기술수출 이슈로 자주 검색됩니다. 계약 조건과 마일스톤 인식 가능성을 확인하세요."
+        }
+      ],
+      "checklist": [
+        "임상 결과나 허가 뉴스가 공식 자료로 확인되는가?",
+        "기술수출 계약의 규모와 조건이 명확한가?",
+        "적자 기업이라면 현금흐름과 증자 가능성을 확인했는가?",
+        "단일 뉴스에 따른 급등락 리스크는 없는가?"
+      ],
+      "related": [
+        "kospi-kosdaq.html",
+        "robot-stocks.html"
+      ],
+      "score": 20,
+      "autoDiscovered": true,
+      "evidence": [
+        {
+          "title": "차세대 바이오 기술 부각…마이크로바이옴 관련주 훨훨 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wdWdKZ1ZmZDF6dnJ3ZWRMYmFibkJHTG5KYVladTNPaVB5bkw0R1RNUVNYaDVOUWFhSGNucVZ4SVI1US16ejFwQkxzMDJITXh2al9qTmZMVGRsNTg3RFNfNnlWeUdkOWZxMllhekJmOHl6anNLV1FF0gF3QVVfeXFMT3B1Z0pnVmZkMXp2cndlZExiYWJuQkdMbkphWVp1M09pUHluTDRHVE1RU1hoNU5RYWFIY25xVnhJUjVRLXp6MXBCTHMwMkhNeHZqX2pOZkxUZGw1ODdEU182eVZ5R2Q5ZnEyWWF6QmY4eXpqc0tXUUU?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "코스피·코스닥 이틀 연속↑···제약·바이오·화학 중심 - 더리포트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11bDZmUjV3bzc0c01IUXFpdmNCaWpTeGdmUHA2ODlMSkNXbzNTOWM4Nk1pSUFKTVcyRmdNVFRpVm4tSDZmaWpjVURRRjA3dUZvNTREaGEtdUJfWXRpV2VfbjRVRy1neWNPM1dQQzZn?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오",
+            "제약"
+          ]
+        },
+        {
+          "title": "알테오젠·삼성에피스홀딩스 등 바이오시밀러주 동반 강세…코스닥 4%대 반등 속 상승세 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WeEpwMWdIcDB5M29pbzBKUU1aekZ3YWVFSHVnY2VpRVJIT1ZyV1YwbDVNejVOazhWQnh1V1NYcW5UVWF0cUlXQnhOd2MzdnlwOGtIWktJcGNUVTNPWTF2Z19WcEI3SG9R?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "FDA",
+            "신약"
+          ]
+        },
+        {
+          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
           ]
         }
       ]
@@ -560,7 +560,7 @@
         "hbm-stocks.html",
         "nuclear-stocks.html"
       ],
-      "score": 14,
+      "score": 13,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -611,7 +611,7 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 27,
+      "score": 28,
       "evidence": [
         {
           "title": "AI 투자 우려 속 코스피 하락 출발…에너지·방산 강세[오전시황] - 한국경제",
@@ -660,16 +660,8 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 27,
+      "score": 28,
       "evidence": [
-        {
-          "title": "[개장 시황] 코스피, 하락 출발…금융주·기술주 부담 ↑ - 필드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXSU5JbVppS1FVZHJZTkpGRWpCR1FsSFNpM2hBTm1qekgzTjNfVnJHRllkMG1CYklGbnNRWjl1QWJEVEZsOGdLUVc1ZWxYZ3lpY3l2cXcwNDRXNUFYeTh1UU9hSkxtdUs10gFsQVVfeXFMUHBJd0RRanpfMGVDZU5NejdsUmdMZGxOLW1HMEl6LWFITmtjb0R3MWQzRG1FZWFHTm91M0JRU0QzOXJjV18tTVJPWVVmM1pBdmp3cGN0MGNodVp5ODZacVk5Q1Fra1dWRkxJbHRo?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
         {
           "title": "\"AI주 위험 집중 헤지 필요…헬스케어·금융주 등 비중 확대\" - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMGpPVUhiSzMySTQ1T3dxTzNXU3AxdEdudFFCRTJYR0pmcjEwc3g1TDU2YXhqSWpDUUdrYjFjdDhlc3hqdDVNandzZ3V2NEJFOXJPQU1qQ0NLNExicWpRSFFfb2V1aXNRZmxlaGlITS0?oc=5",
@@ -695,60 +687,19 @@
           ]
         },
         {
-          "title": "[美증시] AI·반도체 반등에 나스닥 상승…금융주 약세 다우는 약보합 - 미디어펜",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BMTVYUkRmcWxDLXY0T0xDdmN0VFRHOEx6aDJNRlRvOW5HSHA5aHVCckZreGY4VEtaT0Zvb1h0WDl3aVdWUWU3Y2N1N3BTOG53cVBCNdIBWEFVX3lxTFBSeWFGeEhwcmJTbktRdzFzcHVNU3IyN3NZbkhBLUUwRi1KMEMzRnJURUR1RUl4WFBqY0c5R2hNUnBhRnlpNVZYdlQ0ZVROZk1xeUZkX3pmbVA?oc=5",
+          "title": "금융주 덮친 해킹 악재…신한·우리금융 2주 새 11% 넘게 하락 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZW5Vcmk3NlpGYzdUUE5MV1ZfRW50dU1VeGFPZDRyQ2w4OXNCVzZmNUNfTmcyNXZjRHNXSW0zcWgzWFdKWjFacDRNSkY5SENIRjdiR2lBX0RMcFBxMlRXTlYwZE1YMUN5b240TnFtZDJwdw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
-        }
-      ]
-    },
-    {
-      "slug": "bio-stocks",
-      "title": "바이오 관련주 체크",
-      "score": 21,
-      "evidence": [
-        {
-          "title": "차세대 바이오 기술 부각…마이크로바이옴 관련주 훨훨 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wdWdKZ1ZmZDF6dnJ3ZWRMYmFibkJHTG5KYVladTNPaVB5bkw0R1RNUVNYaDVOUWFhSGNucVZ4SVI1US16ejFwQkxzMDJITXh2al9qTmZMVGRsNTg3RFNfNnlWeUdkOWZxMllhekJmOHl6anNLV1FF0gF3QVVfeXFMT3B1Z0pnVmZkMXp2cndlZExiYWJuQkdMbkphWVp1M09pUHluTDRHVE1RU1hoNU5RYWFIY25xVnhJUjVRLXp6MXBCTHMwMkhNeHZqX2pOZkxUZGw1ODdEU182eVZ5R2Q5ZnEyWWF6QmY4eXpqc0tXUUU?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
         },
         {
-          "title": "코스피·코스닥 이틀 연속↑···제약·바이오·화학 중심 - 더리포트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11bDZmUjV3bzc0c01IUXFpdmNCaWpTeGdmUHA2ODlMSkNXbzNTOWM4Nk1pSUFKTVcyRmdNVFRpVm4tSDZmaWpjVURRRjA3dUZvNTREaGEtdUJfWXRpV2VfbjRVRy1neWNPM1dQQzZn?oc=5",
-          "query": "바이오 관련주",
+          "title": "은행 실적 시즌 개막: AI가 고른 유망 금융주는? - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wWTE1S21FcXBRLUExMDF2YUQydm4wRGdzOHZCLUUwYXhpaE5ZR2RjS3phNkpiNmduWmNhQ0FHcllaMDZpbU04cFZXd2NySFotSjd5cU5yQk13V0hTRS1BSWZfQlgzVlJBWTVld1NkUXo?oc=5",
+          "query": "금융주",
           "matchedSignals": [
-            "바이오",
-            "제약"
-          ]
-        },
-        {
-          "title": "알테오젠·삼성에피스홀딩스 등 바이오시밀러주 동반 강세…코스닥 4%대 반등 속 상승세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WeEpwMWdIcDB5M29pbzBKUU1aekZ3YWVFSHVnY2VpRVJIT1ZyV1YwbDVNejVOazhWQnh1V1NYcW5UVWF0cUlXQnhOd2MzdnlwOGtIWktJcGNUVTNPWTF2Z19WcEI3SG9R?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "FDA",
-            "신약"
-          ]
-        },
-        {
-          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
+            "금융주"
           ]
         }
       ]
@@ -796,6 +747,55 @@
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bio-stocks",
+      "title": "바이오 관련주 체크",
+      "score": 20,
+      "evidence": [
+        {
+          "title": "차세대 바이오 기술 부각…마이크로바이옴 관련주 훨훨 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wdWdKZ1ZmZDF6dnJ3ZWRMYmFibkJHTG5KYVladTNPaVB5bkw0R1RNUVNYaDVOUWFhSGNucVZ4SVI1US16ejFwQkxzMDJITXh2al9qTmZMVGRsNTg3RFNfNnlWeUdkOWZxMllhekJmOHl6anNLV1FF0gF3QVVfeXFMT3B1Z0pnVmZkMXp2cndlZExiYWJuQkdMbkphWVp1M09pUHluTDRHVE1RU1hoNU5RYWFIY25xVnhJUjVRLXp6MXBCTHMwMkhNeHZqX2pOZkxUZGw1ODdEU182eVZ5R2Q5ZnEyWWF6QmY4eXpqc0tXUUU?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "코스피·코스닥 이틀 연속↑···제약·바이오·화학 중심 - 더리포트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11bDZmUjV3bzc0c01IUXFpdmNCaWpTeGdmUHA2ODlMSkNXbzNTOWM4Nk1pSUFKTVcyRmdNVFRpVm4tSDZmaWpjVURRRjA3dUZvNTREaGEtdUJfWXRpV2VfbjRVRy1neWNPM1dQQzZn?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오",
+            "제약"
+          ]
+        },
+        {
+          "title": "알테오젠·삼성에피스홀딩스 등 바이오시밀러주 동반 강세…코스닥 4%대 반등 속 상승세 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WeEpwMWdIcDB5M29pbzBKUU1aekZ3YWVFSHVnY2VpRVJIT1ZyV1YwbDVNejVOazhWQnh1V1NYcW5UVWF0cUlXQnhOd2MzdnlwOGtIWktJcGNUVTNPWTF2Z19WcEI3SG9R?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "FDA",
+            "신약"
+          ]
+        },
+        {
+          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
           ]
         }
       ]
@@ -855,7 +855,7 @@
     {
       "slug": "power-equipment-stocks",
       "title": "전력기기 관련주 체크",
-      "score": 14,
+      "score": 13,
       "evidence": [
         {
           "title": "[박정식의 국내 주식시황] 데이터센터 제동에 반도체 숨 고르기…국내증시 차익매물 경계 - 뉴스퀘스트",

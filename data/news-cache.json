@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T14:16:25.918Z",
+  "fetchedAt": "2026-10-21T04:39:37.112Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -86,10 +86,17 @@
       "title": "조선 관련주 체크",
       "items": [
         {
-          "title": "조선 관련주, 북극항로 시대 기대감 속 상승세?…삼성중공업·HD한국조선해양 강세, 한화오션 약세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qWXFsVVBrRGx0VGs4RzhCYmVKbTdNUEtwa21ZYjg3azd4OGUxbTB2Um9Wby1yMnZvYnU4cWZwS1ZQMGFadU50bFhIVzVZOHdjM0NhLVRzT2ZEYUR5eFJFNDJ6Ni1lNUNO?oc=5",
+          "title": "삼성중공업·한화오션·HJ중공업 상승…K-조선, 1.4조원 M.AX 프로젝트 주목 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnamJLZEpQMHZDYmpudHZSdllJeGJSVHM5OWFZaG9NRDVkR3IwUlpBUXl2enhzS0owLTk2bkNjcHJOaTVnbzhJOEFyTVlOZENFa2IyRGFuM2RuRlFxNm1jRDE2azhGc29J?oc=5",
           "source": "CBC뉴스",
-          "publishedAt": "Wed, 14 Oct 2026 01:29:52 GMT",
+          "publishedAt": "Wed, 21 Oct 2026 00:39:57 GMT",
+          "query": "조선 관련주"
+        },
+        {
+          "title": "[속보] STX엔진·한화엔진·HD현대마린엔진 동반 상승…조선 엔진 관련주 강세 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xMmdlWTJsYllrcThMNTBndVJwYl9teUFXZWxIRUlBMmN2aFp0MTY2WTMxT3NVdzNqWm0yYldjbkpnWS03SWVWSDdndWRiR2xja2hXWVI2UXZvcnNhaHowNGUwekNhMUZR?oc=5",
+          "source": "CBC뉴스",
+          "publishedAt": "Wed, 21 Oct 2026 00:27:24 GMT",
           "query": "조선 관련주"
         },
         {
@@ -112,13 +119,6 @@
           "source": "한국경제",
           "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
           "query": "조선 관련주"
-        },
-        {
-          "title": "[SMR 패권경쟁③] SMR 수혜주 어디…원전株 넘어 조선·연료 눈길 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TVhtanY0MWE5WUxCZUcxcXBDa0hUT2lrQkRBSUlkeTdESU1jcm9MdjJzVDRqMnMxaEs2QXctOHNiRC11VnpCcG1SbDRadTRNNFdNUV9Uck1SN1RtbDNDRldlVTgyTDJEb1JUVTQwdGU?oc=5",
-          "source": "연합인포맥스",
-          "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
-          "query": "조선 관련주"
         }
       ]
     },
@@ -140,24 +140,24 @@
           "query": "원전 관련주"
         },
         {
-          "title": "오전장핫이슈(3월18일), '원전 대미협상실무단', '금융 자본시장 간담회' ,'드론 美 드론 대량생산' : 네이버 블로그 - 블로그",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTWJUYWt5UkM4cEZhdDYzNlVIclp3Z0pzOWxxYk12TURTOHp3VklmcGp3TE5Tc0VQVVlrWHBwVWJ5WlhjUm5fMmg4NTRSQzdWODZDYzlRMEhZdU5QYlpmUjFiallpcUdCdjVRMjEzal9oVlF4a2M1ZWpHRTcyQ0k?oc=5",
-          "source": "블로그",
-          "publishedAt": "Tue, 13 Oct 2026 11:35:27 GMT",
+          "title": "대규모 원전 호재 터졌다…원전 관련주 상한가 행진 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TdTI1aVhkc3dQblZGTWNHUGVUSERNczdFdW43MEZzeW52TGlIbTdvcGFLNWs2S1IzVi0yT01rZi1nNE9kbi16S1A3cnlySHhLdHc?oc=5",
+          "source": "매일경제",
+          "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
           "query": "원전 관련주"
         },
         {
-          "title": "AI 전력난에 미국 원전 재건까지…원전 관련주 강세, 디케이락 급등 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ITDZhV1U5bGUyaW1QbU1PeDNESW5iYWVDQzZlSzRaM3ctR3Fwak8xcTFSclNaNW9mdUdmdUVXZGFpU1RyT1Brc2VNWDBBZkZWandwZFBYM2ptWlI4ZDNwUGgzQTlYcGl1eUpPSFFrbnp1TUXSAXdBVV95cUxOMkFsS2dPeG04bnJVTlJHRi1JOUxRQWV6OGN4TU5nVGZlMTd2ZEFEVnpGSkEyNHBHVFktSWJsbzFvc0Z5R2phRmlXUXMwSF9SN3JyNGZUVUFyZnFyY1J1S183d1lFOThPN3JyQmFldHZsUVJPSmhGRQ?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT",
+          "title": "[SMR 패권경쟁③] SMR 수혜주 어디…원전株 넘어 조선·연료 눈길 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TVhtanY0MWE5WUxCZUcxcXBDa0hUT2lrQkRBSUlkeTdESU1jcm9MdjJzVDRqMnMxaEs2QXctOHNiRC11VnpCcG1SbDRadTRNNFdNUV9Uck1SN1RtbDNDRldlVTgyTDJEb1JUVTQwdGU?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
           "query": "원전 관련주"
         },
         {
-          "title": "원전해체 관련주 흐름 주시…두산에너빌리티·우리기술·오르비텍·케이엔알시스템 주가 호조 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wTEs0T2VJcmRSa0dPQnFDWUdOMFBCcVcwZi15TW5jTkx1ZVFMVHFCb0kwWUxXaUdZeWhEd0ZXdHVodjRyR3Z0LTFxYWh6Q3ZieFNPRVcwV1pZaF9sRzM0ZGk3d0w1d1c2?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Fri, 16 Oct 2026 01:44:27 GMT",
+          "title": "엇갈린 원전 관련주…한전기술 39% 뛸때 한국전력은 6% 하락 - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vVU9OR1RZa2c5YV83cFdUM0FVbUd5VlZFYktoNnRXdFA2X2F6aXBuS25nVTdvSXBkMnA4ZmpaRHY1MmdUMWxubE1xZGFTOFpXRmfSAVNBVV95cUxNWDFzcUE0MmJqb1djdGdPR0RjS2sxZk9ZVldPazg4OV9NM3kxVUFhUGZfalk4bHJETDFVVkhVaWRBanN6Y043UHM1Q3h2RkI3OEVEZw?oc=5",
+          "source": "서울경제",
+          "publishedAt": "Sun, 20 Sep 2026 07:00:00 GMT",
           "query": "원전 관련주"
         }
       ]
@@ -165,13 +165,6 @@
     "robot-stocks": {
       "title": "로봇 관련주 체크",
       "items": [
-        {
-          "title": "\"24시간 일하는 로봇 나온다\" 들썩…하락장에도 로봇주 '급등' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNUEyeFZUc0ZfS1lwSkxvSEx2YTM2QldLNm43TUpyNUo1c1l6cFZoNEprRGc1clZWeV94bWVOd2EtWlNoa05iUTBCMW9WYmlPd2o0WE4xQ0MtUQ?oc=5",
-          "source": "한국경제",
-          "publishedAt": "Tue, 20 Oct 2026 07:23:00 GMT",
-          "query": "로봇 관련주"
-        },
         {
           "title": "삼성·현대차도 뛰어들더니…'24% 폭등' 관심 쏟아진 종목 - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pRVo4N242c1g4QlAxUkN2M3kxS3JNSENyMzFvWG8xcmctSEE5SHluc3BBempDYUVVRnFIY21PdTM0eWtrQVktTXhSdFVIeHhveU9RckhXTUFjQQ?oc=5",
@@ -198,6 +191,13 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BdExYY3NTZncwdDZ4TmVtc0ZrejBCSFF0YW1ZZ1lQd2FVVlZmaWtMV3NycHl3YmktclBwdmdGVVplY1VINTRwbDJnNUl0THVMRkxlRS16MzJvSjF3NVRDbUc4NGRJeEhuOWIydk5tRVhKZXRNLVRV0gF3QVVfeXFMT0F0TFhjc1NmdzB0NnhOZW1zRmt6MEJIUXRhbVlnWVB3YVVWVmZpa0xXc3JweXdiaS1yUHB2Z0ZVWmVjVUg1NHBsMmc1SXRMdUxGTGVFLXozMm9KMXc1VENtRzg0ZEl4SG45YjJ2Tm1FWEpldE0tVFU?oc=5",
           "source": "핀포인트뉴스",
           "publishedAt": "Mon, 19 Oct 2026 06:56:56 GMT",
+          "query": "로봇 관련주"
+        },
+        {
+          "title": "\"24시간 일하는 로봇 나온다\" 들썩…하락장에도 로봇주 '급등' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNUEyeFZUc0ZfS1lwSkxvSEx2YTM2QldLNm43TUpyNUo1c1l6cFZoNEprRGc1clZWeV94bWVOd2EtWlNoa05iUTBCMW9WYmlPd2o0WE4xQ0MtUQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "Tue, 20 Oct 2026 07:23:00 GMT",
           "query": "로봇 관련주"
         }
       ]
@@ -246,24 +246,10 @@
       "title": "금융주 체크",
       "items": [
         {
-          "title": "[개장 시황] 코스피, 하락 출발…금융주·기술주 부담 ↑ - 필드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXSU5JbVppS1FVZHJZTkpGRWpCR1FsSFNpM2hBTm1qekgzTjNfVnJHRllkMG1CYklGbnNRWjl1QWJEVEZsOGdLUVc1ZWxYZ3lpY3l2cXcwNDRXNUFYeTh1UU9hSkxtdUs10gFsQVVfeXFMUHBJd0RRanpfMGVDZU5NejdsUmdMZGxOLW1HMEl6LWFITmtjb0R3MWQzRG1FZWFHTm91M0JRU0QzOXJjV18tTVJPWVVmM1pBdmp3cGN0MGNodVp5ODZacVk5Q1Fra1dWRkxJbHRo?oc=5",
-          "source": "필드뉴스",
-          "publishedAt": "Tue, 20 Oct 2026 00:23:22 GMT",
-          "query": "금융주"
-        },
-        {
           "title": "\"AI주 위험 집중 헤지 필요…헬스케어·금융주 등 비중 확대\" - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMGpPVUhiSzMySTQ1T3dxTzNXU3AxdEdudFFCRTJYR0pmcjEwc3g1TDU2YXhqSWpDUUdrYjFjdDhlc3hqdDVNandzZ3V2NEJFOXJPQU1qQ0NLNExicWpRSFFfb2V1aXNRZmxlaGlITS0?oc=5",
           "source": "연합인포맥스",
           "publishedAt": "Sun, 18 Oct 2026 23:10:26 GMT",
-          "query": "금융주"
-        },
-        {
-          "title": "현재 버전을 어디서 찾나요? 카지노 시즌2 1 정보 확인 - Calgary Roughnecks",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVdoY0Jfa3pZMnFSZ29SampVUFlyS3R0b2xXUEczdWVISkJWenlqckk1YWxIQmRjRnZ4NXlSbEs0WkFVN0RnVUVFYlQwRkpab0RrWmJtUHpad051QWpIRUttamRvQnJnMEk1eWlZTFNGQ3hBVEtXVjlPUWJKVFBDaVJBT3Rzb0RyZVZLMGw3NEtWNVhuR2R4LWE2bGlVdUgxdXBNSXBUSmV4NHRXajdaX2ZabmRtWHJLZ1d1Nl9JcXhvY0RxWnRTRXFnQi0?oc=5",
-          "source": "Calgary Roughnecks",
-          "publishedAt": "Tue, 20 Oct 2026 07:27:42 GMT",
           "query": "금융주"
         },
         {
@@ -279,46 +265,20 @@
           "source": "뉴스핌",
           "publishedAt": "Thu, 15 Oct 2026 23:01:00 GMT",
           "query": "금융주"
-        }
-      ]
-    },
-    "bio-stocks": {
-      "title": "바이오 관련주 체크",
-      "items": [
-        {
-          "title": "차세대 바이오 기술 부각…마이크로바이옴 관련주 훨훨 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wdWdKZ1ZmZDF6dnJ3ZWRMYmFibkJHTG5KYVladTNPaVB5bkw0R1RNUVNYaDVOUWFhSGNucVZ4SVI1US16ejFwQkxzMDJITXh2al9qTmZMVGRsNTg3RFNfNnlWeUdkOWZxMllhekJmOHl6anNLV1FF0gF3QVVfeXFMT3B1Z0pnVmZkMXp2cndlZExiYWJuQkdMbkphWVp1M09pUHluTDRHVE1RU1hoNU5RYWFIY25xVnhJUjVRLXp6MXBCTHMwMkhNeHZqX2pOZkxUZGw1ODdEU182eVZ5R2Q5ZnEyWWF6QmY4eXpqc0tXUUU?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Tue, 20 Oct 2026 00:17:54 GMT",
-          "query": "바이오 관련주"
         },
         {
-          "title": "코스피·코스닥 이틀 연속↑···제약·바이오·화학 중심 - 더리포트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11bDZmUjV3bzc0c01IUXFpdmNCaWpTeGdmUHA2ODlMSkNXbzNTOWM4Nk1pSUFKTVcyRmdNVFRpVm4tSDZmaWpjVURRRjA3dUZvNTREaGEtdUJfWXRpV2VfbjRVRy1neWNPM1dQQzZn?oc=5",
-          "source": "더리포트",
-          "publishedAt": "Mon, 19 Oct 2026 07:22:17 GMT",
-          "query": "바이오 관련주"
+          "title": "금융주 덮친 해킹 악재…신한·우리금융 2주 새 11% 넘게 하락 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZW5Vcmk3NlpGYzdUUE5MV1ZfRW50dU1VeGFPZDRyQ2w4OXNCVzZmNUNfTmcyNXZjRHNXSW0zcWgzWFdKWjFacDRNSkY5SENIRjdiR2lBX0RMcFBxMlRXTlYwZE1YMUN5b240TnFtZDJwdw?oc=5",
+          "source": "인더스트리뉴스",
+          "publishedAt": "Wed, 14 Oct 2026 08:44:16 GMT",
+          "query": "금융주"
         },
         {
-          "title": "알테오젠·삼성에피스홀딩스 등 바이오시밀러주 동반 강세…코스닥 4%대 반등 속 상승세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WeEpwMWdIcDB5M29pbzBKUU1aekZ3YWVFSHVnY2VpRVJIT1ZyV1YwbDVNejVOazhWQnh1V1NYcW5UVWF0cUlXQnhOd2MzdnlwOGtIWktJcGNUVTNPWTF2Z19WcEI3SG9R?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Fri, 16 Oct 2026 03:53:14 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
-          "source": "중소기업신문",
-          "publishedAt": "Mon, 28 Sep 2026 02:03:11 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
-          "source": "Naver Blog",
-          "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
-          "query": "바이오 관련주"
+          "title": "은행 실적 시즌 개막: AI가 고른 유망 금융주는? - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wWTE1S21FcXBRLUExMDF2YUQydm4wRGdzOHZCLUUwYXhpaE5ZR2RjS3phNkpiNmduWmNhQ0FHcllaMDZpbU04cFZXd2NySFotSjd5cU5yQk13V0hTRS1BSWZfQlgzVlJBWTVld1NkUXo?oc=5",
+          "source": "Investing.com 한국어",
+          "publishedAt": "Tue, 13 Oct 2026 11:13:00 GMT",
+          "query": "금융주"
         }
       ]
     },
@@ -362,6 +322,46 @@
         }
       ]
     },
+    "bio-stocks": {
+      "title": "바이오 관련주 체크",
+      "items": [
+        {
+          "title": "차세대 바이오 기술 부각…마이크로바이옴 관련주 훨훨 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wdWdKZ1ZmZDF6dnJ3ZWRMYmFibkJHTG5KYVladTNPaVB5bkw0R1RNUVNYaDVOUWFhSGNucVZ4SVI1US16ejFwQkxzMDJITXh2al9qTmZMVGRsNTg3RFNfNnlWeUdkOWZxMllhekJmOHl6anNLV1FF0gF3QVVfeXFMT3B1Z0pnVmZkMXp2cndlZExiYWJuQkdMbkphWVp1M09pUHluTDRHVE1RU1hoNU5RYWFIY25xVnhJUjVRLXp6MXBCTHMwMkhNeHZqX2pOZkxUZGw1ODdEU182eVZ5R2Q5ZnEyWWF6QmY4eXpqc0tXUUU?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Tue, 20 Oct 2026 00:17:54 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "코스피·코스닥 이틀 연속↑···제약·바이오·화학 중심 - 더리포트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11bDZmUjV3bzc0c01IUXFpdmNCaWpTeGdmUHA2ODlMSkNXbzNTOWM4Nk1pSUFKTVcyRmdNVFRpVm4tSDZmaWpjVURRRjA3dUZvNTREaGEtdUJfWXRpV2VfbjRVRy1neWNPM1dQQzZn?oc=5",
+          "source": "더리포트",
+          "publishedAt": "Mon, 19 Oct 2026 07:22:17 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "알테오젠·삼성에피스홀딩스 등 바이오시밀러주 동반 강세…코스닥 4%대 반등 속 상승세 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WeEpwMWdIcDB5M29pbzBKUU1aekZ3YWVFSHVnY2VpRVJIT1ZyV1YwbDVNejVOazhWQnh1V1NYcW5UVWF0cUlXQnhOd2MzdnlwOGtIWktJcGNUVTNPWTF2Z19WcEI3SG9R?oc=5",
+          "source": "CBC뉴스",
+          "publishedAt": "Fri, 16 Oct 2026 03:53:14 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "HLB 담관암 신약 FDA 벽 넘었다… 연휴 끝 개장 직후 관련주 일제 상한가 - 중소기업신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbHNiYmV1YXB0TkF6cGExUzNISGlKSk43eVRWMU1YQjNnMlVDcWRrVTIyR0hucUdzMVp2aVFFazBseEVUdEtQYUQzRnh5aWhVUGk5aTBHdVdUOVJZT2NYTS05RkdmUS1icE5nVmJn?oc=5",
+          "source": "중소기업신문",
+          "publishedAt": "Mon, 28 Sep 2026 02:03:11 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "바이오 관련주, 바닥난 바이오 신뢰도 회복될까?? : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdVpDTXhsWFYzcUFrVmJjb25NcjdzdXpLcWhQVXlXWi1JaXI2dG5zSXl2a2RSVWZpZ2RqNnptZk1ySGtZTHI2QmN3MV80X3Qyc0t4WWFWWXVib2QycFpsTEdhTDY4aWVHcWNDQlEtMDJubXJiS01yblBqSjRTRHM?oc=5",
+          "source": "Naver Blog",
+          "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
+          "query": "바이오 관련주"
+        }
+      ]
+    },
     "cosmetics-stocks": {
       "title": "화장품 관련주 체크",
       "items": [
@@ -387,17 +387,17 @@
           "query": "화장품 관련주"
         },
         {
-          "title": "초보자가 이해하기 쉬운 에이블카지노 판정 예시 - Calgary Roughnecks",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQXRBQ0pOZnppWjhHOGtET3ZUcWZhWTdzRDUzZl95blk2Q0RzVVhzMXNaOFFSaW5uSVNNbmwwVFRhQ2h0SV8yR1JHbGF4dG43dERxcWtvMTFwUnc3X3hBSk16Z2U4RHI1MHVpMFUzU2wydzVKV2dERG84T1hGci1OVm53M3JFN2tfUFEtdVpjd3hmTTNvamx3RXFEM2FSeVZSdng3YWFxMzhqeGk1S2pQb195UDMwdVlyVUg3alE4X0cyR2t3N2RkajExV2Z1MklPUDZzQXJSblNkWkhVajNfbg?oc=5",
-          "source": "Calgary Roughnecks",
-          "publishedAt": "Tue, 20 Oct 2026 02:29:17 GMT",
-          "query": "화장품 관련주"
-        },
-        {
           "title": "한국콜마, 화장품관련주의 대장주(K뷰티)일 것. : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Gb1ZUQjlpYjNTZllhUGY4enp3eU8xcmxRTG9uSG5KdUdOMkJ4MzBBLXIzYjhBT2puUW1UdnpjZE1GNjBKYTFZUlN1SGdXdm03bWpUMmhZOTV6MTdERlVrSGFxcUlURFk?oc=5",
           "source": "Naver Blog",
           "publishedAt": "Wed, 12 Aug 2026 07:00:00 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "에이블 카지노 기능 설명에 나오는 유지 조건 - Calgary Roughnecks",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YaEpmS2dOYlk0WGJyZWpQTzJmYW5tNzNndm8yWlVyeWVrUDNWdjRiTkd1SFJRSXJyU2l6N1lnRjZZMFhqaXpiQ1BSbnVxN1pIWERUNjdYMk9wWWtwVTJOSmE0YVptMnVEdU9lajM0WExkc1pn?oc=5",
+          "source": "Calgary Roughnecks",
+          "publishedAt": "Sun, 18 Oct 2026 18:18:13 GMT",
           "query": "화장품 관련주"
         }
       ]
@@ -405,6 +405,13 @@
     "power-equipment-stocks": {
       "title": "전력기기 관련주 체크",
       "items": [
+        {
+          "title": "470만원 황제주가 180만원대로 '와르르'…AI 수혜주의 배신 [종목+] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80MTNHTHM5bDNWYmV0ZjJGUmlqcFZtbUVqbDdBaGl5SXdaSWFNV0oxMUxZNlM0RjF0Q01vWnNGcGI3b2RyUnJIXzlndmR3VTdmY0xPUHZiOG9DQQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "Tue, 20 Oct 2026 21:30:01 GMT",
+          "query": "전력기기 관련주"
+        },
         {
           "title": "전력 관련 대장주·수혜주… 지금 주목해야 할 이유 - 중기이코노미",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZnZJUlhuRVV6bkJybE1kcEVKczAzMS05SDhtUTZFdXdsemhsalNVaEtjaGVrYV85SS01d0RjazVJaG1jUkZmUWcyb1QyOVJqQkxEU3pVaVZ3NTJEaHZWaUl1RjFEWkFfSnc?oc=5",
@@ -431,13 +438,6 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZEVyR0hDcU1veWpKMEprc0xEVGl6OElKMXBKN2lkWmJ6WjZOXzFEUExBN3ZLV1pNNlJTQUYtRnhLZ09yZldBMVZlNGlhcnhVOVprQWlEd1JYUjY3OHcxQ3BiUU9NMk1rX2g0aFhhVWt6aDNfYUdQM1dvTGtfYzA?oc=5",
           "source": "Naver Blog",
           "publishedAt": "Mon, 24 Aug 2026 20:46:57 GMT",
-          "query": "전력기기 관련주"
-        },
-        {
-          "title": "AI 데이터센터 전력기기 관련주 3사 분석, HD현대일 - 브런치",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00bWhkWE9wdXh6emNCdTVmRG1EZlh0bF9NM2FMZkRoWnBPMWFQWEtpeUY1bmJ5bDFXMDVaUVVyb05yNER0cmw4?oc=5",
-          "source": "브런치",
-          "publishedAt": "Tue, 28 Jul 2026 07:00:00 GMT",
           "query": "전력기기 관련주"
         }
       ]
