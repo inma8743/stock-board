@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-10-24T13:17:32.594Z",
+  "discoveredAt": "2026-10-25T04:34:53.201Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,15 +57,16 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 27,
+      "score": 29,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "고금리 속 돋보이는 '저평가 금융주'…DBS보다 하나금융인 이유 [오일전문가의 배럴 토크] - 한경매거진",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jN1E5UDJ5akUzcWJtdS1tWDg2N2JYeUVJaHo5U1ExZXRHOXdYekd6Z0puWGJ5czlGYmpQWGJtLVZ3ajU4OFJZWmhxd2RpRjVhbjZKY1lZaTBuT1ZqUHNHaS12dHhxakVPOFNpTQ?oc=5",
+          "title": "반도체가 흔들릴 때, 금융주와 고배당주가 보이는 이유 - 네이버페이 머니스토리",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweGhSMTJCMEE5OER1WUVNWkZNNzJJMG5tWkRKQWxWZXkxT2dhQTJoLUtWMUtYcXVoWVFvalpjMnpYRWoyOVNLeFN5TUNTX0FpeXhXWFpXS1U?oc=5",
           "query": "금융주",
           "matchedSignals": [
-            "금융주"
+            "금융주",
+            "배당"
           ]
         },
         {
@@ -77,8 +78,8 @@
           ]
         },
         {
-          "title": "반도체가 흔들릴 때, 금융주와 고배당주가 보이는 이유 - 네이버페이 머니스토리",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweGhSMTJCMEE5OER1WUVNWkZNNzJJMG5tWkRKQWxWZXkxT2dhQTJoLUtWMUtYcXVoWVFvalpjMnpYRWoyOVNLeFN5TUNTX0FpeXhXWFpXS1U?oc=5",
+          "title": "“코스피 흔들려도 ‘이 종목’은 날개 다네”…고배당 금융주 다시 주목 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsS052OUlUT0hJeDZHd3NMeHc5dDdyXzBkLXc3TWtPWFpsUHlYWDUzaTFvVy1zWUFucmdnQjFTYWlIN0FJSVZkWkg2TUpyY0RXWGc?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
@@ -86,16 +87,16 @@
           ]
         },
         {
-          "title": "\"AI주 위험 집중 헤지 필요…헬스케어·금융주 등 비중 확대\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMGpPVUhiSzMySTQ1T3dxTzNXU3AxdEdudFFCRTJYR0pmcjEwc3g1TDU2YXhqSWpDUUdrYjFjdDhlc3hqdDVNandzZ3V2NEJFOXJPQU1qQ0NLNExicWpRSFFfb2V1aXNRZmxlaGlITS0?oc=5",
+          "title": "\"AI주 위험 집중 헤지 필요…헬스케어·금융주 등 비중 확대\" - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EU3Q4MGt6azZZcnVzcFNRM3JBdXotbkJrS1VEMmk0SEJEUnJwMHBnZTJBaEliaVpvaU84cGk1RENZWUxYWTh2eGV2ZzZEYmRJZk1UTDVBOWI3VXhSeTlpWXVyVHBodVMyQ2VkMXJiRWoxUQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
         },
         {
-          "title": "코스피 19% 급락장서 7% 방어…4대 금융주 버틴 힘 - 직썰",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XbDRqb21UV1RhWnVJWmhlUjNUdmktRXZJaVZ6RS11N1hta212VEsxbkgxQ0VZM2NHU3B4YnEtbEhuTGstYTJENlFkVWVlMjBQRlRBN3B2SXVHVkYzYnRicVE4LXFZMVZP0gFsQVVfeXFMTmVQNzZSdi1UTWkzQ0FYdEFNUXNiTWlwZEd0ZGQ1ejlTY2piaW1pX04teS0tZmNVbDRSQWJnaC1Hdjd0TkI2QV9oM3VFSFFNbGNmaG9kX0ZJZWZJLThMaG85dW9KbE1ZaXE4OURF?oc=5",
+          "title": "금융주 덮친 해킹 악재…신한·우리금융 2주 새 11% 넘게 하락 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZW5Vcmk3NlpGYzdUUE5MV1ZfRW50dU1VeGFPZDRyQ2w4OXNCVzZmNUNfTmcyNXZjRHNXSW0zcWgzWFdKWjFacDRNSkY5SENIRjdiR2lBX0RMcFBxMlRXTlYwZE1YMUN5b240TnFtZDJwdw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -178,7 +179,7 @@
         },
         {
           "title": "지문·얼굴인식 활용처 넓어진다… 바이오인식 관련주 '불기둥' - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94MjRWcnd1U2JmMlVSZGItajFPMzhIbWdSdEt1QU43R1piRjZ0ei10bVoxUDkwaXJqUVgwRDQtbUlBalVJRjI5MklTRHVvS2M4RUpJYU51MGhmZGVRVk93WHpBdVEzSFVQOEliMEVBSlVvbm92UkE00gF3QVVfeXFMT3gyNFZyd3VTYmYyVVJkYi1qMU8zOEhtZ1J0S3VBTjdHWmJGNnR6LXRtWjFQOTBpcmpRWDBENC1tSUFqVUlGMjkySVNEdW9LYzhFSklhTnUwaGZkZVFWT3dYekF1UTNIVVA4SWIwRUFKVW9ub3ZSQTQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYaDJnRG1CRmxQM1IydGM0bDFoVWM1cWhqUHcyeVBOekpaYTc1Z0RYTVhlNDBBQVJ5aHRPMFNabmhZQkJtR3lVNTNpR0xiZ1R6YmJWMGpkWDVBQ3ZVRTVDRGNOYkNLZGVtZXF6S0Q0V2dESFnSAXdBVV95cUxPeDI0VnJ3dVNiZjJVUmRiLWoxTzM4SG1nUnRLdUFON0daYkY2dHotdG1aMVA5MGlyalFYMEQ0LW1JQWpVSUYyOTJJU0R1b0tjOEVKSWFOdTBoZmRlUVZPd1h6QXVRM0hVUDhJYjBFQUpVb25vdlJBNA?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -461,6 +462,14 @@
       "autoDiscovered": true,
       "evidence": [
         {
+          "title": "\"화장품株 주가 조정 과도\"…아모레퍼시픽 5%·한국콜마 5%대 상승 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xd2pkbkxQeDRtRVAyNW1pNTl5d1FFRHJwZnhuMk5ITkpmZUlnTzhWV05KYmhzWW14Tlo5WEhPTjd5azRRMi13YWpTcDJmY2hxQzBsRk5wNDVtQQ?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
           "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
           "query": "화장품 관련주",
@@ -483,15 +492,6 @@
           "query": "화장품 관련주",
           "matchedSignals": [
             "화장품"
-          ]
-        },
-        {
-          "title": "올리브영 미국 가더니…K뷰티 주가 줄줄이 '불기둥' [종목+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZV9YbEpOT3A2dXNWRVlyYjdWLVJROHhvaXMxSHpfN2JvdEJwZ2YxYW1SQW1mT190cUJRMXhiXzdqUE5CYThKZjcwaUlYNXk0RVlTbFM3WEIyZw?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "K뷰티",
-            "뷰티"
           ]
         },
         {
@@ -558,7 +558,7 @@
         "hbm-stocks.html",
         "nuclear-stocks.html"
       ],
-      "score": 15,
+      "score": 13,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -578,12 +578,11 @@
           ]
         },
         {
-          "title": "[속보] LS ELECTRIC·산일전기·가온전선 상승…전선·전력기기 관련주 동반 강세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80MU9hNl84TjllS0g4c09RWWE5MGVHS2xTUDl4akVvZmt0UUltdkNzUXEyaGRzM0ZFMEJlRV94Ukd2X0taQnVOVTdsYkJfTFRVdU51QTBmR3lRV1ZwbzFKemVQQmtpeXpH?oc=5",
+          "title": "AI 전력 수요는 늘어나는데…전기장비株는 차익실현에 ‘휘청’ - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80TW1NRjNTakJ2c0toMHhmd2RCWkkzNDN0a1J5M2M3UUxsQ25rbURySXJrVGdUeU5kbXhvVUZlUWZMTjVrSFB6bWRYR0dERmloY2RwbWhuU3Q5T1UzQmM3cTZkWFZLZDNVanVHNXV3dkQwTGPSAXdBVV95cUxNaFNuYkpxbXJnM2JsN3pzRnFPZVM3Ri16bFJYNzVMcDJrRXFEYWwtSnZiZW55VGVCbkVfakRwdHR3Y0puTWtxRnAyMG0xeW4xd1Q1NTh4aWdiTE1jQlctSUlSNV90M2x2RUxUaVdSLWNxTGJYbFdvaw?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
-            "전력기기",
-            "전선"
+            "전력 수요"
           ]
         },
         {
@@ -610,14 +609,15 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 27,
+      "score": 29,
       "evidence": [
         {
-          "title": "고금리 속 돋보이는 '저평가 금융주'…DBS보다 하나금융인 이유 [오일전문가의 배럴 토크] - 한경매거진",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jN1E5UDJ5akUzcWJtdS1tWDg2N2JYeUVJaHo5U1ExZXRHOXdYekd6Z0puWGJ5czlGYmpQWGJtLVZ3ajU4OFJZWmhxd2RpRjVhbjZKY1lZaTBuT1ZqUHNHaS12dHhxakVPOFNpTQ?oc=5",
+          "title": "반도체가 흔들릴 때, 금융주와 고배당주가 보이는 이유 - 네이버페이 머니스토리",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweGhSMTJCMEE5OER1WUVNWkZNNzJJMG5tWkRKQWxWZXkxT2dhQTJoLUtWMUtYcXVoWVFvalpjMnpYRWoyOVNLeFN5TUNTX0FpeXhXWFpXS1U?oc=5",
           "query": "금융주",
           "matchedSignals": [
-            "금융주"
+            "금융주",
+            "배당"
           ]
         },
         {
@@ -629,8 +629,8 @@
           ]
         },
         {
-          "title": "반도체가 흔들릴 때, 금융주와 고배당주가 보이는 이유 - 네이버페이 머니스토리",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweGhSMTJCMEE5OER1WUVNWkZNNzJJMG5tWkRKQWxWZXkxT2dhQTJoLUtWMUtYcXVoWVFvalpjMnpYRWoyOVNLeFN5TUNTX0FpeXhXWFpXS1U?oc=5",
+          "title": "“코스피 흔들려도 ‘이 종목’은 날개 다네”…고배당 금융주 다시 주목 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsS052OUlUT0hJeDZHd3NMeHc5dDdyXzBkLXc3TWtPWFpsUHlYWDUzaTFvVy1zWUFucmdnQjFTYWlIN0FJSVZkWkg2TUpyY0RXWGc?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
@@ -638,16 +638,16 @@
           ]
         },
         {
-          "title": "\"AI주 위험 집중 헤지 필요…헬스케어·금융주 등 비중 확대\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMGpPVUhiSzMySTQ1T3dxTzNXU3AxdEdudFFCRTJYR0pmcjEwc3g1TDU2YXhqSWpDUUdrYjFjdDhlc3hqdDVNandzZ3V2NEJFOXJPQU1qQ0NLNExicWpRSFFfb2V1aXNRZmxlaGlITS0?oc=5",
+          "title": "\"AI주 위험 집중 헤지 필요…헬스케어·금융주 등 비중 확대\" - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EU3Q4MGt6azZZcnVzcFNRM3JBdXotbkJrS1VEMmk0SEJEUnJwMHBnZTJBaEliaVpvaU84cGk1RENZWUxYWTh2eGV2ZzZEYmRJZk1UTDVBOWI3VXhSeTlpWXVyVHBodVMyQ2VkMXJiRWoxUQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
           ]
         },
         {
-          "title": "코스피 19% 급락장서 7% 방어…4대 금융주 버틴 힘 - 직썰",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XbDRqb21UV1RhWnVJWmhlUjNUdmktRXZJaVZ6RS11N1hta212VEsxbkgxQ0VZM2NHU3B4YnEtbEhuTGstYTJENlFkVWVlMjBQRlRBN3B2SXVHVkYzYnRicVE4LXFZMVZP0gFsQVVfeXFMTmVQNzZSdi1UTWkzQ0FYdEFNUXNiTWlwZEd0ZGQ1ejlTY2piaW1pX04teS0tZmNVbDRSQWJnaC1Hdjd0TkI2QV9oM3VFSFFNbGNmaG9kX0ZJZWZJLThMaG85dW9KbE1ZaXE4OURF?oc=5",
+          "title": "금융주 덮친 해킹 악재…신한·우리금융 2주 새 11% 넘게 하락 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZW5Vcmk3NlpGYzdUUE5MV1ZfRW50dU1VeGFPZDRyQ2w4OXNCVzZmNUNfTmcyNXZjRHNXSW0zcWgzWFdKWjFacDRNSkY5SENIRjdiR2lBX0RMcFBxMlRXTlYwZE1YMUN5b240TnFtZDJwdw?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -678,7 +678,7 @@
         },
         {
           "title": "지문·얼굴인식 활용처 넓어진다… 바이오인식 관련주 '불기둥' - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94MjRWcnd1U2JmMlVSZGItajFPMzhIbWdSdEt1QU43R1piRjZ0ei10bVoxUDkwaXJqUVgwRDQtbUlBalVJRjI5MklTRHVvS2M4RUpJYU51MGhmZGVRVk93WHpBdVEzSFVQOEliMEVBSlVvbm92UkE00gF3QVVfeXFMT3gyNFZyd3VTYmYyVVJkYi1qMU8zOEhtZ1J0S3VBTjdHWmJGNnR6LXRtWjFQOTBpcmpRWDBENC1tSUFqVUlGMjkySVNEdW9LYzhFSklhTnUwaGZkZVFWT3dYekF1UTNIVVA4SWIwRUFKVW9ub3ZSQTQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYaDJnRG1CRmxQM1IydGM0bDFoVWM1cWhqUHcyeVBOekpaYTc1Z0RYTVhlNDBBQVJ5aHRPMFNabmhZQkJtR3lVNTNpR0xiZ1R6YmJWMGpkWDVBQ3ZVRTVDRGNOYkNLZGVtZXF6S0Q0V2dESFnSAXdBVV95cUxPeDI0VnJ3dVNiZjJVUmRiLWoxTzM4SG1nUnRLdUFON0daYkY2dHotdG1aMVA5MGlyalFYMEQ0LW1JQWpVSUYyOTJJU0R1b0tjOEVKSWFOdTBoZmRlUVZPd1h6QXVRM0hVUDhJYjBFQUpVb25vdlJBNA?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -806,6 +806,14 @@
       "score": 20,
       "evidence": [
         {
+          "title": "\"화장품株 주가 조정 과도\"…아모레퍼시픽 5%·한국콜마 5%대 상승 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xd2pkbkxQeDRtRVAyNW1pNTl5d1FFRHJwZnhuMk5ITkpmZUlnTzhWV05KYmhzWW14Tlo5WEhPTjd5azRRMi13YWpTcDJmY2hxQzBsRk5wNDVtQQ?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
           "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
           "query": "화장품 관련주",
@@ -831,15 +839,6 @@
           ]
         },
         {
-          "title": "올리브영 미국 가더니…K뷰티 주가 줄줄이 '불기둥' [종목+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZV9YbEpOT3A2dXNWRVlyYjdWLVJROHhvaXMxSHpfN2JvdEJwZ2YxYW1SQW1mT190cUJRMXhiXzdqUE5CYThKZjcwaUlYNXk0RVlTbFM3WEIyZw?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "K뷰티",
-            "뷰티"
-          ]
-        },
-        {
           "title": "'화장품 대장주' 에이피알 주가 상승 돋보여...관련주 동반 상승 [주가동향] - 조세일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qbTVOOG02TVVtSlpQbnpkbUhfUzY2ak9aVmdJWm03ckxwSE9vWmJhbnhYOFQ2UGQ2QWpRYTdfVW0za0V5N3hxTXkyTGlGcEctSjN2SDBzNG9uUHVibGNB?oc=5",
           "query": "화장품 관련주",
@@ -852,7 +851,7 @@
     {
       "slug": "power-equipment-stocks",
       "title": "전력기기 관련주 체크",
-      "score": 15,
+      "score": 13,
       "evidence": [
         {
           "title": "[박정식의 국내 주식시황] 데이터센터 제동에 반도체 숨 고르기…국내증시 차익매물 경계 - 뉴스퀘스트",
@@ -871,12 +870,11 @@
           ]
         },
         {
-          "title": "[속보] LS ELECTRIC·산일전기·가온전선 상승…전선·전력기기 관련주 동반 강세 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80MU9hNl84TjllS0g4c09RWWE5MGVHS2xTUDl4akVvZmt0UUltdkNzUXEyaGRzM0ZFMEJlRV94Ukd2X0taQnVOVTdsYkJfTFRVdU51QTBmR3lRV1ZwbzFKemVQQmtpeXpH?oc=5",
+          "title": "AI 전력 수요는 늘어나는데…전기장비株는 차익실현에 ‘휘청’ - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80TW1NRjNTakJ2c0toMHhmd2RCWkkzNDN0a1J5M2M3UUxsQ25rbURySXJrVGdUeU5kbXhvVUZlUWZMTjVrSFB6bWRYR0dERmloY2RwbWhuU3Q5T1UzQmM3cTZkWFZLZDNVanVHNXV3dkQwTGPSAXdBVV95cUxNaFNuYkpxbXJnM2JsN3pzRnFPZVM3Ri16bFJYNzVMcDJrRXFEYWwtSnZiZW55VGVCbkVfakRwdHR3Y0puTWtxRnAyMG0xeW4xd1Q1NTh4aWdiTE1jQlctSUlSNV90M2x2RUxUaVdSLWNxTGJYbFdvaw?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
-            "전력기기",
-            "전선"
+            "전력 수요"
           ]
         },
         {
