@@ -1,9 +1,109 @@
 {
-  "discoveredAt": "2026-11-09T06:16:18.714Z",
+  "discoveredAt": "2026-11-09T19:44:56.444Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
   "promoted": [
+    {
+      "slug": "ai-software-stocks",
+      "title": "AI 소프트웨어 관련주 체크",
+      "pageTitle": "AI 소프트웨어 관련주 뉴스 체크 | 생성형 AI 테마 체크",
+      "description": "NAVER, 카카오, 더존비즈온 등 AI 소프트웨어 관련주의 생성형 AI, 클라우드, 플랫폼 테마 체크포인트를 모아보는 정보 페이지입니다.",
+      "keywords": "AI 소프트웨어 관련주, 생성형 AI 관련주, NAVER, 카카오, 더존비즈온, 클라우드",
+      "intro": "AI 소프트웨어 테마는 생성형 AI, 클라우드, 기업용 SaaS 뉴스와 함께 움직입니다. 기술 발표와 실제 매출화를 구분해서 보세요.",
+      "searchQueries": [
+        "AI 소프트웨어 관련주",
+        "생성형 AI 관련주",
+        "클라우드 AI 관련주"
+      ],
+      "stocks": [
+        {
+          "name": "NAVER",
+          "code": "035420",
+          "tags": [
+            "AI",
+            "플랫폼",
+            "클라우드"
+          ],
+          "summary": "검색, 커머스, 클라우드, AI 이슈가 함께 반영됩니다. AI 서비스의 매출화와 비용 구조를 확인하세요."
+        },
+        {
+          "name": "카카오",
+          "code": "035720",
+          "tags": [
+            "플랫폼",
+            "AI",
+            "콘텐츠"
+          ],
+          "summary": "플랫폼과 콘텐츠, AI 서비스 기대감이 함께 움직입니다. 규제와 수익성 개선 여부도 중요합니다."
+        },
+        {
+          "name": "더존비즈온",
+          "code": "012510",
+          "tags": [
+            "SaaS",
+            "ERP",
+            "AI"
+          ],
+          "summary": "기업용 소프트웨어와 AI 서비스 이슈로 검색됩니다. 클라우드 전환과 수익성 흐름을 확인하세요."
+        }
+      ],
+      "checklist": [
+        "AI 발표가 실제 유료 서비스와 매출로 이어지는가?",
+        "클라우드 비용과 수익성의 균형은 맞는가?",
+        "플랫폼 규제 리스크는 없는가?",
+        "글로벌 AI 뉴스에 따른 단기 테마성 움직임은 아닌가?"
+      ],
+      "related": [
+        "hbm-stocks.html",
+        "robot-stocks.html"
+      ],
+      "score": 31,
+      "autoDiscovered": true,
+      "evidence": [
+        {
+          "title": "[오늘의 증시]美 AI주 폭락에 코스피 또 '검은 금요일' 공포…반도체 충격 불가피 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOXJPX1YzeXA3VVd0TnpvZENxcXpvdUlMVWtFSWVLU3luelBJcDhYN3VKU0lGLWFpWXFWYzh3QWQ3bFM1cG1pLTBhMzQ0QUZOcVRVLVAwUmU5bElnd2hvY9IBeEFVX3lxTE9IdXhqMTNlTEd4Vk1qNG9nOHluVmFnVVJzeF9RUVJ4T01wTTdub1g1OFZXT3B2YUYwX1BfU1l6RW5OV2VRUWo0cFNSeW1aZ0kxaTU2a0ZUTWFzc0pldzBUX0tHQzFmOENDUWZzZ2RpY2Y3SWZyV2hXbA?oc=5",
+          "query": "오늘 국내증시 관련주",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
+          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaWhUSEVKbUhQdVRGc1dlUUc2RUZPUzdUQy1oUHBOX1JqSGhIbF84YlMyOE5DeTRJLVphcG5HbXN3NktDWk5NblVuZHpmcml0ZFVXRDZ3d3ppLXloYXVYR3lVVVZqYmJvNU02elJXVXlUa2drWGc?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
+          "title": "[테마시황] 상승 테마 실종된 오전장… AI 인프라 규제 우려에 반도체·전력주 전면 '파란불' - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kbURYTFQxY1BGeHl1VzNDV25Dc0RYd3Y2ZU1OcXg4ajYzTzBJUnJTcS1hbUhERkJpX2wwN0pUeU5mWUx4NGpKQXhsamZTMUhEc0xpNV9IMkpiQkpteU8ybElpV1hPV25tcEdEVjM3aG1YU0dDdXc?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
+          "title": "[테마시황] 앤트로픽 IPO 공식화에 AI 투심 부활… 반도체주 주도 코스피 4%대 급등 - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2VVp5aG1rNi1DMTZGSmdscjZaV2FXd1c2dTRRRFdwdGltRjVKcXMtNi12clVTYndWNzRSRjdPMF9QX05UWmxIZHppcl9FQkhWajR6bEhDTTZjempQOHFTNUJzTmlZR1FPOXl3cGh3UFc3QVJoRkE?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
+          "title": "AI 투자의 결실 입증된 미 증시…국내 AI·클라우드·보안 관련주 동반 급등 - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzb1FvR0VFWEdWS0xERnhKcDlYTHZISFoyQXZPQkJaMmV5MTI1c1RQbWNZX1RrVV8zM3FzUGpNSEQ1djdiQVo3b1NPRHYxVS13TWcxNl9jNU00UFczMFd2U281X2R1R2dpd2JkM19YQ1NTOGZDUFE?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI",
+            "클라우드"
+          ]
+        }
+      ]
+    },
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
@@ -100,106 +200,6 @@
           "query": "금융주",
           "matchedSignals": [
             "금융주"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "ai-software-stocks",
-      "title": "AI 소프트웨어 관련주 체크",
-      "pageTitle": "AI 소프트웨어 관련주 뉴스 체크 | 생성형 AI 테마 체크",
-      "description": "NAVER, 카카오, 더존비즈온 등 AI 소프트웨어 관련주의 생성형 AI, 클라우드, 플랫폼 테마 체크포인트를 모아보는 정보 페이지입니다.",
-      "keywords": "AI 소프트웨어 관련주, 생성형 AI 관련주, NAVER, 카카오, 더존비즈온, 클라우드",
-      "intro": "AI 소프트웨어 테마는 생성형 AI, 클라우드, 기업용 SaaS 뉴스와 함께 움직입니다. 기술 발표와 실제 매출화를 구분해서 보세요.",
-      "searchQueries": [
-        "AI 소프트웨어 관련주",
-        "생성형 AI 관련주",
-        "클라우드 AI 관련주"
-      ],
-      "stocks": [
-        {
-          "name": "NAVER",
-          "code": "035420",
-          "tags": [
-            "AI",
-            "플랫폼",
-            "클라우드"
-          ],
-          "summary": "검색, 커머스, 클라우드, AI 이슈가 함께 반영됩니다. AI 서비스의 매출화와 비용 구조를 확인하세요."
-        },
-        {
-          "name": "카카오",
-          "code": "035720",
-          "tags": [
-            "플랫폼",
-            "AI",
-            "콘텐츠"
-          ],
-          "summary": "플랫폼과 콘텐츠, AI 서비스 기대감이 함께 움직입니다. 규제와 수익성 개선 여부도 중요합니다."
-        },
-        {
-          "name": "더존비즈온",
-          "code": "012510",
-          "tags": [
-            "SaaS",
-            "ERP",
-            "AI"
-          ],
-          "summary": "기업용 소프트웨어와 AI 서비스 이슈로 검색됩니다. 클라우드 전환과 수익성 흐름을 확인하세요."
-        }
-      ],
-      "checklist": [
-        "AI 발표가 실제 유료 서비스와 매출로 이어지는가?",
-        "클라우드 비용과 수익성의 균형은 맞는가?",
-        "플랫폼 규제 리스크는 없는가?",
-        "글로벌 AI 뉴스에 따른 단기 테마성 움직임은 아닌가?"
-      ],
-      "related": [
-        "hbm-stocks.html",
-        "robot-stocks.html"
-      ],
-      "score": 29,
-      "autoDiscovered": true,
-      "evidence": [
-        {
-          "title": "[오늘의 증시]美 AI주 폭락에 코스피 또 '검은 금요일' 공포…반도체 충격 불가피 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOXJPX1YzeXA3VVd0TnpvZENxcXpvdUlMVWtFSWVLU3luelBJcDhYN3VKU0lGLWFpWXFWYzh3QWQ3bFM1cG1pLTBhMzQ0QUZOcVRVLVAwUmU5bElnd2hvY9IBeEFVX3lxTE9IdXhqMTNlTEd4Vk1qNG9nOHluVmFnVVJzeF9RUVJ4T01wTTdub1g1OFZXT3B2YUYwX1BfU1l6RW5OV2VRUWo0cFNSeW1aZ0kxaTU2a0ZUTWFzc0pldzBUX0tHQzFmOENDUWZzZ2RpY2Y3SWZyV2hXbA?oc=5",
-          "query": "오늘 국내증시 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaWhUSEVKbUhQdVRGc1dlUUc2RUZPUzdUQy1oUHBOX1JqSGhIbF84YlMyOE5DeTRJLVphcG5HbXN3NktDWk5NblVuZHpmcml0ZFVXRDZ3d3ppLXloYXVYR3lVVVZqYmJvNU02elJXVXlUa2drWGc?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] 상승 테마 실종된 오전장… AI 인프라 규제 우려에 반도체·전력주 전면 '파란불' - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kbURYTFQxY1BGeHl1VzNDV25Dc0RYd3Y2ZU1OcXg4ajYzTzBJUnJTcS1hbUhERkJpX2wwN0pUeU5mWUx4NGpKQXhsamZTMUhEc0xpNV9IMkpiQkpteU8ybElpV1hPV25tcEdEVjM3aG1YU0dDdXc?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] 앤트로픽 IPO 공식화에 AI 투심 부활… 반도체주 주도 코스피 4%대 급등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2VVp5aG1rNi1DMTZGSmdscjZaV2FXd1c2dTRRRFdwdGltRjVKcXMtNi12clVTYndWNzRSRjdPMF9QX05UWmxIZHppcl9FQkhWajR6bEhDTTZjempQOHFTNUJzTmlZR1FPOXl3cGh3UFc3QVJoRkE?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "AI 투자의 결실 입증된 미 증시…국내 AI·클라우드·보안 관련주 동반 급등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzb1FvR0VFWEdWS0xERnhKcDlYTHZISFoyQXZPQkJaMmV5MTI1c1RQbWNZX1RrVV8zM3FzUGpNSEQ1djdiQVo3b1NPRHYxVS13TWcxNl9jNU00UFczMFd2U281X2R1R2dpd2JkM19YQ1NTOGZDUFE?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "AI",
-            "클라우드"
           ]
         }
       ]
@@ -359,7 +359,7 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 20,
+      "score": 19,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -560,13 +560,13 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 16,
+      "score": 15,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "[테마시황] 반도체 기판·건설·재건 '상승' vs 2차전지·통신 '하락' - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45UW96TGhHMmwzZ1E4T3k4UUN2NTNfaGVFOTMzRDlYZUdIaXZwem1ESG1vZnBQeGdrdExXVUpPOURwNXY4LTZleEFqWjR4bGdyX3dJMzZCQWg3aTU4R3RFcnl4cE1HRVNNaXl6SDJXQm02UUNuRUE?oc=5",
-          "query": "국내 주식 급등 테마",
+          "title": "코스피, 뉴욕증시 반도체 반등에도 2차전지 약세에 하락‥코스닥도 0.8%↓ - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQUFvNFJnendleEIxNmpQZFY1dnk4Y3dvbGtTRGU0V2I5YktoZXBfa0NLbHR1UEZ3d2ZaRGxEMnBsMXdJREZsQlN5blBScmdQWk04Zl85RGwwSXA4Y2hnQlItUnNTeTFWUk9FeVVhcFloaW5T0gF0QVVfeXFMTUtFSjRpTkV4UTZvNGJPNlNiaVVQODVSclNYVnEzRFo1QW5vNEFTekdvMkNlSzNzVlRTM19jR0tsVGREaU1TQzN6enZXV1dPdXM2NFZCWmFNZWN1UFRXQ3RicHB1aHQ3UU80VWUwelVmZEE4UmE?oc=5",
+          "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
@@ -609,6 +609,54 @@
     }
   ],
   "candidates": [
+    {
+      "slug": "ai-software-stocks",
+      "title": "AI 소프트웨어 관련주 체크",
+      "score": 31,
+      "evidence": [
+        {
+          "title": "[오늘의 증시]美 AI주 폭락에 코스피 또 '검은 금요일' 공포…반도체 충격 불가피 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOXJPX1YzeXA3VVd0TnpvZENxcXpvdUlMVWtFSWVLU3luelBJcDhYN3VKU0lGLWFpWXFWYzh3QWQ3bFM1cG1pLTBhMzQ0QUZOcVRVLVAwUmU5bElnd2hvY9IBeEFVX3lxTE9IdXhqMTNlTEd4Vk1qNG9nOHluVmFnVVJzeF9RUVJ4T01wTTdub1g1OFZXT3B2YUYwX1BfU1l6RW5OV2VRUWo0cFNSeW1aZ0kxaTU2a0ZUTWFzc0pldzBUX0tHQzFmOENDUWZzZ2RpY2Y3SWZyV2hXbA?oc=5",
+          "query": "오늘 국내증시 관련주",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
+          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaWhUSEVKbUhQdVRGc1dlUUc2RUZPUzdUQy1oUHBOX1JqSGhIbF84YlMyOE5DeTRJLVphcG5HbXN3NktDWk5NblVuZHpmcml0ZFVXRDZ3d3ppLXloYXVYR3lVVVZqYmJvNU02elJXVXlUa2drWGc?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
+          "title": "[테마시황] 상승 테마 실종된 오전장… AI 인프라 규제 우려에 반도체·전력주 전면 '파란불' - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kbURYTFQxY1BGeHl1VzNDV25Dc0RYd3Y2ZU1OcXg4ajYzTzBJUnJTcS1hbUhERkJpX2wwN0pUeU5mWUx4NGpKQXhsamZTMUhEc0xpNV9IMkpiQkpteU8ybElpV1hPV25tcEdEVjM3aG1YU0dDdXc?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
+          "title": "[테마시황] 앤트로픽 IPO 공식화에 AI 투심 부활… 반도체주 주도 코스피 4%대 급등 - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2VVp5aG1rNi1DMTZGSmdscjZaV2FXd1c2dTRRRFdwdGltRjVKcXMtNi12clVTYndWNzRSRjdPMF9QX05UWmxIZHppcl9FQkhWajR6bEhDTTZjempQOHFTNUJzTmlZR1FPOXl3cGh3UFc3QVJoRkE?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
+          "title": "AI 투자의 결실 입증된 미 증시…국내 AI·클라우드·보안 관련주 동반 급등 - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzb1FvR0VFWEdWS0xERnhKcDlYTHZISFoyQXZPQkJaMmV5MTI1c1RQbWNZX1RrVV8zM3FzUGpNSEQ1djdiQVo3b1NPRHYxVS13TWcxNl9jNU00UFczMFd2U281X2R1R2dpd2JkM19YQ1NTOGZDUFE?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI",
+            "클라우드"
+          ]
+        }
+      ]
+    },
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
@@ -654,54 +702,6 @@
           "query": "금융주",
           "matchedSignals": [
             "금융주"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "ai-software-stocks",
-      "title": "AI 소프트웨어 관련주 체크",
-      "score": 29,
-      "evidence": [
-        {
-          "title": "[오늘의 증시]美 AI주 폭락에 코스피 또 '검은 금요일' 공포…반도체 충격 불가피 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOXJPX1YzeXA3VVd0TnpvZENxcXpvdUlMVWtFSWVLU3luelBJcDhYN3VKU0lGLWFpWXFWYzh3QWQ3bFM1cG1pLTBhMzQ0QUZOcVRVLVAwUmU5bElnd2hvY9IBeEFVX3lxTE9IdXhqMTNlTEd4Vk1qNG9nOHluVmFnVVJzeF9RUVJ4T01wTTdub1g1OFZXT3B2YUYwX1BfU1l6RW5OV2VRUWo0cFNSeW1aZ0kxaTU2a0ZUTWFzc0pldzBUX0tHQzFmOENDUWZzZ2RpY2Y3SWZyV2hXbA?oc=5",
-          "query": "오늘 국내증시 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaWhUSEVKbUhQdVRGc1dlUUc2RUZPUzdUQy1oUHBOX1JqSGhIbF84YlMyOE5DeTRJLVphcG5HbXN3NktDWk5NblVuZHpmcml0ZFVXRDZ3d3ppLXloYXVYR3lVVVZqYmJvNU02elJXVXlUa2drWGc?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] 상승 테마 실종된 오전장… AI 인프라 규제 우려에 반도체·전력주 전면 '파란불' - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kbURYTFQxY1BGeHl1VzNDV25Dc0RYd3Y2ZU1OcXg4ajYzTzBJUnJTcS1hbUhERkJpX2wwN0pUeU5mWUx4NGpKQXhsamZTMUhEc0xpNV9IMkpiQkpteU8ybElpV1hPV25tcEdEVjM3aG1YU0dDdXc?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] 앤트로픽 IPO 공식화에 AI 투심 부활… 반도체주 주도 코스피 4%대 급등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2VVp5aG1rNi1DMTZGSmdscjZaV2FXd1c2dTRRRFdwdGltRjVKcXMtNi12clVTYndWNzRSRjdPMF9QX05UWmxIZHppcl9FQkhWajR6bEhDTTZjempQOHFTNUJzTmlZR1FPOXl3cGh3UFc3QVJoRkE?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "AI 투자의 결실 입증된 미 증시…국내 AI·클라우드·보안 관련주 동반 급등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzb1FvR0VFWEdWS0xERnhKcDlYTHZISFoyQXZPQkJaMmV5MTI1c1RQbWNZX1RrVV8zM3FzUGpNSEQ1djdiQVo3b1NPRHYxVS13TWcxNl9jNU00UFczMFd2U281X2R1R2dpd2JkM19YQ1NTOGZDUFE?oc=5",
-          "query": "국내 주식 급등 테마",
-          "matchedSignals": [
-            "AI",
-            "클라우드"
           ]
         }
       ]
@@ -759,7 +759,7 @@
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 20,
+      "score": 19,
       "evidence": [
         {
           "title": "글로벌 제약·바이오 투심 회복에…바이오시밀러 관련주 우상향 - 핀포인트뉴스",
@@ -856,12 +856,12 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 16,
+      "score": 15,
       "evidence": [
         {
-          "title": "[테마시황] 반도체 기판·건설·재건 '상승' vs 2차전지·통신 '하락' - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45UW96TGhHMmwzZ1E4T3k4UUN2NTNfaGVFOTMzRDlYZUdIaXZwem1ESG1vZnBQeGdrdExXVUpPOURwNXY4LTZleEFqWjR4bGdyX3dJMzZCQWg3aTU4R3RFcnl4cE1HRVNNaXl6SDJXQm02UUNuRUE?oc=5",
-          "query": "국내 주식 급등 테마",
+          "title": "코스피, 뉴욕증시 반도체 반등에도 2차전지 약세에 하락‥코스닥도 0.8%↓ - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQUFvNFJnendleEIxNmpQZFY1dnk4Y3dvbGtTRGU0V2I5YktoZXBfa0NLbHR1UEZ3d2ZaRGxEMnBsMXdJREZsQlN5blBScmdQWk04Zl85RGwwSXA4Y2hnQlItUnNTeTFWUk9FeVVhcFloaW5T0gF0QVVfeXFMTUtFSjRpTkV4UTZvNGJPNlNiaVVQODVSclNYVnEzRFo1QW5vNEFTekdvMkNlSzNzVlRTM19jR0tsVGREaU1TQzN6enZXV1dPdXM2NFZCWmFNZWN1UFRXQ3RicHB1aHQ3UU80VWUwelVmZEE4UmE?oc=5",
+          "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
