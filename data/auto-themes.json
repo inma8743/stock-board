@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-11-09T19:44:56.444Z",
+  "discoveredAt": "2026-11-10T07:10:18.883Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -58,21 +58,13 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 31,
+      "score": 30,
       "autoDiscovered": true,
       "evidence": [
         {
           "title": "[오늘의 증시]美 AI주 폭락에 코스피 또 '검은 금요일' 공포…반도체 충격 불가피 - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOXJPX1YzeXA3VVd0TnpvZENxcXpvdUlMVWtFSWVLU3luelBJcDhYN3VKU0lGLWFpWXFWYzh3QWQ3bFM1cG1pLTBhMzQ0QUZOcVRVLVAwUmU5bElnd2hvY9IBeEFVX3lxTE9IdXhqMTNlTEd4Vk1qNG9nOHluVmFnVVJzeF9RUVJ4T01wTTdub1g1OFZXT3B2YUYwX1BfU1l6RW5OV2VRUWo0cFNSeW1aZ0kxaTU2a0ZUTWFzc0pldzBUX0tHQzFmOENDUWZzZ2RpY2Y3SWZyV2hXbA?oc=5",
           "query": "오늘 국내증시 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaWhUSEVKbUhQdVRGc1dlUUc2RUZPUzdUQy1oUHBOX1JqSGhIbF84YlMyOE5DeTRJLVphcG5HbXN3NktDWk5NblVuZHpmcml0ZFVXRDZ3d3ppLXloYXVYR3lVVVZqYmJvNU02elJXVXlUa2drWGc?oc=5",
-          "query": "국내 주식 급등 테마",
           "matchedSignals": [
             "AI"
           ]
@@ -100,6 +92,14 @@
           "matchedSignals": [
             "AI",
             "클라우드"
+          ]
+        },
+        {
+          "title": "AI 데이터센터 인터커넥트 수요 급증: 어느 광통신 관련주가 가장 큰 수혜를 볼까? 주목할 미국 주식 5선 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc09UNUhKbnJWajZObGJkNFhTc1QtWTFna0hMYnpXanJoTURpNDI3eGZVSGpxYVQyODZaUXVCLW1NSWQ5REY4Y0dwQ2ZqMENaNzRUTmFCTUw3dUFsOGNSb3dEX3AzV0ctV2pnUm5mUnFiZnRsZ2ZYX043QlJXRE10VVl3RkFvREFybXgwOVRDWVNTX0o1RHlieFk4VFhuTzgxM1lZSnVwbGlLSWlYcjlpMnRSb3FwUVFfWXZ5UEYzcmxXVko0RzZmSlV1NA?oc=5",
+          "query": "증시 수혜주 관련주",
+          "matchedSignals": [
+            "AI"
           ]
         }
       ]
@@ -359,7 +359,7 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 19,
+      "score": 22,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -388,16 +388,17 @@
           ]
         },
         {
-          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wNW9DQzlUU0dXaUdzcHdtY2xESE1sM1RXbXpnRWU0NXVmWHZhbFA0dnA4Q3hmYXBUVEo1ZU5VLTFJQXUyTlhZZnZJWDZHQkNiemRpaA?oc=5",
+          "title": "하나증권 \"신약 후보물질 확보 경쟁 지속, 관련주 알테오젠 리가켐바이오\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHYU5tMUFvd084ajBfYUNuV2tRajN5eFpSbGhlWWk5bi15R1RnaDhybmVOMTNud3NkUXpac3lEYjZHLVlxY1RhV0NjSWxiYnFodXlkRXJZaUE3NDN1ZVlCMHN5czNBcG1RQkZUOWIyZEpvOFE?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
-            "바이오"
+            "바이오",
+            "신약"
           ]
         },
         {
-          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
+          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wNW9DQzlUU0dXaUdzcHdtY2xESE1sM1RXbXpnRWU0NXVmWHZhbFA0dnA4Q3hmYXBUVEo1ZU5VLTFJQXUyTlhZZnZJWDZHQkNiemRpaA?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -489,16 +490,16 @@
           ]
         },
         {
-          "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 휘청…반도체·전력기기 동반 하락 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WUzYwNUd3N0VrSXh2VTB1a1R0Q3lqVmxGUEhvZEZJTm52aURKMDliOWh6Yi0yZnBZdy1jVGprc3FxUnUtUDJNX0RnSl9nRFhCZzlnRlpIWHhxeW5zcHBBS1BjejMyLXVxZnEwLThONExZU3PSAXdBVV95cUxQRGJRb3JTenVwaDBTOHpoVWN3UktKdTBmcEZxZ3Nibmo1M3M3dlhwWEpXZkVWbklFcmNwZXhzbFdkSjRrOU0yN2JkbWNzM3lRMzFmRkUzSVdFV3hYc1RCR3N4bWlHbDhHa1dTQlQ0NEJWVVBubFBtVQ?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - https://www.2news.co.kr/",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - https://www.2news.co.kr/",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
+          "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 휘청…반도체·전력기기 동반 하락 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WUzYwNUd3N0VrSXh2VTB1a1R0Q3lqVmxGUEhvZEZJTm52aURKMDliOWh6Yi0yZnBZdy1jVGprc3FxUnUtUDJNX0RnSl9nRFhCZzlnRlpIWHhxeW5zcHBBS1BjejMyLXVxZnEwLThONExZU3PSAXdBVV95cUxQRGJRb3JTenVwaDBTOHpoVWN3UktKdTBmcEZxZ3Nibmo1M3M3dlhwWEpXZkVWbklFcmNwZXhzbFdkSjRrOU0yN2JkbWNzM3lRMzFmRkUzSVdFV3hYc1RCR3N4bWlHbDhHa1dTQlQ0NEJWVVBubFBtVQ?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -560,7 +561,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 15,
+      "score": 14,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -612,20 +613,12 @@
     {
       "slug": "ai-software-stocks",
       "title": "AI 소프트웨어 관련주 체크",
-      "score": 31,
+      "score": 30,
       "evidence": [
         {
           "title": "[오늘의 증시]美 AI주 폭락에 코스피 또 '검은 금요일' 공포…반도체 충격 불가피 - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOXJPX1YzeXA3VVd0TnpvZENxcXpvdUlMVWtFSWVLU3luelBJcDhYN3VKU0lGLWFpWXFWYzh3QWQ3bFM1cG1pLTBhMzQ0QUZOcVRVLVAwUmU5bElnd2hvY9IBeEFVX3lxTE9IdXhqMTNlTEd4Vk1qNG9nOHluVmFnVVJzeF9RUVJ4T01wTTdub1g1OFZXT3B2YUYwX1BfU1l6RW5OV2VRUWo0cFNSeW1aZ0kxaTU2a0ZUTWFzc0pldzBUX0tHQzFmOENDUWZzZ2RpY2Y3SWZyV2hXbA?oc=5",
           "query": "오늘 국내증시 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaWhUSEVKbUhQdVRGc1dlUUc2RUZPUzdUQy1oUHBOX1JqSGhIbF84YlMyOE5DeTRJLVphcG5HbXN3NktDWk5NblVuZHpmcml0ZFVXRDZ3d3ppLXloYXVYR3lVVVZqYmJvNU02elJXVXlUa2drWGc?oc=5",
-          "query": "국내 주식 급등 테마",
           "matchedSignals": [
             "AI"
           ]
@@ -653,6 +646,14 @@
           "matchedSignals": [
             "AI",
             "클라우드"
+          ]
+        },
+        {
+          "title": "AI 데이터센터 인터커넥트 수요 급증: 어느 광통신 관련주가 가장 큰 수혜를 볼까? 주목할 미국 주식 5선 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc09UNUhKbnJWajZObGJkNFhTc1QtWTFna0hMYnpXanJoTURpNDI3eGZVSGpxYVQyODZaUXVCLW1NSWQ5REY4Y0dwQ2ZqMENaNzRUTmFCTUw3dUFsOGNSb3dEX3AzV0ctV2pnUm5mUnFiZnRsZ2ZYX043QlJXRE10VVl3RkFvREFybXgwOVRDWVNTX0o1RHlieFk4VFhuTzgxM1lZSnVwbGlLSWlYcjlpMnRSb3FwUVFfWXZ5UEYzcmxXVko0RzZmSlV1NA?oc=5",
+          "query": "증시 수혜주 관련주",
+          "matchedSignals": [
+            "AI"
           ]
         }
       ]
@@ -759,7 +760,7 @@
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 19,
+      "score": 22,
       "evidence": [
         {
           "title": "글로벌 제약·바이오 투심 회복에…바이오시밀러 관련주 우상향 - 핀포인트뉴스",
@@ -787,16 +788,17 @@
           ]
         },
         {
-          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wNW9DQzlUU0dXaUdzcHdtY2xESE1sM1RXbXpnRWU0NXVmWHZhbFA0dnA4Q3hmYXBUVEo1ZU5VLTFJQXUyTlhZZnZJWDZHQkNiemRpaA?oc=5",
+          "title": "하나증권 \"신약 후보물질 확보 경쟁 지속, 관련주 알테오젠 리가켐바이오\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHYU5tMUFvd084ajBfYUNuV2tRajN5eFpSbGhlWWk5bi15R1RnaDhybmVOMTNud3NkUXpac3lEYjZHLVlxY1RhV0NjSWxiYnFodXlkRXJZaUE3NDN1ZVlCMHN5czNBcG1RQkZUOWIyZEpvOFE?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
-            "바이오"
+            "바이오",
+            "신약"
           ]
         },
         {
-          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
+          "title": "[특징주] ‘바이오 USA’ 개막에 관련주 강세⋯알테오젠 11%ㆍ삼성바이오 7%↑ - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wNW9DQzlUU0dXaUdzcHdtY2xESE1sM1RXbXpnRWU0NXVmWHZhbFA0dnA4Q3hmYXBUVEo1ZU5VLTFJQXUyTlhZZnZJWDZHQkNiemRpaA?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -836,16 +838,16 @@
           ]
         },
         {
-          "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 휘청…반도체·전력기기 동반 하락 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WUzYwNUd3N0VrSXh2VTB1a1R0Q3lqVmxGUEhvZEZJTm52aURKMDliOWh6Yi0yZnBZdy1jVGprc3FxUnUtUDJNX0RnSl9nRFhCZzlnRlpIWHhxeW5zcHBBS1BjejMyLXVxZnEwLThONExZU3PSAXdBVV95cUxQRGJRb3JTenVwaDBTOHpoVWN3UktKdTBmcEZxZ3Nibmo1M3M3dlhwWEpXZkVWbklFcmNwZXhzbFdkSjRrOU0yN2JkbWNzM3lRMzFmRkUzSVdFV3hYc1RCR3N4bWlHbDhHa1dTQlQ0NEJWVVBubFBtVQ?oc=5",
+          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - https://www.2news.co.kr/",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
           ]
         },
         {
-          "title": "전력기기 관련주 최근 급반등, 피크아웃 우려 씻어내나 - https://www.2news.co.kr/",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YVFtSzVFSFozenRkTjRYQk4xR3pNNG9uUlJGSFB2MHJKNFNSSVN0UlJsdk1XZDJVMG9qaXpPUF92dTE1R3JydWUtZzhJaFFKTXI1N3lTa2IyWEV6Ym5KSHBHSFJWVWVO?oc=5",
+          "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 휘청…반도체·전력기기 동반 하락 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WUzYwNUd3N0VrSXh2VTB1a1R0Q3lqVmxGUEhvZEZJTm52aURKMDliOWh6Yi0yZnBZdy1jVGprc3FxUnUtUDJNX0RnSl9nRFhCZzlnRlpIWHhxeW5zcHBBS1BjejMyLXVxZnEwLThONExZU3PSAXdBVV95cUxQRGJRb3JTenVwaDBTOHpoVWN3UktKdTBmcEZxZ3Nibmo1M3M3dlhwWEpXZkVWbklFcmNwZXhzbFdkSjRrOU0yN2JkbWNzM3lRMzFmRkUzSVdFV3hYc1RCR3N4bWlHbDhHa1dTQlQ0NEJWVVBubFBtVQ?oc=5",
           "query": "전력기기 관련주",
           "matchedSignals": [
             "전력기기"
@@ -856,7 +858,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 15,
+      "score": 14,
       "evidence": [
         {
           "title": "코스피, 뉴욕증시 반도체 반등에도 2차전지 약세에 하락‥코스닥도 0.8%↓ - MBC 뉴스",
