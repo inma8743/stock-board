@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T06:33:57.527Z",
+  "fetchedAt": "2026-11-13T17:09:15.896Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -67,10 +67,10 @@
           "query": "방산 관련주"
         },
         {
-          "title": "조선·방산 관련주, 실적 기대감 속 동반 '함박웃음' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16V1BZT08xaXl3dThjNHpQYmRUaS12VzgyRTZHUzIyQ1dvTm8yeTZpUElNa0pTNVRRLWJ1SnNfRzgzYUNIRVBoSEFSN19oNnZ3a1NKWlBVM25XUQ?oc=5",
+          "title": "어제는 건설, 오늘은 방산…자고 나면 널뛰는 테마주 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QYzh5VnV3dUV5TlFTMFlrb3pSTmRnQlVzWVB1SFJkRkRuUzBBZnFQdW5Mekg5WWIxWC1yeVhCbjhEbV9jSlRHUHdqQjlIQ3BEcUFJWmpOS0xyQQ?oc=5",
           "source": "한국경제",
-          "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
           "query": "방산 관련주"
         },
         {
@@ -147,17 +147,17 @@
           "query": "원전 관련주"
         },
         {
-          "title": "두산에너빌리티 3%대 하락… 원전 관련주, 주초 장 초반 동반 약세 - 국제뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTcHJCaTZuUmFuTmhfcF93amNEd2cyQXpBRVFQSEh0Z0s3b216dmwwUDQ5OFZrcEVmbzM0cDdac0JlYUh2dmxrVTJSSVJxNEFuR09FNnZsQ0dWd0JZSVQ5X2JYLUUtZ2JEN3JvNHJn?oc=5",
-          "source": "국제뉴스",
-          "publishedAt": "Mon, 19 Oct 2026 07:00:00 GMT",
-          "query": "원전 관련주"
-        },
-        {
           "title": "[SMR 패권경쟁③] SMR 수혜주 어디…원전株 넘어 조선·연료 눈길 - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TVhtanY0MWE5WUxCZUcxcXBDa0hUT2lrQkRBSUlkeTdESU1jcm9MdjJzVDRqMnMxaEs2QXctOHNiRC11VnpCcG1SbDRadTRNNFdNUV9Uck1SN1RtbDNDRldlVTgyTDJEb1JUVTQwdGU?oc=5",
           "source": "연합인포맥스",
           "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+          "query": "원전 관련주"
+        },
+        {
+          "title": "두산에너빌리티 3%대 하락… 원전 관련주, 주초 장 초반 동반 약세 - 국제뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTcHJCaTZuUmFuTmhfcF93amNEd2cyQXpBRVFQSEh0Z0s3b216dmwwUDQ5OFZrcEVmbzM0cDdac0JlYUh2dmxrVTJSSVJxNEFuR09FNnZsQ0dWd0JZSVQ5X2JYLUUtZ2JEN3JvNHJn?oc=5",
+          "source": "국제뉴스",
+          "publishedAt": "Mon, 19 Oct 2026 07:00:00 GMT",
           "query": "원전 관련주"
         }
       ]
@@ -166,17 +166,10 @@
       "title": "로봇 관련주 체크",
       "items": [
         {
-          "title": "양대지수 껑충…휴림로봇·레인보우로보틱스·두산로보틱스·현대무벡스·유진로봇 동반 상승 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZXJTVUxPTVgtOFFjNTNHQjQ5X3ViZnZ3bXJPaW85WHBBbl95d29GTEg2RFBVUDhodTZGdnZhczVqNU96SFl5YlU4MDB5N2FnektJOWR5QU5YbVFHLUh4dzR4T0V5Ti1l?oc=5",
+          "title": "로봇 관련주 희비 엇갈려…휴림로봇·레인보우로보틱스 상승, 두산로보틱스·유진로봇 하락 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SMUVDc1pVVWNCbU1fMXl5LTBnTVNnU1dwdHVDR2pCOHBxelVOcUZXdEZCNFNkVFlYMFNEaUd5TzBvTWszckVZVmRkZEloM1FrRXAtd0t2UzBqNUtZc2NUTExaMTFGY0s3?oc=5",
           "source": "CBC뉴스",
-          "publishedAt": "Fri, 13 Nov 2026 00:16:57 GMT",
-          "query": "로봇 관련주"
-        },
-        {
-          "title": "유니트리 주식 A주 세번째 비싼 주, 주가 장중 8백위안 돌파, - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04YWJILU5DWC1aQ0xRR2FoZFVzMmFtU1hHT3pyYk42OGdMeDZhRmI4Y2Y1WWh6MGZqWjFMbHlGN3V5aEpWUkhHckozbnpuTVN6REhQRkQya0drazNF?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "Tue, 10 Nov 2026 08:06:00 GMT",
+          "publishedAt": "Thu, 12 Nov 2026 00:58:15 GMT",
           "query": "로봇 관련주"
         },
         {
@@ -199,6 +192,53 @@
           "source": "매일경제 마켓",
           "publishedAt": "Thu, 06 Aug 2026 07:00:00 GMT",
           "query": "로봇 관련주"
+        },
+        {
+          "title": "양대지수 껑충…휴림로봇·레인보우로보틱스·두산로보틱스·현대무벡스·유진로봇 동반 상승 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZXJTVUxPTVgtOFFjNTNHQjQ5X3ViZnZ3bXJPaW85WHBBbl95d29GTEg2RFBVUDhodTZGdnZhczVqNU96SFl5YlU4MDB5N2FnektJOWR5QU5YbVFHLUh4dzR4T0V5Ti1l?oc=5",
+          "source": "CBC뉴스",
+          "publishedAt": "Fri, 13 Nov 2026 00:16:57 GMT",
+          "query": "로봇 관련주"
+        }
+      ]
+    },
+    "cosmetics-stocks": {
+      "title": "화장품 관련주 체크",
+      "items": [
+        {
+          "title": "화장품 관련주, 해외 시장 다변화 기대…네오팜·마녀공장 화색도네 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCbTdYM25wbnVRU0l4MV9ucU9vTnpJdEM3aVdHd090cDdoSzVER09pdzl6bV9ablVWZEpkWXNNYWFJVHY0QlA4blRndlRWX0FhQTJEQVpJU1dMTTF3bGtIaEZRN1JDVEJtNE5Cd0NJaUY1dlnSAXdBVV95cUxNSzZZWjB0V2dCdjZ2YlhtVUVESEZ2OVdHbGlIOGZnLTdaOUUzZ09PaU00NGhXNkdFNnpqcVdkc1c1QThYV3habGtsQlNiYjh4NXhoTS1LOTgzSWE2NmwtdURodTlBOTZYdlBjRHNtX2RhN0twVFFaVQ?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Tue, 03 Nov 2026 05:34:31 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "\"화장품株 주가 조정 과도\"…아모레퍼시픽 5%·한국콜마 5%대 상승 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xd2pkbkxQeDRtRVAyNW1pNTl5d1FFRHJwZnhuMk5ITkpmZUlnTzhWV05KYmhzWW14Tlo5WEhPTjd5azRRMi13YWpTcDJmY2hxQzBsRk5wNDVtQQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
+          "source": "CBC뉴스",
+          "publishedAt": "Tue, 06 Oct 2026 07:00:00 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "[특징주] 화장품주, 수출 호조 지속에 상승(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvb2JVVjdsamtwYlhTSUpIeUhGSEJiMDMxMDlualJGRnZfdjVwUVRBZWJzOGdDS3RRMHFwLWEyV0pITEEyOXF4c3RSbkJUZENVV09HZUNFU1V3RHfSAWBBVV95cUxOZE1IVmRlQTBvVTBNQ2NoSmVIR2J2RWZCTVA4a252emlBbll3bjN6V2tjZFZSMHRhLVoyS3NBWGEwRzhRb2Nzc3Q0VE9lRE1Pb25Nc1RiOUxvU0Z4T2xEeEM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "Tue, 11 Aug 2026 07:00:00 GMT",
+          "query": "화장품 관련주"
+        },
+        {
+          "title": "[특징주] 화장품 수출 호조에 K뷰티株 강세…오가닉티코스메틱 30% ↑ - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBROGx1ZWMxTGtjcmp5WUI2M0o5WVFFZkNrN05ZeEJmTnNZMGVtcFlzbDZNS3VJOHhab2lYNldFMVI1NlU3WDlRNGZZU190ZmFUdjhha2FFUWVZVUNk?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT",
+          "query": "화장품 관련주"
         }
       ]
     },
@@ -246,10 +286,10 @@
       "title": "금융주 체크",
       "items": [
         {
-          "title": "[인도증시] 랠리 뒤 숨고르기, 강보합 마감...外人 선호도 높은 금융주 강세 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TWDc3cnI4ckszNzRtUmR5TUIzLW5kbjJJTlQzTGQtdVRBbW93WjBRZHB6NVlES2dXWUNwcGxwMUZpdnZ6N2NhUUllWnRuTjNoNHp1bmhqQlh4S1Vr?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "Thu, 12 Nov 2026 10:44:00 GMT",
+          "title": "[오늘의 주목주] '금융주 강세' 신한지주 주가 5%대 상승, 코스피 외국인 순매도에 5290선 하락 마감 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbE1mTUtKcDZLUzVHRnZCeU41ODIyVXUya3VNelVBbnRKbzhPam5YQ29CSnlQY09FMEl5UzFBeUJVdlQ4Z083SXFGSnhPNGdFdURnZm1pQlJnVXhENWFSeG5sdUZoeFNKWVQ3R1VtdjVLVnM?oc=5",
+          "source": "비즈니스포스트",
+          "publishedAt": "Fri, 13 Nov 2026 08:09:28 GMT",
           "query": "금융주"
         },
         {
@@ -257,6 +297,13 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweGhSMTJCMEE5OER1WUVNWkZNNzJJMG5tWkRKQWxWZXkxT2dhQTJoLUtWMUtYcXVoWVFvalpjMnpYRWoyOVNLeFN5TUNTX0FpeXhXWFpXS1U?oc=5",
           "source": "네이버페이 머니스토리",
           "publishedAt": "Wed, 05 Aug 2026 07:00:00 GMT",
+          "query": "금융주"
+        },
+        {
+          "title": "[인도증시] 랠리 뒤 숨고르기, 강보합 마감...外人 선호도 높은 금융주 강세 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TWDc3cnI4ckszNzRtUmR5TUIzLW5kbjJJTlQzTGQtdVRBbW93WjBRZHB6NVlES2dXWUNwcGxwMUZpdnZ6N2NhUUllWnRuTjNoNHp1bmhqQlh4S1Vr?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "Thu, 12 Nov 2026 10:44:00 GMT",
           "query": "금융주"
         },
         {
@@ -272,53 +319,6 @@
           "source": "매일경제 마켓",
           "publishedAt": "Tue, 29 Sep 2026 07:00:00 GMT",
           "query": "금융주"
-        },
-        {
-          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ0xsR3l0MVkxM0NsNWJFcHcyVXQ0OFhhMWFDQVVfRW05aXdWYmxsaWNPV1NGX3JVSGJDaGF3S3hxWG11LWpGSW1TU1JLemt3c2lyWmQtYnhzQzTSAWBBVV95cUxOM25wSVV1MjZZY0hUOWNJSjA5STBjUWxzeGFOcTVWMnBLTktZbnk2bGdBb0g0SGFBREhlRldRTkFyeDlHdHNRNUp6TnhWWWFmSGkzdGx5aXVCZVZRd3JZbjA?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
-          "query": "금융주"
-        }
-      ]
-    },
-    "cosmetics-stocks": {
-      "title": "화장품 관련주 체크",
-      "items": [
-        {
-          "title": "화장품 관련주, 해외 시장 다변화 기대…네오팜·마녀공장 화색도네 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCbTdYM25wbnVRU0l4MV9ucU9vTnpJdEM3aVdHd090cDdoSzVER09pdzl6bV9ablVWZEpkWXNNYWFJVHY0QlA4blRndlRWX0FhQTJEQVpJU1dMTTF3bGtIaEZRN1JDVEJtNE5Cd0NJaUY1dlnSAXdBVV95cUxNSzZZWjB0V2dCdjZ2YlhtVUVESEZ2OVdHbGlIOGZnLTdaOUUzZ09PaU00NGhXNkdFNnpqcVdkc1c1QThYV3habGtsQlNiYjh4NXhoTS1LOTgzSWE2NmwtdURodTlBOTZYdlBjRHNtX2RhN0twVFFaVQ?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Tue, 03 Nov 2026 05:34:31 GMT",
-          "query": "화장품 관련주"
-        },
-        {
-          "title": "\"화장품株 주가 조정 과도\"…아모레퍼시픽 5%·한국콜마 5%대 상승 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xd2pkbkxQeDRtRVAyNW1pNTl5d1FFRHJwZnhuMk5ITkpmZUlnTzhWV05KYmhzWW14Tlo5WEhPTjd5azRRMi13YWpTcDJmY2hxQzBsRk5wNDVtQQ?oc=5",
-          "source": "한국경제",
-          "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
-          "query": "화장품 관련주"
-        },
-        {
-          "title": "화장품 관련주 희비…본느·잇츠한불 상승, 코스메카코리아 하락 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoWi1SOEFLTmVRN1VkalFrLUFua1BvR3pwcTA3VnBISFRrZVBlbTZ2ZWg1c3liOF91X1JRdW8xMHJWTjlFeWZDbThtX3Q3SElOMGFWSjBJY19LTTNjcGp5MS05U0ppaVRw?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Tue, 06 Oct 2026 07:00:00 GMT",
-          "query": "화장품 관련주"
-        },
-        {
-          "title": "[특징주] 화장품주, 수출 호조 지속에 상승(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvb2JVVjdsamtwYlhTSUpIeUhGSEJiMDMxMDlualJGRnZfdjVwUVRBZWJzOGdDS3RRMHFwLWEyV0pITEEyOXF4c3RSbkJUZENVV09HZUNFU1V3RHfSAWBBVV95cUxOZE1IVmRlQTBvVTBNQ2NoSmVIR2J2RWZCTVA4a252emlBbll3bjN6V2tjZFZSMHRhLVoyS3NBWGEwRzhRb2Nzc3Q0VE9lRE1Pb25Nc1RiOUxvU0Z4T2xEeEM?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "Tue, 11 Aug 2026 07:00:00 GMT",
-          "query": "화장품 관련주"
-        },
-        {
-          "title": "[특징주] 화장품 수출 호조에 K뷰티株 강세…오가닉티코스메틱 30% ↑ - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBROGx1ZWMxTGtjcmp5WUI2M0o5WVFFZkNrN05ZeEJmTnNZMGVtcFlzbDZNS3VJOHhab2lYNldFMVI1NlU3WDlRNGZZU190ZmFUdjhha2FFUWVZVUNk?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT",
-          "query": "화장품 관련주"
         }
       ]
     },
@@ -420,17 +420,17 @@
           "query": "전력기기 관련주"
         },
         {
-          "title": "470만원 황제주가 180만원대로 '와르르'…AI 수혜주의 배신 [종목+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80MTNHTHM5bDNWYmV0ZjJGUmlqcFZtbUVqbDdBaGl5SXdaSWFNV0oxMUxZNlM0RjF0Q01vWnNGcGI3b2RyUnJIXzlndmR3VTdmY0xPUHZiOG9DQQ?oc=5",
-          "source": "한국경제",
-          "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT",
-          "query": "전력기기 관련주"
-        },
-        {
           "title": "AI 데이터센터 전력기기 관련주 3사 분석, HD현대일 - 브런치",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00bWhkWE9wdXh6emNCdTVmRG1EZlh0bF9NM2FMZkRoWnBPMWFQWEtpeUY1bmJ5bDFXMDVaUVVyb05yNER0cmw4?oc=5",
           "source": "브런치",
           "publishedAt": "Tue, 28 Jul 2026 07:00:00 GMT",
+          "query": "전력기기 관련주"
+        },
+        {
+          "title": "470만원 황제주가 180만원대로 '와르르'…AI 수혜주의 배신 [종목+] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80MTNHTHM5bDNWYmV0ZjJGUmlqcFZtbUVqbDdBaGl5SXdaSWFNV0oxMUxZNlM0RjF0Q01vWnNGcGI3b2RyUnJIXzlndmR3VTdmY0xPUHZiOG9DQQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT",
           "query": "전력기기 관련주"
         },
         {
