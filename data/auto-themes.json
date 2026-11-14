@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-11-14T06:11:55.666Z",
+  "discoveredAt": "2026-11-14T15:46:17.664Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -162,20 +162,20 @@
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "[오늘의 주목주] '금융주 강세' 신한지주 주가 5%대 상승, 코스피 외국인 순매도에 5290선 하락 마감 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbE1mTUtKcDZLUzVHRnZCeU41ODIyVXUya3VNelVBbnRKbzhPam5YQ29CSnlQY09FMEl5UzFBeUJVdlQ4Z083SXFGSnhPNGdFdURnZm1pQlJnVXhENWFSeG5sdUZoeFNKWVQ3R1VtdjVLVnM?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
           "title": "반도체가 흔들릴 때, 금융주와 고배당주가 보이는 이유 - 네이버페이 머니스토리",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweGhSMTJCMEE5OER1WUVNWkZNNzJJMG5tWkRKQWxWZXkxT2dhQTJoLUtWMUtYcXVoWVFvalpjMnpYRWoyOVNLeFN5TUNTX0FpeXhXWFpXS1U?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
             "배당"
+          ]
+        },
+        {
+          "title": "[오늘의 주목주] '금융주 강세' 신한지주 주가 5%대 상승, 코스피 외국인 순매도에 5290선 하락 마감 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbE1mTUtKcDZLUzVHRnZCeU41ODIyVXUya3VNelVBbnRKbzhPam5YQ29CSnlQY09FMEl5UzFBeUJVdlQ4Z083SXFGSnhPNGdFdURnZm1pQlJnVXhENWFSeG5sdUZoeFNKWVQ3R1VtdjVLVnM?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
           ]
         },
         {
@@ -359,12 +359,12 @@
         "kospi-kosdaq.html",
         "robot-stocks.html"
       ],
-      "score": 23,
+      "score": 24,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "글로벌 바이오의약품 시장 확대 기대…바이오시밀러 관련주 매수 온기 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhY2FBeEFXNGk5cTR1cVhHVjlvTHVkUTdOR1A4ZjZrdDJGZWhQVTBZVUdqYUpfR3dyYW11clB0TWZrMVpjMHdja0lfcWVUanRhMjFINkYwRmpiN0VneVFRcWpzVDl2Yk44VDJPSXB5UW8wUkhBcWpj0gF3QVVfeXFMUGFjYUF4QVc0aTlxNHVxWEdWOW9MdWRRN05HUDhmNmt0MkZlaFBVMFlVR2phSl9Hd3JhbXVyUHRNZmsxWmMwd2NrSV9xZVRqdGEyMUg2RjBGamI3RWd5UVFxanNUOXZiTjhUMk9JcHlRbzBSSEFxamM?oc=5",
+          "title": "글로벌 의료 AI 솔루션 수출 확대로 관련주 '활활'…루닛·엔젠바이오 폭등랠리 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCSTgyZC1pY3llQWNUMTV4M3BiWjhwWVQ5OHlVM1RvZTV5VFExQ1JMcWFGa3E5WkM3ajU2eTlvdVUtSFBYV2dOWkJ3WGNReXoyU3d5ZFF6cWVmWG9mdUVJdDFBblBRV1ZlLUtnV1FtTTVmX03SAXdBVV95cUxNcjdRMzB0SGsyV3I4ckJET1JkSzF6NlcwYTd0M2FyZTNET3k4bU9OcXFVeVVrU0d4azZzNmdrcEdoUFQwWW5xRkVYelpHMHJ1VG1MSjBtZVhMNVhKTlZEMWpIVnNmY1ZZQjB1R0lmZGxlZVNYdGxOYw?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -387,19 +387,20 @@
           ]
         },
         {
-          "title": "글로벌 의료 AI 솔루션 수출 확대로 관련주 '활활'…루닛·엔젠바이오 폭등랠리 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCSTgyZC1pY3llQWNUMTV4M3BiWjhwWVQ5OHlVM1RvZTV5VFExQ1JMcWFGa3E5WkM3ajU2eTlvdVUtSFBYV2dOWkJ3WGNReXoyU3d5ZFF6cWVmWG9mdUVJdDFBblBRV1ZlLUtnV1FtTTVmX03SAXdBVV95cUxNcjdRMzB0SGsyV3I4ckJET1JkSzF6NlcwYTd0M2FyZTNET3k4bU9OcXFVeVVrU0d4azZzNmdrcEdoUFQwWW5xRkVYelpHMHJ1VG1MSjBtZVhMNVhKTlZEMWpIVnNmY1ZZQjB1R0lmZGxlZVNYdGxOYw?oc=5",
+          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
           ]
         },
         {
-          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
+          "title": "AI 신약개발 관련주 총정리 파로스아이바이오 신테카바이오 온코크로스 프로티나 투자 분석 - 블로그",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OeHNCU2MxLTRjMkpyWERMTHRjWXh6WGFXMmlGU2lLaHAwY19ZOUxRaXh0UmdjckFJZHZvUEdHNl8wRy1jcG9kWThreEJNSXdxdnFwamVnRDRMUQ?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
-            "바이오"
+            "바이오",
+            "신약"
           ]
         }
       ]
@@ -458,7 +459,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 19,
+      "score": 21,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -486,20 +487,19 @@
           ]
         },
         {
-          "title": "[거래소 기관] 삼성전자에 자금 집중...2차전지·전력주도 장바구니에 담았다 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SkhiTTRXT0Nfdm84Wlg4d2JSbkpzYTVwblNaUEFlbkdENmlHODRSdlY4ZzVRTzZxS1JxSTZUcEE4Z0dxSXNKYU54azNtTUl4a3V5eXZWWHVGRE45eEhna19URkk4ak9MV1EzVUdXNkdzS1HSAXdBVV95cUxNZjVKaWZuX05yclFnUmxPdUdjc2pFWXVKcUtaeFpET3VlcUU5LU9nOHIzYVdaVl9tUnZxc0lDLUc4MnVlVXhNb1ZoZmNqQWMtY0VXaWFPeGNyYkFrOFZDdjA3cTVCaUpHM1ZOSF96SU5HcG9xVlR6aw?oc=5",
+          "title": "[특징주] 급등 뒤 차익실현 매물…삼성SDI 6%대 급락 등 2차전지株 약세 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11V3k2ZkpnMmZyRTJZekhlcmN2RFFhRHYtWXNqb3hiWHFKMklvQjdpNHo4N2tKdnlQNWVsTXh6NWo0MHpjQ2h1MUJDeE40TVNkNkUxeVFHY2lNZ9IBWEFVX3lxTE1TcFBWSE5tV1dUR2IteFZuYWZHM1laSktJT0k3TTBnc2c1VXlmS1htaDdDSG9pSDBObzlSdlZSOTFsc1UyN3Y0WnN2YVAwM1FEWEh5Nm9qWFc?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "美 ESS 전력망 안보 자산 격상·中 리튬 광산 재가동 차질…2차전지株 반등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZi1wd1FHalRNTnphZWRzRUNLWXdmWUFIRzZsblRRUVhGUVhNTjZRX05odGhMcXJHdi1lOFJRSVFvYmYzNmMteWFtNENMVkFza2ZBZm9hV1c5bEFNc183SkdsV0w2eTVhb2lRVllCUDVZZVBfQ2c?oc=5",
+          "title": "[거래소 기관] 삼성전자에 자금 집중...2차전지·전력주도 장바구니에 담았다 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SkhiTTRXT0Nfdm84Wlg4d2JSbkpzYTVwblNaUEFlbkdENmlHODRSdlY4ZzVRTzZxS1JxSTZUcEE4Z0dxSXNKYU54azNtTUl4a3V5eXZWWHVGRE45eEhna19URkk4ak9MV1EzVUdXNkdzS1HSAXdBVV95cUxNZjVKaWZuX05yclFnUmxPdUdjc2pFWXVKcUtaeFpET3VlcUU5LU9nOHIzYVdaVl9tUnZxc0lDLUc4MnVlVXhNb1ZoZmNqQWMtY0VXaWFPeGNyYkFrOFZDdjA3cTVCaUpHM1ZOSF96SU5HcG9xVlR6aw?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
-            "2차전지",
-            "리튬"
+            "2차전지"
           ]
         }
       ]
@@ -662,20 +662,20 @@
       "score": 31,
       "evidence": [
         {
-          "title": "[오늘의 주목주] '금융주 강세' 신한지주 주가 5%대 상승, 코스피 외국인 순매도에 5290선 하락 마감 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbE1mTUtKcDZLUzVHRnZCeU41ODIyVXUya3VNelVBbnRKbzhPam5YQ29CSnlQY09FMEl5UzFBeUJVdlQ4Z083SXFGSnhPNGdFdURnZm1pQlJnVXhENWFSeG5sdUZoeFNKWVQ3R1VtdjVLVnM?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
           "title": "반도체가 흔들릴 때, 금융주와 고배당주가 보이는 이유 - 네이버페이 머니스토리",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweGhSMTJCMEE5OER1WUVNWkZNNzJJMG5tWkRKQWxWZXkxT2dhQTJoLUtWMUtYcXVoWVFvalpjMnpYRWoyOVNLeFN5TUNTX0FpeXhXWFpXS1U?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주",
             "배당"
+          ]
+        },
+        {
+          "title": "[오늘의 주목주] '금융주 강세' 신한지주 주가 5%대 상승, 코스피 외국인 순매도에 5290선 하락 마감 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbE1mTUtKcDZLUzVHRnZCeU41ODIyVXUya3VNelVBbnRKbzhPam5YQ29CSnlQY09FMEl5UzFBeUJVdlQ4Z083SXFGSnhPNGdFdURnZm1pQlJnVXhENWFSeG5sdUZoeFNKWVQ3R1VtdjVLVnM?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
           ]
         },
         {
@@ -756,11 +756,11 @@
     {
       "slug": "bio-stocks",
       "title": "바이오 관련주 체크",
-      "score": 23,
+      "score": 24,
       "evidence": [
         {
-          "title": "글로벌 바이오의약품 시장 확대 기대…바이오시밀러 관련주 매수 온기 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhY2FBeEFXNGk5cTR1cVhHVjlvTHVkUTdOR1A4ZjZrdDJGZWhQVTBZVUdqYUpfR3dyYW11clB0TWZrMVpjMHdja0lfcWVUanRhMjFINkYwRmpiN0VneVFRcWpzVDl2Yk44VDJPSXB5UW8wUkhBcWpj0gF3QVVfeXFMUGFjYUF4QVc0aTlxNHVxWEdWOW9MdWRRN05HUDhmNmt0MkZlaFBVMFlVR2phSl9Hd3JhbXVyUHRNZmsxWmMwd2NrSV9xZVRqdGEyMUg2RjBGamI3RWd5UVFxanNUOXZiTjhUMk9JcHlRbzBSSEFxamM?oc=5",
+          "title": "글로벌 의료 AI 솔루션 수출 확대로 관련주 '활활'…루닛·엔젠바이오 폭등랠리 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCSTgyZC1pY3llQWNUMTV4M3BiWjhwWVQ5OHlVM1RvZTV5VFExQ1JMcWFGa3E5WkM3ajU2eTlvdVUtSFBYV2dOWkJ3WGNReXoyU3d5ZFF6cWVmWG9mdUVJdDFBblBRV1ZlLUtnV1FtTTVmX03SAXdBVV95cUxNcjdRMzB0SGsyV3I4ckJET1JkSzF6NlcwYTd0M2FyZTNET3k4bU9OcXFVeVVrU0d4azZzNmdrcEdoUFQwWW5xRkVYelpHMHJ1VG1MSjBtZVhMNVhKTlZEMWpIVnNmY1ZZQjB1R0lmZGxlZVNYdGxOYw?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
@@ -783,19 +783,20 @@
           ]
         },
         {
-          "title": "글로벌 의료 AI 솔루션 수출 확대로 관련주 '활활'…루닛·엔젠바이오 폭등랠리 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCSTgyZC1pY3llQWNUMTV4M3BiWjhwWVQ5OHlVM1RvZTV5VFExQ1JMcWFGa3E5WkM3ajU2eTlvdVUtSFBYV2dOWkJ3WGNReXoyU3d5ZFF6cWVmWG9mdUVJdDFBblBRV1ZlLUtnV1FtTTVmX03SAXdBVV95cUxNcjdRMzB0SGsyV3I4ckJET1JkSzF6NlcwYTd0M2FyZTNET3k4bU9OcXFVeVVrU0d4azZzNmdrcEdoUFQwWW5xRkVYelpHMHJ1VG1MSjBtZVhMNVhKTlZEMWpIVnNmY1ZZQjB1R0lmZGxlZVNYdGxOYw?oc=5",
+          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
             "바이오"
           ]
         },
         {
-          "title": "하나증권 \"글로벌 헬스케어 업종에 자금 유입 지속, 관련주 삼성바이오로직스 셀트리온\" - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXBEZWRZTk43Y1pvRkJxdUVqTDh1a0NmS1Z0VTdPbERzQ1Z3VUhSbE41ZG9QdHVrNE5LdnE3bENSbkxqNUFfVWF1blJWaWlLUmdFbWVtV3lIY01STU0wMGlMeHJxc19iOTE0QThCZ3phaXM?oc=5",
+          "title": "AI 신약개발 관련주 총정리 파로스아이바이오 신테카바이오 온코크로스 프로티나 투자 분석 - 블로그",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OeHNCU2MxLTRjMkpyWERMTHRjWXh6WGFXMmlGU2lLaHAwY19ZOUxRaXh0UmdjckFJZHZvUEdHNl8wRy1jcG9kWThreEJNSXdxdnFwamVnRDRMUQ?oc=5",
           "query": "바이오 관련주",
           "matchedSignals": [
-            "바이오"
+            "바이오",
+            "신약"
           ]
         }
       ]
@@ -803,7 +804,7 @@
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 19,
+      "score": 21,
       "evidence": [
         {
           "title": "코스피, 뉴욕증시 반도체 반등에도 2차전지 약세에 하락‥코스닥도 0.8%↓ - MBC 뉴스",
@@ -830,20 +831,19 @@
           ]
         },
         {
-          "title": "[거래소 기관] 삼성전자에 자금 집중...2차전지·전력주도 장바구니에 담았다 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SkhiTTRXT0Nfdm84Wlg4d2JSbkpzYTVwblNaUEFlbkdENmlHODRSdlY4ZzVRTzZxS1JxSTZUcEE4Z0dxSXNKYU54azNtTUl4a3V5eXZWWHVGRE45eEhna19URkk4ak9MV1EzVUdXNkdzS1HSAXdBVV95cUxNZjVKaWZuX05yclFnUmxPdUdjc2pFWXVKcUtaeFpET3VlcUU5LU9nOHIzYVdaVl9tUnZxc0lDLUc4MnVlVXhNb1ZoZmNqQWMtY0VXaWFPeGNyYkFrOFZDdjA3cTVCaUpHM1ZOSF96SU5HcG9xVlR6aw?oc=5",
+          "title": "[특징주] 급등 뒤 차익실현 매물…삼성SDI 6%대 급락 등 2차전지株 약세 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11V3k2ZkpnMmZyRTJZekhlcmN2RFFhRHYtWXNqb3hiWHFKMklvQjdpNHo4N2tKdnlQNWVsTXh6NWo0MHpjQ2h1MUJDeE40TVNkNkUxeVFHY2lNZ9IBWEFVX3lxTE1TcFBWSE5tV1dUR2IteFZuYWZHM1laSktJT0k3TTBnc2c1VXlmS1htaDdDSG9pSDBObzlSdlZSOTFsc1UyN3Y0WnN2YVAwM1FEWEh5Nm9qWFc?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
           ]
         },
         {
-          "title": "美 ESS 전력망 안보 자산 격상·中 리튬 광산 재가동 차질…2차전지株 반등 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZi1wd1FHalRNTnphZWRzRUNLWXdmWUFIRzZsblRRUVhGUVhNTjZRX05odGhMcXJHdi1lOFJRSVFvYmYzNmMteWFtNENMVkFza2ZBZm9hV1c5bEFNc183SkdsV0w2eTVhb2lRVllCUDVZZVBfQ2c?oc=5",
+          "title": "[거래소 기관] 삼성전자에 자금 집중...2차전지·전력주도 장바구니에 담았다 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SkhiTTRXT0Nfdm84Wlg4d2JSbkpzYTVwblNaUEFlbkdENmlHODRSdlY4ZzVRTzZxS1JxSTZUcEE4Z0dxSXNKYU54azNtTUl4a3V5eXZWWHVGRE45eEhna19URkk4ak9MV1EzVUdXNkdzS1HSAXdBVV95cUxNZjVKaWZuX05yclFnUmxPdUdjc2pFWXVKcUtaeFpET3VlcUU5LU9nOHIzYVdaVl9tUnZxc0lDLUc4MnVlVXhNb1ZoZmNqQWMtY0VXaWFPeGNyYkFrOFZDdjA3cTVCaUpHM1ZOSF96SU5HcG9xVlR6aw?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
-            "2차전지",
-            "리튬"
+            "2차전지"
           ]
         }
       ]
