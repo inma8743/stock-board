@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T06:19:44.276Z",
+  "fetchedAt": "2026-11-15T16:17:57.934Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -93,6 +93,13 @@
           "query": "조선 관련주"
         },
         {
+          "title": "조선 관련주, 북극항로 시대 기대감 속 상승세?…삼성중공업·HD한국조선해양 강세, 한화오션 약세 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qWXFsVVBrRGx0VGs4RzhCYmVKbTdNUEtwa21ZYjg3azd4OGUxbTB2Um9Wby1yMnZvYnU4cWZwS1ZQMGFadU50bFhIVzVZOHdjM0NhLVRzT2ZEYUR5eFJFNDJ6Ni1lNUNO?oc=5",
+          "source": "CBC뉴스",
+          "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
+          "query": "조선 관련주"
+        },
+        {
           "title": "[SMR 패권경쟁③] SMR 수혜주 어디…원전株 넘어 조선·연료 눈길 - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TVhtanY0MWE5WUxCZUcxcXBDa0hUT2lrQkRBSUlkeTdESU1jcm9MdjJzVDRqMnMxaEs2QXctOHNiRC11VnpCcG1SbDRadTRNNFdNUV9Uck1SN1RtbDNDRldlVTgyTDJEb1JUVTQwdGU?oc=5",
           "source": "연합인포맥스",
@@ -112,13 +119,6 @@
           "source": "핀포인트뉴스",
           "publishedAt": "Tue, 22 Sep 2026 07:00:00 GMT",
           "query": "조선 관련주"
-        },
-        {
-          "title": "[생생한 주식쇼 생쇼] 지정학적 리스크 심화, 조선·LNG 관련주 주목 - 매일경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84c0dhS2tlT2xMRVVuN25ZWVRhSE9rQkl5NXBUVlAyU0VvaU1TblJhMUk2LWloXzJjXzRoQzc1LW44WU85Q1BuakZCNVVCVGJ3ellwOEtSa09ERDZzN3NWT0pMT09Kdi01?oc=5",
-          "source": "매일경제TV",
-          "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
-          "query": "조선 관련주"
         }
       ]
     },
@@ -126,10 +126,10 @@
       "title": "원전 관련주 체크",
       "items": [
         {
-          "title": "국내 원전주 엇갈려…금화피에스시 4%대 상승·두산에너빌리티 소폭 약세·한국전력 9.9% 급락 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OYUE4b3AtemV6Vy03M0RJMXB1RWFzdU1meFNkSWI5bVNZaVBWVEF1VEJBalpxaVlGY1Q2Z19PRlowNldoclRpcnhPMGFzdFg3UUpGX3VPWWVXVThwUmZVOEZTSlp2Wl9o?oc=5",
+          "title": "원전해체 관련주 동반 상승…두산에너빌리티·우리기술·비에이치아이·오르비텍 껑충 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vVlFSR0thanZPd1hGN2JIQllOd240SnJDS3cwZUJNcVczVl8tMTJnT19jYUtQUXdQOG1SS1JPSE05YjdNbDZyeUJPenlfQ3QtaFlQb0ZrX2k4WkFOWDBKWXJ0enRfV2RO?oc=5",
           "source": "CBC뉴스",
-          "publishedAt": "Sat, 14 Nov 2026 15:15:00 GMT",
+          "publishedAt": "Fri, 13 Nov 2026 01:45:10 GMT",
           "query": "원전 관련주"
         },
         {
@@ -147,17 +147,17 @@
           "query": "원전 관련주"
         },
         {
-          "title": "원전해체 관련주 동반 상승…두산에너빌리티·우리기술·비에이치아이·오르비텍 껑충 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vVlFSR0thanZPd1hGN2JIQllOd240SnJDS3cwZUJNcVczVl8tMTJnT19jYUtQUXdQOG1SS1JPSE05YjdNbDZyeUJPenlfQ3QtaFlQb0ZrX2k4WkFOWDBKWXJ0enRfV2RO?oc=5",
-          "source": "CBC뉴스",
-          "publishedAt": "Fri, 13 Nov 2026 01:45:10 GMT",
-          "query": "원전 관련주"
-        },
-        {
           "title": "[SMR 패권경쟁③] SMR 수혜주 어디…원전株 넘어 조선·연료 눈길 - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TVhtanY0MWE5WUxCZUcxcXBDa0hUT2lrQkRBSUlkeTdESU1jcm9MdjJzVDRqMnMxaEs2QXctOHNiRC11VnpCcG1SbDRadTRNNFdNUV9Uck1SN1RtbDNDRldlVTgyTDJEb1JUVTQwdGU?oc=5",
           "source": "연합인포맥스",
           "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+          "query": "원전 관련주"
+        },
+        {
+          "title": "美 원전 투자 기대에 뛰는 원전株…수혜는 종목별로 - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LQ1RHTUpXTGlIbGxpcTcxbG5MYWxtYU00MEhtWHdKV0Y3bUpEcUZaeWZVLUN6STYxMlZBUFUxT1owT3I5ekg5TXR6QmRSdklYNnlTaXBjaDVncmZwUE13RjBFdw?oc=5",
+          "source": "쿠키뉴스",
+          "publishedAt": "Sun, 13 Sep 2026 07:00:00 GMT",
           "query": "원전 관련주"
         }
       ]
@@ -373,6 +373,13 @@
           "query": "2차전지 관련주"
         },
         {
+          "title": "[N2 증시 풍향계] 2차전지·반도체장비·보안주 대거 ‘불기둥’…에스텍·씨케이솔루션·예선테크 등 ‘상한가’ - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRmV2SzZTVFNKVE5uV1pRd3pyd2lUZUROdFVuQXRLbUF6ZjV6RlptWGh4VkQzUnhfaUpsazhVcmppWXVFeVlIdDVVYnB1OUxOYXBTeU1mbFBJRF9EMEE?oc=5",
+          "source": "뉴스투데이",
+          "publishedAt": "Wed, 11 Nov 2026 01:46:00 GMT",
+          "query": "2차전지 관련주"
+        },
+        {
           "title": "[전기차 관련주 동향] 11월 2주, 이차전지 조정과 테슬라 강세 - 센머니",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kNmxMYW5jbU9maXhsaUl6anRSR3c4dVpLYWNTMTNvYVRhVG45NXd5bEVUMF9yZWtTOV9MYVBQQmRZMVRrdUc2Y3dWNlV4M21fSEo5TGU0Z1Vfd2x0TXoxdmo5TmV1eWNMMWZJbg?oc=5",
           "source": "센머니",
@@ -384,13 +391,6 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SkhiTTRXT0Nfdm84Wlg4d2JSbkpzYTVwblNaUEFlbkdENmlHODRSdlY4ZzVRTzZxS1JxSTZUcEE4Z0dxSXNKYU54azNtTUl4a3V5eXZWWHVGRE45eEhna19URkk4ak9MV1EzVUdXNkdzS1HSAXdBVV95cUxNZjVKaWZuX05yclFnUmxPdUdjc2pFWXVKcUtaeFpET3VlcUU5LU9nOHIzYVdaVl9tUnZxc0lDLUc4MnVlVXhNb1ZoZmNqQWMtY0VXaWFPeGNyYkFrOFZDdjA3cTVCaUpHM1ZOSF96SU5HcG9xVlR6aw?oc=5",
           "source": "핀포인트뉴스",
           "publishedAt": "Tue, 10 Nov 2026 06:59:48 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
-          "title": "[특징주] 급등 뒤 차익실현 매물…삼성SDI 6%대 급락 등 2차전지株 약세 - 아주경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11V3k2ZkpnMmZyRTJZekhlcmN2RFFhRHYtWXNqb3hiWHFKMklvQjdpNHo4N2tKdnlQNWVsTXh6NWo0MHpjQ2h1MUJDeE40TVNkNkUxeVFHY2lNZ9IBWEFVX3lxTE1TcFBWSE5tV1dUR2IteFZuYWZHM1laSktJT0k3TTBnc2c1VXlmS1htaDdDSG9pSDBObzlSdlZSOTFsc1UyN3Y0WnN2YVAwM1FEWEh5Nm9qWFc?oc=5",
-          "source": "아주경제",
-          "publishedAt": "Mon, 09 Nov 2026 00:30:56 GMT",
           "query": "2차전지 관련주"
         },
         {
