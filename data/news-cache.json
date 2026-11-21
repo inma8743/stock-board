@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T06:58:41.264Z",
+  "fetchedAt": "2026-11-21T16:44:34.888Z",
   "source": "Google News RSS",
   "themes": {
     "hbm-stocks": {
@@ -60,13 +60,6 @@
           "query": "방산 관련주"
         },
         {
-          "title": "미-이란 전쟁 임박 관측 확대···방산 관련주 연일 ‘강세’ 이어가 - 증권일보",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CU1k3Zmd4UE4yakZJOVg0ZGxZeGxLUHR2Z3ZUb2t5eTg1OHdwRlZELTZ5bHFoYW1FWENCcVhEczdnQlJBbGxBQ2U5WnFHOVk4RzZqd1EwVGJadmdjSXp6Nw?oc=5",
-          "source": "증권일보",
-          "publishedAt": "Fri, 20 Feb 2026 08:00:00 GMT",
-          "query": "방산 관련주"
-        },
-        {
           "title": "트럼프 '국방비 50% 증액' 주장에 방산株 동반 강세 - 마켓인",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRFpfTkRRTmgxREp5WUlPR3RpUzZhY25hMGg3ZUNrYk9ESS1wZV9XYWREQllaQkF5c2hqR3kweE8tS0xBR1V5QnBKQ3VScTR5OENDR0x1NURYU2g4VmhuMWNyX1JnWXZiUkVUMDZGMkNieVU?oc=5",
           "source": "마켓인",
@@ -79,6 +72,13 @@
           "source": "KPI뉴스",
           "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
           "query": "방산 관련주"
+        },
+        {
+          "title": "[베스트&워스트] 한일단조, 60.34% 급등…방산·반도체·유가 관련주 강세 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SanQ1d2pWZEx4OHU0cS11enVPRmJWTWxsNGlORDI4ME5LYzhLN0hfbHNWSG5fUWlweTdFb3drWFBlQ0Z1YWdTVGdrS29icU9zc0x3Nw?oc=5",
+          "source": "이투데이",
+          "publishedAt": "Sat, 07 Mar 2026 08:00:00 GMT",
+          "query": "방산 관련주"
         }
       ]
     },
@@ -89,7 +89,7 @@
           "title": "조선 관련주, 북극항로 시대 기대감 속 상승세?…삼성중공업·HD한국조선해양 강세, 한화오션 약세 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SMmV1X3J2UzNUZExfak1HZlBGLVJBSWhHbV9sY1ZuUnlIVlJ5ZWhHaWtzOVJrTVl5YkZRNWRuUXAwUDVOSVVHTjZVVXByUzAtT0o3eFhvQTJZMTdxS2x2Q2ZKNA?oc=5",
           "source": "CBC뉴스",
-          "publishedAt": "Tue, 17 Nov 2026 10:17:04 GMT",
+          "publishedAt": "Sat, 21 Nov 2026 01:04:53 GMT",
           "query": "조선 관련주"
         },
         {
@@ -173,17 +173,17 @@
           "query": "로봇 관련주"
         },
         {
-          "title": "[코스닥 기관] 레인보우로보틱스 사고 에이엘로봇 팔았다… 로봇주 선별 매매 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRjFCYzBQNDlVQVNMMnlfeGJDNE9Ga3dLaEdWNWxRNWVjMjJYUlBKYURiUGtkMjBIV2Z1X3IyOXdmVDJxQTMtWGRiZWJ4TGplMjhOZmlvMlZQQXRnVHFTdjFacW9YbEhzNnZLQ1BrYzZSRHPSAXdBVV95cUxPU1J5T1dRaDVsQUZLM0lERVFvV01GbEdFcDY0MEVGY3ZuNmE4TW1VdnBvN1dxSGJHOWR5aEVLVVZoU0J3ZjllQ1RwZkwxdVVKLU10eGp6YlBNR3BvNHg3dEExV1VPSGl1MzM1TXdDaG5OLXBwYVV0OA?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Wed, 18 Nov 2026 07:00:45 GMT",
-          "query": "로봇 관련주"
-        },
-        {
           "title": "애플 로보틱스 연구에 중국 로봇 관련주 급등 - Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iVEVHNGVYYTVLNU9RdGpQdkJpQTFhVVlrS3JQNWc2NHZIR3lRRGZIdXhQeFdHbW1UcW1wT19zRzBoM19paFZwSHFDU2xpemtHNFRfV2QzMjlzYnNSeU5QUElCOTk1VUthNzZBWlE1cHo?oc=5",
           "source": "Investing.com 한국어",
           "publishedAt": "Mon, 09 Nov 2026 08:00:00 GMT",
+          "query": "로봇 관련주"
+        },
+        {
+          "title": "[코스닥 기관] 레인보우로보틱스 사고 에이엘로봇 팔았다… 로봇주 선별 매매 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRjFCYzBQNDlVQVNMMnlfeGJDNE9Ga3dLaEdWNWxRNWVjMjJYUlBKYURiUGtkMjBIV2Z1X3IyOXdmVDJxQTMtWGRiZWJ4TGplMjhOZmlvMlZQQXRnVHFTdjFacW9YbEhzNnZLQ1BrYzZSRHPSAXdBVV95cUxPU1J5T1dRaDVsQUZLM0lERVFvV01GbEdFcDY0MEVGY3ZuNmE4TW1VdnBvN1dxSGJHOWR5aEVLVVZoU0J3ZjllQ1RwZkwxdVVKLU10eGp6YlBNR3BvNHg3dEExV1VPSGl1MzM1TXdDaG5OLXBwYVV0OA?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Wed, 18 Nov 2026 07:00:45 GMT",
           "query": "로봇 관련주"
         },
         {
@@ -274,11 +274,51 @@
           "query": "화장품 관련주"
         },
         {
-          "title": "중국 넘어 북미·유럽으로… 화장품 수출 다변화에 관련주 '화색' - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cc0ZiS1BkazBXX2ZTT0hiVlIyeU9KRlZ5LWVSakxjaFNlUnJtZVB4aWhHby0wVFJscThaZEFXbVpUdUlVNV9IeURLbVMwYlgxUlFHMDFsLWQ0d3RrRXhkc083aTdIU1Rlc29JRVR6Q2s2azTSAXdBVV95cUxQVFpqdWI4TG52ZGo1VFU4Y1o2WDhMeERQbUJXMG9ORXRwRDUxMGpHY3JUbzRFdDhveVBFcjhjczREdHF6MnlmR2VWOEtGVXFhb0ZXVGYyYmpxRHhhN2xaT25Cb3JLUHh4R0Y1Zlh0VWg0dVZWYkpGTQ?oc=5",
+          "title": "화장품 관련주, 해외 시장 다변화 기대…네오팜·마녀공장 화색도네 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCbTdYM25wbnVRU0l4MV9ucU9vTnpJdEM3aVdHd090cDdoSzVER09pdzl6bV9ablVWZEpkWXNNYWFJVHY0QlA4blRndlRWX0FhQTJEQVpJU1dMTTF3bGtIaEZRN1JDVEJtNE5Cd0NJaUY1dlnSAXdBVV95cUxNSzZZWjB0V2dCdjZ2YlhtVUVESEZ2OVdHbGlIOGZnLTdaOUUzZ09PaU00NGhXNkdFNnpqcVdkc1c1QThYV3habGtsQlNiYjh4NXhoTS1LOTgzSWE2NmwtdURodTlBOTZYdlBjRHNtX2RhN0twVFFaVQ?oc=5",
           "source": "핀포인트뉴스",
-          "publishedAt": "Mon, 16 Nov 2026 01:00:03 GMT",
+          "publishedAt": "Tue, 03 Nov 2026 08:00:00 GMT",
           "query": "화장품 관련주"
+        }
+      ]
+    },
+    "bio-stocks": {
+      "title": "바이오 관련주 체크",
+      "items": [
+        {
+          "title": "'먹는 치매약' 3상 성과에도...아리바이오 관련주 급락, 왜? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dkJSd2xLTGR6VVMwc2JPYjlqLWpfTVltRmpDV01WY2pDd1E5MWRuemh0WkhsUl9vY0RIcjU2ak1BYWVONnZqdjJfZ083VzktUXJPYi0zSWRyZjJvQmtsOENES0luQnZN0gFuQVVfeXFMT1hYdlAxWjFkZVp4d1dqVllBWXdXQnpUUTY3LTFLeVpKdHMybEFLbjlVLU5fOUx5NmE3TmtjWGxMajJjS1lsLURyU1JPLUN2b0ZZdlY4Y1ZCbE10U0dlOXdjZm9ObDR6dXBPOXJfWEE?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "Tue, 17 Nov 2026 00:55:11 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "[숏폼] 아리바이오 '먹는 치매약', 3상 엇갈린 결과에 관련주 하락 - 히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ERW9ybEg0RklQMUFKdm1yb2FoaGhTN0pFODI3Ujh6Z0tXckNrcEFxRzZKdmhEOFdaT2MxRDRPRHc0YWZzM3k2THdQUEM0QUNoQzc0NzVfd25IbHcwQ0otS1NwUFRnWEgwQmdr?oc=5",
+          "source": "히트뉴스",
+          "publishedAt": "Tue, 17 Nov 2026 21:02:00 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "[특징주] ‘먹는 치매약’ 임상 3상 1차 목표 달성했지만…아리바이오 관련주 급락 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmpNUnlVQ0hINlJ1SnRObmtzSG93SVpnb0R6dGZGWU52OTN2MGdwRmN5cFJIR05iUHNfLTFUQ2JxXzBqZ0ZiWWtnYlhKR0lSaWJuLWFneWticFpCVjZ6RTlkRjVZOGVObHdfLTdWQmNhMnVCVFJ4SW5fc3ZCRlhYYWpfeTN6Tnhq0gGcAUFVX3lxTE1zVjF0YlI5aGFCWUdpUGVscHRwT1hiUWZIQTdyaDlENVhMelEtVW9ZZ2JaZ1AyN2NnS091QTc1bVV3b01ZYkpLQ2hNUEJ3bkpwcWpHd3RSTFhHOXg1ZXo2bWtLTkRUemplbUp1cV9wNDI0X0NaZGNMcWtYOWNsVEdybnFPQk4wN0hGT3RLSThhTTRPajdaUk1fMW1uUg?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "Tue, 17 Nov 2026 00:23:00 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "레켐비·아두헬름 후광에도 치매 관련주 하락세…옥석 가리기 심화 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kYXVjVzRLdGJGZ0o1Q0x2dlo2RW42dUh2d09wM3NRbGM1aXVGY2dYMEh2d0EzQVlhWjJIY3pqS1VLbU5pejhXVnE0VFlPbHJOSUI3X3VPZGN6UngzTXlSVnVxR0ZWck1nZUFkQnVyWDJiaE3SAXdBVV95cUxNQ1otMUNxaTlfckxCdXVmM2NneEt6MURHVE5mbm1TNDBEQ19ZYkloemtSejhOS3hEclRHa285bThoUEFZYW0wLVh1SnRCN1Z4eUllNExYZXNTZFVzVDV2RkFjRmd5NGJCWG03OTVKYTFvZ25xOVhOSQ?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Sat, 21 Nov 2026 04:32:01 GMT",
+          "query": "바이오 관련주"
+        },
+        {
+          "title": "'먹는 치매약' 임상 결과 실망…아리바이오 관련주 급락[핫종목] - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTDdDcm9YRlRiS2xtbmdNd0pCdnpjNkJSWWFyT1B3dGZBQUVxN3pXZUpvQnFmTm1OcmtoR1U5bFBjV0FGTGVjWlMyS2ZHVnNKMVdzWDVtbkFFS25vX2N3?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "Tue, 17 Nov 2026 00:56:21 GMT",
+          "query": "바이오 관련주"
         }
       ]
     },
@@ -322,49 +362,16 @@
         }
       ]
     },
-    "bio-stocks": {
-      "title": "바이오 관련주 체크",
-      "items": [
-        {
-          "title": "'먹는 치매약' 3상 성과에도...아리바이오 관련주 급락, 왜? - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dkJSd2xLTGR6VVMwc2JPYjlqLWpfTVltRmpDV01WY2pDd1E5MWRuemh0WkhsUl9vY0RIcjU2ak1BYWVONnZqdjJfZ083VzktUXJPYi0zSWRyZjJvQmtsOENES0luQnZN0gFuQVVfeXFMT1hYdlAxWjFkZVp4d1dqVllBWXdXQnpUUTY3LTFLeVpKdHMybEFLbjlVLU5fOUx5NmE3TmtjWGxMajJjS1lsLURyU1JPLUN2b0ZZdlY4Y1ZCbE10U0dlOXdjZm9ObDR6dXBPOXJfWEE?oc=5",
-          "source": "머니투데이",
-          "publishedAt": "Tue, 17 Nov 2026 00:55:11 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "레켐비·아두헬름 후광에도 치매 관련주 하락세…옥석 가리기 심화 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kYXVjVzRLdGJGZ0o1Q0x2dlo2RW42dUh2d09wM3NRbGM1aXVGY2dYMEh2d0EzQVlhWjJIY3pqS1VLbU5pejhXVnE0VFlPbHJOSUI3X3VPZGN6UngzTXlSVnVxR0ZWck1nZUFkQnVyWDJiaE3SAXdBVV95cUxNQ1otMUNxaTlfckxCdXVmM2NneEt6MURHVE5mbm1TNDBEQ19ZYkloemtSejhOS3hEclRHa285bThoUEFZYW0wLVh1SnRCN1Z4eUllNExYZXNTZFVzVDV2RkFjRmd5NGJCWG03OTVKYTFvZ25xOVhOSQ?oc=5",
-          "source": "핀포인트뉴스",
-          "publishedAt": "Sat, 21 Nov 2026 04:32:01 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "[숏폼] 아리바이오 '먹는 치매약', 3상 엇갈린 결과에 관련주 하락 - 히트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ERW9ybEg0RklQMUFKdm1yb2FoaGhTN0pFODI3Ujh6Z0tXckNrcEFxRzZKdmhEOFdaT2MxRDRPRHc0YWZzM3k2THdQUEM0QUNoQzc0NzVfd25IbHcwQ0otS1NwUFRnWEgwQmdr?oc=5",
-          "source": "히트뉴스",
-          "publishedAt": "Tue, 17 Nov 2026 21:02:00 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "[특징주] ‘먹는 치매약’ 임상 3상 1차 목표 달성했지만…아리바이오 관련주 급락 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmpNUnlVQ0hINlJ1SnRObmtzSG93SVpnb0R6dGZGWU52OTN2MGdwRmN5cFJIR05iUHNfLTFUQ2JxXzBqZ0ZiWWtnYlhKR0lSaWJuLWFneWticFpCVjZ6RTlkRjVZOGVObHdfLTdWQmNhMnVCVFJ4SW5fc3ZCRlhYYWpfeTN6Tnhq0gGcAUFVX3lxTE1zVjF0YlI5aGFCWUdpUGVscHRwT1hiUWZIQTdyaDlENVhMelEtVW9ZZ2JaZ1AyN2NnS091QTc1bVV3b01ZYkpLQ2hNUEJ3bkpwcWpHd3RSTFhHOXg1ZXo2bWtLTkRUemplbUp1cV9wNDI0X0NaZGNMcWtYOWNsVEdybnFPQk4wN0hGT3RLSThhTTRPajdaUk1fMW1uUg?oc=5",
-          "source": "Chosunbiz",
-          "publishedAt": "Tue, 17 Nov 2026 00:23:00 GMT",
-          "query": "바이오 관련주"
-        },
-        {
-          "title": "'먹는 치매약' 임상 결과 실망…아리바이오 관련주 급락[핫종목] - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTDdDcm9YRlRiS2xtbmdNd0pCdnpjNkJSWWFyT1B3dGZBQUVxN3pXZUpvQnFmTm1OcmtoR1U5bFBjV0FGTGVjWlMyS2ZHVnNKMVdzWDVtbkFFS25vX2N3?oc=5",
-          "source": "뉴스1",
-          "publishedAt": "Tue, 17 Nov 2026 00:56:21 GMT",
-          "query": "바이오 관련주"
-        }
-      ]
-    },
     "battery-stocks": {
       "title": "2차전지 관련주 체크",
       "items": [
+        {
+          "title": "2차전지주 동반 하락…에코프로·포스코퓨처엠도 매도 압력 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SR2FvTHdaUTZPcGV4bEJRM2RLaTI1YVBzdklJRGpYWXlNYzRJRThrUTd0ZnFEdnUzMzkySGpBcENTMEdXYW9Fb19UandidFhLdFhhX3JpbktnZkVaOWJwS2VONXV3WC12eHRibGwtTGFHbXPSAXdBVV95cUxPV2k5c01fUzU4X1RtZFg3NlpBUUhLTW1Vbm5LMUlaMmNPZ3BLNUF1aGpvUTRTcnFSVzBPdFgwbmR2UC1qUTlaclJJbnpTUVFWYmR3Qmx4a09Zal9MeGtmblY4MzMzRWFpWG5HaFRqc1l0RHJSZ1lqbw?oc=5",
+          "source": "핀포인트뉴스",
+          "publishedAt": "Sat, 21 Nov 2026 06:34:07 GMT",
+          "query": "2차전지 관련주"
+        },
         {
           "title": "전고체 배터리 관련주 동반 약세…삼성SDI·이수스페셜티케미컬 하락, 미국 기술주 급락 속 롯데에너지머티리얼즈는 상승 - CBC뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFdFdSWUNSOTVBZXlLcjRmZkpxNVl6bHhEbUV4dWpzaTZZazBTMnBxU2FIcWtSWFNBb3BNOWFDcWJ4c2R1UnBsWldiR0ROLXg3cHdCOW5hUDJucFF2c2U3bFpNaUlPc0po?oc=5",
@@ -384,13 +391,6 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90bHJxQTI3WFdZbXZ6Q25mXzk2MjNGOFF1Z2I5ZVBRS0xJay1ONUNKS2NoMU5idDRxcXdkS1Vxa000Mm0wTEZaM3pOb1c5eEFtNGc?oc=5",
           "source": "매일경제 마켓",
           "publishedAt": "Mon, 16 Nov 2026 00:16:16 GMT",
-          "query": "2차전지 관련주"
-        },
-        {
-          "title": "[이 시각 시황] 코스피 5천선 위협 속 약세 지속…2차전지·의료AI주는 강세 - SBS Biz",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCQmhIcE90bUcxWlRmM2pOanFTN0ZjVUtYOWlheW5OMGtFSXhkQnFTOVpMLWhRRVN6WWtRYUhsdXh2ckZycXhveFk0NXBMblIwVWdV0gFYQVVfeXFMTWJCQ2E5eTRMejk2TDJKVW8tSVcycGlEN1ZURXo3SzBCVlJWNDJva3pyVl9ITUpTZnB1RDNaLXRTWThFQ25UV0hKQWFUQWRCdjFMNXZBb2xlQQ?oc=5",
-          "source": "SBS Biz",
-          "publishedAt": "Mon, 16 Nov 2026 22:55:00 GMT",
           "query": "2차전지 관련주"
         },
         {
