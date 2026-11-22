@@ -129,6 +129,8 @@ function validateUsRadarPage(sitemap) {
     'global-money-map.vercel.app/rates.html',
     'global-money-map.vercel.app/dollar-index.html',
     'global-money-map.vercel.app/usd-krw.html',
+    'href="https://global-money-map.vercel.app/us-stock-market-hours.html?from=marketcok_us_202611#upcoming-sessions"',
+    'marketcok_calendar_click',
   ];
 
   assert(html.includes(`<link rel="canonical" href="${canonical}">`), `Missing canonical: ${file}`);

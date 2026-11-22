@@ -17,12 +17,24 @@
   <meta property="og:description" content="미국 주식 뉴스, NVIDIA·Tesla·Apple·Microsoft·AMD·SpaceX/SPCX와 금리·달러 체크포인트를 한곳에서 봅니다.">
   <meta property="og:url" content="https://stock-board-ten.vercel.app/us.html">
   <title>미장 흐름 | 미국 주식 뉴스·토론 허브</title>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EZW95TCSF"></script>
   <script>
+    const calendarPreview = new URLSearchParams(location.search).get('preview') === '1';
+    const gaDisabled = 'ga-disable-G-3EZW95TCSF';
+    if (calendarPreview || navigator.webdriver || location.origin !== 'https://stock-board-ten.vercel.app') {
+      window[gaDisabled] = true;
+    }
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-3EZW95TCSF');
+    function gtag() {
+      if (!window[gaDisabled]) window.dataLayer.push(arguments);
+    }
+    if (!window[gaDisabled]) {
+      gtag('js', new Date());
+      gtag('config', 'G-3EZW95TCSF');
+      const tag = document.createElement('script');
+      tag.async = true;
+      tag.src = 'https://www.googletagmanager.com/gtag/js?id=G-3EZW95TCSF';
+      document.head.appendChild(tag);
+    }
   </script>
   <script type="application/ld+json">
   {
@@ -37,6 +49,9 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4587553505034907" crossorigin="anonymous"></script>
   <style>
     *{box-sizing:border-box}body{margin:0;color:#172033;background:linear-gradient(145deg,#f8fafc,#eef2ff 48%,#ecfeff);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.7}header,main,footer{width:min(1120px,calc(100% - 32px));margin:auto}header{padding:48px 0 24px;text-align:center}h1{margin:0 0 10px;font-size:clamp(32px,7vw,54px);letter-spacing:-2px}.lead{margin:0;color:#5f6b7d}.language,.quick-nav{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;margin:16px 0}.language a,.quick-nav a{padding:8px 11px;border-radius:999px;color:#2563eb;background:#fff;font-size:13px;font-weight:900;text-decoration:none}.notice,.search-card,.card,.guide{border:1px solid rgba(15,23,42,.1);border-radius:24px;background:rgba(255,255,255,.94);box-shadow:0 16px 44px rgba(15,23,42,.08)}.notice{margin-top:18px;padding:14px 16px;color:#713f12;background:#fffbeb;text-align:left}.search-card{display:grid;grid-template-columns:1fr auto;gap:12px;padding:18px;margin:0 0 18px}input{width:100%;padding:14px;border:1px solid #d8deea;border-radius:13px;font:inherit;outline:none}input:focus{border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.12)}button,.button{display:inline-flex;align-items:center;justify-content:center;padding:13px 15px;border:0;border-radius:13px;color:#fff;background:#111827;font:inherit;font-weight:900;text-decoration:none;cursor:pointer;white-space:nowrap}.section-title{margin:30px 0 8px;font-size:24px}.section-note{margin:0 0 14px;color:#64748b}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:20px 0}.card{padding:22px}.card h2{margin:0 0 8px;display:flex;justify-content:space-between;gap:12px;align-items:baseline}.symbol{color:#64748b;font-size:14px;font-weight:800}.tag{display:inline-block;margin:0 6px 8px 0;padding:5px 9px;border-radius:999px;color:#1e3a8a;background:#dbeafe;font-size:12px;font-weight:900}.links{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}.links a,.tools a{color:#2563eb;font-weight:900;text-decoration:none}.guide{margin:22px 0;padding:24px}.tools{display:flex;flex-wrap:wrap;gap:10px}.tools a{padding:8px 10px;border-radius:999px;background:#eff6ff}.ad{min-height:140px;margin:20px auto;padding:18px;border:1px dashed #cbd5e1;border-radius:18px;color:#64748b;background:rgba(255,255,255,.64);display:flex;flex-direction:column;gap:8px;align-items:center;justify-content:center;overflow:hidden;text-align:center}.ad-note{margin:0;color:#64748b;font-size:12px}footer{padding:12px 0 42px;text-align:center;color:#64748b;font-size:13px}@media(max-width:760px){.search-card,.grid{grid-template-columns:1fr}.card,.guide{padding:20px}.search-card button{width:100%}.ad iframe,.ad ins{max-width:100%!important}}
+    .market-calendar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 24px;margin:0 0 22px;padding:12px 16px;border-inline-start:3px solid #3158ae;background:#f4f7ff}
+    .market-calendar strong{color:#172643;font-size:16px}.market-calendar p{margin:2px 0 0;color:#475569;font-size:14px}
+    .market-calendar a{display:inline-flex;gap:6px;align-items:center;min-height:44px;color:#234993;font-weight:700;text-underline-offset:4px}
   </style>
 </head>
 <body>
@@ -64,6 +79,13 @@
       <input id="keyword" type="search" placeholder="종목명 또는 티커 입력 예: NVDA, TSLA, AAPL, Nasdaq">
       <button id="search-news" type="button">미장 뉴스 검색</button>
     </section>
+
+    <aside class="market-calendar" aria-label="미국장 일정">
+      <div><strong>미국장 휴장·조기 마감</strong>
+        <p id="calendar-note">날짜별 정규장 개장·마감 시각을 한국시간으로 확인하세요.</p>
+      </div>
+      <a id="money-map-calendar" href="https://global-money-map.vercel.app/us-stock-market-hours.html?from=marketcok_us_202611#upcoming-sessions" target="_blank" rel="noopener" referrerpolicy="strict-origin-when-cross-origin">머니맵 달력 보기 <span aria-hidden="true">↗</span></a>
+    </aside>
 
     <h2 id="indices" class="section-title">미국 지수와 시장 흐름</h2>
     <p class="section-note">미장은 개별 종목보다 금리, 달러, 장기채, AI 투자 사이클, 실적 발표가 먼저 방향을 만들 때가 많습니다.</p>
@@ -155,6 +177,19 @@
   </main>
   <footer>© 2026 마켓콕 · <a href="/about.html">소개·편집 원칙</a> · <a href="/methodology.html">데이터 기준</a> · <a href="/feedback.html">피드백</a> · <a href="/privacy.html">개인정보처리방침 · 광고 · 투자정보 고지</a></footer>
   <script>
+    const calendarLink = document.getElementById('money-map-calendar');
+    if (calendarPreview) calendarLink.search = '?preview=1';
+    const now = Date.now();
+    if (now >= Date.parse('2026-11-22T00:00:00+09:00') && now < Date.parse('2026-11-28T03:00:00+09:00')) {
+      document.getElementById('calendar-note').textContent = '추수감사절인 11월 26일(목)은 휴장, 다음 거래일은 한국시간 28일(토) 새벽 3시에 마감합니다.';
+    }
+    function recordCalendarClick(event) {
+      if (event.isTrusted && !event.defaultPrevented && !event.altKey) gtag('event', 'marketcok_calendar_click');
+    }
+    calendarLink.addEventListener('click', recordCalendarClick);
+    calendarLink.addEventListener('auxclick', event => {
+      if (event.button === 1) recordCalendarClick(event);
+    });
     const tracked = new Set();
     document.getElementById('search-news').addEventListener('click', searchNews);
     document.getElementById('keyword').addEventListener('keydown', (event) => {
