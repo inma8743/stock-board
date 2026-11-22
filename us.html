@@ -49,9 +49,11 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4587553505034907" crossorigin="anonymous"></script>
   <style>
     *{box-sizing:border-box}body{margin:0;color:#172033;background:linear-gradient(145deg,#f8fafc,#eef2ff 48%,#ecfeff);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.7}header,main,footer{width:min(1120px,calc(100% - 32px));margin:auto}header{padding:48px 0 24px;text-align:center}h1{margin:0 0 10px;font-size:clamp(32px,7vw,54px);letter-spacing:-2px}.lead{margin:0;color:#5f6b7d}.language,.quick-nav{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;margin:16px 0}.language a,.quick-nav a{padding:8px 11px;border-radius:999px;color:#2563eb;background:#fff;font-size:13px;font-weight:900;text-decoration:none}.notice,.search-card,.card,.guide{border:1px solid rgba(15,23,42,.1);border-radius:24px;background:rgba(255,255,255,.94);box-shadow:0 16px 44px rgba(15,23,42,.08)}.notice{margin-top:18px;padding:14px 16px;color:#713f12;background:#fffbeb;text-align:left}.search-card{display:grid;grid-template-columns:1fr auto;gap:12px;padding:18px;margin:0 0 18px}input{width:100%;padding:14px;border:1px solid #d8deea;border-radius:13px;font:inherit;outline:none}input:focus{border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.12)}button,.button{display:inline-flex;align-items:center;justify-content:center;padding:13px 15px;border:0;border-radius:13px;color:#fff;background:#111827;font:inherit;font-weight:900;text-decoration:none;cursor:pointer;white-space:nowrap}.section-title{margin:30px 0 8px;font-size:24px}.section-note{margin:0 0 14px;color:#64748b}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:20px 0}.card{padding:22px}.card h2{margin:0 0 8px;display:flex;justify-content:space-between;gap:12px;align-items:baseline}.symbol{color:#64748b;font-size:14px;font-weight:800}.tag{display:inline-block;margin:0 6px 8px 0;padding:5px 9px;border-radius:999px;color:#1e3a8a;background:#dbeafe;font-size:12px;font-weight:900}.links{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}.links a,.tools a{color:#2563eb;font-weight:900;text-decoration:none}.guide{margin:22px 0;padding:24px}.tools{display:flex;flex-wrap:wrap;gap:10px}.tools a{padding:8px 10px;border-radius:999px;background:#eff6ff}.ad{min-height:140px;margin:20px auto;padding:18px;border:1px dashed #cbd5e1;border-radius:18px;color:#64748b;background:rgba(255,255,255,.64);display:flex;flex-direction:column;gap:8px;align-items:center;justify-content:center;overflow:hidden;text-align:center}.ad-note{margin:0;color:#64748b;font-size:12px}footer{padding:12px 0 42px;text-align:center;color:#64748b;font-size:13px}@media(max-width:760px){.search-card,.grid{grid-template-columns:1fr}.card,.guide{padding:20px}.search-card button{width:100%}.ad iframe,.ad ins{max-width:100%!important}}
-    .market-calendar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 24px;margin:0 0 22px;padding:12px 16px;border-inline-start:3px solid #3158ae;background:#f4f7ff}
-    .market-calendar strong{color:#172643;font-size:16px}.market-calendar p{margin:2px 0 0;color:#475569;font-size:14px}
-    .market-calendar a{display:inline-flex;gap:6px;align-items:center;min-height:44px;color:#234993;font-weight:700;text-underline-offset:4px}
+    .market-calendar{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;column-gap:24px;margin:0 0 22px;padding:12px 16px;border-inline-start:3px solid #3158ae;background:#f4f7ff}
+    .market-calendar strong{color:#172643;font-size:16px}.market-calendar p{grid-column:1;margin:2px 0 0;color:#475569;font-size:14px}
+    .market-calendar a{grid-column:2;grid-row:1 / span 2;display:inline-flex;gap:6px;align-items:center;min-height:44px;color:#234993;font-weight:700;text-underline-offset:4px}
+    @media(max-width:600px){.market-calendar{column-gap:8px}.market-calendar a{grid-row:1}.market-calendar p{grid-column:1 / -1}}
+    .guide h2{overflow-wrap:anywhere}
   </style>
 </head>
 <body>
@@ -81,9 +83,8 @@
     </section>
 
     <aside class="market-calendar" aria-label="미국장 일정">
-      <div><strong>미국장 휴장·조기 마감</strong>
-        <p id="calendar-note">날짜별 정규장 개장·마감 시각을 한국시간으로 확인하세요.</p>
-      </div>
+      <strong>미국장 휴장·조기 마감</strong>
+      <p id="calendar-note">날짜별 정규장 개장·마감 시각을 한국시간으로 확인하세요.</p>
       <a id="money-map-calendar" href="https://global-money-map.vercel.app/us-stock-market-hours.html?from=marketcok_us_202611#upcoming-sessions" target="_blank" rel="noopener" referrerpolicy="strict-origin-when-cross-origin">머니맵 달력 보기 <span aria-hidden="true">↗</span></a>
     </aside>
 
