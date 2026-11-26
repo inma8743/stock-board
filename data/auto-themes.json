@@ -1,5 +1,5 @@
 {
-  "discoveredAt": "2026-11-26T08:07:49.863Z",
+  "discoveredAt": "2026-11-26T18:57:59.228Z",
   "source": "Google News RSS + allowlisted theme rules",
   "minimumScore": 2,
   "maxPromotedThemes": 6,
@@ -57,20 +57,12 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 34,
+      "score": 32,
       "autoDiscovered": true,
       "evidence": [
         {
           "title": "초고수, 기준금리 인상에 금융주 손 떼고 대한항공 담았다[주식 초고수는 지금] - 매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2MXVPdFcxWVUzcEl3b0poT2RqaVlScmo0XzJlbERNQ1V0TVlXaXpVMG1NSWxPSjdEVnp5eU5BQVkxNXMtWFFrTlBhdkl2a0dQLWc?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[거래소 기관] KB금융·하나금융·우리금융 러브콜 봇물…금융주에 자금 몰렸다 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CV1JueG1oT2FmZXdSWlUzb3NjRzBqb1BFWkw5R2ljRVBsZEZDRlNpSTVvVDJuZi0yT3g1SDAxYVBTLW5iSzFESXZwYW1lTmllQ2UtWTRjYnBvUG93VjBPMHVYLVN4aC16d3BQckNDZnZnX1XSAXdBVV95cUxOS2VsX2FLbm9ONHROMHBTQl96bnJvcUM4S1RsdDF2aGtGMTZiUUlDeGs4ZXpUeXpyWTBvVmE3M3ptUFcxZ1FBX2JyRjdTMVA5TzlrMlQ4dXFZQjRGek9hZENzNGM1elM2dHVWT3R4ZkgtVVQxNktqTQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -95,111 +87,19 @@
           ]
         },
         {
+          "title": "[거래소 기관] KB금융·하나금융·우리금융 러브콜 봇물…금융주에 자금 몰렸다 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LZWxfYUtub040dE4wcFNCX3pucm9xQzhLVGx0MXZoa0YxNmJRSUN4azhlelR5enJZMG9WYTczem1QVzFnUUFfYnJGN1MxUDlPOWsyVDh1cVlCNEZ6T2FkQ3M0YzV6UzZ0dVZPdHhmSC1VVDE2S2pN0gF3QVVfeXFMTktlbF9hS25vTjR0TjBwU0Jfem5yb3FDOEtUbHQxdmhrRjE2YlFJQ3hrOGV6VHl6clkwb1ZhNzN6bVBXMWdRQV9ickY3UzFQOU85azJUOHVxWUI0RnpPYWRDczRjNXpTNnR1Vk90eGZILVVUMTZLak0?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "반도체 반토막 났는데 금융주는 하락장 방파제 역할 '톡톡' - 매일일보",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZSDZYeHAwaEZOdWpPLXIzLW8xdGRwLW9sZlhwRnBXWWR6bVFYUkxjbzRpQmNwX3p2RllsSWNQdXU1NVgweTRMRmUtcDVhUkVmRjVGeF9DRGNYQkdkbnFrTVZzZks?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "bio-stocks",
-      "title": "바이오 관련주 체크",
-      "pageTitle": "바이오 관련주 뉴스 체크 | 임상·기술수출 테마 체크",
-      "description": "삼성바이오로직스, 셀트리온, 알테오젠 등 바이오 관련주의 임상, 기술수출, CMO 테마 체크포인트를 모아보는 정보 페이지입니다.",
-      "keywords": "바이오 관련주, 제약바이오 관련주, 삼성바이오로직스, 셀트리온, 알테오젠, 기술수출",
-      "intro": "바이오 테마는 임상 결과, 기술수출, FDA 승인, CMO 수주 뉴스에 민감합니다. 기대감과 실제 매출·마일스톤 반영을 구분하세요.",
-      "searchQueries": [
-        "바이오 관련주",
-        "제약바이오 관련주",
-        "기술수출 관련주"
-      ],
-      "stocks": [
-        {
-          "name": "삼성바이오로직스",
-          "code": "207940",
-          "tags": [
-            "CMO",
-            "바이오",
-            "대형주"
-          ],
-          "summary": "바이오 CMO 대표 종목입니다. 수주 잔고, 증설, 환율 영향을 같이 확인하세요."
-        },
-        {
-          "name": "셀트리온",
-          "code": "068270",
-          "tags": [
-            "바이오시밀러",
-            "제약",
-            "대형주"
-          ],
-          "summary": "바이오시밀러와 합병 시너지 이슈로 주목됩니다. 제품 허가와 판매 성장을 확인하세요."
-        },
-        {
-          "name": "알테오젠",
-          "code": "196170",
-          "tags": [
-            "플랫폼",
-            "기술수출",
-            "바이오"
-          ],
-          "summary": "플랫폼 기술과 기술수출 이슈로 자주 검색됩니다. 계약 조건과 마일스톤 인식 가능성을 확인하세요."
-        }
-      ],
-      "checklist": [
-        "임상 결과나 허가 뉴스가 공식 자료로 확인되는가?",
-        "기술수출 계약의 규모와 조건이 명확한가?",
-        "적자 기업이라면 현금흐름과 증자 가능성을 확인했는가?",
-        "단일 뉴스에 따른 급등락 리스크는 없는가?"
-      ],
-      "related": [
-        "kospi-kosdaq.html",
-        "robot-stocks.html"
-      ],
-      "score": 30,
-      "autoDiscovered": true,
-      "evidence": [
-        {
-          "title": "'먹는 치매약' 3상 성과에도...아리바이오 관련주 급락, 왜? - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dkJSd2xLTGR6VVMwc2JPYjlqLWpfTVltRmpDV01WY2pDd1E5MWRuemh0WkhsUl9vY0RIcjU2ak1BYWVONnZqdjJfZ083VzktUXJPYi0zSWRyZjJvQmtsOENES0luQnZN0gFuQVVfeXFMT1hYdlAxWjFkZVp4d1dqVllBWXdXQnpUUTY3LTFLeVpKdHMybEFLbjlVLU5fOUx5NmE3TmtjWGxMajJjS1lsLURyU1JPLUN2b0ZZdlY4Y1ZCbE10U0dlOXdjZm9ObDR6dXBPOXJfWEE?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "콜마홀딩스·아모레퍼시픽 상승에도… 바이오 관련주 매물 압박 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xbU0tNVZhWkZjOE9DdzdtU2ZOSkZQZVpDeFFOcWVnNWJDaGRGWVRSVUZoN291cllxbVI5ZGJDTW10c2doYXZhQjlvNE94XzhLSXA3SFh2LVdaYzR1SEZtQUpsUlB0MkM1UmFXdUt5VElNVDTSAXdBVV95cUxQeXQzRHd4TlJ4djc5UXlzSDRwNWU3WEZneXBQclE4V0o2VWw1a0Y0RVJSekxob19Gd1BnZUJvVi04VWluVjI2TlZzWkVGN1NhakwxRFRuVlcwWTVNaEVYUVhBZFBsUG00TjlEUVV0elJyWFdqT0M1Yw?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "[숏폼] 아리바이오 '먹는 치매약', 3상 엇갈린 결과에 관련주 하락 - 히트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ERW9ybEg0RklQMUFKdm1yb2FoaGhTN0pFODI3Ujh6Z0tXckNrcEFxRzZKdmhEOFdaT2MxRDRPRHc0YWZzM3k2THdQUEM0QUNoQzc0NzVfd25IbHcwQ0otS1NwUFRnWEgwQmdr?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "[특징주] ‘먹는 치매약’ 임상 3상 1차 목표 달성했지만…아리바이오 관련주 급락 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmpNUnlVQ0hINlJ1SnRObmtzSG93SVpnb0R6dGZGWU52OTN2MGdwRmN5cFJIR05iUHNfLTFUQ2JxXzBqZ0ZiWWtnYlhKR0lSaWJuLWFneWticFpCVjZ6RTlkRjVZOGVObHdfLTdWQmNhMnVCVFJ4SW5fc3ZCRlhYYWpfeTN6Tnhq0gGcAUFVX3lxTE1zVjF0YlI5aGFCWUdpUGVscHRwT1hiUWZIQTdyaDlENVhMelEtVW9ZZ2JaZ1AyN2NnS091QTc1bVV3b01ZYkpLQ2hNUEJ3bkpwcWpHd3RSTFhHOXg1ZXo2bWtLTkRUemplbUp1cV9wNDI0X0NaZGNMcWtYOWNsVEdybnFPQk4wN0hGT3RLSThhTTRPajdaUk1fMW1uUg?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오",
-            "임상"
-          ]
-        },
-        {
-          "title": "아리바이오 ‘먹는 치매약’ 3상 성공…관련주는 반전 [바이오 맥짚기] - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oMVQtTS1wNnJHTF9xZ2hRbGJsZmhjVG14eWYzNVBFU0pudDVGS3F2WmFmaGhFQzlQb3dlMVpQSzdjN3pRQXpfZ1J6RVc3aTB3SWtXaUJldS1rWlZHSnVHU2V0aWRwc3dDUUtiLVZn?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
           ]
         }
       ]
@@ -258,21 +158,13 @@
         "hbm-stocks.html",
         "robot-stocks.html"
       ],
-      "score": 28,
+      "score": 30,
       "autoDiscovered": true,
       "evidence": [
         {
-          "title": "[오늘의 증시]엔비디아 4%대 급락에 美 AI주 '와르르'…코스피 하락 출발 전망 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVOUpqTkVjNkJZYk5SR0Q0dmd2NjUwcVFheGFoaWo0eVNqOEJCaUk2ZDhnU2g5U3FCRjYzOWp4dDM3enk4YXhUQzhhN2pTOVBTekl5R0J5TTJDN1ByNi04QtIBeEFVX3lxTE9EMThSekdvN1pCM3BWN2lhWUhvcEp1VnlFZmxCeS1jb25UbXpmM09jRnhSemFhd1RCZzlNeElHRkZsaDdQN1o4eEJJaHBtS1FZRHM4dUJ0QzEyMWN1Zm0yYzZUNG9BeTdTUDdVUGVvTThsU3lpSnpVaA?oc=5",
+          "title": "[오늘의 증시]美 AI주 폭락에 코스피 또 '검은 금요일' 공포…반도체 충격 불가피 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOXJPX1YzeXA3VVd0TnpvZENxcXpvdUlMVWtFSWVLU3luelBJcDhYN3VKU0lGLWFpWXFWYzh3QWQ3bFM1cG1pLTBhMzQ0QUZOcVRVLVAwUmU5bElnd2hvY9IBeEFVX3lxTE9IdXhqMTNlTEd4Vk1qNG9nOHluVmFnVVJzeF9RUVJ4T01wTTdub1g1OFZXT3B2YUYwX1BfU1l6RW5OV2VRUWo0cFNSeW1aZ0kxaTU2a0ZUTWFzc0pldzBUX0tHQzFmOENDUWZzZ2RpY2Y3SWZyV2hXbA?oc=5",
           "query": "오늘 국내증시 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaWhUSEVKbUhQdVRGc1dlUUc2RUZPUzdUQy1oUHBOX1JqSGhIbF84YlMyOE5DeTRJLVphcG5HbXN3NktDWk5NblVuZHpmcml0ZFVXRDZ3d3ppLXloYXVYR3lVVVZqYmJvNU02elJXVXlUa2drWGc?oc=5",
-          "query": "국내 주식 급등 테마",
           "matchedSignals": [
             "AI"
           ]
@@ -295,11 +187,121 @@
           ]
         },
         {
+          "title": "‘뮤즈’가 깨운 AI 부품주…코스피 주춤해도 PCB는 질주 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92X0x2SWxGN0Z3OUVwRzN2ZWlESTRfS0RjR0oyNlg3RTV2S3FfM2t4VW85REZ1MGNJR05KN1h5QlVNa2djd1Q2SEt2NnVnMXlGdWVCNFV0SFFwdw?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
           "title": "AI 데이터센터 인터커넥트 수요 급증: 어느 광통신 관련주가 가장 큰 수혜를 볼까? 주목할 미국 주식 5선 - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc09UNUhKbnJWajZObGJkNFhTc1QtWTFna0hMYnpXanJoTURpNDI3eGZVSGpxYVQyODZaUXVCLW1NSWQ5REY4Y0dwQ2ZqMENaNzRUTmFCTUw3dUFsOGNSb3dEX3AzV0ctV2pnUm5mUnFiZnRsZ2ZYX043QlJXRE10VVl3RkFvREFybXgwOVRDWVNTX0o1RHlieFk4VFhuTzgxM1lZSnVwbGlLSWlYcjlpMnRSb3FwUVFfWXZ5UEYzcmxXVko0RzZmSlV1NA?oc=5",
           "query": "증시 수혜주 관련주",
           "matchedSignals": [
             "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bio-stocks",
+      "title": "바이오 관련주 체크",
+      "pageTitle": "바이오 관련주 뉴스 체크 | 임상·기술수출 테마 체크",
+      "description": "삼성바이오로직스, 셀트리온, 알테오젠 등 바이오 관련주의 임상, 기술수출, CMO 테마 체크포인트를 모아보는 정보 페이지입니다.",
+      "keywords": "바이오 관련주, 제약바이오 관련주, 삼성바이오로직스, 셀트리온, 알테오젠, 기술수출",
+      "intro": "바이오 테마는 임상 결과, 기술수출, FDA 승인, CMO 수주 뉴스에 민감합니다. 기대감과 실제 매출·마일스톤 반영을 구분하세요.",
+      "searchQueries": [
+        "바이오 관련주",
+        "제약바이오 관련주",
+        "기술수출 관련주"
+      ],
+      "stocks": [
+        {
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "tags": [
+            "CMO",
+            "바이오",
+            "대형주"
+          ],
+          "summary": "바이오 CMO 대표 종목입니다. 수주 잔고, 증설, 환율 영향을 같이 확인하세요."
+        },
+        {
+          "name": "셀트리온",
+          "code": "068270",
+          "tags": [
+            "바이오시밀러",
+            "제약",
+            "대형주"
+          ],
+          "summary": "바이오시밀러와 합병 시너지 이슈로 주목됩니다. 제품 허가와 판매 성장을 확인하세요."
+        },
+        {
+          "name": "알테오젠",
+          "code": "196170",
+          "tags": [
+            "플랫폼",
+            "기술수출",
+            "바이오"
+          ],
+          "summary": "플랫폼 기술과 기술수출 이슈로 자주 검색됩니다. 계약 조건과 마일스톤 인식 가능성을 확인하세요."
+        }
+      ],
+      "checklist": [
+        "임상 결과나 허가 뉴스가 공식 자료로 확인되는가?",
+        "기술수출 계약의 규모와 조건이 명확한가?",
+        "적자 기업이라면 현금흐름과 증자 가능성을 확인했는가?",
+        "단일 뉴스에 따른 급등락 리스크는 없는가?"
+      ],
+      "related": [
+        "kospi-kosdaq.html",
+        "robot-stocks.html"
+      ],
+      "score": 29,
+      "autoDiscovered": true,
+      "evidence": [
+        {
+          "title": "'먹는 치매약' 3상 성과에도...아리바이오 관련주 급락, 왜? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dkJSd2xLTGR6VVMwc2JPYjlqLWpfTVltRmpDV01WY2pDd1E5MWRuemh0WkhsUl9vY0RIcjU2ak1BYWVONnZqdjJfZ083VzktUXJPYi0zSWRyZjJvQmtsOENES0luQnZN0gFuQVVfeXFMT1hYdlAxWjFkZVp4d1dqVllBWXdXQnpUUTY3LTFLeVpKdHMybEFLbjlVLU5fOUx5NmE3TmtjWGxMajJjS1lsLURyU1JPLUN2b0ZZdlY4Y1ZCbE10U0dlOXdjZm9ObDR6dXBPOXJfWEE?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "콜마홀딩스·아모레퍼시픽 상승에도… 바이오 관련주 매물 압박 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xbU0tNVZhWkZjOE9DdzdtU2ZOSkZQZVpDeFFOcWVnNWJDaGRGWVRSVUZoN291cllxbVI5ZGJDTW10c2doYXZhQjlvNE94XzhLSXA3SFh2LVdaYzR1SEZtQUpsUlB0MkM1UmFXdUt5VElNVDTSAXdBVV95cUxQeXQzRHd4TlJ4djc5UXlzSDRwNWU3WEZneXBQclE4V0o2VWw1a0Y0RVJSekxob19Gd1BnZUJvVi04VWluVjI2TlZzWkVGN1NhakwxRFRuVlcwWTVNaEVYUVhBZFBsUG00TjlEUVV0elJyWFdqT0M1Yw?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "[특징주] ‘먹는 치매약’ 임상 3상 1차 목표 달성했지만…아리바이오 관련주 급락 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmpNUnlVQ0hINlJ1SnRObmtzSG93SVpnb0R6dGZGWU52OTN2MGdwRmN5cFJIR05iUHNfLTFUQ2JxXzBqZ0ZiWWtnYlhKR0lSaWJuLWFneWticFpCVjZ6RTlkRjVZOGVObHdfLTdWQmNhMnVCVFJ4SW5fc3ZCRlhYYWpfeTN6Tnhq0gGcAUFVX3lxTE1zVjF0YlI5aGFCWUdpUGVscHRwT1hiUWZIQTdyaDlENVhMelEtVW9ZZ2JaZ1AyN2NnS091QTc1bVV3b01ZYkpLQ2hNUEJ3bkpwcWpHd3RSTFhHOXg1ZXo2bWtLTkRUemplbUp1cV9wNDI0X0NaZGNMcWtYOWNsVEdybnFPQk4wN0hGT3RLSThhTTRPajdaUk1fMW1uUg?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오",
+            "임상"
+          ]
+        },
+        {
+          "title": "'먹는 치매약' 임상 결과 실망…아리바이오 관련주 급락[핫종목] - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTDdDcm9YRlRiS2xtbmdNd0pCdnpjNkJSWWFyT1B3dGZBQUVxN3pXZUpvQnFmTm1OcmtoR1U5bFBjV0FGTGVjWlMyS2ZHVnNKMVdzWDVtbkFFS25vX2N3?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오",
+            "임상"
+          ]
+        },
+        {
+          "title": "아리바이오 관련주 급락…AR1001 임상 3상 성과에도 시장은 '냉담'[종목NOW] - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQal9NNGQzbnVPWk85Uk1WMXJOT3U3ZmdrcHF1akx6UjQ5X3RkaXZKT2RleTJ3by1Bb1hqZnZSekNVVkxLcmNpTmdGeUtTYURRdlVHemVxODU3QQ?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오",
+            "임상"
           ]
         }
       ]
@@ -357,7 +359,7 @@
       "related": [
         "kospi-kosdaq.html"
       ],
-      "score": 26,
+      "score": 25,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -378,16 +380,6 @@
           ]
         },
         {
-          "title": "반도체 주춤하자 ‘K뷰티’ 날았다…화장품 ETF 한달 새 40%↑ - 쿠키뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00R0dkVF9uYjF3M0IxVUNZdUhmbUtlZERWSER3S09jYU5xZ1BoU1BQSmpQNG9nS3BsSnVkUWx1aG1hUzJXMDVUOS1LMTBsT2FEa056cTltNXJLb3A0NDF1bk1FZw?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품",
-            "K뷰티",
-            "뷰티"
-          ]
-        },
-        {
           "title": "에이피알 주가 장중 11%대 올라, 한국 중국 관계 개선 기대에 화장품주 강세 - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUWU80M1g3X0dyNlQ4UjBaQ1NMeHhzTXBCOWtDM015Tk9vU0dNS0ZSVGtSamxCdlVYM0QtZUJBSnZldlpoR1NDRDdIUW5xMFRhN1JWTzBWQWVIWXVEZ2NteERfWUx3aHRKRjJHZ3p1UERVS1k?oc=5",
           "query": "화장품 관련주",
@@ -398,6 +390,14 @@
         {
           "title": "증시 파랗게 질렸지만 '한한령' 관련주 질주…한국화장품 10%↑ - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjaVBRNWpELVRLSTM5aFhUTVUwbmphTW9YT3M1TGRUTTVFV3dTRDY0NGxFWlNvNXN2TVBQMHpCZ0dUaUdaU0R5blpmbkFRNXdQNWItdWxNOWd4SWNHMG81S9IBeEFVX3lxTE5vLUJRY044R09KTlMxZ0gzRFNHX0FPZzNnazV1R0VmZEM3RXlaUXBMNkZaZUhScDBOdFJIdkp6dVY1cEFmTDNiTUtmczFWRmdERnpqSFNnNUVYWWt3SUJoLU43dTl2R2RXS19qRFp4cmNQMFRfUEdaMA?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
+        },
+        {
+          "title": "화장품 관련주 '구다이글로벌', 코스피 상장 출사표 - 뉴스웰",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTHlQamYwYXd1YWs2eGxTUW9TWl8tTEhiYzVXUThKcUNlQmFDQU9jWlVoaTdDamF4ZTZaOWpGYVVyTVVRY0hiQkZweGhwZUFjeEV0aEFNdnFLTnNfZDV6X0F2a20wd0FEaVdSMA?oc=5",
           "query": "화장품 관련주",
           "matchedSignals": [
             "화장품"
@@ -459,7 +459,7 @@
         "kospi-kosdaq.html",
         "hbm-stocks.html"
       ],
-      "score": 21,
+      "score": 20,
       "autoDiscovered": true,
       "evidence": [
         {
@@ -473,6 +473,14 @@
         {
           "title": "코세스·대성하이텍 두 자릿수 급등에 하나기술·피엔티까지…2차전지 장비주 매수 온기 확산 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vLUZIdlRzWFA2bUJxQkVncVo4ZUJwZXhGVWxNdzh3ekpfMGJaem5ETVprSzhMRmNvejBPVDFsQnhDUHh2X2VSOElIWVdBT21NZFJCUkc4VDRQbFJTNWdyUDFUbGR4NTUxdDV3Mk5ueW52TTdPY1Mw0gF3QVVfeXFMTm8tRkh2VHNYUDZtQnFCRWdxWjhlQnBleEZVbE13OHd6Sl8wYlp6bkRNWmtLOExGY296ME9UMWxCeENQeHZfZVI4SUhZV0FPbU1kUkJSRzhUNFBsUlM1Z3JQMVRsZHg1NTF0NXcyTm55bnZNN09jUzA?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "[ETF 시황] 2차전지株 낙폭 회복에 ETF 14%↑…'태양광·ESS' 동반 강세 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wUmNkQWlfTXphU2Jlam1CaW51ZjVqT093MkJCVjlGc2RkNG5taEtnMnlTbzY1TnVqeWktSEx1eHlsbno4WU5vWkFNWVpZWUE1M0ZXRjh3UDdLcXhh?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -494,14 +502,6 @@
           "matchedSignals": [
             "2차전지",
             "배터리"
-          ]
-        },
-        {
-          "title": "[전기차 관련주 동향] 11월 2주, 이차전지 조정과 테슬라 강세 - 센머니",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kNmxMYW5jbU9maXhsaUl6anRSR3c4dVpLYWNTMTNvYVRhVG45NXd5bEVUMF9yZWtTOV9MYVBQQmRZMVRrdUc2Y3dWNlV4M21fSEo5TGU0Z1Vfd2x0TXoxdmo5TmV1eWNMMWZJbg?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "전기차"
           ]
         }
       ]
@@ -610,19 +610,11 @@
     {
       "slug": "finance-stocks",
       "title": "금융주 체크",
-      "score": 34,
+      "score": 32,
       "evidence": [
         {
           "title": "초고수, 기준금리 인상에 금융주 손 떼고 대한항공 담았다[주식 초고수는 지금] - 매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2MXVPdFcxWVUzcEl3b0poT2RqaVlScmo0XzJlbERNQ1V0TVlXaXpVMG1NSWxPSjdEVnp5eU5BQVkxNXMtWFFrTlBhdkl2a0dQLWc?oc=5",
-          "query": "금융주",
-          "matchedSignals": [
-            "금융주"
-          ]
-        },
-        {
-          "title": "[거래소 기관] KB금융·하나금융·우리금융 러브콜 봇물…금융주에 자금 몰렸다 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CV1JueG1oT2FmZXdSWlUzb3NjRzBqb1BFWkw5R2ljRVBsZEZDRlNpSTVvVDJuZi0yT3g1SDAxYVBTLW5iSzFESXZwYW1lTmllQ2UtWTRjYnBvUG93VjBPMHVYLVN4aC16d3BQckNDZnZnX1XSAXdBVV95cUxOS2VsX2FLbm9ONHROMHBTQl96bnJvcUM4S1RsdDF2aGtGMTZiUUlDeGs4ZXpUeXpyWTBvVmE3M3ptUFcxZ1FBX2JyRjdTMVA5TzlrMlQ4dXFZQjRGek9hZENzNGM1elM2dHVWT3R4ZkgtVVQxNktqTQ?oc=5",
           "query": "금융주",
           "matchedSignals": [
             "금융주"
@@ -647,6 +639,14 @@
           ]
         },
         {
+          "title": "[거래소 기관] KB금융·하나금융·우리금융 러브콜 봇물…금융주에 자금 몰렸다 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LZWxfYUtub040dE4wcFNCX3pucm9xQzhLVGx0MXZoa0YxNmJRSUN4azhlelR5enJZMG9WYTczem1QVzFnUUFfYnJGN1MxUDlPOWsyVDh1cVlCNEZ6T2FkQ3M0YzV6UzZ0dVZPdHhmSC1VVDE2S2pN0gF3QVVfeXFMTktlbF9hS25vTjR0TjBwU0Jfem5yb3FDOEtUbHQxdmhrRjE2YlFJQ3hrOGV6VHl6clkwb1ZhNzN6bVBXMWdRQV9ickY3UzFQOU85azJUOHVxWUI0RnpPYWRDczRjNXpTNnR1Vk90eGZILVVUMTZLak0?oc=5",
+          "query": "금융주",
+          "matchedSignals": [
+            "금융주"
+          ]
+        },
+        {
           "title": "반도체 반토막 났는데 금융주는 하락장 방파제 역할 '톡톡' - 매일일보",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZSDZYeHAwaEZOdWpPLXIzLW8xdGRwLW9sZlhwRnBXWWR6bVFYUkxjbzRpQmNwX3p2RllsSWNQdXU1NVgweTRMRmUtcDVhUkVmRjVGeF9DRGNYQkdkbnFrTVZzZks?oc=5",
           "query": "금융주",
@@ -657,70 +657,14 @@
       ]
     },
     {
-      "slug": "bio-stocks",
-      "title": "바이오 관련주 체크",
+      "slug": "ai-software-stocks",
+      "title": "AI 소프트웨어 관련주 체크",
       "score": 30,
       "evidence": [
         {
-          "title": "'먹는 치매약' 3상 성과에도...아리바이오 관련주 급락, 왜? - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dkJSd2xLTGR6VVMwc2JPYjlqLWpfTVltRmpDV01WY2pDd1E5MWRuemh0WkhsUl9vY0RIcjU2ak1BYWVONnZqdjJfZ083VzktUXJPYi0zSWRyZjJvQmtsOENES0luQnZN0gFuQVVfeXFMT1hYdlAxWjFkZVp4d1dqVllBWXdXQnpUUTY3LTFLeVpKdHMybEFLbjlVLU5fOUx5NmE3TmtjWGxMajJjS1lsLURyU1JPLUN2b0ZZdlY4Y1ZCbE10U0dlOXdjZm9ObDR6dXBPOXJfWEE?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "콜마홀딩스·아모레퍼시픽 상승에도… 바이오 관련주 매물 압박 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xbU0tNVZhWkZjOE9DdzdtU2ZOSkZQZVpDeFFOcWVnNWJDaGRGWVRSVUZoN291cllxbVI5ZGJDTW10c2doYXZhQjlvNE94XzhLSXA3SFh2LVdaYzR1SEZtQUpsUlB0MkM1UmFXdUt5VElNVDTSAXdBVV95cUxQeXQzRHd4TlJ4djc5UXlzSDRwNWU3WEZneXBQclE4V0o2VWw1a0Y0RVJSekxob19Gd1BnZUJvVi04VWluVjI2TlZzWkVGN1NhakwxRFRuVlcwWTVNaEVYUVhBZFBsUG00TjlEUVV0elJyWFdqT0M1Yw?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "[숏폼] 아리바이오 '먹는 치매약', 3상 엇갈린 결과에 관련주 하락 - 히트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ERW9ybEg0RklQMUFKdm1yb2FoaGhTN0pFODI3Ujh6Z0tXckNrcEFxRzZKdmhEOFdaT2MxRDRPRHc0YWZzM3k2THdQUEM0QUNoQzc0NzVfd25IbHcwQ0otS1NwUFRnWEgwQmdr?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        },
-        {
-          "title": "[특징주] ‘먹는 치매약’ 임상 3상 1차 목표 달성했지만…아리바이오 관련주 급락 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmpNUnlVQ0hINlJ1SnRObmtzSG93SVpnb0R6dGZGWU52OTN2MGdwRmN5cFJIR05iUHNfLTFUQ2JxXzBqZ0ZiWWtnYlhKR0lSaWJuLWFneWticFpCVjZ6RTlkRjVZOGVObHdfLTdWQmNhMnVCVFJ4SW5fc3ZCRlhYYWpfeTN6Tnhq0gGcAUFVX3lxTE1zVjF0YlI5aGFCWUdpUGVscHRwT1hiUWZIQTdyaDlENVhMelEtVW9ZZ2JaZ1AyN2NnS091QTc1bVV3b01ZYkpLQ2hNUEJ3bkpwcWpHd3RSTFhHOXg1ZXo2bWtLTkRUemplbUp1cV9wNDI0X0NaZGNMcWtYOWNsVEdybnFPQk4wN0hGT3RLSThhTTRPajdaUk1fMW1uUg?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오",
-            "임상"
-          ]
-        },
-        {
-          "title": "아리바이오 ‘먹는 치매약’ 3상 성공…관련주는 반전 [바이오 맥짚기] - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oMVQtTS1wNnJHTF9xZ2hRbGJsZmhjVG14eWYzNVBFU0pudDVGS3F2WmFmaGhFQzlQb3dlMVpQSzdjN3pRQXpfZ1J6RVc3aTB3SWtXaUJldS1rWlZHSnVHU2V0aWRwc3dDUUtiLVZn?oc=5",
-          "query": "바이오 관련주",
-          "matchedSignals": [
-            "바이오"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "ai-software-stocks",
-      "title": "AI 소프트웨어 관련주 체크",
-      "score": 28,
-      "evidence": [
-        {
-          "title": "[오늘의 증시]엔비디아 4%대 급락에 美 AI주 '와르르'…코스피 하락 출발 전망 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVOUpqTkVjNkJZYk5SR0Q0dmd2NjUwcVFheGFoaWo0eVNqOEJCaUk2ZDhnU2g5U3FCRjYzOWp4dDM3enk4YXhUQzhhN2pTOVBTekl5R0J5TTJDN1ByNi04QtIBeEFVX3lxTE9EMThSekdvN1pCM3BWN2lhWUhvcEp1VnlFZmxCeS1jb25UbXpmM09jRnhSemFhd1RCZzlNeElHRkZsaDdQN1o4eEJJaHBtS1FZRHM4dUJ0QzEyMWN1Zm0yYzZUNG9BeTdTUDdVUGVvTThsU3lpSnpVaA?oc=5",
+          "title": "[오늘의 증시]美 AI주 폭락에 코스피 또 '검은 금요일' 공포…반도체 충격 불가피 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOXJPX1YzeXA3VVd0TnpvZENxcXpvdUlMVWtFSWVLU3luelBJcDhYN3VKU0lGLWFpWXFWYzh3QWQ3bFM1cG1pLTBhMzQ0QUZOcVRVLVAwUmU5bElnd2hvY9IBeEFVX3lxTE9IdXhqMTNlTEd4Vk1qNG9nOHluVmFnVVJzeF9RUVJ4T01wTTdub1g1OFZXT3B2YUYwX1BfU1l6RW5OV2VRUWo0cFNSeW1aZ0kxaTU2a0ZUTWFzc0pldzBUX0tHQzFmOENDUWZzZ2RpY2Y3SWZyV2hXbA?oc=5",
           "query": "오늘 국내증시 관련주",
-          "matchedSignals": [
-            "AI"
-          ]
-        },
-        {
-          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 - 인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaWhUSEVKbUhQdVRGc1dlUUc2RUZPUzdUQy1oUHBOX1JqSGhIbF84YlMyOE5DeTRJLVphcG5HbXN3NktDWk5NblVuZHpmcml0ZFVXRDZ3d3ppLXloYXVYR3lVVVZqYmJvNU02elJXVXlUa2drWGc?oc=5",
-          "query": "국내 주식 급등 테마",
           "matchedSignals": [
             "AI"
           ]
@@ -743,6 +687,14 @@
           ]
         },
         {
+          "title": "‘뮤즈’가 깨운 AI 부품주…코스피 주춤해도 PCB는 질주 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92X0x2SWxGN0Z3OUVwRzN2ZWlESTRfS0RjR0oyNlg3RTV2S3FfM2t4VW85REZ1MGNJR05KN1h5QlVNa2djd1Q2SEt2NnVnMXlGdWVCNFV0SFFwdw?oc=5",
+          "query": "국내 주식 급등 테마",
+          "matchedSignals": [
+            "AI"
+          ]
+        },
+        {
           "title": "AI 데이터센터 인터커넥트 수요 급증: 어느 광통신 관련주가 가장 큰 수혜를 볼까? 주목할 미국 주식 5선 - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc09UNUhKbnJWajZObGJkNFhTc1QtWTFna0hMYnpXanJoTURpNDI3eGZVSGpxYVQyODZaUXVCLW1NSWQ5REY4Y0dwQ2ZqMENaNzRUTmFCTUw3dUFsOGNSb3dEX3AzV0ctV2pnUm5mUnFiZnRsZ2ZYX043QlJXRE10VVl3RkFvREFybXgwOVRDWVNTX0o1RHlieFk4VFhuTzgxM1lZSnVwbGlLSWlYcjlpMnRSb3FwUVFfWXZ5UEYzcmxXVko0RzZmSlV1NA?oc=5",
           "query": "증시 수혜주 관련주",
@@ -753,9 +705,59 @@
       ]
     },
     {
+      "slug": "bio-stocks",
+      "title": "바이오 관련주 체크",
+      "score": 29,
+      "evidence": [
+        {
+          "title": "'먹는 치매약' 3상 성과에도...아리바이오 관련주 급락, 왜? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dkJSd2xLTGR6VVMwc2JPYjlqLWpfTVltRmpDV01WY2pDd1E5MWRuemh0WkhsUl9vY0RIcjU2ak1BYWVONnZqdjJfZ083VzktUXJPYi0zSWRyZjJvQmtsOENES0luQnZN0gFuQVVfeXFMT1hYdlAxWjFkZVp4d1dqVllBWXdXQnpUUTY3LTFLeVpKdHMybEFLbjlVLU5fOUx5NmE3TmtjWGxMajJjS1lsLURyU1JPLUN2b0ZZdlY4Y1ZCbE10U0dlOXdjZm9ObDR6dXBPOXJfWEE?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "콜마홀딩스·아모레퍼시픽 상승에도… 바이오 관련주 매물 압박 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xbU0tNVZhWkZjOE9DdzdtU2ZOSkZQZVpDeFFOcWVnNWJDaGRGWVRSVUZoN291cllxbVI5ZGJDTW10c2doYXZhQjlvNE94XzhLSXA3SFh2LVdaYzR1SEZtQUpsUlB0MkM1UmFXdUt5VElNVDTSAXdBVV95cUxQeXQzRHd4TlJ4djc5UXlzSDRwNWU3WEZneXBQclE4V0o2VWw1a0Y0RVJSekxob19Gd1BnZUJvVi04VWluVjI2TlZzWkVGN1NhakwxRFRuVlcwWTVNaEVYUVhBZFBsUG00TjlEUVV0elJyWFdqT0M1Yw?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오"
+          ]
+        },
+        {
+          "title": "[특징주] ‘먹는 치매약’ 임상 3상 1차 목표 달성했지만…아리바이오 관련주 급락 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmpNUnlVQ0hINlJ1SnRObmtzSG93SVpnb0R6dGZGWU52OTN2MGdwRmN5cFJIR05iUHNfLTFUQ2JxXzBqZ0ZiWWtnYlhKR0lSaWJuLWFneWticFpCVjZ6RTlkRjVZOGVObHdfLTdWQmNhMnVCVFJ4SW5fc3ZCRlhYYWpfeTN6Tnhq0gGcAUFVX3lxTE1zVjF0YlI5aGFCWUdpUGVscHRwT1hiUWZIQTdyaDlENVhMelEtVW9ZZ2JaZ1AyN2NnS091QTc1bVV3b01ZYkpLQ2hNUEJ3bkpwcWpHd3RSTFhHOXg1ZXo2bWtLTkRUemplbUp1cV9wNDI0X0NaZGNMcWtYOWNsVEdybnFPQk4wN0hGT3RLSThhTTRPajdaUk1fMW1uUg?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오",
+            "임상"
+          ]
+        },
+        {
+          "title": "'먹는 치매약' 임상 결과 실망…아리바이오 관련주 급락[핫종목] - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTDdDcm9YRlRiS2xtbmdNd0pCdnpjNkJSWWFyT1B3dGZBQUVxN3pXZUpvQnFmTm1OcmtoR1U5bFBjV0FGTGVjWlMyS2ZHVnNKMVdzWDVtbkFFS25vX2N3?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오",
+            "임상"
+          ]
+        },
+        {
+          "title": "아리바이오 관련주 급락…AR1001 임상 3상 성과에도 시장은 '냉담'[종목NOW] - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQal9NNGQzbnVPWk85Uk1WMXJOT3U3ZmdrcHF1akx6UjQ5X3RkaXZKT2RleTJ3by1Bb1hqZnZSekNVVkxLcmNpTmdGeUtTYURRdlVHemVxODU3QQ?oc=5",
+          "query": "바이오 관련주",
+          "matchedSignals": [
+            "바이오",
+            "임상"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "cosmetics-stocks",
       "title": "화장품 관련주 체크",
-      "score": 26,
+      "score": 25,
       "evidence": [
         {
           "title": "화장품 관련주, 증시 급락에도 '껑충'…한국화장품·마녀공장 등 도약 - CBC뉴스",
@@ -775,16 +777,6 @@
           ]
         },
         {
-          "title": "반도체 주춤하자 ‘K뷰티’ 날았다…화장품 ETF 한달 새 40%↑ - 쿠키뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00R0dkVF9uYjF3M0IxVUNZdUhmbUtlZERWSER3S09jYU5xZ1BoU1BQSmpQNG9nS3BsSnVkUWx1aG1hUzJXMDVUOS1LMTBsT2FEa056cTltNXJLb3A0NDF1bk1FZw?oc=5",
-          "query": "화장품 관련주",
-          "matchedSignals": [
-            "화장품",
-            "K뷰티",
-            "뷰티"
-          ]
-        },
-        {
           "title": "에이피알 주가 장중 11%대 올라, 한국 중국 관계 개선 기대에 화장품주 강세 - 비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUWU80M1g3X0dyNlQ4UjBaQ1NMeHhzTXBCOWtDM015Tk9vU0dNS0ZSVGtSamxCdlVYM0QtZUJBSnZldlpoR1NDRDdIUW5xMFRhN1JWTzBWQWVIWXVEZ2NteERfWUx3aHRKRjJHZ3p1UERVS1k?oc=5",
           "query": "화장품 관련주",
@@ -799,13 +791,21 @@
           "matchedSignals": [
             "화장품"
           ]
+        },
+        {
+          "title": "화장품 관련주 '구다이글로벌', 코스피 상장 출사표 - 뉴스웰",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTHlQamYwYXd1YWs2eGxTUW9TWl8tTEhiYzVXUThKcUNlQmFDQU9jWlVoaTdDamF4ZTZaOWpGYVVyTVVRY0hiQkZweGhwZUFjeEV0aEFNdnFLTnNfZDV6X0F2a20wd0FEaVdSMA?oc=5",
+          "query": "화장품 관련주",
+          "matchedSignals": [
+            "화장품"
+          ]
         }
       ]
     },
     {
       "slug": "battery-stocks",
       "title": "2차전지 관련주 체크",
-      "score": 21,
+      "score": 20,
       "evidence": [
         {
           "title": "특징주, 에코프로비엠-2차전지(나트륨이온) 테마 상승세에 5.1% ↑ - 매일경제 마켓",
@@ -818,6 +818,14 @@
         {
           "title": "코세스·대성하이텍 두 자릿수 급등에 하나기술·피엔티까지…2차전지 장비주 매수 온기 확산 - 핀포인트뉴스",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vLUZIdlRzWFA2bUJxQkVncVo4ZUJwZXhGVWxNdzh3ekpfMGJaem5ETVprSzhMRmNvejBPVDFsQnhDUHh2X2VSOElIWVdBT21NZFJCUkc4VDRQbFJTNWdyUDFUbGR4NTUxdDV3Mk5ueW52TTdPY1Mw0gF3QVVfeXFMTm8tRkh2VHNYUDZtQnFCRWdxWjhlQnBleEZVbE13OHd6Sl8wYlp6bkRNWmtLOExGY296ME9UMWxCeENQeHZfZVI4SUhZV0FPbU1kUkJSRzhUNFBsUlM1Z3JQMVRsZHg1NTF0NXcyTm55bnZNN09jUzA?oc=5",
+          "query": "2차전지 관련주",
+          "matchedSignals": [
+            "2차전지"
+          ]
+        },
+        {
+          "title": "[ETF 시황] 2차전지株 낙폭 회복에 ETF 14%↑…'태양광·ESS' 동반 강세 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wUmNkQWlfTXphU2Jlam1CaW51ZjVqT093MkJCVjlGc2RkNG5taEtnMnlTbzY1TnVqeWktSEx1eHlsbno4WU5vWkFNWVpZWUE1M0ZXRjh3UDdLcXhh?oc=5",
           "query": "2차전지 관련주",
           "matchedSignals": [
             "2차전지"
@@ -839,14 +847,6 @@
           "matchedSignals": [
             "2차전지",
             "배터리"
-          ]
-        },
-        {
-          "title": "[전기차 관련주 동향] 11월 2주, 이차전지 조정과 테슬라 강세 - 센머니",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kNmxMYW5jbU9maXhsaUl6anRSR3c4dVpLYWNTMTNvYVRhVG45NXd5bEVUMF9yZWtTOV9MYVBQQmRZMVRrdUc2Y3dWNlV4M21fSEo5TGU0Z1Vfd2x0TXoxdmo5TmV1eWNMMWZJbg?oc=5",
-          "query": "2차전지 관련주",
-          "matchedSignals": [
-            "전기차"
           ]
         }
       ]
